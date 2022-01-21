@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4z2ukdygug7k6ju3ovwz5xhavafektvbziz7cgdebni467loeae",
+  "name": "OneForArt #119 - Conch",
+  "description": "A Conch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiexo5m5eyvkqlhcnkomhnojr47vgujcfydk6fkasluacve3q5iv3e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Conch",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 119,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9D9D2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 217, 210)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

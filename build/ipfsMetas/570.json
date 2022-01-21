@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig3rgrls5bt4isie2ocezjxl75r2fpgb4gjt7hpcmpexwhoisopki",
+  "name": "OneForArt #570 - Carla",
+  "description": "A Carla pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiapftojo2gqrshbm6lq4sw5zi7byvmqv3bvhkg665qhbhshj5bnoi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carla",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 570,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3FFD8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 255, 216)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig77ugdndqp5sfkqcmk3bxu5yadkvycrzzkrtefh6nmcqtvrbcfwi",
+  "name": "OneForArt #1493 - Frosted Mint",
+  "description": "A Frosted Mint pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie42zsc6udjnzeiwnjpee3me2pdj6ki3k45u67wnqonsu3dc4jlqe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Frosted Mint",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1493,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DBFFF8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(219, 255, 248)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

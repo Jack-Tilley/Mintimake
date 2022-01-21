@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieunqfh6cwgt2sf3g65q44llb6c6qrclag67mmbxsx2fqwdpjyvc4",
+  "name": "OneForArt #332 - Calypso",
+  "description": "A Calypso pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieyaljpnip62nhvued2mwkrt3owqc7q7b5yb4yd7sjidxbbrxxbdy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Calypso",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 332,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#31728D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 114, 141)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

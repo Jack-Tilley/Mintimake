@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #648 - Paprika",
+  "description": "A Paprika pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjh527x57bophx6gmbtzlnqyx2j3wax42ctlq6vo5vtoohiyvrsm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paprika"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "648"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D0226"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 2, 38)"
+    }
+  ]
+}

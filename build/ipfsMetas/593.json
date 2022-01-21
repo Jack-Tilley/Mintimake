@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif4sntdgbu3xaajhy2ps2rjuknou4vqh3qcgdwv4rs2mycbhjm4oa",
+  "name": "OneForArt #593 - Mountbatten Pink",
+  "description": "A Mountbatten Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6aguqxmzdvntctnqxlzcevzixvsne4nty3w4tpj5bkhozuk7rsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mountbatten Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 593,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#997A8D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 122, 141)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

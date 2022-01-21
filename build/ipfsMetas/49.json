@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiagk27bxwqozc6n5wgu767k4v75jr5mn4lpnohexpydii2eph3hlq",
+  "name": "OneForArt #49 - Cavern Pink",
+  "description": "A Cavern Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6p3kcooluicyxmykn5im76ddz2j7w4koybpbforppee63nf4tue",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cavern Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 49,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E3BEBE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(227, 190, 190)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

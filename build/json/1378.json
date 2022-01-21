@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1378 - Keppel",
+  "description": "A Keppel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicoicv3scxt5oybkzjpz2c4qp4i6g2sivr2aotho4tbhrwxeygcqa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Keppel"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1378"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3AB09E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(58, 176, 158)"
+    }
+  ]
+}

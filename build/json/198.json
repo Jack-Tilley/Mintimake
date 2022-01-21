@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #198 - Carnation",
+  "description": "A Carnation pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiekq2mgaj4p6njg6x35dk6dxiofzjl45n66kys2vbfrk4qcoylsea",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carnation"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "198"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F95A61"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 90, 97)"
+    }
+  ]
+}

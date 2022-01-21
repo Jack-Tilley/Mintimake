@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiayf56ix7wbpbmghepzqe5no77uu2c22cx5f7appr37xot664d34u",
+  "name": "OneForArt #350 - Cello",
+  "description": "A Cello pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidaos2st6rulk2smuybzlooaq2b6fnyj4p6rfs4w2fhjvlz2s2pqm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cello",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 350,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E385B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 56, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

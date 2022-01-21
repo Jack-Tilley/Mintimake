@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiciqy7rto7437tmkm6a343fdg7rihjdhmqsulxzd4uq3cirebhwcu",
+  "name": "OneForArt #207 - Citrine White",
+  "description": "A Citrine White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidrlkmbylun3zex65zklt7nq7btdaljlqn3zopzrrsqduxxepyfn4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Citrine White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 207,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAF7D6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 247, 214)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

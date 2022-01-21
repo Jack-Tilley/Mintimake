@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiavekjzutuachzrecirs7fejgz3dggvuohacfr2zovpwekztzqiui",
+  "name": "OneForArt #618 - Crowshead",
+  "description": "A Crowshead pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibaafb7lt4sbzvpus6dfpjn43tqqgs3ztavflnlqr63a4p5fd536a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crowshead",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 618,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1C1208",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(28, 18, 8)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

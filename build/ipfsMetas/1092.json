@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif5bwla2ubtvsehgiy6fpr3l2e47a7faamdl57iyvakpkmf5puyri",
+  "name": "OneForArt #1092 - Morocco Brown",
+  "description": "A Morocco Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicxu2o7ai3upxaap3dhrygsfa52vavszp67iefaavx5c6mt2fjvcq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Morocco Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1092,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#441D00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(68, 29, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif74vevmh3x6ievwn6lfpb5aql25mn54636t77m6geo4lvei6ja2i",
+  "name": "OneForArt #228 - Walnut",
+  "description": "A Walnut pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickrjkre3zujq3wusdikzhd3i3ldnhesycdle33xhezoubygz2yae",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Walnut",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 228,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#773F1A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 63, 26)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

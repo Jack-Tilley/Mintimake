@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #101 - Double Spanish White",
+  "description": "A Double Spanish White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickzcb3viy7bemvlup6rn2dbx4uc5x76eywr6c25sqvdjwvknm2va",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Double Spanish White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "101"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6D7B9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 215, 185)"
+    }
+  ]
+}

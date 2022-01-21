@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #552 - Elf Green",
+  "description": "A Elf Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5sywqca3unvqqf6qwkj3awo6epo4yc23i333sjhzas4louciznu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Elf Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "552"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#088370"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 131, 112)"
+    }
+  ]
+}

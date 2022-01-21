@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #817 - Deep Sea Green",
+  "description": "A Deep Sea Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiatlqninlmfxa74ufwiubc2oxtmbintuqhppgybp4shwebugtnrbu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Sea Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "817"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#095859"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(9, 88, 89)"
+    }
+  ]
+}

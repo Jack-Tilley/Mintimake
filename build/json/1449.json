@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1449 - Hopbush",
+  "description": "A Hopbush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihujkhcnrjscoiga64e7oy7wp2bx7n6mahsxtoclwnnjzfgxyhdsy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hopbush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1449"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D06DA1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(208, 109, 161)"
+    }
+  ]
+}

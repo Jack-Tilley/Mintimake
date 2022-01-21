@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreice2kmgirltreapltfkldoc3b44kynnvz7zlbso6g46akqeiunov4",
+  "name": "OneForArt #941 - Half Spanish White",
+  "description": "A Half Spanish White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidqory2w4gqnh24mhp5ajflnyr2lpuyj4zzftibhgbpqi2pvzq4re",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Half Spanish White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 941,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF4DB",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 244, 219)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

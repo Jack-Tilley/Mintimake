@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #66 - Cedar",
+  "description": "A Cedar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifewpeyuu6fpdm2f6vsmels3qgpo5eq6k44huu2rc3mmafzoulvze",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cedar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "66"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3E1C14"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(62, 28, 20)"
+    }
+  ]
+}

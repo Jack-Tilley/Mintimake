@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #268 - Plantation",
+  "description": "A Plantation pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbsg36gsgmd5qvgtjfwzxqrvexq5yp4i6nncq37wlnlelu2sr3ta",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Plantation"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "268"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#27504B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(39, 80, 75)"
+    }
+  ]
+}

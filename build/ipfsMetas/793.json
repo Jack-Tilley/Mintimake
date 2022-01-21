@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibgeufvpbtspkcgwoop3zxlisij7ujjgsiyxhonzrg45z6jmwganu",
+  "name": "OneForArt #793 - Olive Drab",
+  "description": "A Olive Drab pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicd4xdsi4eumn2y5vzluis4fzxhxwjxceywzlpoaidqudotco3bli",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olive Drab",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 793,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6B8E23",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(107, 142, 35)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

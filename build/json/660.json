@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #660 - Lavender blush",
+  "description": "A Lavender blush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecycwgg2oyx6winsamprnv4xl25d3ab4kquiniyzb3fcwd2gnl3y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lavender blush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "660"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF0F5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 240, 245)"
+    }
+  ]
+}

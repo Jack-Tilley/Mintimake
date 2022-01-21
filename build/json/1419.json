@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1419 - Soft Amber",
+  "description": "A Soft Amber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibpfsbvf3n3wp3opx7rqjhvzz7s6pjactnxgfxjjn3bwxcwwfre7a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Soft Amber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1419"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D1C6B4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(209, 198, 180)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie6roiykgtpjc3rxl37je7shdaazxxfjtfet5xst3mx2ocwpgoet4",
+  "name": "OneForArt #787 - Rose Bud Cherry",
+  "description": "A Rose Bud Cherry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicp34kk23zyjlebydpyb557bc6vmsdqeprtogeihv2qus5a5kuarm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose Bud Cherry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 787,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#800B47",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 11, 71)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

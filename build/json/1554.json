@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1554 - Radical Red",
+  "description": "A Radical Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihj36iwjurzjgb5trqzo5o3mpjmcn677z5lgqglpvydzzs33qlm4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Radical Red"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1554"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF355E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 53, 94)"
+    }
+  ]
+}

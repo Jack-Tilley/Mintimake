@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #312 - Rope",
+  "description": "A Rope pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif64c3wdq6fzajpfnzhaq6iovcr3vgbue3qastlhpuwdbpgxdqo6y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rope"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "312"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8E4D1E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 77, 30)"
+    }
+  ]
+}

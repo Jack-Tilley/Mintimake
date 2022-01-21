@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihuz5zdrlqxybd3y5yrn4yrijlz7u657zxkuhnqv6zmtrsahn6mwe",
+  "name": "OneForArt #352 - Arrowtown",
+  "description": "A Arrowtown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiepkjbqh5ajmun26yvwsu3w4f76ktjjrmkvjjidutoe4lczgp4kne",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Arrowtown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 352,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#948771",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(148, 135, 113)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

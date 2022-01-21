@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid4y7zfqvo7h74vk6u4e44puysrj3d4i6nxs44z6n7p35ay7iliri",
+  "name": "OneForArt #410 - Cotton Seed",
+  "description": "A Cotton Seed pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecpazhmuzjt7r6233oxbo6mqodwciyx3acqfivlydpixkoddu64m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cotton Seed",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 410,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C2BDB6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(194, 189, 182)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

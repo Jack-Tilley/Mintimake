@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiee3ahz3qo5upy7e7qzeawwwe4exfq3alvbfn6jazqprfayhqfacq",
+  "name": "OneForArt #932 - Jon",
+  "description": "A Jon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibilzitpxstxblc3pwnvsusrot4choljn7vdkcdqncjknpihbwzty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 932,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3B1F1F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(59, 31, 31)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

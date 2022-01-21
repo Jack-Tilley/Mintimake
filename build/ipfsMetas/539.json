@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigtz766sxalhs72tklesjmkri3tsa45kcc5ke7npfzopymyvynrry",
+  "name": "OneForArt #539 - Brick Red",
+  "description": "A Brick Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidvefjlry4hgjuf533y7dqg2hjsnsdxzs5cnlfvd47s6slguxtola",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brick Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 539,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C62D42",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 45, 66)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

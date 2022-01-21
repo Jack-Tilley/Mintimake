@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieqayoptjzgbtncehfqqjn3td7wlrd6qpg35j37wd5q4l247ejnzu",
+  "name": "OneForArt #252 - Aubergine",
+  "description": "A Aubergine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifqeicw4brdmttbsyjtccgz5s4tvweztfeeov4xg5na4xqpcczfju",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aubergine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 252,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3B0910",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(59, 9, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

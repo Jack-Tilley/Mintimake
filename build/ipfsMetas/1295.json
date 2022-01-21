@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiahlijce7zj3tkuwqjkryfkemnnwmwrutgdp7pjpdjvsnl5xlgu74",
+  "name": "OneForArt #1295 - Donkey Brown",
+  "description": "A Donkey Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6sjj6ymrezs3uwzfbpqyjx3pztcgvmnympuhqn7zv7wrx3aqova",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Donkey Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1295,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A69279",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 146, 121)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

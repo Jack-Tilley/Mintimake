@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1297 - Goblin",
+  "description": "A Goblin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihdyh5phr3zyrwg6jaebx4agwe7qrqela7mxhqer7dq4zdfsaaf7i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Goblin"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1297"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3D7D52"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(61, 125, 82)"
+    }
+  ]
+}

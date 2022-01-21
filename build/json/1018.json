@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1018 - Granny Smith Apple",
+  "description": "A Granny Smith Apple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie44liwicewdgsfym3f5grn6nijzdi5iz4v73k6gfkwu3trgjtrpq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Granny Smith Apple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1018"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9DE093"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(157, 224, 147)"
+    }
+  ]
+}

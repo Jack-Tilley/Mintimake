@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiezle3x3vnuhho7m4ssasms6x6tjsfglyab2mxqm6nzyyppcktfnm",
+  "name": "OneForArt #1026 - Azure",
+  "description": "A Azure pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicfxk6uklkxnnjevmfvlhkvyyvftiw7w2ky5ni3eklqgppvm3bljq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Azure",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1026,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#315BA1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 91, 161)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

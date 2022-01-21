@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1163 - Sisal",
+  "description": "A Sisal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihccaegxjde4cv2mz6zhsd77v7lfzc2pp4aqgf4yo3gokp35rgrf4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sisal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1163"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D3CBBA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(211, 203, 186)"
+    }
+  ]
+}

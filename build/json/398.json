@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #398 - Red Devil",
+  "description": "A Red Devil pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigvem2sabpg2pgzgpnyqr7kod7rlkf2ob66zurkd2zbsbdlvphlhy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Devil"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "398"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#860111"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 1, 17)"
+    }
+  ]
+}

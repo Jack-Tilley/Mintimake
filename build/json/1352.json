@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1352 - Flesh",
+  "description": "A Flesh pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiearnlgpslxrpictqcxs4577qn3epgabbeyq23mobvlr5isquk4xu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flesh"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1352"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFCBA4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 203, 164)"
+    }
+  ]
+}

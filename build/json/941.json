@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #941 - Half Spanish White",
+  "description": "A Half Spanish White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidqory2w4gqnh24mhp5ajflnyr2lpuyj4zzftibhgbpqi2pvzq4re",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Half Spanish White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "941"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF4DB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 244, 219)"
+    }
+  ]
+}

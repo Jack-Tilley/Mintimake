@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifrug5akl4zjwozj6zki6ugabpmigwtcxylmb6w7n3alswlbivpma",
+  "name": "OneForArt #1431 - Castro",
+  "description": "A Castro pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecriil5x5jquegohzsq65jlo2rngjc3zp43r4tujpvmtipa3rgva",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Castro",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1431,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#52001F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(82, 0, 31)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

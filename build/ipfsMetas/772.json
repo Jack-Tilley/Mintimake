@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie5blcrzs7lnuakdod7kbac4klav2rg2irdrwul5speod7ysvjc7i",
+  "name": "OneForArt #772 - Casablanca",
+  "description": "A Casablanca pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieurtdsbq4o6cg76kawoy7ko3k7kl56n6iupqtpmgmy45xzrmj5nm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Casablanca",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 772,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8B853",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 184, 83)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

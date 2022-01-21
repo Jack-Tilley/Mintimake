@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #116 - Deluge",
+  "description": "A Deluge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicjnvjw4425ckjy5djyg3zt552afnzwdgp45wzqneehy6kbemp2y4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deluge"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "116"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7563A8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(117, 99, 168)"
+    }
+  ]
+}

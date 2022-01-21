@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreierbtacficahecwusl6ihhvucy7d5kjh2dmfqygjnkuqdewip2d2u",
+  "name": "OneForArt #1071 - Barberry",
+  "description": "A Barberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihftrtc6wq3v6yvaanpdylhlkeeuvptse4p6qutcullkeycc3kdye",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Barberry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1071,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DED717",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 215, 23)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

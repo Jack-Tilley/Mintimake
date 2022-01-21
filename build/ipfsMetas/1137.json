@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiekqfmordscnbbieilfsl3s37ujivm5ggl6rlmnwcfvidrk6z7tay",
+  "name": "OneForArt #1137 - Dusty Gray",
+  "description": "A Dusty Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicfb2o5e7gg42o3dljgsdh374dfue2fsysxeahikzwmokled2pioy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dusty Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1137,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8989B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 152, 155)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

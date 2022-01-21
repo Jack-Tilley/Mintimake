@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihvvavqzw3ur55ppqf7tbd7jgvsmveidv5t6klpyvmdtsrmd2v65m",
+  "name": "OneForArt #619 - Xanadu",
+  "description": "A Xanadu pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiavfq757yxvsqypq3tk5a4xsyk4f35ecxxb33ypd3xwxhju54caka",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Xanadu",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 619,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#738678",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(115, 134, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

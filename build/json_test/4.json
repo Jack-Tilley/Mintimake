@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #4 - Golden Grass",
+  "description": "",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6mdk25qlq4f7peitno4vgx2vqrr4hwlxod5pxswmv2uoxbbooly",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Grass"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "4"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DAA520"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 165, 32)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1382 - Vanilla Ice",
+  "description": "A Vanilla Ice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidnf42l4bdjczga37qiw2k7em2fymrwnm73pgrumoejlo2vps6xze",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vanilla Ice"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1382"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3D9DF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 217, 223)"
+    }
+  ]
+}

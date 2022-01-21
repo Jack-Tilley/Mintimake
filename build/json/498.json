@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #498 - Tacha",
+  "description": "A Tacha pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5o7ea4kic6ehk2bl3dkl6j5lrc62nbmpyb6icdf4mrkygg4qbcm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tacha"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "498"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D6C562"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(214, 197, 98)"
+    }
+  ]
+}

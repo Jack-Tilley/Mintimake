@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #801 - Jaguar",
+  "description": "A Jaguar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiano7zb6cncerqom3w4dipapt2gngbtizl2lyfijovb4zbkox7ur4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jaguar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "801"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#080110"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 1, 16)"
+    }
+  ]
+}

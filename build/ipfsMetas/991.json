@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigkyxz6bsun6bb4miq5ayauiey562rmubaymcanr6uars2rqshgta",
+  "name": "OneForArt #991 - Azure Radiance",
+  "description": "A Azure Radiance pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicddnv7voqhdysh4frlm6j3mt3mq2rojpeipbu7rcmlkdswfajb7e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Azure Radiance",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 991,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#007FFF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 127, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

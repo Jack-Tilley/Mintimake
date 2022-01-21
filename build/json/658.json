@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #658 - Roman",
+  "description": "A Roman pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbojrm7dftxiufto5a7tyeoy4utjavolehnkpsak4flzg54iuuci",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Roman"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "658"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DE6360"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 99, 96)"
+    }
+  ]
+}

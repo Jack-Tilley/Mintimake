@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiem2xotcvtf2pn273yxbpu7a7j3hckhwbnmrtkwkp2r36lk4tnosa",
+  "name": "OneForArt #1250 - Clementine",
+  "description": "A Clementine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreievlrxc4jgjv4n75or6ffn5knotsuzomabm7geomsslqlojm3k6xu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clementine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1250,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E96E00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 110, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

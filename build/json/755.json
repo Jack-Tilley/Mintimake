@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #755 - Spindle",
+  "description": "A Spindle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreice4r3pebni2cnxwb7dwuah6iw2oq7nxqi6ibtkcd3ub3cb7jef3a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spindle"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "755"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B6D1EA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(182, 209, 234)"
+    }
+  ]
+}

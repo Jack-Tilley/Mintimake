@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicy4kq7kkfmhiucxyvzeuf5u4wdikann4mo2vxok2sjfdc4dcu6xi",
+  "name": "OneForArt #511 - Yellow Green",
+  "description": "A Yellow Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcoru6cwgusy3qyhd6te5pnhpo74eeltcx3ix6ljs5e57ytb2btq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 511,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C5E17A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(197, 225, 122)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

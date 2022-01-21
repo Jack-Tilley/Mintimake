@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #274 - Jagged Ice",
+  "description": "A Jagged Ice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidj6xxrzhvibvbto5c67532jln2ihofx26obt6havoqnsxc4i7ez4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jagged Ice"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "274"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C2E8E5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(194, 232, 229)"
+    }
+  ]
+}

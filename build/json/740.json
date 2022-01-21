@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #740 - Onion",
+  "description": "A Onion pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibnaciqtyirufhiemd4n3yt2othhjvaaaazp2bnxsqunmchdwj2pm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Onion"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "740"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F270E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 39, 14)"
+    }
+  ]
+}

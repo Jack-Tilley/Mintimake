@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #264 - Gothic",
+  "description": "A Gothic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjqtl6pdxoxnytpiad7umhst7jg6mffbrfh6ywrza5wy2njm3g2q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "264"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6D92A1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(109, 146, 161)"
+    }
+  ]
+}

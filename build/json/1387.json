@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1387 - Observatory",
+  "description": "A Observatory pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifptnecrlmaom2xgvvixyud2tdpxoqfownvlef2qbl6osu2mvh77q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Observatory"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1387"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#02866F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 134, 111)"
+    }
+  ]
+}

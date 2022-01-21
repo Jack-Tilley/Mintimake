@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifl5jjfguk57bk4ex3oretv366lfukck6v46uemfiuwd6wicphf7i",
+  "name": "OneForArt #37 - Surf Crest",
+  "description": "A Surf Crest pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibr5cw3zmz2nsrf6jzvsazpycq46ziuhlem6gesxft4olzwupf6xq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Surf Crest",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 37,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFE5D2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 229, 210)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidn6ehduga3iqbywywuxv2osxgpoyuwqaei7bo3o4dr33fzpzpvnu",
+  "name": "OneForArt #1314 - Rangoon Green",
+  "description": "A Rangoon Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7m4gcfctkrzen5jfgm2cswticuczdfgxn72yhuwocffoigiqyl4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rangoon Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1314,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1C1E13",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(28, 30, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

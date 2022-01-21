@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1358 - Raw Umber",
+  "description": "A Raw Umber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifpljkykpe2voj7e6tyqa7wgw6ewethbcdao7lfxwsjymf6fimb5i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Raw Umber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1358"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#734A12"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(115, 74, 18)"
+    }
+  ]
+}

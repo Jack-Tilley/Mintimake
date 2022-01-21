@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1077 - Disco",
+  "description": "A Disco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibodjq2kr3cqo6foc7obbsbpuv5gbpjwzdbbwhcp2wjurdkaweytm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Disco"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1077"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#871550"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 21, 80)"
+    }
+  ]
+}

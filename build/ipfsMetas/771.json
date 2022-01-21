@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidhkwtyacgke4cmeufvml3l2pq5hz24zynvgkvm23h5pyyrwckgzq",
+  "name": "OneForArt #771 - Blue Romance",
+  "description": "A Blue Romance pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifvvf6cv4ijeilitv2f4lxghbgcmz3sfhscmgayiyvwyzjejkkd2y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Romance",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 771,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2F6DE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 246, 222)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

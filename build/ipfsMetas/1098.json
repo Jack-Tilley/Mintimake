@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcmqptyzroxmftkbq5jonqnauxtb3qqxrat63jaqgn6ym52q4ygq",
+  "name": "OneForArt #1098 - Cannon Pink",
+  "description": "A Cannon Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxasdvnhnkjwk3jo7plsls4oq4sntwumhdd6ut2gbnkivacur4me",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cannon Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1098,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#894367",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(137, 67, 103)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

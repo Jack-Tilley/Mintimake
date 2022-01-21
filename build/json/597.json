@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #597 - Bridal Heath",
+  "description": "A Bridal Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihqysb4kgsqufakbcgkwmhdqnnzg3rskkihlbx3zf2brfg2dpsbcy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bridal Heath"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "597"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFAF4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 250, 244)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibuv3bi3hbx272b5qiysndsjq5atg3eydonj6vyifzckcpjxpvw7i",
+  "name": "OneForArt #1237 - Kangaroo",
+  "description": "A Kangaroo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidkdqnmvpqdlxf2ke3zzi4x4mt32sb66tfhmypwrq2gxw4eyw2vby",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kangaroo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1237,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C6C8BD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 200, 189)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

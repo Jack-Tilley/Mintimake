@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieuxq2o7n6qqymqjescvrscsdfjxcyjoi4rrnbmpopdgusaj7nl54",
+  "name": "OneForArt #300 - Pale Oyster",
+  "description": "A Pale Oyster pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig466tjqgw4dy5efgm7dq3zzfllaxe3gaemsoli6ecqjwnzszj6ka",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Oyster",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 300,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#988D77",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 141, 119)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #188 - Sandal",
+  "description": "A Sandal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielvimxcyx4sjt55uam2sdld73uqj6wxrqayu2rc3ku37r7hf2mcy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sandal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "188"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AA8D6F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 141, 111)"
+    }
+  ]
+}

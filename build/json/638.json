@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #638 - Picton Blue",
+  "description": "A Picton Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia44gyawbzxxedwat5qya3jhtlwvjkiylx7e7i5jsugoiykjbosfe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Picton Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "638"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#45B1E8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(69, 177, 232)"
+    }
+  ]
+}

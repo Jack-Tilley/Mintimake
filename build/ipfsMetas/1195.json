@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif2nfkxwufaldwzsdaf2ajma77mznk6b6inddfyx65kqqap4x22d4",
+  "name": "OneForArt #1195 - Timberwolf",
+  "description": "A Timberwolf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih7my3iiyxevapzt5tshghxzatdxfe5zll7mafmlh2b7i5tvqbs6q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Timberwolf",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1195,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D9D6CF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 214, 207)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

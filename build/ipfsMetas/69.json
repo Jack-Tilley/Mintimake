@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigmmonxkpxf4jrxrxnyszi26g6cuobj7xprwx5cvb3badx2qp55yy",
+  "name": "OneForArt #69 - Tia Maria",
+  "description": "A Tia Maria pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6h2mkazej425cuuv3liobagzcsmp52ytxtqk57wckurss2xyfui",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tia Maria",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 69,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1440E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 68, 14)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

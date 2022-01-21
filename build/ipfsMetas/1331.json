@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiem3ubehc754up3zplagc6dma72ccbs6ewx6rsbybgeldcy2m5uka",
+  "name": "OneForArt #1331 - Purple",
+  "description": "A Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih7umpztwww7fu5asxm4dp5wn65lebdfwdhpbhb5x3egijhuvsgti",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Purple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1331,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#660099",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 0, 153)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

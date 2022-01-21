@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie7n4mgjvls6bhkkbohtth3fgik3sqsbuwjgweskjoxi4qz6b4kme",
+  "name": "OneForArt #333 - Bay of Many",
+  "description": "A Bay of Many pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibeut53wixbdw2wvwyggojx2risei6k45vo7pqfzqap7fsot7fspa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bay of Many",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 333,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#273A81",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(39, 58, 129)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

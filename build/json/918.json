@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #918 - Oxford Blue",
+  "description": "A Oxford Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihq7a5qmrbkonon75fzt6oavye6scss5hb42q3ifn62s7rb7ewzem",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oxford Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "918"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#384555"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(56, 69, 85)"
+    }
+  ]
+}

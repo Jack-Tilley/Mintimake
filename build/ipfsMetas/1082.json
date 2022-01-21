@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihwl5kmh2el3kb3t5tx6pnk7zjp2zqwzue65u33uxntkizvqlplvu",
+  "name": "OneForArt #1082 - Deep Koamaru",
+  "description": "A Deep Koamaru pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicqjoo3fhdaw3ggvgfigkbacyuinjgiofnoazdv2vqefn35of3a24",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Koamaru",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1082,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B127B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 18, 123)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

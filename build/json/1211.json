@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1211 - Prelude",
+  "description": "A Prelude pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiguqk6wmpdpavj4yt75l7grrhbvfl5bal4poywsra7cq5z36v3rqy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Prelude"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1211"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D0C0E5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(208, 192, 229)"
+    }
+  ]
+}

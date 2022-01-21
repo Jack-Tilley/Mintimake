@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #343 - Perfume",
+  "description": "A Perfume pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsfgl3joclhync54uyurnit6jsl3pbfjxj2lxfht4qe7ftofrtsy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Perfume"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "343"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D0BEF8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(208, 190, 248)"
+    }
+  ]
+}

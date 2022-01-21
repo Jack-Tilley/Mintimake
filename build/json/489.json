@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #489 - Snowy Mint",
+  "description": "A Snowy Mint pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiccdqvcnspq3ovxcbzlqhws6gbymkmn3qpmjoplqytctoj6q7nope",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Snowy Mint"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "489"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D6FFDB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(214, 255, 219)"
+    }
+  ]
+}

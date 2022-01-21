@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #134 - Zorba",
+  "description": "A Zorba pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3y3a5cq4xoi2z6w5gs32jy7uixpwif3hjsynrz5texsddbwhofi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zorba"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "134"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A59B91"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(165, 155, 145)"
+    }
+  ]
+}

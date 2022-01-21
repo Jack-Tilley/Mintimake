@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1512 - Clam Shell",
+  "description": "A Clam Shell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiencxj6cloxchboenrf5kk6qsldkhkakmqyl7fusnogzb6r24voke",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clam Shell"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1512"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4B6AF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 182, 175)"
+    }
+  ]
+}

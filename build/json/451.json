@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #451 - Silver Chalice",
+  "description": "A Silver Chalice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbn3ua5gnljbb5hbwsof3sktclvydlxizeowsby2x6f2awoditqe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Silver Chalice"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "451"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACACAC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 172, 172)"
+    }
+  ]
+}

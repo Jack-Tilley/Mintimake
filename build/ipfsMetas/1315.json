@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihc7iun5vx2q6ymli2iyb3p3rkz6np726kbcfbqbuaivi36wdh2te",
+  "name": "OneForArt #1315 - Drover",
+  "description": "A Drover pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibl3q6bjfw2ad4kix33t4lmfl6oqu2vsjxbvc6ptvl3ecfom5fnfi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Drover",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1315,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDF7AD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 247, 173)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

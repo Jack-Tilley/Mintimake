@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid44a7vknm7whqbz5a5julh4jhis3hpwunphfgyk36ogsakl7a24a",
+  "name": "OneForArt #1083 - Ash",
+  "description": "A Ash pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiahq5gt3pqhn5vmvfuruwvtedzsvpndxl5tq73irduubvpkjsxx6m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ash",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1083,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C6C3B5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 195, 181)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

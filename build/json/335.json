@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #335 - Hacienda",
+  "description": "A Hacienda pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiarlh37gbrblioxzh2fqmxenz54iny7wotzw6lccvrg7zhlsdk2im",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hacienda"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "335"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#98811B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 129, 27)"
+    }
+  ]
+}

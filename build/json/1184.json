@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1184 - Apache",
+  "description": "A Apache pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaajso4ytoqfba2ple6p5l6nol6gp245nz3ak2ue4tjddmsz32u6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Apache"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1184"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFBE6F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 190, 111)"
+    }
+  ]
+}

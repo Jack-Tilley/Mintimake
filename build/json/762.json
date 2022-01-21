@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #762 - Valencia",
+  "description": "A Valencia pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidwy5zlfsbo3xewv7h3gmksxjbefem2gxpxsfwgxcwf6bis7nx5y4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Valencia"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "762"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D84437"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(216, 68, 55)"
+    }
+  ]
+}

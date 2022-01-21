@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #996 - Cascade",
+  "description": "A Cascade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih7uczq4z4plueq3oinn65shji4dbpvrwrv7vnvsinwg6lzlmuu7u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "996"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8BA9A5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 169, 165)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiela4teeqqr6a6xfubz6tro4ddm4qomrz2sggfpfkdsyqzcgzjfqm",
+  "name": "OneForArt #621 - Jonquil",
+  "description": "A Jonquil pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigtr5hmfax3ku3xnyfdaapgkckvk43zyf3ovtospbcghdlrqcl674",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jonquil",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 621,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEFF9A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 255, 154)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

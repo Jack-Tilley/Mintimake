@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #86 - Makara",
+  "description": "A Makara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidg3deael3am6gcaqrkmxjjdw4ojphi43xv2r7fsxlq4l66otmlau",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Makara"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "86"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#897D6D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(137, 125, 109)"
+    }
+  ]
+}

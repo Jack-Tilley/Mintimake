@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #747 - Deep Oak",
+  "description": "A Deep Oak pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigkhzjcpngkgq3v5zw5rt6k2nayy4p6pwrtbvm7ernwh3hxb3izpm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Oak"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "747"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#412010"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 32, 16)"
+    }
+  ]
+}

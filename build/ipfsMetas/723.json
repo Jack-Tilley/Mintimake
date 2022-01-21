@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidvfolez3ndkushjrexj5dvtyrs5kdgqvsxsitphdlg3x77ono62m",
+  "name": "OneForArt #723 - Bamboo",
+  "description": "A Bamboo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibqscelpxoywayevtcxphgolskaevijtm25xjxkztc33vawdss664",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bamboo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 723,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA6304",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 99, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

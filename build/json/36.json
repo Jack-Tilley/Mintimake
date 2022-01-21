@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #36 - Burnham",
+  "description": "A Burnham pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifu3mm7dmm5jppayzpm3w6lq7q2fhfjz4hpiizh74tue5vkgm475e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnham"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "36"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#002E20"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 46, 32)"
+    }
+  ]
+}

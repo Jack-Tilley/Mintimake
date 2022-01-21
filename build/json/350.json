@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #350 - Cello",
+  "description": "A Cello pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidaos2st6rulk2smuybzlooaq2b6fnyj4p6rfs4w2fhjvlz2s2pqm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cello"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "350"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E385B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 56, 91)"
+    }
+  ]
+}

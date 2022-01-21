@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #129 - Fedora",
+  "description": "A Fedora pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5gun57uygjue2gjvcxepvzekg4wz5pwpjnc6yzr26dbyuzvbjrm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "129"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#796A78"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(121, 106, 120)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbu7z6ejmcrrgwzode3mzk52p4s4l2h3drxkf4n5dkspjotpuhgi",
+  "name": "OneForArt #1196 - Bondi Blue",
+  "description": "A Bondi Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihd3dytscn3axtqd3ndjgmmpnzuwjdiwoepaq365dkb3hh7ewihqi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bondi Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1196,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0095B6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 149, 182)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

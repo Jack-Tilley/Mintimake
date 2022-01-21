@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #150 - Aztec",
+  "description": "A Aztec pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicbxsipqtvo34l6ejnl6icsrbaxjkunf3cvxv6hpvnjaxyk6zlobi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aztec"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "150"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0D1C19"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(13, 28, 25)"
+    }
+  ]
+}

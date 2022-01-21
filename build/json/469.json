@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #469 - Cloud",
+  "description": "A Cloud pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidfj5yjnalsbhzb5nhqsdcdxxkwlie44xj7p62rlpc2b7zlnzf3r4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "469"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7C4BF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 196, 191)"
+    }
+  ]
+}

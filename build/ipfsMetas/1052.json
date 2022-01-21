@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiccvphyfo2fv7m6e7ccrc576rn5sssv5dgyx4zzfdp2hcauosafzq",
+  "name": "OneForArt #1052 - Christine",
+  "description": "A Christine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2a2qpwjio3cc7lurcjzwzianu7tilf75nld463ozuufazu2j6be",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Christine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1052,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E7730A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 115, 10)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

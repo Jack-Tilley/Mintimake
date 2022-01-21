@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1129 - Waterloo ",
+  "description": "A Waterloo  pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieiefse3jstibtc5cnve4g3pxidinf2ykomehsvwellkksni47xcu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Waterloo "
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1129"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B7C94"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 124, 148)"
+    }
+  ]
+}

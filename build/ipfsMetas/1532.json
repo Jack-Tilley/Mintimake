@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibcg7t4bzqprdtzurz4co2kvxzpzp5qivd2sra5fd2ukf35cowlj4",
+  "name": "OneForArt #1532 - Amber",
+  "description": "A Amber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigprks6phbm5sz46wc42eqnp6w5u7owxjwu6xwryuwqfbvn5f4ke4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amber",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1532,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFBF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 191, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

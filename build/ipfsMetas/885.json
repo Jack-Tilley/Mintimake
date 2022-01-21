@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibayegkztbmozfz5ljnpbqciji7ebzjbdst2gtfts5dmelxpzd77y",
+  "name": "OneForArt #885 - Nobel",
+  "description": "A Nobel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiarzfpjsybz3ksysvniqjmjs7cfuhetks5xccw3jhrljti573mleu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nobel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 885,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B7B1B1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 177, 177)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #699 - Corn Harvest",
+  "description": "A Corn Harvest pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihsktrrfoz4qla3y22ecswgpielvm6ksjk7e4vmhwlosmmlkf3efq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Corn Harvest"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "699"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B6B0B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 107, 11)"
+    }
+  ]
+}

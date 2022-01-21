@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifowd4wfhegqgdvx64jtq6rzczfwnfz5uwcinrxgluaajlwutjbr4",
+  "name": "OneForArt #958 - Nepal",
+  "description": "A Nepal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbiqh5dnygewomu36dej7og6vj2vumfjonf2s3i75agxpgqtabw4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nepal",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 958,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8EABC1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 171, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

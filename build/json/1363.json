@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1363 - Aquamarine Blue",
+  "description": "A Aquamarine Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigap532ov5gm5fvdygn5ehvaox5nvmueaiec33gifqe5hx7z2y7qy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aquamarine Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1363"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#71D9E2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 217, 226)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiblvs7wykm6dxlvk2hjiaockhi5shn37vkqxfh45nkb5c5fiqkauy",
+  "name": "OneForArt #392 - Charlotte",
+  "description": "A Charlotte pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidhjnserbgwwcomvb57fnrmmlj5ltjwv5ssyu776rskeaxlwv6r3i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Charlotte",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 392,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BAEEF9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(186, 238, 249)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

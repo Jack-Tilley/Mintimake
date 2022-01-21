@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #318 - Titan White",
+  "description": "A Titan White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigj3yb5m4vekphjimkgzoomg4jk4263j7axeu2y3y5hp3at5bykai",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Titan White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "318"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0EEFF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 238, 255)"
+    }
+  ]
+}

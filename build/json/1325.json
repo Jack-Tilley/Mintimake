@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1325 - Almond",
+  "description": "A Almond pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajvumvng3e6r5ige5lp2qe6cbvy6qdsjwkns5at2qqqvjxsjpsi4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Almond"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1325"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EED9C4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 217, 196)"
+    }
+  ]
+}

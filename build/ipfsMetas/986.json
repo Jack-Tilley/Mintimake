@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid3qj7eulqt2og4g2rmbk4niq5t2stezrcjsmdwxnudofbpmhessm",
+  "name": "OneForArt #986 - Ocean Green",
+  "description": "A Ocean Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreialxvspeso2dedtbrdz47pqn6jhulzt25rjduwc4o5zkef2uo7syy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ocean Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 986,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#41AA78",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 170, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

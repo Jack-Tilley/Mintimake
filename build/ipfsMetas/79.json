@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie3jkbvtxwuqdfp4kswvqe6xqz7b3z3knmidyokhic2tw4lmognyu",
+  "name": "OneForArt #79 - Merlot",
+  "description": "A Merlot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib2tsbmrphb6z27aacmdmbjg2o3hn5zxcksn67skew2fboy7fmqjm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Merlot",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 79,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#831923",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(131, 25, 35)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

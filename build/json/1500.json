@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1500 - Soapstone",
+  "description": "A Soapstone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbsmc26udlwqhzberg23kfvemlklryo2ylfkks53uqt2qjyrbl4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Soapstone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1500"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFBF9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 251, 249)"
+    }
+  ]
+}

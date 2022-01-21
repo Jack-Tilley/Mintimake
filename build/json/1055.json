@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1055 - Blue Bell",
+  "description": "A Blue Bell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib4f2b66khndgcwja42pouua2xnwaqii27sxllw3u4potiyautcie",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Bell"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1055"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9999CC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 153, 204)"
+    }
+  ]
+}

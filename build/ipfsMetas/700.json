@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibx56i5oqfljh6wocdbduqy3xhtlhwcjqgs5jnuoshzpdonmm5uza",
+  "name": "OneForArt #700 - Pale Sky",
+  "description": "A Pale Sky pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihywt5kebk43epo6xowd6pnm3kvvmqqclkzmsi7igfhvqabg3srm4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Sky",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 700,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E7783",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 119, 131)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

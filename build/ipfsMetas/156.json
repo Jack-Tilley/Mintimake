@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibbrmwlpnxrv3p2sjmckzigjqcp5fvd364b54t5ooiysdznamech4",
+  "name": "OneForArt #156 - Beeswax",
+  "description": "A Beeswax pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidd3eoycdxuemoiqp2ol63th4524fdbllmcq33vy2koakhcrolhay",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beeswax",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 156,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF2C7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 242, 199)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

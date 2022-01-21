@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #273 - Green Pea",
+  "description": "A Green Pea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigsekkbyr6gjvzrjeckj4hl5fn25caaredruxdsjkyh5iej3xrggm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Pea"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "273"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1D6142"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(29, 97, 66)"
+    }
+  ]
+}

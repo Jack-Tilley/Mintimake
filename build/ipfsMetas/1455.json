@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidmmw22x3ztsoz4t7ts2z67axbvwk6c75j7zvgtp3kw2t7vakzavm",
+  "name": "OneForArt #1455 - Colonial White",
+  "description": "A Colonial White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreich7y2mtqgm7rukx2piytvhhku2qcqzpialrskyvjusoes3gl5ljy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Colonial White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1455,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEDBC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 237, 188)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

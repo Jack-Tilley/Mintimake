@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1229 - Pink Salmon",
+  "description": "A Pink Salmon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidunsunx6wbrdfdrgqgjzrpkbiiirwrchpqsavj2bqxqefsrrluwy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink Salmon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1229"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF91A4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 145, 164)"
+    }
+  ]
+}

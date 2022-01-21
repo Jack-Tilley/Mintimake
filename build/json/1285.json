@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1285 - Edgewater",
+  "description": "A Edgewater pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiadx3vdmmwl7astd2zwa6vcxd7odmvvdfnhyw66njia72saq5i64a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Edgewater"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1285"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8E3D7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 227, 215)"
+    }
+  ]
+}

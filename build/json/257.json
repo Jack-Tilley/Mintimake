@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #257 - Mine Shaft",
+  "description": "A Mine Shaft pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbbaitn4ywq4fsy7gxq7rnny6ve2cjybm5wudo4uxtsga67o4hbe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mine Shaft"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "257"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#323232"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 50, 50)"
+    }
+  ]
+}

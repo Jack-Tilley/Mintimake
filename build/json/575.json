@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #575 - Christi",
+  "description": "A Christi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfz4w6e67uc2wbiabilgemdd4dl7ccyg7cgvtsltukxdwg5mo75e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Christi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "575"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#67A712"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(103, 167, 18)"
+    }
+  ]
+}

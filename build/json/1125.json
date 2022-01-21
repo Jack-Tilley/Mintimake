@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1125 - Grandis",
+  "description": "A Grandis pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig55v7i73k3n3bbeops3bygsq2utw7lrogsvxo3ikvblsq5aizu4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Grandis"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1125"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFD38C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 211, 140)"
+    }
+  ]
+}

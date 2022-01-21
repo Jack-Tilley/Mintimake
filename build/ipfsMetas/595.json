@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihfvnid3kzqa23xlyqau2c5uzoe3gd3tnyjmcbk2bx7dfwc2n6wre",
+  "name": "OneForArt #595 - Cerulean Blue",
+  "description": "A Cerulean Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigb2fdgx44r4ig6pla3kjqt4svxtrl4wmamsniaiirnapctidt3zi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerulean Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 595,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2A52BE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(42, 82, 190)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

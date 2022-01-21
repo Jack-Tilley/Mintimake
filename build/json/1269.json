@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1269 - Algae Green",
+  "description": "A Algae Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigmm5str2stludas4qido2qxqdle7jviwdr3vbxjlevoioc7lyprq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Algae Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1269"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#93DFB8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(147, 223, 184)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicyli5al5anzncdugff3jqdcoa5qz3qx3de76ivhnydoqmdf5q23i",
+  "name": "OneForArt #666 - Mystic",
+  "description": "A Mystic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifettp5vq6zzelomqimv7tnffmitplqyjedoqciyvafnl4zsazfia",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mystic",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 666,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E2EBED",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 235, 237)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidhzbr6te3chm3t5wywa6iusdkdogqro37vjurcguheapwd647w3q",
+  "name": "OneForArt #548 - Pancho",
+  "description": "A Pancho pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifr7hbhmtzhxkvvnjtqd7ntocmywwgnf5lblancstsyjfjnvoq4vy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pancho",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 548,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDCDAB",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 205, 171)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

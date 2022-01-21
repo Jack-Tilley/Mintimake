@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #38 - Schist",
+  "description": "A Schist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnwaahyrmdj4xqlrccyjx2fxkygoc5tgjurkhohahm3yrnx44jiq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Schist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "38"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A9B497"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(169, 180, 151)"
+    }
+  ]
+}

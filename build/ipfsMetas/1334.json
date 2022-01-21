@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif7mmysijlkm2hbgkxsvvyrqsdc33yspppbczm23d3hkc6nxgok3q",
+  "name": "OneForArt #1334 - Flame Pea",
+  "description": "A Flame Pea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicb6ujxj4widxurvxy26roz4427vmgyp74kpnhi4kesrw4fmjqn34",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flame Pea",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1334,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA5B38",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 91, 56)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

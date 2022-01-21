@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcnh2fbm7yf4gycc7zbwsheqrxlkx6shs5wilg6ldhtb3sldx7iu",
+  "name": "OneForArt #1245 - Karaka",
+  "description": "A Karaka pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid4q6ubk4qgg6r7cjithk2jpaaaag7sky5fjci55nileh5dzg2zsa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Karaka",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1245,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E1609",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 22, 9)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

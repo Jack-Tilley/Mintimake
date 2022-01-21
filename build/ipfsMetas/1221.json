@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigyfpauoyjupeimdf5u5ak6bzupi3gj2q33y3ip7pvn2sflx4jpvu",
+  "name": "OneForArt #1221 - Frost",
+  "description": "A Frost pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibhyuezvqaityefws2yaxldgise5sgctnq6aq7ftb5aj65kerte5i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Frost",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1221,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDF5DD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 245, 221)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

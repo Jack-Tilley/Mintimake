@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih4b4mayg3libskzrxnycb2tlufxfk4767duqwscvftvokg4x6xlu",
+  "name": "OneForArt #506 - Papaya Whip",
+  "description": "A Papaya Whip pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2in7aeemrojace3xogbknfqdd4xzik4czftpqcyugovgdzikxvq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Papaya Whip",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 506,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEFD5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 239, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

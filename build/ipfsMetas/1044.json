@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib5ipcuf4wp7r7llz3qsjotrsmulfgxwschzmrojtnlnfw63j4akq",
+  "name": "OneForArt #1044 - Old Rose",
+  "description": "A Old Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2sdsw6atlljt3tvxdryovl7j7jft6k22trbnzoiobudda4birtq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1044,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C08081",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(192, 128, 129)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

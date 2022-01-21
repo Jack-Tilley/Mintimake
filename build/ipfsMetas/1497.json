@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibqel2xbwsqrnrxbdf6dhgnto7bpeb4jeblfmxb7ipne6kp3aaqfi",
+  "name": "OneForArt #1497 - Claret",
+  "description": "A Claret pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidajuisgnkwlddvizugwz5kv5cgkzghwm5jfkflm7epszc6afadrm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Claret",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1497,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F1734",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 23, 52)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1413 - Silk",
+  "description": "A Silk pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjezz2vuh4rtadkzil4w4yti7dnhbuvckmyunpurhwnsel42ocz4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Silk"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1413"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDB1A8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 177, 168)"
+    }
+  ]
+}

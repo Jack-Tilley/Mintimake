@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibxgojacbzuijmoypqlru2lxzqbv4kr5apq2nd7r272b2m6uzauqy",
+  "name": "OneForArt #1318 - Robin's Egg Blue",
+  "description": "A Robin's Egg Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifntjkrcyhwxhrymtd76pkj4tsprudafhpr3i33lemnqrpx47f464",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Robin's Egg Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1318,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00CCCC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 204, 204)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

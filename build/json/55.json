@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #55 - Kenyan Copper",
+  "description": "A Kenyan Copper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigghitcx4vf4g3cn4zrqppnkcpuwj4wjthmrnceymlp2radubcave",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kenyan Copper"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "55"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C1C05"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 28, 5)"
+    }
+  ]
+}

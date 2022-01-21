@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #601 - Swamp",
+  "description": "A Swamp pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibiog2gn7dstvvhagsjtc7nhdiac6gdgjma3p7srsr6ctx5stg4fu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "601"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#001B1C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 27, 28)"
+    }
+  ]
+}

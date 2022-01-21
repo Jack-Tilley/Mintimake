@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibdzvsnubvdhwcosr5afi5xnubp5tbif7vtmsia5hskydmufngsl4",
+  "name": "OneForArt #1292 - Tacao",
+  "description": "A Tacao pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihja43472z3a3olsbalymotukwnvkfm57ea6jrtkbdulx5c5r7zty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tacao",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1292,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDB381",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 179, 129)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

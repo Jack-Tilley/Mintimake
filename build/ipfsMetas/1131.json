@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid3qwjrn45ydg32qitj7yetdbwikewwoadzw3epkdmpt2732i45iy",
+  "name": "OneForArt #1131 - Cerise Red",
+  "description": "A Cerise Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihhqxctaihyn25hpymo2ulzuz2b2qwgq5g3yyxc4f2boj5bzipeei",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerise Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1131,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DE3163",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 49, 99)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

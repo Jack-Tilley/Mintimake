@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1405 - Wild Sand",
+  "description": "A Wild Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifttdw2onontwzcxiqjqbnhgfghf544bghi4ktiv4usqxmii2nw4u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wild Sand"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1405"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4F4F4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 244, 244)"
+    }
+  ]
+}

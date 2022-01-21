@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1275 - Green Vogue",
+  "description": "A Green Vogue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihgxez5cvjqowkh7tiywocyzos7gva7v44bhke3kebbnibd6nslma",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Vogue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1275"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#032B52"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(3, 43, 82)"
+    }
+  ]
+}

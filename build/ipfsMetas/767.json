@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia6ae5pj3zawtystk7dvm5ebld62434kbrlnpn4zsyparepmlpmti",
+  "name": "OneForArt #767 - Lochinvar",
+  "description": "A Lochinvar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidzdvl27eeu5mzong7titwe77uiairptfl47ut6xyoa7isxdnccmm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lochinvar",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 767,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2C8C84",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(44, 140, 132)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

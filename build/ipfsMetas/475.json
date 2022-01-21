@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibgjfbja5srbheezgfm3fgox2j4f322j53mbtuco65reeyw37kv4e",
+  "name": "OneForArt #475 - Cork",
+  "description": "A Cork pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid5xuwdse5qcwre7hpcik7nxrzvz37y2v346elsxeexp5btztotoi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cork",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 475,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#40291D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 41, 29)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

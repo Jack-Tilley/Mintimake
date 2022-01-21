@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #548 - Pancho",
+  "description": "A Pancho pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifr7hbhmtzhxkvvnjtqd7ntocmywwgnf5lblancstsyjfjnvoq4vy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pancho"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "548"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDCDAB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 205, 171)"
+    }
+  ]
+}

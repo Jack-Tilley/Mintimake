@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #934 - Stark White",
+  "description": "A Stark White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifoztplpyb6tdtt3tpvjgcqssxzogl3puvdn3zxz3okgux3svqq2m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Stark White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "934"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E5D7BD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 215, 189)"
+    }
+  ]
+}

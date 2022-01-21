@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiblcnmwqs7puzqfi4svfv5puhslhzedt4ihrstwsuatgajcpmldhq",
+  "name": "OneForArt #1046 - Tan",
+  "description": "A Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigyyohhtxlt5rvhzexjhvjem2qnfac545x3shn7ddj4pxmqqyz3ye",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1046,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2B48C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 180, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

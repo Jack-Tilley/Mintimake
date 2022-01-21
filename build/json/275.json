@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #275 - Foggy Gray",
+  "description": "A Foggy Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreialwgwjkrd66p6f3aetxdycudeb3ew3jcq2vuuzykdqf3kubltwz4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Foggy Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "275"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CBCAB6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(203, 202, 182)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1403 - Cowboy",
+  "description": "A Cowboy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifn3gj47wpwc3u3ip6jnkeilgey7xdmejirgzxie7focdtj7zsuse",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1403"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D282D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 40, 45)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib6zt77gcpjgyvs2khyi2by3bfmp7uppzab22cxszfwq5ovk3efcy",
+  "name": "OneForArt #309 - Fun Green",
+  "description": "A Fun Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6wxirxp35a2zpajb3nvuxeutqpygt2s7o4rfmkgekdxuagttfue",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fun Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 309,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#016D39",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 109, 57)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

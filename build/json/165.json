@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #165 - Buccaneer",
+  "description": "A Buccaneer pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakbgqqc6n3ivjznwudfpqkc75f37o3n6wh45zkr45ilssk56yina",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buccaneer"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "165"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#622F30"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(98, 47, 48)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #441 - Kobi",
+  "description": "A Kobi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiehu66ki56532qjsdaq6spwdjy3lx4g4djukjeu337ewtegizjwhq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kobi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "441"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E79FC4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 159, 196)"
+    }
+  ]
+}

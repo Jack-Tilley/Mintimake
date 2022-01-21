@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #482 - Tan Hide",
+  "description": "A Tan Hide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiash2djk5a7lopwgi63gxjcvgkdwdymy7vhbfbbwtfxska4yio6u4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tan Hide"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "482"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FA9D5A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 157, 90)"
+    }
+  ]
+}

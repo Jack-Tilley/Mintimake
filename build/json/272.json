@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #272 - Willow Brook",
+  "description": "A Willow Brook pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiap4rutdutcl5y5thwky3gqr54g4ghnf5wpyihm5c354hspq4hmeu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Willow Brook"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "272"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFECDA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 236, 218)"
+    }
+  ]
+}

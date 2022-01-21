@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibu3zkujj2jjriemeca4urxgiggc7eriqrzampscvgw4c5bj7cuhu",
+  "name": "OneForArt #1030 - Blue Violet",
+  "description": "A Blue Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidd2f7a7uhfiucgyh7bpuig6djs56c4zzwac4hsbltqnk4jan6yba",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Violet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1030,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6456B7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(100, 86, 183)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

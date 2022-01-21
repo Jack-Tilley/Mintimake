@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaawco6nqul6ljokcdlmjcxy5jvbvrhuxgf45lve736x3fvj5p7ky",
+  "name": "OneForArt #641 - Moon Glow",
+  "description": "A Moon Glow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib73z2z6nxxoskkixedayexgs73wlvjnux6er343fcqml5scimx5m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moon Glow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 641,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCFEDA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 254, 218)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

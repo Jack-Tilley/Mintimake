@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiat4u3jsze2fz6bs7pdeq6frqqesgdlohlvv26ar3rnzigxvn2hbq",
+  "name": "OneForArt #1533 - El Salva",
+  "description": "A El Salva pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihppk63zy76esze2mj5q3y7qgsx5tzuofsfhfljkbs3dubn6i2prq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "El Salva",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1533,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8F3E33",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 62, 51)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidbiylo7pfvdjiyjzwpp7mod6hmjhoorngxabstmmb6427mrjkvva",
+  "name": "OneForArt #1370 - Eagle",
+  "description": "A Eagle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3rysdi2myt3v37mblrvgdeigwf5lt6xkdrawjugwzs2bvfjxtga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eagle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1370,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B6BAA4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(182, 186, 164)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

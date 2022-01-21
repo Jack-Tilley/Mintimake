@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie7ycq4ktbjqalrl5adiytxfdqwgnhz6zugs3kwey3mcbcpzlf7de",
+  "name": "OneForArt #467 - Chatelle",
+  "description": "A Chatelle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicowuhfd2auxxnywrsdrci5y5b4vcmk4pgjls5pas273bif6g45ri",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chatelle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 467,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDB3C7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 179, 199)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif4sd7a6zxzgeqi4z3porxzgyu6arizgmhkc4hxsguyfvipncvraa",
+  "name": "OneForArt #1086 - Off Green",
+  "description": "A Off Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifovbh7zksivm2dxdtiztsdhpckrstdgdcrjpraoonqah24qfyu3m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Off Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1086,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6F8F3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 248, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

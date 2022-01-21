@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihszrz3d57h7cf6nuwu4pofq3xqhj24z2oycxd26ugaji62khqqqu",
+  "name": "OneForArt #1421 - Masala",
+  "description": "A Masala pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzsbl6t5qhbbv5l2njyj4hettezdyudwvqm47vhsr2cpvk4dghuu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Masala",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1421,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#403B38",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 59, 56)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

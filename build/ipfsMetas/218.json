@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidvdfowf4o2wdvtqxac7z3n7336gr6mdvxn6efa4jlp4oqmmd6djq",
+  "name": "OneForArt #218 - Careys Pink",
+  "description": "A Careys Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieybk7p6tmx3i5x6xavauf7g5jttvxmohmiu2rploip677g37bnzm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Careys Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 218,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D29EAA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 158, 170)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

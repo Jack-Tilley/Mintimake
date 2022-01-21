@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4tyrvm5mn4t7gy6bbxodxkmzlf74mdwv7br4yjgdsq4liljauri",
+  "name": "OneForArt #1442 - Arapawa",
+  "description": "A Arapawa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoyeddoyvfpe26dqb6egjkmt2ecplywnmaswx5n32lvl22nost2a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Arapawa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1442,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#110C6C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(17, 12, 108)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

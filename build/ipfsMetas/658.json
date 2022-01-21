@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia2gaxbima6iyyrea24uf26mwygywe2maea3mgnjad2egty5reome",
+  "name": "OneForArt #658 - Roman",
+  "description": "A Roman pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbojrm7dftxiufto5a7tyeoy4utjavolehnkpsak4flzg54iuuci",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Roman",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 658,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DE6360",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 99, 96)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

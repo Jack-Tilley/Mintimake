@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiegj5jipli2tkgxhubxodo5d5gqtmcntys3hh2jzyukqlbcuzpdia",
+  "name": "OneForArt #828 - Wattle",
+  "description": "A Wattle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidxgap3776u6v4ziqbcwzwsjj3cvlg7jaqn5yqgeadd2br662nu4e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wattle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 828,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DCD747",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 215, 71)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

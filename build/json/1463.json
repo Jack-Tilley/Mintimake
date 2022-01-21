@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1463 - Dark Blue",
+  "description": "A Dark Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibleyyoog7ymnr4ybrpyyiigybs7utctzgmur3uu2xuzbdypkei74",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1463"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0000C8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 0, 200)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #92 - Killarney",
+  "description": "A Killarney pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcnx5zsaz7dy7j4ledbkxv37inzmpmwksaedwycxu2vhqkzh2mmq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Killarney"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "92"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3A6A47"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(58, 106, 71)"
+    }
+  ]
+}

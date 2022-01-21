@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1474 - Cumin",
+  "description": "A Cumin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibfjtwhrg4fkvofzwyukelzfyqeb5zl6b356tgki2wjgxaqogqu4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cumin"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1474"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#924321"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(146, 67, 33)"
+    }
+  ]
+}

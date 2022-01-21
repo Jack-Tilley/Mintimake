@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #811 - Toast",
+  "description": "A Toast pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicbeagfvlzcyjorvr3hcn2k5y7u6zxnbph4f57aa4jda63dbs2veu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Toast"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "811"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9A6E61"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(154, 110, 97)"
+    }
+  ]
+}

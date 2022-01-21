@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaycwsyvup3gxblfky5ar4m5qq5d32s3fyl7wdvhqawu6gpr5qmfe",
+  "name": "OneForArt #578 - Mardi Gras",
+  "description": "A Mardi Gras pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreianfvsr5y6a3aje27bkgn4yegomor6ceevoaj7n2fxfl2no7rwyo4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mardi Gras",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 578,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#350036",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(53, 0, 54)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

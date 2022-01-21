@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #589 - Curious Blue",
+  "description": "A Curious Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaz567gupcf23h5t55comdiwhb3mnagnoqie66piwzkcu6nhfytku",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Curious Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "589"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2596D1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 150, 209)"
+    }
+  ]
+}

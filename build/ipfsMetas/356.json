@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihrfw7jbcxijoxlydyarhlbdzk5xywkreqdzqwl2yppcdces3ybci",
+  "name": "OneForArt #356 - Japonica",
+  "description": "A Japonica pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicsgftmrpi2gryhxtph6sa3m327rmwtiu4jr2ijgc3dja54bjqcai",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Japonica",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 356,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D87C63",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(216, 124, 99)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

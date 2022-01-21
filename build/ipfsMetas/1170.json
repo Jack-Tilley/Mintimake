@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiavncde4nb6wzwmr4sccfixp2brkdag5ow3ol2w3igx425mp2kfyy",
+  "name": "OneForArt #1170 - Bracken",
+  "description": "A Bracken pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5kiq3ci66c5bxujq5nck56l4y5dkvsrol2oa3n5obleu4kmelsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bracken",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1170,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A2A04",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 42, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

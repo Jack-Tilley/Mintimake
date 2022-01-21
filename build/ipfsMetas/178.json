@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieorq5s4qbqwiy6z6rrwdl27mfrwkourypdkvspe5b3neyynphzk4",
+  "name": "OneForArt #178 - Pablo",
+  "description": "A Pablo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihui3zdgkwucsl2ud6qlmlkyuj4pxye3jnm4vqihiy6rwua4jz5d4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pablo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 178,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#776F61",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 111, 97)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

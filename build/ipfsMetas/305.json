@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid3esbn3a55ez7iwdanjmidpjdzsbiblbm4ae56sw4jy3cwfhvu24",
+  "name": "OneForArt #305 - Cornflower Lilac",
+  "description": "A Cornflower Lilac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagahkgovqn3dxpzlwuxizgbmzgk5rzdlxa77d3y6ofvly3n4kaze",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cornflower Lilac",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 305,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB0AC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 176, 172)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

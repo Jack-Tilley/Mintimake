@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigiv7khbtchiyfysbzc63cgiq6zn47kuzbbnv4fdqs7nnwyv7zns4",
+  "name": "OneForArt #1151 - Silver Sand",
+  "description": "A Silver Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibflgaxrodxio4jydcg2fhjlthacpxqb3mcgy57ut73c4hmxowp7a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Silver Sand",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1151,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFC1C2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 193, 194)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

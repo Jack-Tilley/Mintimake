@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #227 - Armadillo",
+  "description": "A Armadillo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicafrr7utb4ca5pcxsn3pvkzdofiq43u5b5rasbb4tzylq5mm5z5u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Armadillo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "227"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#433E37"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(67, 62, 55)"
+    }
+  ]
+}

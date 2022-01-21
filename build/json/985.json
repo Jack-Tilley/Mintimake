@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #985 - Orange",
+  "description": "A Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihomjpgiaqsdo5xj3nt7agkkvrdbs4odsw6jwdrzc4kaumtl7b3fa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "985"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF681F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 104, 31)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihskm26fe2evvyc3lncfkxjbzw3mcet4hgekgctmj7x6us4hrwmsy",
+  "name": "OneForArt #897 - Willow Grove",
+  "description": "A Willow Grove pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieimusvskelhw7st4ksiuee74zyx2vw3zaqwfk4qbl4ublxzvnwfu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Willow Grove",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 897,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#65745D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 116, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

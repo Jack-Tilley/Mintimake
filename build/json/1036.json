@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1036 - Marshland",
+  "description": "A Marshland pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3faid272fjq2zfi3vjxcao54symkkdprwwgb7nnmwuqmhps37jq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Marshland"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1036"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0B0F08"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(11, 15, 8)"
+    }
+  ]
+}

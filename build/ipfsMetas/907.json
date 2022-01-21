@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic552uv4lfrykv2i4jz5xapakr6m3kywnesejeez4l423dscyiszi",
+  "name": "OneForArt #907 - Rio Grande",
+  "description": "A Rio Grande pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicdqo27jlud7wchmd7btguxwqdfks3emuc7j4zdkqopoz4qwqj4he",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rio Grande",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 907,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BBD009",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(187, 208, 9)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

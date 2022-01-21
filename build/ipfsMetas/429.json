@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifytvytznlk4cw4w6b7hbwsm7ydomfi4py4lpj2ulp5b6dzamj2my",
+  "name": "OneForArt #429 - Wine Berry",
+  "description": "A Wine Berry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib5gup3voir3mupkakewuxhcasqxz6pyv7mru2gciomndbjcw432e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wine Berry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 429,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#591D35",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(89, 29, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

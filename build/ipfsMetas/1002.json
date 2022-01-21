@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifc3nzwn3eddaoayfvd2uiszdiu46fjijq5qugbckzh4qam6cnt5m",
+  "name": "OneForArt #1002 - Bouquet",
+  "description": "A Bouquet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefcrrzc65jsuxgrrizylwao2j7hk6ntw3y4bqoajwutqkajlac6a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bouquet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1002,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AE809E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(174, 128, 158)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

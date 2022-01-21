@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1326 - Scandal",
+  "description": "A Scandal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifg7l7wbw6eghablmym6cbw3ramh45osffza3u6ntktr6znpeqi34",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scandal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1326"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFFAF4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 250, 244)"
+    }
+  ]
+}

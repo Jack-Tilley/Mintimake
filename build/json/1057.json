@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1057 - Lily",
+  "description": "A Lily pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifz43n42fnpylocn3crarrpqvpsdxtf3vujyevbw7cb6yz6zonyrm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lily"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1057"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8AABF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 170, 191)"
+    }
+  ]
+}

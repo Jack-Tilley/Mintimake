@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihyshywncsxfnrewl2qzvybsx362gdz6dcqgugx6qtgpvmpge7y5u",
+  "name": "OneForArt #807 - Swirl",
+  "description": "A Swirl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibanst5yogc2ka4262rmxhbd74qy4hs4clq42etbbbsrznz5kzkwy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Swirl",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 807,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D3CDC5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(211, 205, 197)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

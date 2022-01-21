@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifpkloncgzwexjqqaa4pu6626nyqn27ifhavi5ws4gditzndt2pae",
+  "name": "OneForArt #153 - Peat",
+  "description": "A Peat pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihnheroc4lctomrm7ljntpazmfdrvtgtmwzibcvhltd7xibdt6yau",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peat",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 153,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#716B56",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 107, 86)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

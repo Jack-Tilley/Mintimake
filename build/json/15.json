@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #15 - Go Ben",
+  "description": "A Go Ben pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsm5fd7h2xvrm6j3fntuybfqvaayv5wny4bnh7rhy4otiokna6ou",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Go Ben"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "15"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#726D4E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(114, 109, 78)"
+    }
+  ]
+}

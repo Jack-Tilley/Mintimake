@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifys3c4qdimfksgvqtssj4pn5sqpeggzlxja2rgrss2ns2r44iwje",
+  "name": "OneForArt #803 - Gigas",
+  "description": "A Gigas pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicyxvgmulloowqy23bxfu3hhvy6qjmsacusoribnyyk6ambbwq76i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gigas",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 803,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#523C94",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(82, 60, 148)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

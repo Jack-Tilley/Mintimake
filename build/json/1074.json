@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1074 - Sail",
+  "description": "A Sail pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif773tflqgri2ypwzi74h4vank5waofmhm4b4q6cdotr4rwbzwsu4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sail"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1074"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B8E0F9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 224, 249)"
+    }
+  ]
+}

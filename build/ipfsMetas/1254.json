@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih6ev5zj22ewoysz6wciu5myzadosab5dh7n3lav6oimgiijidzaq",
+  "name": "OneForArt #1254 - Tallow",
+  "description": "A Tallow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib7mwtdhxezirg4ytdemsd4zvrgh52qfwdm3gffnlohclsotpuv4e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tallow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1254,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8A589",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 165, 137)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

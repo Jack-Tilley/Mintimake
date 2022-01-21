@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifcgwzvq5plcy5q4fhlmm6tg6gtvpwfjnnsw6iceowsh272kh2ggy",
+  "name": "OneForArt #791 - Contessa",
+  "description": "A Contessa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibj7koodq5322gbuuhr4ucsew35j7qdwe5eqy44gm7q3eleayf5f4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Contessa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 791,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C6726B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 114, 107)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

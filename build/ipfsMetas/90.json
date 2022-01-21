@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifii6u5zaxpjvun4n3hiz7v4w56gce46dvcxise4dazkmlgmdqrju",
+  "name": "OneForArt #90 - Sinbad",
+  "description": "A Sinbad pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifawnvhiyc6rl3qcihyvubd3y3u4k6arurujnsgjf6wp7zm4dqd3y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sinbad",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 90,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9FD7D3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(159, 215, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

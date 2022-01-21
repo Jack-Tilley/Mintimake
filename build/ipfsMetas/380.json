@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia4adkhjuhuq72k3vkfunpjx4ag5mbz6i347zwrldudeliq25svpa",
+  "name": "OneForArt #380 - Woody Brown",
+  "description": "A Woody Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicep7ovuifecjxmc4iboi6wbpc6v4zmm36a4zywhy3f3tsb7mjqw4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Woody Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 380,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#483131",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(72, 49, 49)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

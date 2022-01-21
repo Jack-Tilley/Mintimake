@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #676 - Matrix",
+  "description": "A Matrix pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjreuenhzrvug22rlu6qaqhstqa6bjwhc2aml24pcsjpeewz2jby",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "676"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B05D54"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 93, 84)"
+    }
+  ]
+}

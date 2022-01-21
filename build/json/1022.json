@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1022 - Hoki",
+  "description": "A Hoki pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgo4krsa6clotsjl57fczqvewpdwazdkrndr27bxrzbqvqzsp7oy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hoki"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1022"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#65869F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 134, 159)"
+    }
+  ]
+}

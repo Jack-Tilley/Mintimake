@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicj66n7trfjjvuui465n5mdnm34olkaczt65clf42xycnft47oude",
+  "name": "OneForArt #620 - Candlelight",
+  "description": "A Candlelight pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibq47hcaii3rx4modt3n4lggnc7tudv4y3aeckclxvmx5yw2q74fu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Candlelight",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 620,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCD917",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 217, 23)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

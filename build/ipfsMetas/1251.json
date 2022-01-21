@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigqodipmgxfax5b5enhchdbed5mwdd74cqajocmsct33nnf42pw2e",
+  "name": "OneForArt #1251 - Bourbon",
+  "description": "A Bourbon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidcc6k2mqsc4vhvxhlvxaksnzebp5jlctf6qje7tsupjj7w24s6g4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bourbon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1251,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BA6F1E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(186, 111, 30)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

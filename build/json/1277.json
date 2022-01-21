@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1277 - Congo Brown",
+  "description": "A Congo Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreige3dn4vrov3mhpjjuizgqixhsxf6lhib62jio6cc4jz33tnugram",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Congo Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1277"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#593737"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(89, 55, 55)"
+    }
+  ]
+}

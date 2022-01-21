@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #608 - Americano",
+  "description": "A Americano pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvgwvup6y2usumy4sfu5wozhykw77c2kbsgukyeaa45dxlqyv4be",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Americano"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "608"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#87756E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 117, 110)"
+    }
+  ]
+}

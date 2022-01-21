@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1037 - Ironstone",
+  "description": "A Ironstone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6zj6t5m6vcafny6jp3pnzbjgrtlz6tuhm3xsbfyuvjoauos736q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ironstone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1037"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#86483C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 72, 60)"
+    }
+  ]
+}

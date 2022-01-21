@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #508 - Red Ribbon",
+  "description": "A Red Ribbon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoryh6uteaxj5r72vl3pql3u6pt4erllkriz2gfqtmntl4wdnsgq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Ribbon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "508"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ED0A3F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 10, 63)"
+    }
+  ]
+}

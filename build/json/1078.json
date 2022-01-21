@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1078 - Aero Blue",
+  "description": "A Aero Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigfdnuqrqbi62q6uhz5wofqpsrodoizf3aybntcaimwx2kzlvpk4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aero Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1078"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9FFE5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 255, 229)"
+    }
+  ]
+}

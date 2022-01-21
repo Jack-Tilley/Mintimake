@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #754 - Limed Spruce",
+  "description": "A Limed Spruce pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigetm62htcxpixknzeobq744h2q6fc3gimduguyl3pmgs74hr2uy4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Limed Spruce"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "754"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#394851"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(57, 72, 81)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #949 - Thistle",
+  "description": "A Thistle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiemw6zmvtbe3mftri35kks2hnvdtm5avtdmw7hilzbywvaigx3f3u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Thistle"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "949"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D8BFD8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(216, 191, 216)"
+    }
+  ]
+}

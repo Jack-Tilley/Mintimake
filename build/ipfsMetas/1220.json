@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihltaolgg5accag3xn6rgsxnpfw7dypicdi2mx54higjfysegowhm",
+  "name": "OneForArt #1220 - Periglacial Blue",
+  "description": "A Periglacial Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidlq6o6jyemomjm6bugjodvww5aoyxpvv7cff7w3a45ypf42xbdzm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Periglacial Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1220,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E1E6D6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 230, 214)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

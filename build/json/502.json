@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #502 - Teak",
+  "description": "A Teak pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic5f76bd5nxfhhrtpezrleesdecrf4zwkzjafy6upuc4uyzf5xqnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Teak"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "502"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B19461"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 148, 97)"
+    }
+  ]
+}

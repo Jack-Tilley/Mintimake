@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibj6smhod2jy3xbbdmp24mxobplong2h6334ir7uv6abizafiiaie",
+  "name": "OneForArt #348 - Melrose",
+  "description": "A Melrose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihmwkm2o44jiodwryo36g56ai5ipgm2xff4dm2q4jkv6257jssk3a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melrose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 348,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7C1FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 193, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

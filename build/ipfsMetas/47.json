@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih4n4ujk6hekiyaojgomuz2wkttrkvpv25t6hwbkcah63blhz35le",
+  "name": "OneForArt #47 - Geebung",
+  "description": "A Geebung pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5m55u7ggylpnepkhixid7ofx5loriamrcfjyk2ailuz34eieea4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Geebung",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 47,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D18F1B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(209, 143, 27)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

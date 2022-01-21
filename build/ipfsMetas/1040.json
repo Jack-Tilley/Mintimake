@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigp62kopj6k4bshiprhsiyctmbypza5iizurqpmqfqe2cilizcwyu",
+  "name": "OneForArt #1040 - Rich Gold",
+  "description": "A Rich Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5btxt72ngr7rlhq6tg7lhew2sebnx7ei2nfz46yvqvizll5tvku",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rich Gold",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1040,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A85307",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 83, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

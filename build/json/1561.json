@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1561 - Abbey",
+  "description": "A Abbey pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakwvcmywtnrvpptki3b65gi47d3c6mhmepsnzw22m6jti4amhuby",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Abbey"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1561"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4C4F56"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(76, 79, 86)"
+    }
+  ]
+}

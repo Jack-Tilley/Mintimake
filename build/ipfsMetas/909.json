@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibgtbsxy7mmu5q57gip3ooimaxxhslzbhfb375oakwt7oiqnf6ltq",
+  "name": "OneForArt #909 - Casper",
+  "description": "A Casper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecnehbulqb2g7ogxpepyow6yqjxcxtaedauklypwwu2tr3fsrzb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Casper",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 909,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ADBED1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 190, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

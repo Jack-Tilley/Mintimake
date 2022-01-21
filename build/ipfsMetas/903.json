@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifw4ydapa26724jcsdnibhes6eerghcvptmedpb6hqbsjc5sabhqy",
+  "name": "OneForArt #903 - Gravel",
+  "description": "A Gravel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakjejhot4r2wburlsh73l5oshpthzo5bva2ja6iqz62pk3obhvoe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gravel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 903,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A444B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 68, 75)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

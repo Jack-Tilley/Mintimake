@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1423 - Rose White",
+  "description": "A Rose White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7szdm3bxyaf7zmrepg2lfoojkggeia2ypnfb3fsir5iz7ln7tmi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1423"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF6F5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 246, 245)"
+    }
+  ]
+}

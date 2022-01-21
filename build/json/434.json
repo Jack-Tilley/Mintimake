@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #434 - Wild Strawberry",
+  "description": "A Wild Strawberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia3dfjltim5s5lppshletx4dcxpnms2lyr53xkpjy6qmq4rupbgcy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wild Strawberry"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "434"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF3399"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 51, 153)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #992 - Di Serria",
+  "description": "A Di Serria pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvf5ldet562ymkk54bviideewtffx3eu6toycznmuamfiq3ha4zq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Di Serria"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "992"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DB995E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(219, 153, 94)"
+    }
+  ]
+}

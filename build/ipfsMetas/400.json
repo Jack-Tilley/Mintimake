@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigvh2mhsdjgugfunxdksqwh4tkzggewf3srtkkxqgzctaqw6l7l5y",
+  "name": "OneForArt #400 - Jambalaya",
+  "description": "A Jambalaya pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreictg7lskvxitmzv4puzn7o6c3osy72kvukgei5bojro7ouk34sp7m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jambalaya",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 400,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5B3013",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(91, 48, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

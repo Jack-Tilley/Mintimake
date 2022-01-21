@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #942 - Punga",
+  "description": "A Punga pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaktvtwe5h7gdfcje6lunplev5sdwu2h2nniiglnu7mmiqqy6wf6i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Punga"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "942"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D3D14"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 61, 20)"
+    }
+  ]
+}

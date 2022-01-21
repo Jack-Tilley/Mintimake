@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #365 - Sazerac",
+  "description": "A Sazerac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqc2m3lz2f7grnfiubme6hepiyrt5kfualn5m4t3hf4hcuissire",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sazerac"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "365"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF4E0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 244, 224)"
+    }
+  ]
+}

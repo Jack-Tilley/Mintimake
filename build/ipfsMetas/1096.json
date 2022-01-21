@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibjb3rwszjcyhlwzj65h65omaxmpzmqyekw6natnz5h2tihlf4g74",
+  "name": "OneForArt #1096 - Fuzzy Wuzzy Brown",
+  "description": "A Fuzzy Wuzzy Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiclupz2gmfpfxsdns4kmknzsnjfn775fvspyfynzjczpezu4f2weq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuzzy Wuzzy Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1096,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C45655",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(196, 86, 85)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

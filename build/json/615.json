@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #615 - Quincy",
+  "description": "A Quincy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiazb3zh3pkvbvr3km4xhgnfltouibwh5ze2b6k45oxt7352qqo2ty",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Quincy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "615"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#623F2D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(98, 63, 45)"
+    }
+  ]
+}

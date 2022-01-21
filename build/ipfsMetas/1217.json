@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiguvcsszrmlyhotmyiksxpzoebmcvfwi6o6bjzv2lbvekeb5usabu",
+  "name": "OneForArt #1217 - Eunry",
+  "description": "A Eunry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihq3zflsn5wn56apwj3honmpacgmqncjy3v4s4bjesibbvcakxejq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eunry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1217,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFA39D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 163, 157)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

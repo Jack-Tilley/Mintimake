@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigqlkww72klhka6mq6vphckqcibwznr62ojtpmcpjmftveef6mjia",
+  "name": "OneForArt #868 - Revolver",
+  "description": "A Revolver pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagiyqu2tknhk2vz4g2ahflcn3jj226t7juk2zbnbpvwhwizzpsqm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Revolver",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 868,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2C1632",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(44, 22, 50)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

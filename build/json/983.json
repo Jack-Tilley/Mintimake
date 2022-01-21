@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #983 - Van Cleef",
+  "description": "A Van Cleef pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibj5d3oh4fa7oxibotzexzarb4i222dw2svgh5j5nb74vwczublnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Van Cleef"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "983"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#49170C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 23, 12)"
+    }
+  ]
+}

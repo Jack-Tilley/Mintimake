@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #455 - Santa Fe",
+  "description": "A Santa Fe pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrmb3v2izf4dzrbtvdqs5uihkxc4bsnevwpbsib46gtgi76f32yu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Santa Fe"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "455"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B16D52"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 109, 82)"
+    }
+  ]
+}

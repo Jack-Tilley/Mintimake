@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #760 - Totem Pole",
+  "description": "A Totem Pole pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidhhtyqqn2tnzkcvyhwgqck4vqxbqamuyiqy25i6hrncawwb4ywxi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Totem Pole"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "760"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#991B07"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 27, 7)"
+    }
+  ]
+}

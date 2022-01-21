@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib7cdnzj2i5ehxfabne252fowax4rqhhyq7f2wvfb5qtkjmrndnke",
+  "name": "OneForArt #982 - Bittersweet",
+  "description": "A Bittersweet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiatrryfifwccin7afpgbgbac23l7e4fepag4qkm5jwlrw6kzvmqse",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bittersweet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 982,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FE6F5E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 111, 94)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaoskebtpkq7l66c5xey4mqprh7wbuquxtiv32ymy4ustch6fye2q",
+  "name": "OneForArt #12 - Ship Gray",
+  "description": "A Ship Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihlvfawaeg64da4qvu5vgqtd6fvz4yno2zfir6kekk4igkiolar2q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ship Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 12,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3E3A44",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(62, 58, 68)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

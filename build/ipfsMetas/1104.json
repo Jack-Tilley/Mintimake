@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaaad5grtg3q24mtlmfy3svl53gsvta4nalvzribnyothsmdkkkau",
+  "name": "OneForArt #1104 - Siren",
+  "description": "A Siren pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieisrffeq5e4cxvsd4qvxfmhelxlr6fex6utx4pyrp7gx2w2bcley",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Siren",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1104,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7A013A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 1, 58)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

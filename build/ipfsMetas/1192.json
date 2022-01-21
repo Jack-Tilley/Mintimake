@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih75eus7w4owukkxblhpgnmtzi3wl7qqbf4xgptogwykuafc3cfyy",
+  "name": "OneForArt #1192 - St Tropaz",
+  "description": "A St Tropaz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibybxwa4urpzgrvsrhpvabvne22f72wrldl67fsq5hddbbninek2a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "St Tropaz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1192,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2D569B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(45, 86, 155)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

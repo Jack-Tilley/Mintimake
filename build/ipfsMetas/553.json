@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie3ikxq2wukozwohswe3aifv2ikb7shvqgzzziv74wikbxhvlo7nu",
+  "name": "OneForArt #553 - Astra",
+  "description": "A Astra pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrr7v3rmddwhiiq6zr3svfidmv72bdwihmmbvo46cchug4zgkz74",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Astra",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 553,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAEAB9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 234, 185)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

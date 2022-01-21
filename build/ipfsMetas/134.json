@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid7bmiz4zmkjcnfto3akqe2tczwrshw2zj7i6a6nfkgpotujw6pnu",
+  "name": "OneForArt #134 - Zorba",
+  "description": "A Zorba pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3y3a5cq4xoi2z6w5gs32jy7uixpwif3hjsynrz5texsddbwhofi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zorba",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 134,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A59B91",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(165, 155, 145)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

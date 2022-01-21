@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibm5bw5gypm5a73l6iuq3uffsgvvur2bypb7kg444ggectr5yprpa",
+  "name": "OneForArt #1308 - Falu Red",
+  "description": "A Falu Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreierclo6angfmhqx6gvzcwefq4pbvy7thpmiwtmxqqj45blx6jmsxy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Falu Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1308,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#801818",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 24, 24)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaym56tj45erui3knxdikwwyqmouduajgikg25x44qkfk6w4ts6ba",
+  "name": "OneForArt #477 - Lipstick",
+  "description": "A Lipstick pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacmzun5adzsa6hpnml6iv66xb7fmub76idnamsgrkih3pkswfiui",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lipstick",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 477,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AB0563",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 5, 99)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

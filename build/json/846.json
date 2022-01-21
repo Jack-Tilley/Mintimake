@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #846 - Deep Bronze",
+  "description": "A Deep Bronze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwrc2lmrdmrjj4ssahs7zffgwghca7qrkkjjfdqx33zgrqmgxwjm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Bronze"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "846"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A3004"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 48, 4)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifc6vbjvc2vjztwjzzk7wirko6nwpzhmlw3gfeq2ubemnu5drbhwy",
+  "name": "OneForArt #377 - Kabul",
+  "description": "A Kabul pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia3wvglhzm5iw7ueiw764tegmc7gl5dfs24xmahbzqrxz2cm7jety",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kabul",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 377,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5E483E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(94, 72, 62)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1174 - Screamin' Green",
+  "description": "A Screamin' Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidzhu2vs7u2betgg425oqjv2vedaz36angflnw5elndl33eomnq4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Screamin' Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1174"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#66FF66"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 255, 102)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig7rmksdnhnercthzeox7xyfwqktyyqvhcwnsc5hdvxit77gx2ioy",
+  "name": "OneForArt #1264 - Spectra",
+  "description": "A Spectra pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidt4t6nnhcl223km4saxz3e2pguinw2ljawqmlgdzfski3yq5xwam",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spectra",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1264,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F5A57",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 90, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

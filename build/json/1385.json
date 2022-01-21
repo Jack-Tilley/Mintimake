@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1385 - Cabbage Pont",
+  "description": "A Cabbage Pont pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiejijlbb4n6bfbtigahlbn7hf6cndxjfqq4slvnmaxnvqsvbbksmq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cabbage Pont"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1385"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3F4C3A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 76, 58)"
+    }
+  ]
+}

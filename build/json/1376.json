@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1376 - Beaver",
+  "description": "A Beaver pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicw5fgd4useqnkuosxo64tk7oywyc23bzggiair4zefquyi6pcgeu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beaver"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1376"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#926F5B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(146, 111, 91)"
+    }
+  ]
+}

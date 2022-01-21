@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #371 - Corn",
+  "description": "A Corn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7qrrfcfzhyswycdv6ipzii6bre2hhpoa732hmfuyewoqnubtryu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Corn"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "371"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E7BF05"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 191, 5)"
+    }
+  ]
+}

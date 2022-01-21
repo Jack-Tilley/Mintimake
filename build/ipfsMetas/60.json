@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidxu2qcebpimpttv3hrqcz3jgweqg3xz2psmhxymqxfwptovzj2qi",
+  "name": "OneForArt #60 - Atlantis",
+  "description": "A Atlantis pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid2hwillg3xgzeztulxcngs7rkgv2ys6d4gpi6b3nehmxr2ifxrz4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Atlantis",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 60,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#97CD2D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(151, 205, 45)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid3mkiyenc7p5tzeahcgfv3ysj7ur6uaa3pz5igspci7fttywkxwm",
+  "name": "OneForArt #424 - Mojo",
+  "description": "A Mojo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreics4vhtgtridz72cin7k2xpubbgxs6ik54n2tuodfz2k52iq6kgi4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mojo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 424,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C04737",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(192, 71, 55)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

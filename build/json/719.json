@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #719 - Buff",
+  "description": "A Buff pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigof747rmc27m4ujrglqbkmuas5xnl3ed5gl5xpqw4cftzjhuuuza",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buff"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "719"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0DC82"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 220, 130)"
+    }
+  ]
+}

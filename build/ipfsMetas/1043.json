@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiergo6y7lsvysumzv4zsezkkema5mr2qq7lj4nvelawbel773lwp4",
+  "name": "OneForArt #1043 - Peach Schnapps",
+  "description": "A Peach Schnapps pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzwnho5fykcnlmxm5iody5rytlnsbz4pyjvh6gq4tn6p6augxrma",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peach Schnapps",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1043,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDCD6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 220, 214)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

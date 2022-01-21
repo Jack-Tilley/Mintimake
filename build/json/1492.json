@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1492 - Bronzetone",
+  "description": "A Bronzetone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidr2t5prcnumbgr437n5am3qkbt2fudho5wk4xea7kqup53avkft4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bronzetone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1492"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D400F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 64, 15)"
+    }
+  ]
+}

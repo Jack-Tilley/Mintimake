@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigpspqaz3vz2wpugaft5g32vkyaja7gerkxab7r2vguc4dtr2dkga",
+  "name": "OneForArt #381 - El Paso",
+  "description": "A El Paso pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigfkfttsd2ajvkyykzbwywavc6jevi6tnrveuki2u56y6d4mmqylm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "El Paso",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 381,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E1708",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 23, 8)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

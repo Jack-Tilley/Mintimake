@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibakopw2agx2xo7ohe53c6kkms2eoq2cmlstia5r7cg3gs2dnzz7y",
+  "name": "OneForArt #673 - Sandy brown",
+  "description": "A Sandy brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigerf5hv32at34pctykkdsk4pmoktx53f5xl5nrpr4r23ajsfigrq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sandy brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 673,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4A460",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 164, 96)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

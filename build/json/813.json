@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #813 - Watercourse",
+  "description": "A Watercourse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2o4xoyqoyeb6si3w3baepbotk2u43vfd43fckxbwmee7w3xxx3u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Watercourse"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "813"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#056F57"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(5, 111, 87)"
+    }
+  ]
+}

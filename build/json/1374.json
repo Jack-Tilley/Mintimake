@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1374 - Dixie",
+  "description": "A Dixie pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig473uefkcpdccgphzvn5aqjne6uqgaofu7aik7v4naf2es4wsf5u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dixie"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1374"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E29418"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 148, 24)"
+    }
+  ]
+}

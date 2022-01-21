@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbbx3uuaoowznp32qmy3mris2sr3zq34agpiix64gdrppgc3nrye",
+  "name": "OneForArt #857 - Rock Blue",
+  "description": "A Rock Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcps3f6g3lpeq2b7n6zkn5hfaq3seqdamu4dcjvun7w6cdqhwa74",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rock Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 857,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9EB1CD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 177, 205)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

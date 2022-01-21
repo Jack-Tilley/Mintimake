@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #153 - Peat",
+  "description": "A Peat pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihnheroc4lctomrm7ljntpazmfdrvtgtmwzibcvhltd7xibdt6yau",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peat"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "153"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#716B56"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 107, 86)"
+    }
+  ]
+}

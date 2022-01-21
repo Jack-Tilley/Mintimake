@@ -1,0 +1,35 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidxahcvw4bdqneloduez5zqm7gv5hgbwhicn5am3slo4qeujkqj4i",
+    "name": "OneForArt #5 - Unknown",
+    "description": "Purchase this NFT to reveal a unique color!",
+    "file_url": "https://ipfs.io/ipfs/bafkreibrw37uhryn7gryq44srmlmggsxcmmqkqhm43strnyxk65kntmlzq",
+    "external_url": null,
+    "animation_url": null,
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "color_id",
+        "value": 5,
+        "max_value": null,
+        "display_type": null
+      }
+    ],
+    "error": null
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "rinkeby",
+    "contract_address": "0x2a809269613bea9992f1b42c6e6ada4ec8b5ce32",
+    "transaction_hash": "0xf4fa89bc19c701e29922f5f87fee2921ac79535bd6eac9fab06dd376b7d21f5c",
+    "transaction_external_url": "https://rinkeby.etherscan.io/tx/0xf4fa89bc19c701e29922f5f87fee2921ac79535bd6eac9fab06dd376b7d21f5c",
+    "metadata_uri": "ipfs://bafkreidxahcvw4bdqneloduez5zqm7gv5hgbwhicn5am3slo4qeujkqj4i",
+    "mint_to_address": "0x0da5c8745b777C845Fb8E3a7f59c0cB654F3d843",
+    "error": null
+  }
+}

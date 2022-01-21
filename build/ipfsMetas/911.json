@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigpbebir3oszvjcelslmjtzrel7e6u3eo7fowdyhxiy3sexlxvnqq",
+  "name": "OneForArt #911 - Melanzane",
+  "description": "A Melanzane pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibu2rgw5pcetthvnqpluhho3pnjg7gll2rh5vz6i75iawdzqn2m7i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melanzane",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 911,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#300529",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(48, 5, 41)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

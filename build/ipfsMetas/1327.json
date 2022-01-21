@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif5syu5kqeraowtvokcya3yzvof3svcjmbb573jcp3kcyg33tvqgy",
+  "name": "OneForArt #1327 - Blue Chalk",
+  "description": "A Blue Chalk pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicowbs7fhwixsoh5visqfwdqzobg7pw2yxagyu4aohrtg7vyeksbe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Chalk",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1327,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1E9FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 233, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidvigbjj4gegrvp3mr2tgzvot5b6itdzimnuzkdfyit2zuj64xr7a",
+  "name": "OneForArt #230 - Jacko Bean",
+  "description": "A Jacko Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicz4xzboeyfforj452tjy3l45ccsuprux7hloj4vmxm5ddnm5ns2a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jacko Bean",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 230,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E1905",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 25, 5)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

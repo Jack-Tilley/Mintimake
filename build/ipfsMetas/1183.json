@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie55pmuo6zx634y4vny5e54lu5elfkuirco2wrwjuxbeefnrzdzuu",
+  "name": "OneForArt #1183 - Jet Stream",
+  "description": "A Jet Stream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbduqyqnnf4ac4pi6lwv5k3blfrll3ik3scorexdly37evzibas4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jet Stream",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1183,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B5D2CE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(181, 210, 206)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

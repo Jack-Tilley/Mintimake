@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreietpuierhf6ehn7njpillmzsqsmxi4bhuqjiovzaujnanjd6n2jeq",
+  "name": "OneForArt #1294 - County Green",
+  "description": "A County Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicspxfhtv4ydruigi5yfrqdrjejrxwhoxjgnzfjslvcfqepetohre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "County Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1294,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#01371A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 55, 26)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib45nhaa2t75k74x4qogk6q3634f54m7aseariohttsp44425h6mq",
+  "name": "OneForArt #1556 - Zinnwaldite",
+  "description": "A Zinnwaldite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2ekcg5g5fngckxqiwh2ks6ll4lcvsjpia6gsnudxeihaxcdosd4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zinnwaldite",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1556,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EBC2AF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(235, 194, 175)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieatwa5zxutthmtrtmrytg7d65jxazjlglvmkwcgc2rnajdsdh5cy",
+  "name": "OneForArt #844 - Beryl Green",
+  "description": "A Beryl Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiekiuf2efm74kfta4sennutzkm3qd5fkp6pnmcqvt6dv2e2xpfqdy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beryl Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 844,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DEE5C0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 229, 192)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

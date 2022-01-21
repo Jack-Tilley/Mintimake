@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #384 - Blue Haze",
+  "description": "A Blue Haze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4u6qsoqcbzqfejo3yy62s2r3esmlfzdrdfjzx3dpbtqjqntc77y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Haze"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "384"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFBED8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 190, 216)"
+    }
+  ]
+}

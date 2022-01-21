@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiemewp7pp3y7jxgp3e6j2c4crn2o7nyg4fzcx2ujzq3is4zmpajsq",
+  "name": "OneForArt #1189 - Comet",
+  "description": "A Comet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidgm6s2pdb5g4x6xb63wca6fcsgt2vqmqpx5fpr6ewhejmdjvxuau",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Comet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1189,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5C5D75",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(92, 93, 117)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

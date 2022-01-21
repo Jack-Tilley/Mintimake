@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihz6lb4jehrn2k5uluspdhfugsthr4a4tybgawno67gb4x3egha3m",
+  "name": "OneForArt #361 - Sangria",
+  "description": "A Sangria pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihf3iy6iuqsfnl6cqcdvmrd2b6ht5g2wnmruaq2u32gpip5j2rmba",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sangria",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 361,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#92000A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(146, 0, 10)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

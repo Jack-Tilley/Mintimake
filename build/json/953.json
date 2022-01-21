@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #953 - Tom Thumb",
+  "description": "A Tom Thumb pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifgzpgidozscdr4wfwwxt77js5zyw7527j2uow7t6b4qndao5lnjy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tom Thumb"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "953"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3F583B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 88, 59)"
+    }
+  ]
+}

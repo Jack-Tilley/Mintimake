@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig4apaxk7tkky7raldpfaenzt2wqnm6d2w5xiibjcmmwikgibv7by",
+  "name": "OneForArt #1522 - Spanish Green",
+  "description": "A Spanish Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxrz5evpwqscj4f4f2vdcefjc3m6njngk4fbixtkpyen3a3hv4kq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spanish Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1522,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#819885",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(129, 152, 133)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

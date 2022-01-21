@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #565 - California",
+  "description": "A California pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaqtcm4lnowyc6nu24d5luy3k2flld7byu4u6svzfhsvouv7us2ey",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "California"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "565"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FE9D04"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 157, 4)"
+    }
+  ]
+}

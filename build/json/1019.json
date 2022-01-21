@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1019 - Banana Mania",
+  "description": "A Banana Mania pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigepx33mdldhukorqqkkmapf2ibxpepocqo7ncjlr2hfwchs4cbfq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Banana Mania"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1019"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBE7B2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 231, 178)"
+    }
+  ]
+}

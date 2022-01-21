@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #144 - Evening Sea",
+  "description": "A Evening Sea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifubjwjwm2oonjs4kygee55j4bly2irxncxfr4wuxlnpayk635rma",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Evening Sea"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "144"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#024E46"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 78, 70)"
+    }
+  ]
+}

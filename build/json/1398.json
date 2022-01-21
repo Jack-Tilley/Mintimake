@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1398 - Swamp Green",
+  "description": "A Swamp Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidzpcbg3rarzgudcw4sowi5s5u6gdnrhefqmz4hyfqz2t3ihs5bji",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Swamp Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1398"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACB78E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 183, 142)"
+    }
+  ]
+}

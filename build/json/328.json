@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #328 - Prussian Blue",
+  "description": "A Prussian Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigb3b2ziqfspmfssursmg4j4hddkjesyvybz3f4cjzgcw7w7wlsjq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Prussian Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "328"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#003153"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 49, 83)"
+    }
+  ]
+}

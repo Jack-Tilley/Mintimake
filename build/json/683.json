@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #683 - Blush Pink",
+  "description": "A Blush Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6jyeffv7qf7j6h4eyna6glun4g2k4edz4d3hq6r6ibwi6nqx4zm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blush Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "683"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF6FFF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 111, 255)"
+    }
+  ]
+}

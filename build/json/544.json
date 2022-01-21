@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #544 - Emerald",
+  "description": "A Emerald pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecxbhzofguo7fj4ze622vl3swzjp5i2p7ji4d43f56judzzcmtr4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "544"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#50C878"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(80, 200, 120)"
+    }
+  ]
+}

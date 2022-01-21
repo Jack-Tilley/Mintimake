@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifrin76xvmueczwv2rrxtxw4pzytu32wamhp462gbm33jr42na4yi",
+  "name": "OneForArt #297 - Mulled Wine",
+  "description": "A Mulled Wine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidr2phfuwkxfjdffbxf7hzhdfsqei3zirsmh2mhsziabgj3uqtdve",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mulled Wine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 297,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4E4562",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 69, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

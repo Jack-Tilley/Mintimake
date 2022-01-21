@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1486 - Can Can",
+  "description": "A Can Can pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigpi3a5ifm2j6bwsoitpct5c6b7vr2cyfmmeyicbi3evkdbujb4oy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Can Can"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1486"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D591A4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(213, 145, 164)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiemyba4dqp34ng7inph6zk6bl2pvh4f65ugvluzuhemthp45g4254",
+  "name": "OneForArt #1203 - Clay Ash",
+  "description": "A Clay Ash pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicseuej7jttoun4fvhxlcw74pvtw2s6526xife3apfzezuknojpkq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clay Ash",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1203,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDC8B3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 200, 179)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

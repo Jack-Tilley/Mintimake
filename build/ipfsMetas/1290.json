@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibslzlprcfjdgnctiq3omwy6mkyoguvrztbgwnxyxq6yp4vnc7ttu",
+  "name": "OneForArt #1290 - Ghost",
+  "description": "A Ghost pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihsva3wuvamgchhdy4x4ckjlzvwpbn6rorrnrpfiekwh3hvejtxe4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ghost",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1290,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7C9D5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 201, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

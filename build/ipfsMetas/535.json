@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiblxwaef3fswgb4pandc53irdtfvwkkrc7fck2wzdyp4gjbcucdha",
+  "name": "OneForArt #535 - Jungle Mist",
+  "description": "A Jungle Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicynje57e3nnbstitzykvv7cjz7gohk2z7j33qgibloh7tud4hgoy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jungle Mist",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 535,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B4CFD3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(180, 207, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

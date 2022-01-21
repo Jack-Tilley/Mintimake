@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiafoox3js7smmkichufm3geqv3wf2l32ez3h3s3qpf2fgmznftgi4",
+  "name": "OneForArt #272 - Willow Brook",
+  "description": "A Willow Brook pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiap4rutdutcl5y5thwky3gqr54g4ghnf5wpyihm5c354hspq4hmeu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Willow Brook",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 272,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFECDA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 236, 218)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

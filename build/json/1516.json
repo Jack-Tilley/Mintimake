@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1516 - Cosmic",
+  "description": "A Cosmic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidlzyt2uat7vuw3jyvw7e4k3rrk3bwddgqpejqjtmtk7wrqw75vba",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cosmic"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1516"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#76395D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(118, 57, 93)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidrrvquder5kl7ykq2we262ildl7umkjmhhmfq64bets3v4p4yzp4",
+  "name": "OneForArt #1023 - Bison Hide",
+  "description": "A Bison Hide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihcvs4eht3frolbalzaismqoqjdbk4osj2d34sd7wipba7qlfs6u4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bison Hide",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1023,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1B7A4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 183, 164)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

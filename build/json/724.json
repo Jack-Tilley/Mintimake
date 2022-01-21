@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #724 - Thatch Green",
+  "description": "A Thatch Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifeem2gi5k5erzid4ydd7s4wayucj5yfzzjyje3rdyuoucr45tnfy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Thatch Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "724"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#403D19"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 61, 25)"
+    }
+  ]
+}

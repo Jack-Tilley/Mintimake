@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifcoeqag754frmn4n4hlajdockysyc77k6usu4ukxj562bzo5uw2e",
+  "name": "OneForArt #384 - Blue Haze",
+  "description": "A Blue Haze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4u6qsoqcbzqfejo3yy62s2r3esmlfzdrdfjzx3dpbtqjqntc77y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Haze",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 384,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFBED8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 190, 216)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

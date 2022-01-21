@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #309 - Fun Green",
+  "description": "A Fun Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6wxirxp35a2zpajb3nvuxeutqpygt2s7o4rfmkgekdxuagttfue",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fun Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "309"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#016D39"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 109, 57)"
+    }
+  ]
+}

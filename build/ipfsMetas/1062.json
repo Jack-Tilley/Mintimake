@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifzz7hs7wqujffbje2ud5g7q3pux7cnq4bacmvnpo75bujh2sngz4",
+  "name": "OneForArt #1062 - Paarl",
+  "description": "A Paarl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiey2pdlx3tpy3jgkbxt7mlos7aacdq4cix4pjvfoafrvk2vopfhja",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paarl",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1062,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A65529",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 85, 41)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

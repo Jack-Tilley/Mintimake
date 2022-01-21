@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifqvatt5wyc6jdj4kfamdnl4nhmzd3qhhcefkaguglzk7tdnmnfgi",
+  "name": "OneForArt #537 - Bright Turquoise",
+  "description": "A Bright Turquoise pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihwgqrmvpe5d3y5nmkn6brodrixcijw5j6trei5es4izjfly4bcty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bright Turquoise",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 537,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#08E8DE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 232, 222)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

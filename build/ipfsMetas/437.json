@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie6giozn2zlu2wx67vwnk6uttnrbz3jmz6jmofn2awq7v5sbxqeym",
+  "name": "OneForArt #437 - Matisse",
+  "description": "A Matisse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjimlcu2a2gwteb2cuoxkzz4cby327rih4x6gx5igiiijbljesty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Matisse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 437,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B659D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 101, 157)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

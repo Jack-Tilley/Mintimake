@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihienryoh626bkkufngqqtg7x4m6vqwaw2tys3ar2gbyjknkyppbe",
+  "name": "OneForArt #282 - Dodger Blue",
+  "description": "A Dodger Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbrgfqyx3h42g722uescebvcrhlmddarp5rfssxzz3xkzav6dlce",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dodger Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 282,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E90FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 144, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

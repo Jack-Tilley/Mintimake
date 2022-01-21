@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1046 - Tan",
+  "description": "A Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigyyohhtxlt5rvhzexjhvjem2qnfac545x3shn7ddj4pxmqqyz3ye",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1046"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2B48C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 180, 140)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihlo3gyoek46myqfksvy3nsb5hols44ub3af6oa5slnpwu37vm5ja",
+  "name": "OneForArt #7 - Graphite",
+  "description": "A Graphite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreici6geh4ktqjfm7pgz56yicc2rtnrwyofqbinwdcnygmjtttgppjm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Graphite",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 7,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#251607",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 22, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

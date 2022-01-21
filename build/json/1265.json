@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1265 - Confetti",
+  "description": "A Confetti pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibarswosbuqvdfkz5ucqtcpkpftrvfyer6qcy74fbvfvhukyjvpny",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Confetti"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1265"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E9D75A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 215, 90)"
+    }
+  ]
+}

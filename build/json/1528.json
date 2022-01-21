@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1528 - Starship",
+  "description": "A Starship pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftgxdfdn5lfyrhskcs3n4v6usuqxocpcqfpnaw26qta25yixrbke",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Starship"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1528"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECF245"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 242, 69)"
+    }
+  ]
+}

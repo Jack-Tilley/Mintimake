@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1447 - Cardinal Pink",
+  "description": "A Cardinal Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihoolawwl7pvkm5utbqqadjj2nctiyzl5pswvpewh6vhihpbj2h7y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cardinal Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1447"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8C055E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(140, 5, 94)"
+    }
+  ]
+}

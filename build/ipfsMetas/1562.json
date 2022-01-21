@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiatxox5mppongwqz7ygyr4jf375o6cmka5m3rjbm65t225ddd5bxa",
+  "name": "OneForArt #1562 - Pickled Bluewood",
+  "description": "A Pickled Bluewood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabyn64dneapdrktbpsfjb37dazpcdmxdueramfaghjnqvxks7c4y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pickled Bluewood",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1562,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#314459",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 68, 89)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

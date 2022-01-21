@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidiyc2b75ks4g4m4sl3rqkp4jkerykajqzrxq3ktvu5d63kksrdri",
+  "name": "OneForArt #1324 - Lisbon Brown",
+  "description": "A Lisbon Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifj5h5rzujaty6txku6e7s65e6mncsphwqy3hm7pwpyf7fw4ggyey",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lisbon Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1324,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#423921",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(66, 57, 33)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

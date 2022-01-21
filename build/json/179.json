@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #179 - Dove Gray",
+  "description": "A Dove Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzmjuwkeaw6lk3iil446xuptta5cm6i4z47ocrshbnyokq5kvyl4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dove Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "179"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6D6C6C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(109, 108, 108)"
+    }
+  ]
+}

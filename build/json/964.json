@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #964 - Hit Gray",
+  "description": "A Hit Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibnqbjsfdtd5y6qosr6wkm5phgvg33mtzvmbhq2mkiil4g4cdsfy4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hit Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "964"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A1ADB5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(161, 173, 181)"
+    }
+  ]
+}

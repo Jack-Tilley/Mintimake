@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidqrd3xtvz5gfa7fvjxp4uyhze2lwdvuurq4tky23wbf64or24x2i",
+  "name": "OneForArt #1252 - Jaffa",
+  "description": "A Jaffa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigdlbswolfg6g6rydf664yncrm7ukvq6bs3aijbka7ssn6h3sqble",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jaffa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1252,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EF863F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(239, 134, 63)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

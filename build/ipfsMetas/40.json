@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif424np2bmwnumq6fxgbamcafayupgtou4gz5a62qg6m2d6ska7iq",
+  "name": "OneForArt #40 - Gorse",
+  "description": "A Gorse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6bmvcxiwmfg7agr76gv4zexu2rihbt7pnunaemox6kysb4tpeju",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gorse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 40,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF14F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 79)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

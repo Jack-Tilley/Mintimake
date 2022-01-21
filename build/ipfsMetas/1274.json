@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihurjh4qcwrtnoa6gdo5ltmfx6fr5dpnloifg7x7r3dc2iy73ayzu",
+  "name": "OneForArt #1274 - Sushi",
+  "description": "A Sushi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqiris4obdc4t4jfbn4xtw3s4ej7grvy7bj7omti3rc2ow63s6a4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sushi",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1274,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#87AB39",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 171, 57)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

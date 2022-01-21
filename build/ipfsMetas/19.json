@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaehku4fqe2c4vylkkcw5rucxaxkh4oegztzotddytig3w2ezj4ku",
+  "name": "OneForArt #19 - Selago",
+  "description": "A Selago pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftsob53rq4xf53nx3tto2nacaiubouowshvwfo7xqus5hjftevae",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Selago",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 19,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0EEFD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 238, 253)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

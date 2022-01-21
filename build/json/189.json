@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #189 - Deep Blue",
+  "description": "A Deep Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifx7o56wmopziesp4yhv2p3ogo6evf4aplzmhbaveac76akt2rxs4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "189"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#220878"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(34, 8, 120)"
+    }
+  ]
+}

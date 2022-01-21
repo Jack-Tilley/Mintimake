@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #293 - Rebel",
+  "description": "A Rebel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihqhepecc6p3zxybeuvhab4n7k4y6e4gckhhyfsq2td5pnrsal52u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rebel"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "293"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C1206"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 18, 6)"
+    }
+  ]
+}

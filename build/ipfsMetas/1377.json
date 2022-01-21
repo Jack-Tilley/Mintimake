@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifrdogtjuewusiasm7qhh4ee4u3nk7bcdu733supzza33hzihn55q",
+  "name": "OneForArt #1377 - Pewter",
+  "description": "A Pewter pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibe4rkulyqzvkn7nqenjkrrfxkodmsfqwin33nfnsklbephsbyyzu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pewter",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1377,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#96A8A1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 168, 161)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

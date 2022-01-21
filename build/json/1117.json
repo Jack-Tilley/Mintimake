@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1117 - Valhalla",
+  "description": "A Valhalla pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigkyz63zwigtxma7nrmg23y2mtvm7vdzembceahzsuvyzmi4iggje",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Valhalla"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1117"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2B194F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(43, 25, 79)"
+    }
+  ]
+}

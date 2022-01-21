@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreievr3lbflpnnckbb7zqw4vtrxmbenxk4vpfqzaob2mxn4rsiwv4ua",
+  "name": "OneForArt #975 - Hemp",
+  "description": "A Hemp pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaoo6jyjkr7m5dmhgfey4lhodj6fvrfd4j2fbuq7szo5loci27rga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hemp",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 975,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#907874",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(144, 120, 116)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

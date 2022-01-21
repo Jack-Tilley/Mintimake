@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiek3aimnezqabxwgfivvcmcj7ucbmydy2f5vtb337oirtgpdiajou",
+  "name": "OneForArt #478 - Lightning Yellow",
+  "description": "A Lightning Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiebvv5gppettc6b4ze2ahgdt34tmbugsx2ny6wmn24xf3vx5hcx24",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lightning Yellow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 478,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCC01E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 192, 30)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

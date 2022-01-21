@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic67ahptkgnxpr2mvpsomwmge3euayiku6wz2rz52cradzddkj6fi",
+  "name": "OneForArt #1105 - China Ivory",
+  "description": "A China Ivory pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifthutwmgqgpkpyx2py2ffk3vo3u37raign247v7vctcsvnezq6d4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "China Ivory",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1105,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCFFE7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 255, 231)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

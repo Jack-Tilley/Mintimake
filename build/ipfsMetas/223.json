@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiee2qz52vwt7i6vnxlv36ke35xyf2htgexvu2f7hxoa7yt3isoenu",
+  "name": "OneForArt #223 - Daintree",
+  "description": "A Daintree pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifrzlmim3odcltxnxfkgo5pv5m6mxwjhg7nnedn575ruy6w2rhuri",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Daintree",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 223,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#012731",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 39, 49)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

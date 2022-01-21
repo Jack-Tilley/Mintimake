@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1249 - Pueblo",
+  "description": "A Pueblo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigskbwezhnbhkwhrj3ni227vyuovnrxgqytd4ta45jtxmejjqvln4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pueblo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1249"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7D2C14"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(125, 44, 20)"
+    }
+  ]
+}

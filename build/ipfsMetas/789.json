@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiexsoqrpud4do3tbidpeq2itoxoku3iw46qb3rsq45umyyffechb4",
+  "name": "OneForArt #789 - Violet Red",
+  "description": "A Violet Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvpvx2h2llauxijymynnqktqd5fnsv2u7uqunxcxkfi4ui4yruhq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violet Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 789,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7468A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 70, 138)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

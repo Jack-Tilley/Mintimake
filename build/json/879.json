@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #879 - Pine Green",
+  "description": "A Pine Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih7h4hztcfc3jgj5gxr47w35mpbicsomlmmnx7lm4bgugypo6jbli",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pine Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "879"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#01796F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 121, 111)"
+    }
+  ]
+}

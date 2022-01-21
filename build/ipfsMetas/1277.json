@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiehh63x3wdbaepka3uaoczuz77brw5hikiouhzij7uvryerc4ti4y",
+  "name": "OneForArt #1277 - Congo Brown",
+  "description": "A Congo Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreige3dn4vrov3mhpjjuizgqixhsxf6lhib62jio6cc4jz33tnugram",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Congo Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1277,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#593737",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(89, 55, 55)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

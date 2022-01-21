@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia3sdmp5p6pnc3upr3nr3zcmn7vgifablompb35lz3g2ywlycxak4",
+  "name": "OneForArt #201 - Brandy Punch",
+  "description": "A Brandy Punch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid4u3nj473u2de5uuz32ykdjbw3hpnikusl7cjapnda2omuzqu6si",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brandy Punch",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 201,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CD8429",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(205, 132, 41)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

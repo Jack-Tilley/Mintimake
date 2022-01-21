@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreife2sv7ddtev3eh4ewaclxk44mreab5t5jmc6rsxdqes3wdvqyzk4",
+  "name": "OneForArt #509 - Lemon",
+  "description": "A Lemon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicg2cybbgy5upbxawlsf5gybkewijvcryhmyl37oupn7s24352xzu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lemon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 509,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDE910",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 233, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibn4lsc37ne3qlxb7pjjzh6bc7xcdzfx62huamedmkshwrw35rrwy",
+  "name": "OneForArt #906 - Nomad",
+  "description": "A Nomad pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihicmhktioqiac6cf2povyvu4vyjiul3d4qb5gbpgnpggibikhvqq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nomad",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 906,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BAB1A2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(186, 177, 162)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

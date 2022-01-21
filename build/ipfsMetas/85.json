@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihtthzopzq6f4s4vegjnchehwayuskclztuuhl4pc7t5tlkqzpgza",
+  "name": "OneForArt #85 - Spicy Mustard",
+  "description": "A Spicy Mustard pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigsdogw55kixwik2mfcvcyma5ccvwyig5bxzuqqnnyv32awq7npsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spicy Mustard",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 85,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#74640D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(116, 100, 13)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

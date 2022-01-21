@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #837 - Oregon",
+  "description": "A Oregon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidmoi75ronhxi57elus5jqsoyahomcb6z3ysjmumdya532ghpfl6y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oregon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "837"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9B4703"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(155, 71, 3)"
+    }
+  ]
+}

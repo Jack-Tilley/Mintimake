@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1059 - Cardin Green",
+  "description": "A Cardin Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicfhbbsjnzhewucj5c2ph4lji4de6l5nz7i3nnzpw6gbaz2yvpxbq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cardin Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1059"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#01361C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 54, 28)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifwclcac6imw7qvdz7vwd74rlh4nlurzl55nqhwuejw5xqh4b3vii",
+  "name": "OneForArt #647 - Quarter Spanish White",
+  "description": "A Quarter Spanish White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifrjl3y5pthogndbxm5ae3vcnijcsacysdv4b4t6cdqnnd5vvyoj4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Quarter Spanish White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 647,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7F2E1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 242, 225)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

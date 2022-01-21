@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih2ofber5c7aa24vhhprfib47ebwkxqzh7cafwbei7dyt3ndrcqwq",
+  "name": "OneForArt #661 - Cherokee",
+  "description": "A Cherokee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihdme2c43fg3ty6obtlurqd3hrbt4ww5fgoie2jzeck5lv5ckyefe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cherokee",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 661,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCDA98",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 218, 152)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

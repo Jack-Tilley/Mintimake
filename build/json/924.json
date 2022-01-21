@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #924 - Conifer",
+  "description": "A Conifer pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbaxu6o3hwgqchmficyq7jngyb7fkqcxo63j7iyhwph7judtpzb4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Conifer"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "924"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACDD4D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 221, 77)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #75 - Polar",
+  "description": "A Polar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnqprnnbourtulsi5ots5ue4snv4cc7zec7m7m7kuu7zjrayfxbi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Polar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "75"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E5F9F6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 249, 246)"
+    }
+  ]
+}

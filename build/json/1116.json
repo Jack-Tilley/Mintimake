@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1116 - Creole",
+  "description": "A Creole pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiesatroa6hha4pdyztv6brxscsulrp5ttnkklsu6z2hybzxouwkiy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Creole"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1116"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E0F04"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 15, 4)"
+    }
+  ]
+}

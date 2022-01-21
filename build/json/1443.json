@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1443 - Blue Chill",
+  "description": "A Blue Chill pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6w3kxercpc7crag7pe7ly2q5wqbx6gvrrk472l5xafjtdetxojy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Chill"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1443"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0C8990"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(12, 137, 144)"
+    }
+  ]
+}

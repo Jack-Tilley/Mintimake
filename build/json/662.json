@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #662 - Green White",
+  "description": "A Green White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib2joziqbtyaem7scxi225ppszlbli3fn5c6v64voavzs2sllwhba",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "662"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E8EBE0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 235, 224)"
+    }
+  ]
+}

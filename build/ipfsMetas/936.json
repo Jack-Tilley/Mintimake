@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieospsp77nlbw3b7kjubsi5oiqx75vkhdbwvzgrusx3uxv5gukltq",
+  "name": "OneForArt #936 - Emperor",
+  "description": "A Emperor pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidgzuhto3iqyu7dyduci56jzmzofgv77cyhg6s5mm7tvle7mydjq4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Emperor",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 936,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#514649",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(81, 70, 73)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

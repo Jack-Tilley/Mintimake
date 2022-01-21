@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidchtvowsmrubfdhmw74ygn3d7loz3gbtcfz4orrdxrzktydwcgqa",
+  "name": "OneForArt #281 - Purple Heart",
+  "description": "A Purple Heart pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigi6lv4yxap33bnxmgmczfcdhpkv2soufj435ggcgwccquegwcj4q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Purple Heart",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 281,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#652DC1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 45, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

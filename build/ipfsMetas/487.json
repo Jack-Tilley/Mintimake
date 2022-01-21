@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibsibbes7zdgfgivaxtfqxt7nqiuafsvo2pk5t6fxfacw6d2xgliq",
+  "name": "OneForArt #487 - Tangaroa",
+  "description": "A Tangaroa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzbhd6iofp3cmqi2pcf6irh22l5i7uwjmqibenzoloukxgxqqfxu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tangaroa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 487,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#03163C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(3, 22, 60)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

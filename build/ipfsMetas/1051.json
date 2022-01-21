@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifub4hyvqougjic7rjfoftkkxkelhqbdxcdgnrsco47b5lahcydje",
+  "name": "OneForArt #1051 - Lunar Green",
+  "description": "A Lunar Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxnth4wfc2gkyo2eec2s67qjl526nd4qfx6mhjak62nlgvmdmln4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lunar Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1051,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C493A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 73, 58)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

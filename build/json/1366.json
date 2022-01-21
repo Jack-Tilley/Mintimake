@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1366 - Lemon Ginger",
+  "description": "A Lemon Ginger pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihooml27rj4tbwbqps5xkqk5igo5nrztk7kzdxyux7th3ipzhjk5m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lemon Ginger"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1366"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AC9E22"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 158, 34)"
+    }
+  ]
+}

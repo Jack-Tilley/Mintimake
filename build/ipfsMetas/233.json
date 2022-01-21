@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicfziu6cwoo3mzj555ybzocf3d3ewqbcam3u4za4ezhl3g6ge4rqy",
+  "name": "OneForArt #233 - Heath",
+  "description": "A Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidhzie2vqpjmoj4tm4lidubuzfifay2aknud3sirunichlptqqnku",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Heath",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 233,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#541012",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(84, 16, 18)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

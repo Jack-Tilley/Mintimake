@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreielus7ct3wgianzifltbnysiergtwu6fwmptby2xqbehhgjfqdq7i",
+  "name": "OneForArt #668 - Battleship Gray",
+  "description": "A Battleship Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4ughvzgrpoegqxwsbzhue6eh2s3qfjru3yif2q7d3ba2npu5kcm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Battleship Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 668,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#828F72",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(130, 143, 114)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

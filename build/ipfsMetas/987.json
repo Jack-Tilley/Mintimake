@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih5my7ozndhewspgczk6gt7rjqi3ntp3ddsrffuxtum35mmvp6xje",
+  "name": "OneForArt #987 - Cadillac",
+  "description": "A Cadillac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihmabx27gduaa2dakoztruxpxbzaqpgyl4nvhxhl4zva25qhvx7xq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cadillac",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 987,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B04C6A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 76, 106)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

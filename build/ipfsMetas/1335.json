@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieypt2zea6xspc7kax4dfjk36qyqz7xbdstuntft4d4jtmxtwxjiq",
+  "name": "OneForArt #1335 - Hurricane",
+  "description": "A Hurricane pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigysykd5aifmb3dto3yvsfgv3unqbgqchgzoop62ltohzgqizdbrm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hurricane",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1335,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#877C7B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 124, 123)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

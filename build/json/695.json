@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #695 - Bronco",
+  "description": "A Bronco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5mnxqiy5avkgqciphfitfca4uhsqruegm2xaw37m6zn2t2lh34y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bronco"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "695"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ABA196"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 161, 150)"
+    }
+  ]
+}

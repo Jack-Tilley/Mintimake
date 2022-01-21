@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1418 - Midnight Moss",
+  "description": "A Midnight Moss pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigvpyruaicg4trtzivtk2tkoz63uvjjtnjero6mr2vgioq5jqcd5m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Midnight Moss"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1418"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#041004"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(4, 16, 4)"
+    }
+  ]
+}

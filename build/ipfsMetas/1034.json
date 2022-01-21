@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreietrfi2qo23n6u5deedwlttqb6xfjb5k6rpres4reueoaf6ey4g4y",
+  "name": "OneForArt #1034 - Martini",
+  "description": "A Martini pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig6lqx4wmn4qetybjcmnu2jm2fx7i6lwzn4bkjuurt6knwr67tchi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Martini",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1034,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AFA09E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 160, 158)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

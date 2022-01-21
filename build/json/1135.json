@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1135 - Mint Julep",
+  "description": "A Mint Julep pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfqu3edpijzkmhlq3qsossa2bot5o6sjkhnxrlrmduds5ts5rvwy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mint Julep"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1135"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1EEC1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 238, 193)"
+    }
+  ]
+}

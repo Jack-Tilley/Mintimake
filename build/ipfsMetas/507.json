@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiguoerfuxbi4etfbhiuzcyylj2l5t6baelgo3juifdyyjpww55tci",
+  "name": "OneForArt #507 - Prairie Sand",
+  "description": "A Prairie Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhg5ozh5ct7gggot4bb4obpu2cm2fp3s6hjbbuocygtoa6qm3rou",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Prairie Sand",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 507,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9A3820",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(154, 56, 32)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

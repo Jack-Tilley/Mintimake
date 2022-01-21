@@ -1,0 +1,16 @@
+{
+  "name": "OneForArt #900 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreidtkxz7meyotpe53hg24cpqnnhu6qjjhlw2ewumvsb3qtpwos2lwm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": "900"
+    }
+  ]
+}

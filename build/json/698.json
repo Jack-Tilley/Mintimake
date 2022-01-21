@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #698 - Mandy",
+  "description": "A Mandy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibajip7pajcunbde6f4vhkoei6hpkmapcwhhlmsbpnd27qyvmonfe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mandy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "698"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E25465"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 84, 101)"
+    }
+  ]
+}

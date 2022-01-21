@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigpqcnl53n6npoa6x4u5p3ffguybs6l4ctgpkgt7lt3wedlasrp74",
+  "name": "OneForArt #709 - Roof Terracotta",
+  "description": "A Roof Terracotta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreighuovieyfai5yotlias6cv4rruw466re5cprau524psnx74on7gy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Roof Terracotta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 709,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A62F20",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 47, 32)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

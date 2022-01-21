@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibe4kczbjpikjdr5xwxbaaxluqzs36p3zqvjfhbcl4oe6kj2mqh4a",
+  "name": "OneForArt #758 - Burnt Sienna",
+  "description": "A Burnt Sienna pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibe7vihfnihloi6zyt4ashq6wq4zvaurkbpaat2az4wd7uvfl3fpm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnt Sienna",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 758,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E97451",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 116, 81)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

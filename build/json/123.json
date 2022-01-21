@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #123 - Torea Bay",
+  "description": "A Torea Bay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiai45bx6srbvsfd6rkrqdvdrjasyqgtxismvjjmbpkzgaxbndsdlm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Torea Bay"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "123"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0F2D9E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(15, 45, 158)"
+    }
+  ]
+}

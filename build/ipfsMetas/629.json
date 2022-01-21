@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieuduxf5oywk36i6lmcqzvt4tzbu5tbxppu3clqufvkby34ybpqne",
+  "name": "OneForArt #629 - Finn",
+  "description": "A Finn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicagbh6jgstjgbhfeiioulo762w5x3j5xspjofenbiwz4k3czdlgy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Finn",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 629,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#692D54",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(105, 45, 84)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

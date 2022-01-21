@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #870 - Nutmeg",
+  "description": "A Nutmeg pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig3sosvl366neo727cx33ntxurdk66cvl34hmsug5gimopez6ijfi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nutmeg"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "870"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#81422C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(129, 66, 44)"
+    }
+  ]
+}

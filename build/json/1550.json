@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1550 - Cocoa Brown",
+  "description": "A Cocoa Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicpvdfky5vswe5gmchkc6buwewiczksx25ucdpcwernp43ppmykiy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cocoa Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1550"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#301F1E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(48, 31, 30)"
+    }
+  ]
+}

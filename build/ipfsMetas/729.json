@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihzhcj3bmakfh6b2mvznn6n42xweqh7zvb7xwkshtayqp3nu4npmm",
+  "name": "OneForArt #729 - Alice Blue",
+  "description": "A Alice Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie3qgdfuzynswnnsv3tykisq5gew5lf4d7s5vi4olmfbbgbmopka4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Alice Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 729,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0F8FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 248, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

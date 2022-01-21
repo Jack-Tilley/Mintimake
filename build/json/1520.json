@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1520 - Spice",
+  "description": "A Spice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwl5edyqvusd5hwv46faxrzimnpgh6ohqyhrh2cede3clb75hpd4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spice"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1520"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6A442E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(106, 68, 46)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1523 - Verdigris",
+  "description": "A Verdigris pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreige4ayel7eszlqje66jcwlaevcv3dambuvwqnqh3yxzphtir3dowy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Verdigris"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1523"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D5E37"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 94, 55)"
+    }
+  ]
+}

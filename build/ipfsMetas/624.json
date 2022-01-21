@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih7jl63ldm2w4mk4u2lqwylkkdtcb3qpbjxxs5hae3fk2m7vwqp7i",
+  "name": "OneForArt #624 - Deep Blush",
+  "description": "A Deep Blush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihjsbf335dxbzalhssbie6zvdg6qxlpeeozahcazomskhfastkyrm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Blush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 624,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E47698",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 118, 152)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifhzh7ln4z7ikbwszg7groqxjx5ar4pactqzkxvkfp5ubc2zpbwmu",
+  "name": "OneForArt #64 - Hot Pink",
+  "description": "A Hot Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabiuaxjkiwbbckox4nvy2f5obi6b3yxmiyxgcvgq647dlu3g57g4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hot Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 64,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF69B4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 105, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

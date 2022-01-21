@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibhvhozjlrqd7jofrezfc2zm4227ibzsoadnpktq6rkj6a4tewsve",
+  "name": "OneForArt #1503 - Dingley",
+  "description": "A Dingley pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjdjueewxrdusvjohfviwgydmlmowlhz52rimvakchesnquenaeu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dingley",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1503,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D7747",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 119, 71)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

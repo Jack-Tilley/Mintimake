@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #761 - Hairy Heath",
+  "description": "A Hairy Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicmchxnto3qx7jkdowjiw7g4tsumbzxjv6vesaduebokrb2cr3pma",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hairy Heath"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "761"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6B2A14"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(107, 42, 20)"
+    }
+  ]
+}

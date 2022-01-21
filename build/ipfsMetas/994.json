@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiauiehnyv3ekex3ov33qegyktzwfykcegsrr3qmwbys7ti22j7eky",
+  "name": "OneForArt #994 - Tosca",
+  "description": "A Tosca pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibqy4udnin7sdwbl5p2x74axqqiiul6evxkkg6u7qy7rwvv2lbqni",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tosca",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 994,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D3F3F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 63, 63)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

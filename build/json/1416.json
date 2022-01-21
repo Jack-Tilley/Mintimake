@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1416 - Inch Worm",
+  "description": "A Inch Worm pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihx7r6lzeanmfd3fjvt33yil4cclzrz5a6jl4lxz4eg43skn2rcm4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Inch Worm"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1416"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B0E313"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 227, 19)"
+    }
+  ]
+}

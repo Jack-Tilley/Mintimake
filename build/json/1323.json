@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1323 - Sherpa Blue",
+  "description": "A Sherpa Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihplre3wpt4go4fqvub5rgduaoqlllmxy5zd54ss6erbmffkrkqvq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sherpa Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1323"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#004950"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 73, 80)"
+    }
+  ]
+}

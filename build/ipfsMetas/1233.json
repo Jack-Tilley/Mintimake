@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiec7p2izzguukd6zfw5wnklwbicfyvbp5gfjchscxlfgwxet27ncu",
+  "name": "OneForArt #1233 - Heliotrope",
+  "description": "A Heliotrope pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifopje2siomyo4iux7hmxzjfpwkoty6wmlmbyrcfbm4vwxdogygre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Heliotrope",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1233,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DF73FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 115, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

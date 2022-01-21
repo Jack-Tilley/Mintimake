@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib5vwoksllscpqtsa6qlo7y7ruu4pef7qj44mpjuextmu3d3sdfxu",
+  "name": "OneForArt #910 - Resolution Blue",
+  "description": "A Resolution Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaknyvo7ubht6gcs2eurn5szk7zpldpnm42vstozhetmarlit6gve",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Resolution Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 910,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#002387",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 35, 135)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #386 - London Hue",
+  "description": "A London Hue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia2fgt37jnhywswvdz6mpqyv5yci42w2qpk2d7dt3wip4lm7m7jju",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "London Hue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "386"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BEA6C3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(190, 166, 195)"
+    }
+  ]
+}

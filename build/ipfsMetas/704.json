@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihmbgelmmojyss3misrll3bjsul4jhsm4i5mtfefkmgzr5r6jdlfe",
+  "name": "OneForArt #704 - Fair Pink",
+  "description": "A Fair Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicvhwmprmo7rwzgpoqcueh3vnxcfcwfi5j6hm5olcszepnzj577rm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fair Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 704,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEFEC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 239, 236)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

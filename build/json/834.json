@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #834 - Texas",
+  "description": "A Texas pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidu3s7ormm2jb2wxidqllyqnqfdhk5zr5yp7ezhqunrorrqyhmjsa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Texas"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "834"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8F99C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 249, 156)"
+    }
+  ]
+}

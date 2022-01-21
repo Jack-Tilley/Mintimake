@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiclie2p35ye7n7r2kicny4fu6lkql7cqvj3n6sug3hq47rvt7tmqa",
+  "name": "OneForArt #577 - Maroon",
+  "description": "A Maroon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbcaz7jtakvhrtjdtj5oqissm3yyuh2v5vhazaphte6qswjjhioy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Maroon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 577,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#800000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 0, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

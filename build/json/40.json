@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #40 - Gorse",
+  "description": "A Gorse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6bmvcxiwmfg7agr76gv4zexu2rihbt7pnunaemox6kysb4tpeju",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gorse"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "40"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF14F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 79)"
+    }
+  ]
+}

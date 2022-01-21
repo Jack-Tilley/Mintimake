@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #30 - Buttered Rum",
+  "description": "A Buttered Rum pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigi2myps6umu7s7uqi7lfo7d5vzzu7wiietszeponakeccp35qdvm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buttered Rum"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "30"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A1750D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(161, 117, 13)"
+    }
+  ]
+}

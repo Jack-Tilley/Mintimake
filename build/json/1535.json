@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1535 - Half and Half",
+  "description": "A Half and Half pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickkmw5dkc2agpjcwgifg3rzqcgwdoim5j2tfih42hqaz5fdmwxri",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Half and Half"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1535"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFEE1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 254, 225)"
+    }
+  ]
+}

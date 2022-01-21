@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiejmy4o5rtjnmfik4fdbdiwz5ed6sjvjguwyp73uux2buyx224zki",
+  "name": "OneForArt #438 - Blue Marguerite",
+  "description": "A Blue Marguerite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxppsuvegocxcgqscnty3vc43h7po3jcmyjr27rrseoe5sfe5vo4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Marguerite",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 438,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7666C6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(118, 102, 198)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

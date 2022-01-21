@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic3thml52s4tv32hfthwvi5kbxqxjtqp2uzvzjzm7at2eykh56ao4",
+  "name": "OneForArt #1306 - Green Waterloo",
+  "description": "A Green Waterloo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieeeff3gzmdwmcgd56piyfphm7weqvs45lnq2pxnkwfnvw6ttau7a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Waterloo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1306,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#101405",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(16, 20, 5)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

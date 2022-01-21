@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #921 - Camouflage Green",
+  "description": "A Camouflage Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcfqicwvrog3p5i2gwaaan6ytakoivzj2xuvt5ewasbwzp4swrrm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Camouflage Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "921"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#78866B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(120, 134, 107)"
+    }
+  ]
+}

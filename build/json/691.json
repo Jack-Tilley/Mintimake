@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #691 - Sunglo",
+  "description": "A Sunglo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieraxlkloph5ftaz5fr2yfzqexpnqk4tu7fys5wryrxasgn4hc3iq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunglo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "691"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E16865"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 104, 101)"
+    }
+  ]
+}

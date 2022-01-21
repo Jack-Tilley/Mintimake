@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifd6szswddsro62ey5chtewbueg2rolsjxddypnqtquefi2dzo3i4",
+  "name": "OneForArt #835 - Mauvelous",
+  "description": "A Mauvelous pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifw3ubfmlmekv2zhqc6y6egxd7d3t27spwyljjrnxj4zo4xlppzty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mauvelous",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 835,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F091A9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 145, 169)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

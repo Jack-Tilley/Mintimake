@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieq6d43qw62a4gphu4u7qbe4pe5bvdfamjjfsoxfy33darqs5kpdi",
+  "name": "OneForArt #1534 - Red Oxide",
+  "description": "A Red Oxide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichtojflgph6pmitjta2u5zylescwbu7q5yqn2f6ddyjqdaeken2m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Oxide",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1534,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E0902",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 9, 2)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

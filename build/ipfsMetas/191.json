@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicb3dxi2bzqh6aweihuiadcn3lrvx5arfgm6jkcgseq2egefcdtam",
+  "name": "OneForArt #191 - Eclipse",
+  "description": "A Eclipse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2rehtzmpikqjwywxoce6uesgtzetavbu2qtgiofcfct7blnnl6u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eclipse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 191,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#311C17",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 28, 23)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

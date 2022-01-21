@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif5yeoiuftothyoodw3lz2kd7gcawikx55vvhb3xrzc65lifx3xky",
+  "name": "OneForArt #830 - Kokoda",
+  "description": "A Kokoda pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkk6wl6w63j3oqnc5unban42pu7yqru2yysglyplkxhgtfnrgat4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kokoda",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 830,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E6D57",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 109, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

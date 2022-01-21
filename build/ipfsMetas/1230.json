@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifdg732ui2vphlmytdskilxi5pbgs4nsbsoyyqhbppo66x3yfxmsq",
+  "name": "OneForArt #1230 - Narvik",
+  "description": "A Narvik pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbrg7uzfld5cuivhqkqb566b7ahutvvfmjijmce6rlx5hwlqd4eq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Narvik",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1230,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDF9F1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 249, 241)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

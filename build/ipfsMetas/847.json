@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifu56uishejnvdhr5velnmpmpwl7bydhpeuwbzo34unmttsw6fctm",
+  "name": "OneForArt #847 - Cranberry",
+  "description": "A Cranberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibk227upmn7bhxzydwgbzva7vhrt37jl6gcxr4vw52oatjbwr36oy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cranberry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 847,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DB5079",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(219, 80, 121)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

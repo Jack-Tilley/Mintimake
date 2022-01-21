@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiajcigda7zkwiqt27hokjfej3zwoxe2ld6grkrswwupyvo6ojwhzm",
+  "name": "OneForArt #87 - Chrome White",
+  "description": "A Chrome White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacvxqgi7d3kq7ujbu3a4zcbl5ezq7vxrvte2et64dtmy24lqqmve",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chrome White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 87,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E8F1D4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 241, 212)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

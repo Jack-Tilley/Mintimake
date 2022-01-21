@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #416 - Web Orange",
+  "description": "A Web Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifo6ie3nqw5a5h6dvxushjdsfg77jzqpj6fx6h2sjwlckmf4j3rei",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Web Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "416"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFA500"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 165, 0)"
+    }
+  ]
+}

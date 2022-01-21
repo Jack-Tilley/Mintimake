@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1121 - Ming",
+  "description": "A Ming pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihaqlz6k5zmkmlvhlglb7epagl35l4lxaisltgfq5hnt3yz4ucxje",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ming"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1121"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#36747D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(54, 116, 125)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidkiohilyzzlvx7antcm2anltcfjhmahrzntdwaokvxplucpayt6m",
+  "name": "OneForArt #1332 - French Lilac",
+  "description": "A French Lilac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiedslcgyvmdcs7fms26v7uzympecxpwm4sglzdecbjjej4se5psgy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "French Lilac",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1332,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECC7EE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 199, 238)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiewrpywf6n6dxrtb2nvrqxfhkxrjkdrcxeojsa3wrt2sciowwecfi",
+  "name": "OneForArt #1153 - Yellow Orange",
+  "description": "A Yellow Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaztusgfkoe4aput7bjk4x4fv2y2fk36yub6i3pmzgukrjwdohdxi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow Orange",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1153,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFAE42",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 174, 66)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

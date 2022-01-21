@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcvfuqsuwc3dhnictaxzhxjkvyuvuzksccr356xajwpg6zuo3zlq",
+  "name": "OneForArt #58 - Tea",
+  "description": "A Tea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiggntjojuv4mkjgggbecys6ulml7sswyb5b5rmwh3rkjnxgujdboq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tea",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 58,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1BAB0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 186, 176)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

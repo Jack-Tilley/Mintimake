@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidg7jnp2vjghueruovyfoxt7yty7j2ongkwvu3bajex36yzdl6bea",
+  "name": "OneForArt #315 - Dull Lavender",
+  "description": "A Dull Lavender pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidi5hnpxpe4z44pmhwdsax7xaggbwoil3a6sx7rj54srmt7pa6zzi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dull Lavender",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 315,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A899E6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 153, 230)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

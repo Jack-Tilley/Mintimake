@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibfavp7hrk7hgzyq72gxsgmiwtpgn4bqktx4yni6dm2ayxn2ok5pu",
+  "name": "OneForArt #689 - Ecru White",
+  "description": "A Ecru White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigy7hu3ehjawb6aatqkifkhzkshffjw2xlbnisqcxtgtxspegwx7u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ecru White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 689,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5F3E5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 243, 229)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

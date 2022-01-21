@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifn5iffvxlf5e3hwkqcwec7xv75yu7zujm5pyluce3hzdnjkxr4qa",
+  "name": "OneForArt #562 - Minsk",
+  "description": "A Minsk pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid5yorjvrwwmszfupzzvugxwxj4z5a24omcvtqhgv7hnzcqup473i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Minsk",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 562,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3F307F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 48, 127)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

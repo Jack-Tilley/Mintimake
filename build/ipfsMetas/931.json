@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibybtqt5e6rwseg2o7lbutrfkk55hcyoxmngi72d2ubbnt4ikfgje",
+  "name": "OneForArt #931 - Goldenrod",
+  "description": "A Goldenrod pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreich4twyv4t4dxdjbkym22xigisflqougtebldpxoc665wg2ygzk3y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Goldenrod",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 931,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCD667",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 214, 103)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

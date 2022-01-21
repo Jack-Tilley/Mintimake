@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1565 - Pumpkin",
+  "description": "A Pumpkin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihuz5rb2avru27iiop4noec46qe2f6vj3shzzrjowi32pt7vas4nu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pumpkin"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1565"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF7518"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 117, 24)"
+    }
+  ]
+}

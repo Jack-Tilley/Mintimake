@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicmyy5twmrojtqoh5cvsoquod7rrej6wxtbfrvjp4wdmowqpmmk7e",
+  "name": "OneForArt #800 - Pine Glade",
+  "description": "A Pine Glade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihrjvbu5m32yv7a2743btepclk2fbhgcpii7uv65zv3vslnxy6edi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pine Glade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 800,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7CD90",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 205, 144)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighgwect6affmtif2p7yi4blt75fribe3svwog6zc3pfta5c3kx6u",
+  "name": "OneForArt #1072 - Melanie",
+  "description": "A Melanie pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibthocfxdumb3zrx2ycsujya4i4q6k5oihckxolkxr262jq5gkifa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melanie",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1072,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4C2D5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 194, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

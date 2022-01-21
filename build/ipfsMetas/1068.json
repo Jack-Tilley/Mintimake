@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiampe6tvgqf4lqvtkls24apvd4f2lkjnjr5qpw6uwwjotnuoiwdmm",
+  "name": "OneForArt #1068 - Clover",
+  "description": "A Clover pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnotogeuljyzh6pu7wunfznq2vmd67m22ujemsdownc7h57p77em",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clover",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1068,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#384910",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(56, 73, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

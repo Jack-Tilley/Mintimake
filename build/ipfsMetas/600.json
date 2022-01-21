@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiafbs3c36r2swkopkuu3s3pynpcuxaklfkypdzz7ski2isljoiv4u",
+  "name": "OneForArt #600 - Amour",
+  "description": "A Amour pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3cvchw2wu5fquhptpcj4uk4k2oicjjbabtjw3xwqm25ddcfkz7e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amour",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 600,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9EAF3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 234, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

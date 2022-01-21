@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiava7fbmf2nzuv37vbnrpkz56ojqhtzgxzx6vpc4hksgmymnupmdq",
+  "name": "OneForArt #460 - West Side",
+  "description": "A West Side pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic6rokeglbgbtbf3yvb267v3ewz6jacgkembb2f4ihg7pucn5t6wa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "West Side",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 460,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF910F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 145, 15)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

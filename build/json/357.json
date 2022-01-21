@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #357 - Lola",
+  "description": "A Lola pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqsvyex74sj3onzygaeazqtatbw2x36twggb2lt2eklxpzlrasjy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lola"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "357"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFCFDB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 207, 219)"
+    }
+  ]
+}

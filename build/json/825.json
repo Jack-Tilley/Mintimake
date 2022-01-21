@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #825 - Pacifika",
+  "description": "A Pacifika pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicyshkcnyxk4zt6ttjh2q6a52fxmedlxbpxp2k6r3pxpp6ls6647q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pacifika"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "825"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#778120"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 129, 32)"
+    }
+  ]
+}

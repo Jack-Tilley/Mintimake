@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #373 - Himalaya",
+  "description": "A Himalaya pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidm5m5aaqiampyfhektdpqoohuejk2lhjix26by3ahpbpwdgluija",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Himalaya"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "373"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6A5D1B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(106, 93, 27)"
+    }
+  ]
+}

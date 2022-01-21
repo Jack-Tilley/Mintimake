@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #784 - Strikemaster",
+  "description": "A Strikemaster pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibaivpynf7xdc2vyoqpndjcebnvfp6ay6mntz3e67tfcp77urevxe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Strikemaster"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "784"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#956387"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(149, 99, 135)"
+    }
+  ]
+}

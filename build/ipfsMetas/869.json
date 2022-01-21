@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigf5tsnav677hpdgencj7662d6qp42ikbfon33yv64z2tmaowzmwe",
+  "name": "OneForArt #869 - Chartreuse",
+  "description": "A Chartreuse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib7lo7dskxudrtkaztxffmuyj4pw374qp4jhlyslk4esialopkxny",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chartreuse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 869,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7FFF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 255, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifecvggeogdew52g2inc7g7bi5ed4xehbfztw4bamgebhjfenldg4",
+  "name": "OneForArt #1080 - Violent Violet",
+  "description": "A Violent Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjdakept2xrysgohmfjexdlw55jwjlgf3xllwzbqhfriqfm5engi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violent Violet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1080,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#290C5E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 12, 94)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

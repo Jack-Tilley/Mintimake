@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #70 - Tabasco",
+  "description": "A Tabasco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihe2ez2tefw4oqulhdmc7p25redxxwi4vm3ltmrtfrchs47h2ngwm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tabasco"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "70"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A02712"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(160, 39, 18)"
+    }
+  ]
+}

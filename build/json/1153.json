@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1153 - Yellow Orange",
+  "description": "A Yellow Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaztusgfkoe4aput7bjk4x4fv2y2fk36yub6i3pmzgukrjwdohdxi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1153"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFAE42"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 174, 66)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibqtclrmomksel2ntav4l7xdeebmab3xd4dt2hudcw6g722y3rose",
+  "name": "OneForArt #591 - Thistle Green",
+  "description": "A Thistle Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif7ovo7btxk7cm524f7yiqbztlwjdsytgymy5y7qup4j2vuvt3qiq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Thistle Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 591,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CCCAA8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(204, 202, 168)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

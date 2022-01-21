@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #897 - Willow Grove",
+  "description": "A Willow Grove pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieimusvskelhw7st4ksiuee74zyx2vw3zaqwfk4qbl4ublxzvnwfu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Willow Grove"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "897"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#65745D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 116, 93)"
+    }
+  ]
+}

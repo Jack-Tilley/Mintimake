@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihfyyu2mlljjb2xr22qef4dc76yfxfqrcu5zofo2tt4djllyoireq",
+  "name": "OneForArt #495 - Feta",
+  "description": "A Feta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaslncq4xrl3pjtomq27pfrmq6d2kfer252zykt5zeokrdpksxwge",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Feta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 495,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0FCEA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 252, 234)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

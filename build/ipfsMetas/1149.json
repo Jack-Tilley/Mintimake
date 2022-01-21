@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihjbgebguvvcnq473iklwbp7j2akddrivqpq4v7hxsp3uicbxrvlm",
+  "name": "OneForArt #1149 - Cold Purple",
+  "description": "A Cold Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreighmtxefcy77eben5fchdunplw6qwvytdrv7v64gyxg3wrc6be6qi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cold Purple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1149,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ABA0D9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 160, 217)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

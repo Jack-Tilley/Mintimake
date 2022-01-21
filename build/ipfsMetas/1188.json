@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig3ukeli2wovijjbp6uvsgg5st3m354otj4z427i6vybemau5pqjm",
+  "name": "OneForArt #1188 - Tonys Pink",
+  "description": "A Tonys Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4odwhtprmthsi6ytcjwp5nuzewdjcyvwrwzqdq2y2bl6umdycnm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tonys Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1188,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E79F8C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 159, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

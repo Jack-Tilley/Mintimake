@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiejdnnvsahu7oq6h6fw4snl3r3c37vlyhzq5u7h2uj42ftmrvxw6y",
+  "name": "OneForArt #283 - Bitter",
+  "description": "A Bitter pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidsusry672lng2kvktxpfbgk5emssw4ehjsgvhyeo2ln7kwatenuu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bitter",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 283,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#868974",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 137, 116)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

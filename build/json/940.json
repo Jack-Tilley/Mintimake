@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #940 - Old Lace",
+  "description": "A Old Lace pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicxoa3yasrvg27vh4xa3wygoxhbnyomraluvpvq5ts3kdvviblypq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Lace"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "940"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDF5E6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 245, 230)"
+    }
+  ]
+}

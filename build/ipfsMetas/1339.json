@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibkqjzoh2x4zbypmgz5dgkfvuwbkcpj6ai6g7n4vy5wuttribecie",
+  "name": "OneForArt #1339 - Coconut Cream",
+  "description": "A Coconut Cream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih3tbhuld33sfypxhfutjmgjohhubekzc2vafmhezenk3l7w66uzq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Coconut Cream",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1339,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8F7DC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 247, 220)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

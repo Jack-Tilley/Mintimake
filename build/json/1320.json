@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1320 - Pizazz",
+  "description": "A Pizazz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibm6lpkf2b25la3xweiipeo74b2lma6dbb6v7tm4lrin5q2uoxy3a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pizazz"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1320"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF9000"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 144, 0)"
+    }
+  ]
+}

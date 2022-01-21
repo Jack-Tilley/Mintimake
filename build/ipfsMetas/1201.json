@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie5mgbojnfcnm3xjho7j6ky3nqkxpckg5aghfxc2wekx7wvpecg2y",
+  "name": "OneForArt #1201 - Espresso",
+  "description": "A Espresso pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiflwbdlomweactl5f27q45uuweqydjib3hkbrtnv2df453k7i3iui",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Espresso",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1201,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#612718",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(97, 39, 24)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

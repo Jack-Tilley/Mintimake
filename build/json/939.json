@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #939 - Mortar",
+  "description": "A Mortar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzzqzw7e5pdtogigop7sllbgjth54b7gkoeuakza2ehwygonus4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mortar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "939"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#504351"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(80, 67, 81)"
+    }
+  ]
+}

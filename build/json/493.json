@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #493 - Buttercup",
+  "description": "A Buttercup pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkjokjz4t2myyx6xw7m3uct52vrg7eohwrmhgoqkllcegpqozb2q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buttercup"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "493"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3AD16"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 173, 22)"
+    }
+  ]
+}

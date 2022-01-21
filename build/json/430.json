@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #430 - Mulberry Wood",
+  "description": "A Mulberry Wood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6waqftytyftsfa5kvv3rp7akjuwrecapr7kovgigi3vwebuaovi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mulberry Wood"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "430"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5C0536"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(92, 5, 54)"
+    }
+  ]
+}

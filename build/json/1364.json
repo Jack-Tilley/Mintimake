@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1364 - Twine",
+  "description": "A Twine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagr3y2z2l4hnkomioms7ogg755zyc73trwv7mqbaxdqifpkbljla",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Twine"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1364"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C2955D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(194, 149, 93)"
+    }
+  ]
+}

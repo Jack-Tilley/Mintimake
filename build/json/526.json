@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #526 - Rustic Red",
+  "description": "A Rustic Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefasmrz4ln43cxwjg5uxpqwqxakjaxzcv4zgfpelmajprqrb764i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rustic Red"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "526"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#480404"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(72, 4, 4)"
+    }
+  ]
+}

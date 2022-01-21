@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiasqzgnsh4phnm4cnfuwoajmc3epbpws5jpt6qaih6aqoz265v7t4",
+  "name": "OneForArt #442 - Chicago",
+  "description": "A Chicago pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifp27w3wb2gk5ogpeqhugyw5itex2dwdnirbvnyuvba4wbpohdmcm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chicago",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 442,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D5C58",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 92, 88)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

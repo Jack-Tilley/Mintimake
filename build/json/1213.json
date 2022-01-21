@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1213 - Beauty Bush",
+  "description": "A Beauty Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic47ivomoscaxhkr5bceclckw522w5waqzzywln2tre3y2oz2r3my",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beauty Bush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1213"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEC1BE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 193, 190)"
+    }
+  ]
+}

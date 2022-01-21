@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifbtm2w3anvz6hbnnweesygiuzj6j5ixupm5n2y6bjrh3nevdjos4",
+  "name": "OneForArt #485 - Mandalay",
+  "description": "A Mandalay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigphfofcqmbs63ntxsu77ipsmhofcgn2gfiwfvauefdwwfsifjz4i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mandalay",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 485,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AD781B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 120, 27)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

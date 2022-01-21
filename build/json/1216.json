@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1216 - Black Rock",
+  "description": "A Black Rock pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicivjxzgptw5otooiehv6wfxnd3sjoihrijlyuy3lxrlortmyuudq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Rock"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1216"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0D0332"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(13, 3, 50)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #26 - Reef",
+  "description": "A Reef pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig3aofjwysvs6gmlkyonkihpzj6mxqugu5owjwd3loftrlgfikwra",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Reef"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "26"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9FFA2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 255, 162)"
+    }
+  ]
+}

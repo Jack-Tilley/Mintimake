@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaanrftsmnuk354b3v6e3m7rb73b2a7r5ahyzjxzzzroj7apqip7q",
+  "name": "OneForArt #470 - Atomic Tangerine",
+  "description": "A Atomic Tangerine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic2vfovqhxv2c7pt7naygnxq7lx7qqjyj2f7xni3qzcqxebmlwbdu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Atomic Tangerine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 470,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF9966",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 153, 102)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

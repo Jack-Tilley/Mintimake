@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #267 - Pink Swan",
+  "description": "A Pink Swan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic6w5a4hevrqgk5smmewvk2t4dwpqma6cypgzfxun3jiyrfhuwg5m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink Swan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "267"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BEB5B7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(190, 181, 183)"
+    }
+  ]
+}

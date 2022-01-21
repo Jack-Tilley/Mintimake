@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieuwsduizjep3olez2kuh5mc2cb67d5yp7hsvcqaharwxyefdcqeu",
+  "name": "OneForArt #1464 - Jordy Blue",
+  "description": "A Jordy Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibn35ny6kwy5tk45qm65nzl5druz74rn7asnie6ee7ikesgcec7xy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jordy Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1464,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8AB9F1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 185, 241)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

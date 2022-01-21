@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiabq47q2qtjan5sglrmeoxar655wmys6oou5nhd23f3tevklb5zeu",
+  "name": "OneForArt #1020 - Venice Blue",
+  "description": "A Venice Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreighjhgnrojlvjmrsrzjtvt3yhnagrc7ckpclpx2kpbo4rmgdgqtta",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Venice Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1020,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#055989",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(5, 89, 137)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

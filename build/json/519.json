@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #519 - Quarter Pearl Lusta",
+  "description": "A Quarter Pearl Lusta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig72ttmsjq365iwl3iflk57fpawwuo663srwijyzzlw2bee7k4pri",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Quarter Pearl Lusta"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "519"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDF4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 244)"
+    }
+  ]
+}

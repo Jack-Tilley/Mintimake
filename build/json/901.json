@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #901 - Olive Green",
+  "description": "A Olive Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidxnq7ilv26j56zzic3dghwfvlvulpd5q4klxsooy24kfwe5xlyyy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "901"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B5B35C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(181, 179, 92)"
+    }
+  ]
+}

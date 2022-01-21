@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #256 - Orange Roughy",
+  "description": "A Orange Roughy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgjc2uyidgbbixodxdan4h7cpki7m4xv4ftly4vverfiw4nellvq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orange Roughy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "256"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C45719"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(196, 87, 25)"
+    }
+  ]
+}

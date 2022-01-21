@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiddq4czhf67zq2vxrh5t35xd6qalhsua5aa75g7uut3m2tkullo5y",
+  "name": "OneForArt #877 - Catskill White",
+  "description": "A Catskill White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2ngt2x7d3wf6ftxjpauxbxaanrpith4zcj7a5sbv2enevd6fjfi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Catskill White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 877,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEF6F7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 246, 247)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

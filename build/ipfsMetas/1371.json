@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig2cvfewj34nmr5v4b6vuwpyzszy2ywrbqx52sexcwi2hjtkwnj6q",
+  "name": "OneForArt #1371 - Korma",
+  "description": "A Korma pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfe2knbwubama2zjap5p2bqq73ucvjd5n3sgajbxrdo3uvsm5f4u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Korma",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1371,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8F4B0E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 75, 14)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

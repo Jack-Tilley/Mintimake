@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #234 - Moon Raker",
+  "description": "A Moon Raker pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiglz6x2hptv4uuivrqnzflzx3zk3ayygnhpyhj5jpjoxrmgh3mdhy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moon Raker"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "234"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D6CEF6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(214, 206, 246)"
+    }
+  ]
+}

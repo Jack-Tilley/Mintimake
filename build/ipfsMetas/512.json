@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibugmydetbppvcuyz7a3p374we37vjvega7anih3anbpch3qfgwve",
+  "name": "OneForArt #512 - Clay Creek",
+  "description": "A Clay Creek pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5owninyxsnowkmpask5xrdrfgfheznjwb3gu4vsja5poiho4jtu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clay Creek",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 512,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8A8360",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 131, 96)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

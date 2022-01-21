@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihmhctmvppbwnlx5iybubeq3qcxo7l7gsybbdycklvzzvkq6o6nmu",
+  "name": "OneForArt #1440 - Pale Leaf",
+  "description": "A Pale Leaf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifh2zchfbvr5bdtt6lcihzlyhfxa3kv7zc4k7vch2i2khkm3u7uya",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Leaf",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1440,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C0D3B9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(192, 211, 185)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

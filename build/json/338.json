@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #338 - Hawkes Blue",
+  "description": "A Hawkes Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibyo7t6xqjpw237n6lzi5t33ql67hnmndkyrpxfvqyo2pq3x4bz34",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hawkes Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "338"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4E2FC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 226, 252)"
+    }
+  ]
+}

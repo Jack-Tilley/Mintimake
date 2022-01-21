@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #80 - My Sin",
+  "description": "A My Sin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieaphpsftjh3f5zrqq74eahg62cv3fkydqfcn62xsp6negdew7bhi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "My Sin"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "80"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB31F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 179, 31)"
+    }
+  ]
+}

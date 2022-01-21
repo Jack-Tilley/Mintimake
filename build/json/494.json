@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #494 - Sauvignon",
+  "description": "A Sauvignon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiainfavy4jiwdmdqnpmugvdtdcdqsrhwqrnt345h4xq7ocrryhww4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sauvignon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "494"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF5F3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 245, 243)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1045 - Acadia",
+  "description": "A Acadia pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih4vua2q42vygqzijnpdpmp62yemllhmznh3hln2xf2epcjzkbhs4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Acadia"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1045"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B1404"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 20, 4)"
+    }
+  ]
+}

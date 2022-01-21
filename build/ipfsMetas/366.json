@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicvlghatxnczi4zanetiy4htz4isr75d3hj6rfb5zyvxpwu4cvstq",
+  "name": "OneForArt #366 - Monza",
+  "description": "A Monza pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreianjc46lefaakqzrpxxxuzbqhxta4o3246eaholbvc24yfc5hlooi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Monza",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 366,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7031E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 3, 30)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

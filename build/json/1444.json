@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1444 - Trout",
+  "description": "A Trout pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiarni7srwef27tie7qh6etbe6zwuexsxdqous67vlekcjpouqa3zi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Trout"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1444"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A4E5A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 78, 90)"
+    }
+  ]
+}

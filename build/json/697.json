@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #697 - Lochmara",
+  "description": "A Lochmara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidpjuaqbql2nnzlen5t4nkpwnjtp6lafse23wjkaoozgjjiaex2je",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lochmara"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "697"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#007EC7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 126, 199)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1139 - Stratos",
+  "description": "A Stratos pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajvvzjtcgrc6my5bjy4ly7w5vfsr24t3rukhwgwkfb5ia2y6tzlu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Stratos"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1139"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#000741"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 7, 65)"
+    }
+  ]
+}

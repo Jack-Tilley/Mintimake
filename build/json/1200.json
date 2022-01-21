@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1200 - Coral Tree",
+  "description": "A Coral Tree pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifsogn3r4kxaal5bje33tgpamznk342vorvhhpptyjx7cfvbfdnte",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Coral Tree"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1200"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A86B6B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 107, 107)"
+    }
+  ]
+}

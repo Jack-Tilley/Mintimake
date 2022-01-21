@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #694 - Finch",
+  "description": "A Finch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidt47mfznrltxl3wbep6lqnszjwyd6nxpc3phd4w6pxf3m7372dgi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Finch"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "694"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#626649"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(98, 102, 73)"
+    }
+  ]
+}

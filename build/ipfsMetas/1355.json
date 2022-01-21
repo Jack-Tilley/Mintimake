@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidj2crzvztcubbntntz5cez6gwqfnn7v63kq6gbx2vsrksnvfywjq",
+  "name": "OneForArt #1355 - Celery",
+  "description": "A Celery pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzbuspejnzc4bdchirqeizaig5jgr57bk4552jhziaimcz6ioqea",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Celery",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1355,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B8C25D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 194, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #438 - Blue Marguerite",
+  "description": "A Blue Marguerite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxppsuvegocxcgqscnty3vc43h7po3jcmyjr27rrseoe5sfe5vo4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Marguerite"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "438"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7666C6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(118, 102, 198)"
+    }
+  ]
+}

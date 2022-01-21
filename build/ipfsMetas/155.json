@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidmmk3zvrfpzqlv5ais565zshbaxybhhsrbmxjfl5dpea32yysrbq",
+  "name": "OneForArt #155 - Schooner",
+  "description": "A Schooner pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic4u3wfeidwlghvbgfxwttulrwsz7xafltvs5g4fbdqaxoj3uws3u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Schooner",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 155,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B847E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 132, 126)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

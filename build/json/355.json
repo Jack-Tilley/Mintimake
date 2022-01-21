@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #355 - Pigeon Post",
+  "description": "A Pigeon Post pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtn7sjgto4we6iy3s4zktmfsv7eh5i7nxuzvcp46ih6kmjgq52y4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pigeon Post"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "355"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AFBDD9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 189, 217)"
+    }
+  ]
+}

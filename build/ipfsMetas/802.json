@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreift6dayoa636bqm5fwheopfumaozmuz2xwlo5nkvkwccadbhxzrri",
+  "name": "OneForArt #802 - Bismark",
+  "description": "A Bismark pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvnfyibsxh3d4vqjijzwooirtw53vmjjj2clgy2fxroppgvaif5m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bismark",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 802,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#497183",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 113, 131)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

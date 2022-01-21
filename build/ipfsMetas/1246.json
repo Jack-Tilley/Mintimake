@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihy4jjqlwb7kg66xopk34a2346kl3jzrplhh45jqickmzb4n3sif4",
+  "name": "OneForArt #1246 - Golden Fizz",
+  "description": "A Golden Fizz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaf3qgnrxevxzutds3ffvkee7uogarspagx4z4xbe6s7polmnepu4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Fizz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1246,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5FB3D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 251, 61)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

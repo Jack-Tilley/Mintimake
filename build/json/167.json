@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #167 - Port Gore",
+  "description": "A Port Gore pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieek2da4e36l2tzycoz73s5djfp2lmfwrwujcimjwayb65ncixd44",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Port Gore"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "167"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#251F4F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 31, 79)"
+    }
+  ]
+}

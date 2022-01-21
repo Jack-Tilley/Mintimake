@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #308 - Black Olive",
+  "description": "A Black Olive pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieggyn7k4afg35yn3oahackjky2rdto45d6lw5ouwnyefuqrso3ry",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Olive"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "308"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#242E16"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(36, 46, 22)"
+    }
+  ]
+}

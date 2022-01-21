@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #976 - Wild Willow",
+  "description": "A Wild Willow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiau7xxc23stwrjw5sd3yupefquqw6pyvkqqmyvtqcczqsndgkhveq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wild Willow"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "976"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B9C46A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(185, 196, 106)"
+    }
+  ]
+}

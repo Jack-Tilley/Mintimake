@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1369 - Alto",
+  "description": "A Alto pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6rngczxnvptszj5cpaq4fy3ocaxdqkupfw2eed6k4wwukc2grna",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Alto"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1369"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DBDBDB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(219, 219, 219)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #17 - Scampi",
+  "description": "A Scampi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoi74tilvigq5h6aup7eqlt72ylyhfj3xlxac2lare5cxlt4ke5u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scampi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "17"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#675FA6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(103, 95, 166)"
+    }
+  ]
+}

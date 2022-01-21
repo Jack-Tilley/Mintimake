@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidrpxcybf5hnaxbsksusdc5x72nfizrvf5mjibgyxqxslbnb3f2oe",
+  "name": "OneForArt #418 - Kournikova",
+  "description": "A Kournikova pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbf7r5yo2muhfohzvyomgjautl3rikui7hirae2eq36nb47erhg4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kournikova",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 418,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE772",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 231, 114)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

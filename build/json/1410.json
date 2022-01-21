@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1410 - We Peep",
+  "description": "A We Peep pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifmt2b3bdfqz3pusvaqscmuvrvpdae33ii4sycv3hwh3fz4rznhha",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "We Peep"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1410"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7DBE6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 219, 230)"
+    }
+  ]
+}

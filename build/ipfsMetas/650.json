@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih7mvpx2jguomzme4ijah3t24n5bjm2i2gibeqnwlbjucv46nflfq",
+  "name": "OneForArt #650 - Bistre",
+  "description": "A Bistre pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibgyq5bklxgaz32r44blam3eqfyt6h6prjpieabxjc7wqdaexe7re",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bistre",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 650,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3D2B1F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(61, 43, 31)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #610 - Blackberry",
+  "description": "A Blackberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihptbszp6q7qmmgyvyzppsffctkgbzltoouci723var55s6k6m5ue",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blackberry"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "610"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D0135"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 1, 53)"
+    }
+  ]
+}

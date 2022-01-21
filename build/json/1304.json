@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1304 - Sanguine Brown",
+  "description": "A Sanguine Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvw3pp6spub7gxd4u3a244qy7rp4fbbfzof5grgtiedaalsj6a7y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sanguine Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1304"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D3D38"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 61, 56)"
+    }
+  ]
+}

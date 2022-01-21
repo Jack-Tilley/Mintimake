@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1011 - Fun Blue",
+  "description": "A Fun Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieq26kuiki2nn4zbc2guxxe4kp3pqwx6wm4nhji57567bcox7lmxa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fun Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1011"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1959A8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(25, 89, 168)"
+    }
+  ]
+}

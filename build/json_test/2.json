@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #2 - Night Shadz",
+  "description": "",
+  "file_url": "https://ipfs.io/ipfs/bafkreibittuhj75g7mwbjhtwiy72j436qq6mdfdzf2ydle5fo2rf3xkuva",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Night Shadz"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "2"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AA375A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 55, 90)"
+    }
+  ]
+}

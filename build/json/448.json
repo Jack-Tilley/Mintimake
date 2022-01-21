@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #448 - Egg Sour",
+  "description": "A Egg Sour pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic44umzeitdjl4wqunewg6y6di63j4ng5dlsnpzuwvytejjlux65e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Egg Sour"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "448"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF4DD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 244, 221)"
+    }
+  ]
+}

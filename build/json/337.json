@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #337 - Amazon",
+  "description": "A Amazon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieeuwzcgjjwtasu7xk2sa4t35qvikx4bm4fvr477mfky5id6a3agi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amazon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "337"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3B7A57"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(59, 122, 87)"
+    }
+  ]
+}

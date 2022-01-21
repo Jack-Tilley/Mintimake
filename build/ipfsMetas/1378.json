@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiemameanxrunac4qozkgsmzvin3pcrt52cgsp2npehqqdyluvd2ri",
+  "name": "OneForArt #1378 - Keppel",
+  "description": "A Keppel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicoicv3scxt5oybkzjpz2c4qp4i6g2sivr2aotho4tbhrwxeygcqa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Keppel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1378,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3AB09E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(58, 176, 158)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

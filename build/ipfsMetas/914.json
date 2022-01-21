@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig4ehf5frmlqo7e7o6wjtv64hnhkgr3diusee7ywqwb3b5v6f3qje",
+  "name": "OneForArt #914 - Antique Brass",
+  "description": "A Antique Brass pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifewcw3cv2ypzyihdniw5szv3sq5h5g4uiyscdwh4psrbaj7abxcu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Antique Brass",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 914,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C88A65",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 138, 101)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

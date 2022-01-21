@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #875 - Mint Tulip",
+  "description": "A Mint Tulip pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie2kfhlo4tk6votpfybswzuvpodqxdrrwnwvfbyzl2cfozyw3dmfi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mint Tulip"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "875"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C4F4EB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(196, 244, 235)"
+    }
+  ]
+}

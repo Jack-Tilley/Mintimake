@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1226 - Victoria",
+  "description": "A Victoria pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibovoibtoa2sobqg5bwvead7pzrrlsl2yy5mumm7pn6butk6wxhsa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Victoria"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1226"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#534491"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(83, 68, 145)"
+    }
+  ]
+}

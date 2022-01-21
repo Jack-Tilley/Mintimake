@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiemgab3erzt7l5cm3egwpafcqthlk6fpuzl4eewfsck2iaqws2coy",
+  "name": "OneForArt #605 - Royal Purple",
+  "description": "A Royal Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjluzrvscpnrnzc2sp2fea72qn3pmsmazoi2cwabpqsg25pmzhk4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Royal Purple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 605,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6B3FA0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(107, 63, 160)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicxs532kgfvfh7up55iaodlmf55at3o7l35wxa2nlaxsd4zf7jgxq",
+  "name": "OneForArt #1253 - Gordons Green",
+  "description": "A Gordons Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibredf6svmxv2qoc6jvxlhxno62b2lx3txl6cldt2g5phhuh6kbje",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gordons Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1253,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0B1107",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(11, 17, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

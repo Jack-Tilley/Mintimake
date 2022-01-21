@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidhjtogq7na4znk6ijofcxyre5xvdl5pogtqhd6vbnvfedaoolpn4",
+  "name": "OneForArt #846 - Deep Bronze",
+  "description": "A Deep Bronze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwrc2lmrdmrjj4ssahs7zffgwghca7qrkkjjfdqx33zgrqmgxwjm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Bronze",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 846,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A3004",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 48, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

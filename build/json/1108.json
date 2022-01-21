@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1108 - Oslo Gray",
+  "description": "A Oslo Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihyzi2xskhim4v3m4ai6xzycqzgby7ch5sew4fudc55tfdythfp74",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oslo Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1108"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#878D91"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 141, 145)"
+    }
+  ]
+}

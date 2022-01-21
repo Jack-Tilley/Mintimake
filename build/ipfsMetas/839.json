@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibpusdfxn6nkprr5lttm4c32d4jzhadggcpwdihx7rokphktikrn4",
+  "name": "OneForArt #839 - Gin",
+  "description": "A Gin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreienprhwwswf3vwypqetwed66wv6yf2nermjcez7ttj5nrtj5jhiri",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 839,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E8F2EB",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 242, 235)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

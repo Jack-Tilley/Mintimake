@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1404 - Burnt Maroon",
+  "description": "A Burnt Maroon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihhc3levgvj3twky6a6v4uwq5q3ogsdem63znfzbe732rgaa7f2lu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnt Maroon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1404"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#420303"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(66, 3, 3)"
+    }
+  ]
+}

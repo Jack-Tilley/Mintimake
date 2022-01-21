@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #883 - Pink Lace",
+  "description": "A Pink Lace pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic3gwrfz4b5vnc6oxy57lv7acrjysqs3qck3po4tt7qup52udqs5u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink Lace"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "883"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDDF4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 221, 244)"
+    }
+  ]
+}

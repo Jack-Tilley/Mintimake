@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie5zxhk2mapfo7rq2dynfzbc3rbunfvlr3dcqpw7ithi5dhxqpkxu",
+  "name": "OneForArt #1109 - Bottle Green",
+  "description": "A Bottle Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifinbtg7cc664646spir7zmdurxw6wlqvhurb6scvvzmru5msgk6u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bottle Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1109,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#093624",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(9, 54, 36)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

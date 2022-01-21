@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1203 - Clay Ash",
+  "description": "A Clay Ash pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicseuej7jttoun4fvhxlcw74pvtw2s6526xife3apfzezuknojpkq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clay Ash"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1203"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDC8B3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 200, 179)"
+    }
+  ]
+}

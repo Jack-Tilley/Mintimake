@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib66jlsg6jdbpdgyxvpylswrb2xf6v5h6ov7bxiqioj3gfxdee5zu",
+  "name": "OneForArt #861 - Hint of Red",
+  "description": "A Hint of Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefgcsc2yqejkyk7c2ikgix77iirvilzrx5jykmrmsefrczn5qxii",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hint of Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 861,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBF9F9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 249, 249)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

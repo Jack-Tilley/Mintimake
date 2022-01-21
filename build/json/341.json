@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #341 - Brown Rust",
+  "description": "A Brown Rust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigalwpcvte24hprjrs6gbebnaazjklriqqchxkcqodfyeshptzeey",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brown Rust"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "341"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF593E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 89, 62)"
+    }
+  ]
+}

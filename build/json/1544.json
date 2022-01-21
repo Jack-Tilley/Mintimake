@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1544 - Dust Storm",
+  "description": "A Dust Storm pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidliu3w32v7wvzrj55qe4xlormzpiw46xwlk6y3lnoybzsl26tcwe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dust Storm"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1544"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E5CCC9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 204, 201)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia57hpjcadumiix56fhfsq3m5icozcnl33y4drcg24yty6ealmeti",
+  "name": "OneForArt #1232 - Mosque",
+  "description": "A Mosque pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidcbjl55c5obj26r6eb3m4ujdz2ry7vho3wjtuqkke7734i76je3q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mosque",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1232,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#036A6E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(3, 106, 110)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibipi7jzwrdjgpfxr7yme2pc3klg3xrr7r4id6k2wogwcfjluz7u4",
+  "name": "OneForArt #483 - Rosewood",
+  "description": "A Rosewood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6y2obc2nxarwtswbp6dbeebwdbohpvzljjbqofia32xljg5j5au",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rosewood",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 483,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#65000B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 0, 11)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

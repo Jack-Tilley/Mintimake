@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifsw4jw6jdn4ospp7sdhu65sbhr3f2ucpe7avgw2oawnw7yufubnq",
+  "name": "OneForArt #731 - Merlin",
+  "description": "A Merlin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicochrsel5upmgvd4i3pnqoyw2oevyppsyneirn4lhhbuaf3vh4ym",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Merlin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 731,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#413C37",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 60, 55)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

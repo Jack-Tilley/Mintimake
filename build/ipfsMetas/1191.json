@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid5diopzpqlm2tfhjzp2l5xydifzegt647sh3mbbyzkbli6bptave",
+  "name": "OneForArt #1191 - Dark Burgundy",
+  "description": "A Dark Burgundy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7vvcz5pjvyt2yr5if7znyvmx6uzldc7p6vkes62ajhd6ct5dmii",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Burgundy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1191,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#770F05",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 15, 5)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

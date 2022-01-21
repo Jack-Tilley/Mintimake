@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighbchsbbgtomrkvhzih2h43tgu4vwxgsvanolt6dbappbi7iel5m",
+  "name": "OneForArt #990 - Spring Rain",
+  "description": "A Spring Rain pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifvp7mwffjdylnb2gc2uixp3xn3qtifd535i6uznf65hkub6vfaim",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Rain",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 990,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACCBB1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 203, 177)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

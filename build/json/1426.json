@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1426 - Black Haze",
+  "description": "A Black Haze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidyquyo4vwto3iqc4vqgbww6xqza4irheylkubm23g3a4fpchuuhq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Haze"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1426"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F6F7F7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(246, 247, 247)"
+    }
+  ]
+}

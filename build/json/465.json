@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #465 - Limed Ash",
+  "description": "A Limed Ash pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiea3zstvo22mxetywale4m5u4h7a32axddgdki26olsw56dhrozry",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Limed Ash"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "465"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#747D63"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(116, 125, 99)"
+    }
+  ]
+}

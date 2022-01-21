@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihng7wc7wb5ungzvui3nlotjqc5dofikffr2dcxf573e2vekdzq7y",
+  "name": "OneForArt #1099 - Rose of Sharon",
+  "description": "A Rose of Sharon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichcmwcnioy6aijvtk43c2rajl6afhxkhzlb6cqqrf6sfs2og7ega",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose of Sharon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1099,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BF5500",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 85, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigir2kmlts2ntbqoijrpn7jobsgvydm7sjfefu2vwrmpawwi4cs2q",
+  "name": "OneForArt #665 - Pearl Lusta",
+  "description": "A Pearl Lusta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih4fq2dkmuwxd7hndsbivhrp3zbydb7fhwzev3pdlfsnxa2hq4gly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pearl Lusta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 665,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCF4DC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 244, 220)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

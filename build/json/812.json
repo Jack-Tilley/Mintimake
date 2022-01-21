@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #812 - Corn Field",
+  "description": "A Corn Field pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibi6txphzonaht6fydz4b2eiti643k53zaedwcvumhxsbxktlds2m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Corn Field"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "812"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8FACD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 250, 205)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiagahgljaqhandewapwdm27nodm3xngpbdatko4okqvonl4rsjuxu",
+  "name": "OneForArt #362 - Green Leaf",
+  "description": "A Green Leaf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib4pcfhbidxqshp23zc4xqqmtssedergw7o6fyypinb226dretdyq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Leaf",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 362,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#436A0D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(67, 106, 13)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

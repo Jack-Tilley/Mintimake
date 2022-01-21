@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1248 - Crusoe",
+  "description": "A Crusoe pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia2qelbrvamkox2awnqhbci44ncabymnutzpdzyraaxeywhzdfbbq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crusoe"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1248"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#004816"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 72, 22)"
+    }
+  ]
+}

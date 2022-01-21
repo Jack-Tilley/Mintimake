@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig5ijze7qq6ecrlg5egw62hng4pc4aq3zsnpsedvbwy3kugciogfm",
+  "name": "OneForArt #44 - Blue Dianne",
+  "description": "A Blue Dianne pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieado6z4olayb6ktxe66pry2gp5a5dbj2jjv3kvnyo5uzvdxwb2l4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Dianne",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 44,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#204852",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(32, 72, 82)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

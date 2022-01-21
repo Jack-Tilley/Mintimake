@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #50 - Astral",
+  "description": "A Astral pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5slzvpenu3cuoryo4fpq5rxnm4nbq3ezxbi6jhlnipam3akwcb4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Astral"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "50"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#327DA0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 125, 160)"
+    }
+  ]
+}

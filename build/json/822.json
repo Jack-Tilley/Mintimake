@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #822 - Dell",
+  "description": "A Dell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifqvktmvez53ai55i5k4oal2tkcky7wju2gyezcdciba3cgvjxsdi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dell"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "822"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#396413"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(57, 100, 19)"
+    }
+  ]
+}

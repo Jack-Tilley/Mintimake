@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifcgc7kvj6ecdcx3ddatepfwaq7pwt2fkjjm5jmewi2japav26e24",
+  "name": "OneForArt #626 - Holly",
+  "description": "A Holly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbuwb4tmaxf3d54jqgvw2tcke647wssjgh6jpm3btjshbbmh5efu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Holly",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 626,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#011D13",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 29, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

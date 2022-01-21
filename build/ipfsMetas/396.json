@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihm7h6i5erx3rib64j4ql2kcw6j7fef3ukkeae46efcbvvmrrduhu",
+  "name": "OneForArt #396 - Black Pearl",
+  "description": "A Black Pearl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibwurjd5z3knst7w4yrfzn6rjlu73ghojxdczik42pel2lygzp3ea",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Pearl",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 396,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#041322",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(4, 19, 34)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

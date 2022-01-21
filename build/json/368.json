@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #368 - Taupe Gray",
+  "description": "A Taupe Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibqlkbl32il6woxgb6b5a4eex4bsf5y4kgx23w5f344ig77r7u4aa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Taupe Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "368"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B3AF95"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(179, 175, 149)"
+    }
+  ]
+}

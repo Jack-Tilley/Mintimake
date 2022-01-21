@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihga7czzzas5gdwcwpmte3ynxojhafy4iwogfrgjtwjsadijfjao4",
+  "name": "OneForArt #1219 - Faded Jade",
+  "description": "A Faded Jade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiehgkcuxuvs7oie5t5i5qvd3m5ru4srdptiimeimmhtwiz6lir4ay",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Faded Jade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1219,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#427977",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(66, 121, 119)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

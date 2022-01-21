@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1351 - Electric Lime",
+  "description": "A Electric Lime pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiczxdngsbsnq6lwebuypbc55exinl43osmc6iook4c5qgcmnyivcq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Electric Lime"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1351"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CCFF00"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(204, 255, 0)"
+    }
+  ]
+}

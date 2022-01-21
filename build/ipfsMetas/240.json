@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifdjpwijljtjmhvjh2d2k5wzkup5bktm5hiuveb5l3eoozkum2rl4",
+  "name": "OneForArt #240 - Bright Sun",
+  "description": "A Bright Sun pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7lxqbkb553yic6cdrvhpkytyzxxzjw5lean43vcbf6h2niavogi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bright Sun",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 240,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FED33C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 211, 60)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibk4q3pzta3xzuol6dwdhivgkxp2f3te4qzs5mdi7yxbss35lq7rm",
+  "name": "OneForArt #1399 - Desert Sand",
+  "description": "A Desert Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib63vfqlauk467jyluhneh422oesdvpzz2pmwglbpidxyfqsn3csm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Desert Sand",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1399,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDC9AF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 201, 175)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

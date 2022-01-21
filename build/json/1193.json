@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1193 - Cloud Burst",
+  "description": "A Cloud Burst pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigd5ov4g72sfekvtofcg65kp73ditdbii4qxfifob5jnpko4xrfaa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cloud Burst"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1193"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#202E54"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(32, 46, 84)"
+    }
+  ]
+}

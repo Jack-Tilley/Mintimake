@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #231 - Honey Flower",
+  "description": "A Honey Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftafaqi2c5dsda6tid2bid7rzx5lfsxyjqkyu3swfh4n5vrcoije",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Honey Flower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "231"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4F1C70"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 28, 112)"
+    }
+  ]
+}

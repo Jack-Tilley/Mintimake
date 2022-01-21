@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #764 - Pale Rose",
+  "description": "A Pale Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5wusbera3byczab23irpnhry522jsaz3weeby77xh2ktstdreum",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "764"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE1F2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 225, 242)"
+    }
+  ]
+}

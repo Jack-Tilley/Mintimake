@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1007 - Shamrock",
+  "description": "A Shamrock pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiai3sn755b55mv5re5yr3xrnxa62bmeasncvciqefhs73reygbewu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shamrock"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1007"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#33CC99"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(51, 204, 153)"
+    }
+  ]
+}

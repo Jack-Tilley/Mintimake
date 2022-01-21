@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifmzy57tprn3npfuycvh77gonzgppm7skaoaf57nuoczebdtcarfa",
+  "name": "OneForArt #705 - Derby",
+  "description": "A Derby pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibax3beezunnifscj2nh4kfk4jv5htftasmpn6yhnr2ynxblajqq4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Derby",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 705,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEED8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 238, 216)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

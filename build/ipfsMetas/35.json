@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieqjkk5zetojjt4luauraqansjjdnofocttumnnb5a3uhmf7eywji",
+  "name": "OneForArt #35 - Coffee Bean",
+  "description": "A Coffee Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibuzktyomb6o5oqknzyc3xb7vwk23r3g3ubkrjxrgfnfrsfgkqlzq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Coffee Bean",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 35,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2A140E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(42, 20, 14)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

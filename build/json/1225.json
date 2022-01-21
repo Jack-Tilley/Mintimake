@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1225 - Cape Palliser",
+  "description": "A Cape Palliser pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigs2zv5im5coaas6bluoan4ue6ri3hlht5mrakkiudt5ehklezs6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cape Palliser"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1225"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A26645"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 102, 69)"
+    }
+  ]
+}

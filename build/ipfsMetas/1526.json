@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiadqzhzoztaxuiawvh5jztwzgwkewvldwta5ecmenbm4tfmiv7vcy",
+  "name": "OneForArt #1526 - Denim",
+  "description": "A Denim pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxoh6k3vj2mwm45nr2va2zzsusq3jf5o6mywsc3i7gy57wlv2m4m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Denim",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1526,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1560BD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(21, 96, 189)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

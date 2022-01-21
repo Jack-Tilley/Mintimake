@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #230 - Jacko Bean",
+  "description": "A Jacko Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicz4xzboeyfforj452tjy3l45ccsuprux7hloj4vmxm5ddnm5ns2a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jacko Bean"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "230"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E1905"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 25, 5)"
+    }
+  ]
+}

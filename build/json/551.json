@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #551 - Hippie Blue",
+  "description": "A Hippie Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3mwvphyqdhubuagxvqz7rhzqhslxjr3wrt7a7jut67gbdoh242i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hippie Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "551"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#589AAF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(88, 154, 175)"
+    }
+  ]
+}

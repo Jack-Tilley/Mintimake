@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1015 - Axolotl",
+  "description": "A Axolotl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxhy525q2cfmsedzswh3hbvzlo45h253t74c2tivo4vtwoqw6jgi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Axolotl"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1015"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4E6649"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 102, 73)"
+    }
+  ]
+}

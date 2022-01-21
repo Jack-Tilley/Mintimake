@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #738 - Sun",
+  "description": "A Sun pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia7fh7gdzz27ofi6dfbxppf7dczrc7ozypaa4zwjzluo2qy7qtgwu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "738"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBAC13"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 172, 19)"
+    }
+  ]
+}

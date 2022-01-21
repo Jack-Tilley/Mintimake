@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #107 - Pink Lady",
+  "description": "A Pink Lady pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiheukxf6mey34nazph7o7ciicsxd4vq3kwzmi42iwpg6gjefekz7e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink Lady"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "107"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF1D8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 216)"
+    }
+  ]
+}

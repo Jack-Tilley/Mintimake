@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1445 - Geraldine",
+  "description": "A Geraldine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibbytr4x7vt2upkjmfntrjx4h5yp5vwvjb7i2rjtmdpjh7z53qb4q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Geraldine"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1445"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FB8989"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 137, 137)"
+    }
+  ]
+}

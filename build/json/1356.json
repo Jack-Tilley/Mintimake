@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1356 - Azalea",
+  "description": "A Azalea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjtfqjmqk3tvw47jliffr3oudc7mfapt7q6fjc35ivreurv2xwgm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Azalea"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1356"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7C8DA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 200, 218)"
+    }
+  ]
+}

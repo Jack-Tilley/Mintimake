@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #135 - Petite Orchid",
+  "description": "A Petite Orchid pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfzl377oke37ffet2bsz3dgdhsqsasteoiseau7qc7bbnvcfzdau",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Petite Orchid"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "135"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DB9690"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(219, 150, 144)"
+    }
+  ]
+}

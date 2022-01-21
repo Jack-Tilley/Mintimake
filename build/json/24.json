@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #24 - Early Dawn",
+  "description": "A Early Dawn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib33o755pwprostgih67igzh5en6phw7bdh2qmct3pdd7eogkfvua",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Early Dawn"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "24"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF9E6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 249, 230)"
+    }
+  ]
+}

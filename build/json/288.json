@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #288 - Forest Green",
+  "description": "A Forest Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigfgagztf5rg5rj3ci2a3vb3g4bn4pxtamcuawuswowppdlgk5tr4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "288"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#228B22"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(34, 139, 34)"
+    }
+  ]
+}

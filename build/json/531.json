@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #531 - Bulgarian Rose",
+  "description": "A Bulgarian Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaxi66gtkwkrdmkhzlmmfpdrnszksusqn2x3jdw5phnwv3oawzpfa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bulgarian Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "531"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#480607"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(72, 6, 7)"
+    }
+  ]
+}

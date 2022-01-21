@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1247 - Ice Cold",
+  "description": "A Ice Cold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicixzw2ieulgefmff3pn6ev6ikexxkmvjqlqdfalqpnp3dfjk3xc4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ice Cold"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1247"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B1F4E7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 244, 231)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #159 - Illusion",
+  "description": "A Illusion pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid2e5ajp7ctbms6ddrspfoatojsujmxrs2x6sagkgogmpakv62fem",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Illusion"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "159"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F6A4C9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(246, 164, 201)"
+    }
+  ]
+}

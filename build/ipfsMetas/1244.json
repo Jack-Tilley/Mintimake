@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiepf6fawueu4yee735zi6zbgucvtxkp3kuto7hdz2sx2fnouszjsm",
+  "name": "OneForArt #1244 - Apple Blossom",
+  "description": "A Apple Blossom pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiai3zxcfmohsiphjdzru5jucavy2bmdhs3hnuywrrfao2zrskohg4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Apple Blossom",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1244,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF4D43",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 77, 67)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

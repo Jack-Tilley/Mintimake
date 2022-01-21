@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1138 - Cherry Pie",
+  "description": "A Cherry Pie pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihhxumaz6t47dvdbn2zu5egnq5xvze2aohoobxa6prmlv5nn36fhi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cherry Pie"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1138"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2A0359"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(42, 3, 89)"
+    }
+  ]
+}

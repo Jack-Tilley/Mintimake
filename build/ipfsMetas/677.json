@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidnqf64e5y7rk2xw2bzth3bebquls2u2h4o4ok3bdo2j2z7xo2mha",
+  "name": "OneForArt #677 - Alizarin Crimson",
+  "description": "A Alizarin Crimson pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiej6pbpvboufuj3zj6saf7xkozigg5hudov6xiyf2kngcb56yfrsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Alizarin Crimson",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 677,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E32636",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(227, 38, 54)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

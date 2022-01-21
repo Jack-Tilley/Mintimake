@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #872 - Niagara",
+  "description": "A Niagara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigix54gcg6zihcyzgqzgeguepww47545jbogq5edtnn6s5crtl6ku",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Niagara"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "872"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#06A189"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(6, 161, 137)"
+    }
+  ]
+}

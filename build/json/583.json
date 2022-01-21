@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #583 - Pattens Blue",
+  "description": "A Pattens Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiderz4wcnvsot4mgwmweuhb3cvjs2rmd6jor7xxdtcnjrinfvpdzm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pattens Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "583"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DEF5FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 245, 255)"
+    }
+  ]
+}

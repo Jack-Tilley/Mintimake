@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiclxxk5tckvsq4cixnmid3fty5mbavdcb2tnmyl43ef4zx4o7oore",
+  "name": "OneForArt #427 - Pizza",
+  "description": "A Pizza pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigemkecedjmexhn4rqqojgxbzzdv2qe3qmft5pewy2gyrknohzipu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pizza",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 427,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C99415",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 148, 21)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

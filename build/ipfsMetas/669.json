@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihre2nxwjas7cdjl5r4lv7cl5b7v67xdntbgsvsvay3a7sol3w65e",
+  "name": "OneForArt #669 - Varden",
+  "description": "A Varden pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieyolhch62mriquvkbefnguualct7tt7ucf7gz2hl666h56fpw7ly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Varden",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 669,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF6DF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 246, 223)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

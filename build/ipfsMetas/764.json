@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibw44urz5ck3rosypfmpfzihknle5cuhzg5rtzrfvsagblvzvxcei",
+  "name": "OneForArt #764 - Pale Rose",
+  "description": "A Pale Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5wusbera3byczab23irpnhry522jsaz3weeby77xh2ktstdreum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 764,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE1F2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 225, 242)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #471 - Kaitoke Green",
+  "description": "A Kaitoke Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaw7ttgrnw5g3wgvfxf4pqg72y3f77pvlhje4iavusk4szicj6j4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kaitoke Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "471"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#004620"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 70, 32)"
+    }
+  ]
+}

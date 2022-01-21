@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihx75mroms7awwsqvvdyw5a3owrcf24d3etrxyrvzrhn7ne5gsppy",
+  "name": "OneForArt #664 - Bubbles",
+  "description": "A Bubbles pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiguxggcl6nqcl5rnxyslnvvckecgfvrsmexssa6njdpwrepv7w23y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bubbles",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 664,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E7FEFF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 254, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

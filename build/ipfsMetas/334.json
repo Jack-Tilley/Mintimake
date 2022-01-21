@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidkat4trwqjnqpqzuitqgmzetdnalw46jmgenq4cex3dhoy4ioj2q",
+  "name": "OneForArt #334 - Biscay",
+  "description": "A Biscay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagyi3lgredraheyrq7f5izhuwnw7nxjqrezbhqiploasbt3kxv3y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Biscay",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 334,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B3162",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 49, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

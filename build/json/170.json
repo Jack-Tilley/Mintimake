@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #170 - Hot Cinnamon",
+  "description": "A Hot Cinnamon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifugu62soafouvflushktrx2a2jueqiqtpkcrhynvtxnyq5oqy5ee",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hot Cinnamon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "170"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2691E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 105, 30)"
+    }
+  ]
+}

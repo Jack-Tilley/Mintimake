@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifvrcxla5ce7vfgeixzufti74hy3m6aeyiho2qv7sk6k7fbq6bwxu",
+  "name": "OneForArt #74 - Zest",
+  "description": "A Zest pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibc2vlxqfs535ouuud4l6gwtzhf2zceca5ixftijvoidergqlinqa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zest",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 74,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E5841B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 132, 27)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

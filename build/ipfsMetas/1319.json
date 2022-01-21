@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihm2lq7yhuug53tzgluc2xx7otfrrkaayv4vjsr5lk7r5tdp2p7qe",
+  "name": "OneForArt #1319 - Orange White",
+  "description": "A Orange White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiek3pdqepjtnecaqrjs3i5ybpp4nx5gg2vsrhupam33hicbqd2wpy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orange White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1319,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEFCED",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 252, 237)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

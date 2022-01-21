@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #28 - Vin Rouge",
+  "description": "A Vin Rouge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibeaohjsddajozpk4medfegopa5eyynpyjndesrjkwzu24ytoagdu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vin Rouge"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "28"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#983D61"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 61, 97)"
+    }
+  ]
+}

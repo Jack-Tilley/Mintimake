@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigymae476bfwzssavf46acyk2u7r7pejlt4rsz6int4ubeyxhb33e",
+  "name": "OneForArt #1027 - Big Stone",
+  "description": "A Big Stone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifyi4lmz7vejblhuujbzip2svqhahvv4q5myp2zfppczaejfqdyoe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Big Stone",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1027,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#162A40",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(22, 42, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

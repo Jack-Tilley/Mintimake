@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaukqamy5xfmi2w2or4ge6otdjxgqokyjp4gdfc43lyikxk4apgyu",
+  "name": "OneForArt #120 - Sea Green",
+  "description": "A Sea Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielecmaiajtcscxoahgznqb6y66olqswjeayjoinfz2bppvh7oh2a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sea Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 120,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E8B57",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 139, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

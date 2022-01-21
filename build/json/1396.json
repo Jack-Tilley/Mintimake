@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1396 - Don Juan",
+  "description": "A Don Juan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiepdqf4o6pjjvo4kfpoyl6z5wr6kwo65nwhqdt7xrrxm7hy63tta4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Don Juan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1396"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D4C51"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 76, 81)"
+    }
+  ]
+}

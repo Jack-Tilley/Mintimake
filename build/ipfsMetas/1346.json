@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibhir5l4wr3557jglo6fa5qydkdbsp4s724422t4m6lyobmr36uqq",
+  "name": "OneForArt #1346 - Light Orchid",
+  "description": "A Light Orchid pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiadzt77mt23wwyvaw5rwdyku5p2rgx4i5zhqxmlikxvqfbybynsj4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Light Orchid",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1346,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E29CD2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 156, 210)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

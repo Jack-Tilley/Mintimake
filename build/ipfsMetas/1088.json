@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreign7xohvzv2yvblxnd6dvwyakdgnj4oyeeoreds2ewx3hpjkaynzu",
+  "name": "OneForArt #1088 - Mantle",
+  "description": "A Mantle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5dgvusshctwu5nwo3rmxtw4utyxp6uzq5p2nyjj3qhja7gbgzq4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mantle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1088,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B9C90",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 156, 144)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

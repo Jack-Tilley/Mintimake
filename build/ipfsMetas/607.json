@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibzepshkwxdjkubmftykbszt5j7nkztqwim3ykndflvraz3p4wfiq",
+  "name": "OneForArt #607 - Tolopea",
+  "description": "A Tolopea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifw73rift5ntsplf3pzyyngxy56dbag7pew3kfmaz6dv4535dbwpa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tolopea",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 607,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B0245",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 2, 69)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

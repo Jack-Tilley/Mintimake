@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidsev26ekz7fvugssrobdzzefm7wkzgdja3lwotkblkw5lzovsibi",
+  "name": "OneForArt #304 - Cumulus",
+  "description": "A Cumulus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiambd6me7f6ymzqltpvrzf24pkkfcam7wjg5u42rxcy4ovxyg6xwi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cumulus",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 304,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDFFD5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 255, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

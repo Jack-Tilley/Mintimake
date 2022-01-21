@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #433 - Japanese Laurel",
+  "description": "A Japanese Laurel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig77lwzlcq6wvlvev4lmutoq4tfxbprn2i3pqnol6m5uwl5xf7aae",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Japanese Laurel"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "433"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0A6906"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(10, 105, 6)"
+    }
+  ]
+}

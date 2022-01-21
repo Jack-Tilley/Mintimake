@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #397 - Atoll",
+  "description": "A Atoll pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiairpjpdhtpqptq7ir22aioeh7jgdxlekhynxhyu6b224hn6dx2le",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Atoll"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "397"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0A6F75"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(10, 111, 117)"
+    }
+  ]
+}

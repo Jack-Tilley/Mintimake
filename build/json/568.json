@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #568 - Oasis",
+  "description": "A Oasis pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiczqembf4il2dgsh4usvyzjzj3cjbonseyjmwapudno5wxjwaksaa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oasis"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "568"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEEFCE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 239, 206)"
+    }
+  ]
+}

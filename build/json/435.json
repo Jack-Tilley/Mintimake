@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #435 - Chantilly",
+  "description": "A Chantilly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicy3vlz74cdjldfykh24ofntsgrvpznrg53u7shtstngr7aqabgja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chantilly"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "435"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8C3DF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 195, 223)"
+    }
+  ]
+}

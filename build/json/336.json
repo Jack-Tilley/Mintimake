@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #336 - Falcon",
+  "description": "A Falcon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbuah4nmocb6cvwk662jsg5suizznocig33cnqcrn72bdq7cabc4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Falcon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "336"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F626D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 98, 109)"
+    }
+  ]
+}

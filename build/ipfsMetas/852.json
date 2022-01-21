@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifm66c3fmrh26kfwjhtmdvf4j5e22miahxefdnt5ljdal3xfazktq",
+  "name": "OneForArt #852 - White Linen",
+  "description": "A White Linen pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieo67lng2xffbuspgyultwnwmb2k6lfutin7xzygjo3m24c5kdvqi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "White Linen",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 852,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8F0E8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 240, 232)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

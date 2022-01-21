@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib2n7erdsiiemldwk2gm44u7fjlw4qfcpjqnreh4dc4zen2adnpom",
+  "name": "OneForArt #734 - Apple",
+  "description": "A Apple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifwcwguxzgwkfwfuhj7ljdufc3toy445gahykvkjfpe7zcwgxab34",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Apple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 734,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4FA83D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 168, 61)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

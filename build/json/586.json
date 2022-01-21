@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #586 - Trinidad",
+  "description": "A Trinidad pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic3sotl5tiq6lyjo5qha6dyjvxo36ckuytnlof3mx7h5yhuz5ohoq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Trinidad"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "586"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E64E03"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 78, 3)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1062 - Paarl",
+  "description": "A Paarl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiey2pdlx3tpy3jgkbxt7mlos7aacdq4cix4pjvfoafrvk2vopfhja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paarl"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1062"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A65529"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 85, 41)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #968 - Celadon",
+  "description": "A Celadon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig3efrdcpdxkvdm6hb4kj7sykh36nciavzfbgjuk552cdkxsohu2i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Celadon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "968"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACE1AF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 225, 175)"
+    }
+  ]
+}

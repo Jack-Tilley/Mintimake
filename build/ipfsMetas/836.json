@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihth2tvncimt5yaclmzkexikhmm3bruas3rov2glqgijfasx7e3yu",
+  "name": "OneForArt #836 - Chamois",
+  "description": "A Chamois pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifog7qr5jccajjm7olsjikqrbwdmml4wqnypqma6igfxhuh2yrsre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chamois",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 836,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EDDCB1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 220, 177)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

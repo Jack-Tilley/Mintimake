@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #248 - Romance",
+  "description": "A Romance pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic5ffe642c7do6pcqgy7e6vk4nsjjm5m7jadxsxim7zbedrtpwrhy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Romance"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "248"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFEFD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 254, 253)"
+    }
+  ]
+}

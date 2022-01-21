@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic7ldzmovwfrb46rwjlyphqncytdid2zw7gkxvbrp72jc267dlfzu",
+  "name": "OneForArt #261 - Oriental Pink",
+  "description": "A Oriental Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihayvcrnc3hbrwnz6pi7jjy4rgbjo2w66hliuyovxdmixw62b7pfi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oriental Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 261,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C69191",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 145, 145)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

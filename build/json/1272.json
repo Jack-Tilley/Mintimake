@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1272 - Zuccini",
+  "description": "A Zuccini pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibicb2geudeefhy3lmk7vm6l4utvxcmtgm4eznx75rr2tkrwv7sea",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zuccini"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1272"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#044022"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(4, 64, 34)"
+    }
+  ]
+}

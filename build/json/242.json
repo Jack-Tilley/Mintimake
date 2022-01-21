@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #242 - Gray Chateau",
+  "description": "A Gray Chateau pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3h4zcj3hdhiwxft3i37cl7gmbn52deiecabyk2mumxifdeurxnm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gray Chateau"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "242"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A2AAB3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 170, 179)"
+    }
+  ]
+}

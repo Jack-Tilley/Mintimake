@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib4dbokvjattlbc72qtbdumr5aytdygiat2xtzyyd44dobp5dwhzm",
+  "name": "OneForArt #147 - Loblolly",
+  "description": "A Loblolly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibcq63ij42woffyohg5fqzf2q3quy4xhgcaffedf2jjbidrorwlaa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Loblolly",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 147,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDC9CE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 201, 206)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

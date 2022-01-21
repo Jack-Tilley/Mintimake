@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihn47msihtxo2e3adtmjframvlu3jibn5rklo5oe6twsvnw3htywq",
+  "name": "OneForArt #692 - Tahiti Gold",
+  "description": "A Tahiti Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidblsjpip75t6hptmfp4rmef453i6krjicytztjx54dyxfd4mi45q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tahiti Gold",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 692,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E97C07",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 124, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

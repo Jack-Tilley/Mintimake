@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1268 - Hippie Pink",
+  "description": "A Hippie Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibnkrgxzkzo5zh6477wo24uemi6jvfj6pbaltijjusmeied76igbu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hippie Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1268"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AE4560"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(174, 69, 96)"
+    }
+  ]
+}

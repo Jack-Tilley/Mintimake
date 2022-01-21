@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif6nhqop2ork4t2lx4zzbkwq63gucjsest4x6jgaipma5o4w7vsce",
+  "name": "OneForArt #277 - Indian Tan",
+  "description": "A Indian Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia4f7vqkvlw4fp7uhj7n2lthyd5dlmsw4n6sdnuvdjoajeopptal4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Indian Tan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 277,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D1E01",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 30, 1)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

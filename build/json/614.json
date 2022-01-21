@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #614 - Vivid Violet",
+  "description": "A Vivid Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiexp5u5orc6kuveszl2awgeuzpxzneuey5be5n2l5wbie6ifjzgqi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vivid Violet"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "614"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#803790"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 55, 144)"
+    }
+  ]
+}

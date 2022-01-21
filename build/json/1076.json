@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1076 - Green Kelp",
+  "description": "A Green Kelp pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifpma7c7ewx7ujzgrf5u3urlpgipmap7aj44p4fz2xfngcshhdsbq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Kelp"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1076"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#25311C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 49, 28)"
+    }
+  ]
+}

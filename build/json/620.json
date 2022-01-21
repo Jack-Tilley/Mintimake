@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #620 - Candlelight",
+  "description": "A Candlelight pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibq47hcaii3rx4modt3n4lggnc7tudv4y3aeckclxvmx5yw2q74fu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Candlelight"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "620"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCD917"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 217, 23)"
+    }
+  ]
+}

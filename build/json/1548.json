@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1548 - Yellow Sea",
+  "description": "A Yellow Sea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhk6ivvd6xfpuvfsm27mby6ewkwt4cpjptdvixt3oqctcfbakvda",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow Sea"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1548"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEA904"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 169, 4)"
+    }
+  ]
+}

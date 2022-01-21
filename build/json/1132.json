@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1132 - Paris White",
+  "description": "A Paris White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihjzqrh2uhavthak2cfobfbtb26fbwb6u7zpoarzrt44rjlhvncge",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paris White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1132"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CADCD4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(202, 220, 212)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #51 - Chenin",
+  "description": "A Chenin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreied4kudxjd6mq7zwdj6gjeuoueasc7gvbl3ezspple3wamjtqkvse",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chenin"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "51"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFCD6F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 205, 111)"
+    }
+  ]
+}

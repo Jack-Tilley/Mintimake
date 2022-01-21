@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidwcq7ajtyebgdohklwazjwfwph5gnwe2avecmogltodvhqptbjzy",
+  "name": "OneForArt #459 - Supernova",
+  "description": "A Supernova pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic4nfszoqyisqkom75vghbbyvpidxbfhbmtacyti4afh6gombj2nq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Supernova",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 459,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFC901",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 201, 1)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

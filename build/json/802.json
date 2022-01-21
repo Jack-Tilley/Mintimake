@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #802 - Bismark",
+  "description": "A Bismark pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvnfyibsxh3d4vqjijzwooirtw53vmjjj2clgy2fxroppgvaif5m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bismark"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "802"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#497183"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 113, 131)"
+    }
+  ]
+}

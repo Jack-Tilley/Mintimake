@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidbotpra3bexyx4aaombi6hpboe7m2uvy7nybmgzxtgtwxctylziy",
+  "name": "OneForArt #364 - Cod Gray",
+  "description": "A Cod Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbkaitdnmhppa5i73e27gz44iganc5arduuozdxobdk5do7ywnjy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cod Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 364,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0B0B0B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(11, 11, 11)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

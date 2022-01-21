@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1507 - Saratoga",
+  "description": "A Saratoga pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif55gdhupidju2orduagzoc5gzihdd2ckh7dq2pp7pt5okc4iq5n4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saratoga"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1507"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#555B10"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(85, 91, 16)"
+    }
+  ]
+}

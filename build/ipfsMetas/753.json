@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieavxgu4uko23zm3wroqa4yxyon6qeaopghk6u6wy6zubnpz45o3y",
+  "name": "OneForArt #753 - Viola",
+  "description": "A Viola pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickqy3kxrevtd2ngrfczzyy3pxxc7mxu2444zdhzorc3kofiki4g4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Viola",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 753,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CB8FA9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(203, 143, 169)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

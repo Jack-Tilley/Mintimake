@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiduptgj6k52bj27fpnxcuf6njy6jcfpiwtfvsn7faabj4qb4eepdq",
+  "name": "OneForArt #33 - Mountain Mist",
+  "description": "A Mountain Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibhwbsf2vjghtbzfyrenhxhrxnjskqyzpztg5ihcqvwdz3wiv3es4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mountain Mist",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 33,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#959396",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(149, 147, 150)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

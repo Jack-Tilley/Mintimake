@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1161 - Potters Clay",
+  "description": "A Potters Clay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia6kfn3vng3qxa6qyu75mn57ujzeyq3iqeia3ncf77walglsbidmi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Potters Clay"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1161"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8C5738"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(140, 87, 56)"
+    }
+  ]
+}

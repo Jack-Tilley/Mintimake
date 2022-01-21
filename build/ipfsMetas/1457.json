@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiao4kjuvusrpffuidtakvcszyfsgutmslqjpuc3njsiyey534drxm",
+  "name": "OneForArt #1457 - Lima",
+  "description": "A Lima pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiawfauqykgnj6qtpremry2zxttkevjljcnsbrawhqjgxoqjrpgj7e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lima",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1457,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#76BD17",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(118, 189, 23)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

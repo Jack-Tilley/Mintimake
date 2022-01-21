@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #778 - Royal Heath",
+  "description": "A Royal Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidjnhlq3qqniqfonz4qrw77ukludcs4yzdu5h4kmmofvf3f5fpbke",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Royal Heath"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "778"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AB3472"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 52, 114)"
+    }
+  ]
+}

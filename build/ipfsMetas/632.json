@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifth6inpw3qcmcjhokpxu3rsxcdldb7zny3poytvxuoiynkumiiuq",
+  "name": "OneForArt #632 - True V",
+  "description": "A True V pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftut5ycr5ulvnpo7lneqmbj53y3it3qns6fm67ukkypgfp5qd5pi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "True V",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 632,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8A73D6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 115, 214)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

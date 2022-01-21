@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1530 - Rock Spray",
+  "description": "A Rock Spray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiafwt6tgxo2pdosczryomrimhfu522hhnf2ekelqof3dpkmwn5gr4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rock Spray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1530"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BA450C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(186, 69, 12)"
+    }
+  ]
+}

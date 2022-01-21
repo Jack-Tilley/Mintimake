@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih57ogcu357zdyn2f67un444g3by7irelhxtt2onms2gnovplczki",
+  "name": "OneForArt #1558 - Meteorite",
+  "description": "A Meteorite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibyerdpoyhvsqi6uyx6mp3dz5cokozro5sqpzxjlhq7qarjlqz2ge",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Meteorite",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1558,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C1F76",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 31, 118)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

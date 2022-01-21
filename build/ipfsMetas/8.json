@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifvox7gj4sv2bqaqfaz7grjk67u7yxymp5fsgqfr37a7mcklhvt4u",
+  "name": "OneForArt #8 - Morning Glory",
+  "description": "A Morning Glory pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifdw6c7z6cs6pbrh36ieyatuhkhbusgrd6idkam64we63mijx7tx4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Morning Glory",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 8,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9EDEE0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 222, 224)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

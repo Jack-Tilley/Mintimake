@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih7335kh25t3xfdcpwik37qbutqzautz6olsmov3zsjh6z2tfinwu",
+  "name": "OneForArt #561 - Texas Rose",
+  "description": "A Texas Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicqwtydr6gy2r2hanhbjbqqy3ckrgiwfu2ix6chp2mreaqwbho2e4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Texas Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 561,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB555",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 181, 85)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

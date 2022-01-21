@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibjh5cnze5hggaemmf2saoemqqphsdh7makapfdxi2ffsnovb5gqy",
+  "name": "OneForArt #445 - Indochine",
+  "description": "A Indochine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6ficiwg3a4imbcsir36plchjfed7gtkuhrre4a22qrzgyfrrofa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Indochine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 445,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C26B03",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(194, 107, 3)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

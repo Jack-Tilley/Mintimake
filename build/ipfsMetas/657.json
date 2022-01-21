@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifpbqw26ivdgcdny3vu5ujgeg5rdtkgm3pwe2pd6xdprhbsuaru3q",
+  "name": "OneForArt #657 - Sepia",
+  "description": "A Sepia pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiewn347s4q62kbzbnc644miq2chljtfvckect5iq4ojzd4plz7sse",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sepia",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 657,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#704214",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(112, 66, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

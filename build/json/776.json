@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #776 - Persimmon",
+  "description": "A Persimmon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig73mbc22n27hzqrgxuswkjgsrrc7n3ymrm2lgwxxizkk424z6muy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persimmon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "776"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF6B53"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 107, 83)"
+    }
+  ]
+}

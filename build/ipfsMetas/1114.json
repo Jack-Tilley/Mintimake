@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicpkbweulwpj3dmb72z3esbrrq472ano2lloara3xmh6qoa6ed5j4",
+  "name": "OneForArt #1114 - Equator",
+  "description": "A Equator pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib2wyvrw2oqb757p4fqoswokcxlu4vdna3yerrlgoqowlusiwk7se",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Equator",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1114,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E1BC64",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 188, 100)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

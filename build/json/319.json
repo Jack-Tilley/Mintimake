@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #319 - Negroni",
+  "description": "A Negroni pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieyu34hqebyih2edf7fklc5nvhoxw6qruvd4bcurfcazo64czbdpm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Negroni"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "319"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE2C5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 226, 197)"
+    }
+  ]
+}

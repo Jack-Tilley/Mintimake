@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcgayh5pypihcqajaiisubbsgsetwainjpzlq7tez63w7guawili",
+  "name": "OneForArt #1243 - Granny Smith",
+  "description": "A Granny Smith pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxtwd23gyao47upg5dkwdim7nqeiuyngxqzhms4bjvkanufvtagq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Granny Smith",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1243,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#84A0A0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(132, 160, 160)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

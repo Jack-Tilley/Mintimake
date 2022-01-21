@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1525 - Mikado",
+  "description": "A Mikado pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigntgpbwam7sf6czmmenkp7tugdchxfylmjv3lra73264q6dk24aa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mikado"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1525"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2D2510"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(45, 37, 16)"
+    }
+  ]
+}

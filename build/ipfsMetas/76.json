@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieiyk7pfj47cldtp7up655bcpucvtrdnote44szfuvdsxo5hqubfu",
+  "name": "OneForArt #76 - Tawny Port",
+  "description": "A Tawny Port pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkzhrujwlc6trlhjgnjq2bmtbztvgdwlmxwqsfuank3zb56nmdy4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tawny Port",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 76,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#692545",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(105, 37, 69)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

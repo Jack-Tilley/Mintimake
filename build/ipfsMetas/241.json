@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiekl5ga7bkmzhyot5gr4qxepmgt2fnr7erclhv4bi4buypbwpe2oa",
+  "name": "OneForArt #241 - Linen",
+  "description": "A Linen pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigm6wy5up3kpkibuflj7do7khqtvsbri2bpcs2abir32bcmjwmeky",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Linen",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 241,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAF0E6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 240, 230)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

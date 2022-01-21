@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif5du72png5x657sen342ds4gpjzogzb4mp7qah4ejfbjz7mqq2pm",
+  "name": "OneForArt #550 - Tamarind",
+  "description": "A Tamarind pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibfqn6trcra6vdg3qqf2xx2ikbfpm6tl3dlmvi2zftrvqlhjygx5e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tamarind",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 550,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#341515",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(52, 21, 21)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

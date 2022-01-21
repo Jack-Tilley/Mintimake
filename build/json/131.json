@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #131 - Olivine",
+  "description": "A Olivine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie3xsip225cjqtgojjw52vxjgs5b47uxb2gtnt2f7t3bkcgrxwogu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olivine"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "131"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9AB973"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(154, 185, 115)"
+    }
+  ]
+}

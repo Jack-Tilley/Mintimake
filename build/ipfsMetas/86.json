@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihuwb77jhek5bmczkkbwv5k3dzpyvp77ifxc5m54qbzetx2apc7iq",
+  "name": "OneForArt #86 - Makara",
+  "description": "A Makara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidg3deael3am6gcaqrkmxjjdw4ojphi43xv2r7fsxlq4l66otmlau",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Makara",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 86,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#897D6D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(137, 125, 109)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

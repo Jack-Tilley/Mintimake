@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #669 - Varden",
+  "description": "A Varden pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieyolhch62mriquvkbefnguualct7tt7ucf7gz2hl666h56fpw7ly",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Varden"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "669"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF6DF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 246, 223)"
+    }
+  ]
+}

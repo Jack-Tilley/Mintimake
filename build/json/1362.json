@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1362 - Grain Brown",
+  "description": "A Grain Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib2lcftr2cra66xrh4qy3xlny4i2axibnouw67q25f3wnhxaqk6a4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Grain Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1362"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4D5B7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 213, 183)"
+    }
+  ]
+}

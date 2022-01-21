@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1091 - Calico",
+  "description": "A Calico pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiavex6qpr2mpejvnvgweope73nbaz7wav665ocxngyg7gujgigl6i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1091"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E0C095"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(224, 192, 149)"
+    }
+  ]
+}

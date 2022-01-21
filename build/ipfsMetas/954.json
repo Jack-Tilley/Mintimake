@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihx4qzocmi7t72nt5fmq3ojw5h65lrhuexvclvxkisdgzzzi3mcvu",
+  "name": "OneForArt #954 - Fuchsia Blue",
+  "description": "A Fuchsia Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifmztjr4smidvxm44evgvcc4y6asiwm66uwtk4z5sohbqchsdxune",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuchsia Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 954,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7A58C1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 88, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

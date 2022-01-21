@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #750 - Gumbo",
+  "description": "A Gumbo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecdfz6esfb3en2qnlxzih7uy62whx25zxq27t3kdsfwtvnp7gn5q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gumbo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "750"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7CA1A6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 161, 166)"
+    }
+  ]
+}

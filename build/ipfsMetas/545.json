@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig2svwnthu4pz7ikulzkcn4giwrt4lwt5oufbvk5rdo6xzswizavm",
+  "name": "OneForArt #545 - Pharlap",
+  "description": "A Pharlap pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibg6cbbmmwtcoiyhliatfz6myz65gw56enyhrxogcxm6d4zxoub3q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pharlap",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 545,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A3807B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(163, 128, 123)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihnunbw5zqw6sndjkkx6sew2jvyw52ax2yje6u2seqb2pwpa47xva",
+  "name": "OneForArt #707 - Vermilion",
+  "description": "A Vermilion pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsu2xyczhgvbcvdlbjz5ei2giijdohw5sy7xu54h3u5gealnunpu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vermilion",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 707,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF4D00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 77, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

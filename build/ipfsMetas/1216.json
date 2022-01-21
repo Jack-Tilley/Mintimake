@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihm7zqzvefxykmpql34zakn5urh2tbzekbyayz434dz4ghmp3zmxm",
+  "name": "OneForArt #1216 - Black Rock",
+  "description": "A Black Rock pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicivjxzgptw5otooiehv6wfxnd3sjoihrijlyuy3lxrlortmyuudq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Rock",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1216,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0D0332",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(13, 3, 50)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

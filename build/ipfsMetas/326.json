@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieguv5ecehetacrdxyr3hxzkr32t7dys6g2rzvu42cadqvm7ggabi",
+  "name": "OneForArt #326 - Hawaiian Tan",
+  "description": "A Hawaiian Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7ukt32mtmvzacvjrcd4hesl5frocajp6dnmpoodwydua2c2uul4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hawaiian Tan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 326,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9D5616",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(157, 86, 22)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

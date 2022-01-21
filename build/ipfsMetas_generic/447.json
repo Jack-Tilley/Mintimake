@@ -1,0 +1,23 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiep5d646gxmjufeoyhffh4vjgpuwelcnagtfgf65p3ye6neaw53ay",
+  "name": "OneForArt #447 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzpxjyiow62te63at4zrkrva7mi7s7iryjj5idybgjuxdlcc45ii",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": 447,
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

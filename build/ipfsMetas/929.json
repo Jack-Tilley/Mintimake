@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie5dkcltqrk77xavtmp2dhfk2r73oogwpealntauvj66f5cwr2ihi",
+  "name": "OneForArt #929 - Jacksons Purple",
+  "description": "A Jacksons Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihumkeun27qi35jvd7u65guy54scpinj4j5p3oaqhitogu5kog3ve",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jacksons Purple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 929,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#20208D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(32, 32, 141)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

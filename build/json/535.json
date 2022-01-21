@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #535 - Jungle Mist",
+  "description": "A Jungle Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicynje57e3nnbstitzykvv7cjz7gohk2z7j33qgibloh7tud4hgoy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jungle Mist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "535"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B4CFD3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(180, 207, 211)"
+    }
+  ]
+}

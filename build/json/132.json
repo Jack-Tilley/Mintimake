@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #132 - Viking",
+  "description": "A Viking pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifrpz4a4uxyp5ooha2pe6gv4wleqqx53m3kik2ipe74lwtub3trcm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "132"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#64CCDB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(100, 204, 219)"
+    }
+  ]
+}

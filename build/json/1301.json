@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1301 - Mamba",
+  "description": "A Mamba pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjbk5hqnllqif7jkwzd6uyk73bsisuph72cc424cwqvje25lu5lm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mamba"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1301"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8E8190"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 129, 144)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1497 - Claret",
+  "description": "A Claret pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidajuisgnkwlddvizugwz5kv5cgkzghwm5jfkflm7epszc6afadrm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Claret"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1497"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F1734"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 23, 52)"
+    }
+  ]
+}

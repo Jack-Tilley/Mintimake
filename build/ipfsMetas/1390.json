@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihjxxwmepvwqesie5qvy3yxwdvm3jczsb4auhaasdg53ia7o2tyyy",
+  "name": "OneForArt #1390 - Nutmeg Wood Finish",
+  "description": "A Nutmeg Wood Finish pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieny2q746kh6tolim6xof5i4zf67inx7jwfcsdbqojz6kreo2tkue",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nutmeg Wood Finish",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1390,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#683600",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(104, 54, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

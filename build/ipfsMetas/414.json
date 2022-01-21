@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie3etlxqf5a6iippnhvtp4v6rn5o5rga6w3q2ogzprxarjaxewhpu",
+  "name": "OneForArt #414 - Maize",
+  "description": "A Maize pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieapxntn4rrthwptga37kpxbfnnnvxfceohpyou4kzh6uhlzcenem",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Maize",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 414,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5D5A0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 213, 160)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigonkkeqvkqxf4fpnc5raitszwxi63r4mvi56zpxkrnrx24ne23ey",
+  "name": "OneForArt #1381 - Link Water",
+  "description": "A Link Water pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigloa6aguao7fg4yfyau4ahjurdeosl7qnbyku7663fuf2drvhcpu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Link Water",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1381,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D9E4F5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 228, 245)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

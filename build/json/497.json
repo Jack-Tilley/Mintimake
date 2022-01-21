@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #497 - De York",
+  "description": "A De York pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2nynhlkdqd2cwgsvjudhux2yx56q4ddm2bvaqgayoozpvgawlrq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "De York"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "497"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7AC488"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 196, 136)"
+    }
+  ]
+}

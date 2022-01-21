@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigf74syx3svs7t3yfe7sgvann4jyba7otohiudlkn2dwmtpaqxoky",
+  "name": "OneForArt #784 - Strikemaster",
+  "description": "A Strikemaster pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibaivpynf7xdc2vyoqpndjcebnvfp6ay6mntz3e67tfcp77urevxe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Strikemaster",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 784,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#956387",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(149, 99, 135)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

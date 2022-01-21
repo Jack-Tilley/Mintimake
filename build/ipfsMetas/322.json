@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidm37loblysn4z52a5ck74cdctxweyuqvt43uhgc6fjq6ydnqtrf4",
+  "name": "OneForArt #322 - Astronaut Blue",
+  "description": "A Astronaut Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigefdh7cl4tvpsgbq7ivc47n7yqrqgjflk2gzwvq4527z3e7mwgfa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Astronaut Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 322,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#013E62",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 62, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

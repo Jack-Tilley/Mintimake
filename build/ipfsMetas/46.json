@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiftmdj3yvqfnd27yqcyujjlfq3anzjuoeszhz5gsnc45tf4isvacq",
+  "name": "OneForArt #46 - Red Berry",
+  "description": "A Red Berry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia2gw2tr35pw4uvgnw5kee6y4kmgkxxuogcrp4lwqj3xiwdh4xcne",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Berry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 46,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8E0000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 0, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

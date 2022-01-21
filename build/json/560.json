@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #560 - Zambezi",
+  "description": "A Zambezi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihusrgc7xab4derlws4fjxr54pamggjpdy4pduziktzcwywbfwiwm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zambezi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "560"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#685558"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(104, 85, 88)"
+    }
+  ]
+}

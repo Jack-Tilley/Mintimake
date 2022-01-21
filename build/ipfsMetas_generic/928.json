@@ -1,0 +1,23 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibapb4tfpqk3sui3hd3ngolzduhidfnxqrcwny7j4mipowz3almoq",
+  "name": "OneForArt #928 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreigojojaeeu7cijoohtsosuzwa3jvnnhtyvvm3bj6qhyus4pkcf344",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": 928,
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

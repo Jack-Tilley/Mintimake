@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #271 - Biloba Flower",
+  "description": "A Biloba Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib7jn4zi2bnjyxtjubbvwk5yg6zipyjesf5nd5t66kom52qd5pd24",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Biloba Flower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "271"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B2A1EA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(178, 161, 234)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidhosq76az2xeeq7u5hnbebl5uqykhvph6adb4lbi23m25a4zlq4a",
+  "name": "OneForArt #148 - Cashmere",
+  "description": "A Cashmere pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigquc3kf5gmbi54q3ztschrtd7qyiqd7zem7bwuvobprih2tpy6we",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cashmere",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 148,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6BEA5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 190, 165)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

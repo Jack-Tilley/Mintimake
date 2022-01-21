@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbgfe3st4q4z2maeamjmkjvtybg7ra7ta3q5iq2jt3hyhzgjgfl4",
+  "name": "OneForArt #363 - Old Gold",
+  "description": "A Old Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7zwg4p7ctolr7hs4vnpt72ylgqnalp3k2djybz7eiabgsbimjre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Gold",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 363,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFB53B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 181, 59)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

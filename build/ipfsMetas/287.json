@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifbpa6qai5mvci7fefr36sebkrouhxqgmy5xttkzpv5wvswvh35hi",
+  "name": "OneForArt #287 - Black Bean",
+  "description": "A Black Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicnkoxj4ukpzxtzxhi7ws5ha3ym5w7kew2z7ojz2apelmaefoywgi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Bean",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 287,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#081910",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 25, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

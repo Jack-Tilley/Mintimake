@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1371 - Korma",
+  "description": "A Korma pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfe2knbwubama2zjap5p2bqq73ucvjd5n3sgajbxrdo3uvsm5f4u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Korma"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1371"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8F4B0E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 75, 14)"
+    }
+  ]
+}

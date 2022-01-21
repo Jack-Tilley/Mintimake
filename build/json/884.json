@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #884 - Tara",
+  "description": "A Tara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreighny2crrmhesr2axedeim3p66ezjwvoougit6pmuofgyirsuli7m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tara"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "884"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E1F6E8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 246, 232)"
+    }
+  ]
+}

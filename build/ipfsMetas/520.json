@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihvtocyguvpzlpzbczjwnipjxvkkwa5aawmnynjbpyyn3im6zn3y4",
+  "name": "OneForArt #520 - Clairvoyant",
+  "description": "A Clairvoyant pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibs7rfnc5vcud3ahj56jdaovtdrsujv6spy4im4txtuu7i3tan3mm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clairvoyant",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 520,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#480656",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(72, 6, 86)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

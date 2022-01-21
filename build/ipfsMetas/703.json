@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifjsheh4fioe5lqtjuflsn4zxvhpjk5tnpsvk7kbaakj7kvrohlhi",
+  "name": "OneForArt #703 - Lavender Magenta",
+  "description": "A Lavender Magenta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtdeuzfmnixub7nblbbjinumwlloitvi5uvvkx7xalkr2odwr6ru",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lavender Magenta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 703,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EE82EE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 130, 238)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

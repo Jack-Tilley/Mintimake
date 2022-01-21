@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia7uvqtwlozdb4tmgontdqzrwqbp5fxyqgkw2mxrvwvodcgjmj4ny",
+  "name": "OneForArt #1039 - Spring Sun",
+  "description": "A Spring Sun pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiel23z5vlxmmfcxqn3h7mbjzq56hhdrwlutn5oqtdbzr4ipafzihe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Sun",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1039,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F6FFDC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(246, 255, 220)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

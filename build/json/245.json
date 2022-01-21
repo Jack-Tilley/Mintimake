@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #245 - Chelsea Gem",
+  "description": "A Chelsea Gem pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigosg6o2qxfj7diha6won2agg4fvusfbzlgegtq3qsh2qij7blzxe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chelsea Gem"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "245"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9E5302"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 83, 2)"
+    }
+  ]
+}

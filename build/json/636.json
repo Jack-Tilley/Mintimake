@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #636 - Tenn",
+  "description": "A Tenn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigkb5upmaoriuaoztnkg5izda3entb5s7avkmrrltwqob6vm5d36q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tenn"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "636"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CD5700"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(205, 87, 0)"
+    }
+  ]
+}

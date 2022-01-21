@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih2mz53twggieqg3eho4bzak2yxtsquhkbdbbuchdd3gjt22bayyi",
+  "name": "OneForArt #609 - Chocolate",
+  "description": "A Chocolate pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifuuripvuvhyrg37adnjwjytpaq4sqykdhj7lescqsrqk2tic6g7m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chocolate",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 609,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#370202",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(55, 2, 2)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

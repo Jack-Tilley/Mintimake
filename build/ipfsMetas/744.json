@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieu4dwzgimf4ydpltmuns4cc6cpgcf4gz342kdbr747jht5jnzf4u",
+  "name": "OneForArt #744 - Ronchi",
+  "description": "A Ronchi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrpcjyw5e6bghntlw5cmfztc43dzadx2upykmzqhrfjuwje2axjq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ronchi",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 744,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECC54E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 197, 78)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

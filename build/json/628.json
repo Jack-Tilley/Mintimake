@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #628 - Gulf Stream",
+  "description": "A Gulf Stream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic3qev6p4gnkycdynrqj45erbkyqhv3cendauj6z2ykvkf5mbu2bq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gulf Stream"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "628"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#80B3AE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 179, 174)"
+    }
+  ]
+}

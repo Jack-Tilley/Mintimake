@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #193 - Tuscany",
+  "description": "A Tuscany pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgo3clk7one63y2ucc3qt5bnhjgg72ldpsmw2ij76k67f22qdfbq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tuscany"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "193"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BD5E2E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 94, 46)"
+    }
+  ]
+}

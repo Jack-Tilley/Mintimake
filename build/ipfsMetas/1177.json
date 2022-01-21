@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4frezpiog5gztiu6q5lg2xn3grksz2ynlilhwvhw4hsftvz3rk4",
+  "name": "OneForArt #1177 - Eucalyptus",
+  "description": "A Eucalyptus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiem4zhchkprbvrt45ohjzo22jztdzl5ytew4fgahpkjuazvlfpube",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eucalyptus",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1177,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#278A5B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(39, 138, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifseyhs4whbhxup6v43wexuycipp4e5mwjgjxm7edfmufmopjaqsi",
+  "name": "OneForArt #344 - Candy Corn",
+  "description": "A Candy Corn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibewk7tmvtgzubbgmu2xwa3cmmoq33mub67yxc7afcmdvm6iuc6mq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Candy Corn",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 344,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBEC5D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 236, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

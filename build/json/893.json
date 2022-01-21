@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #893 - Deep Sapphire",
+  "description": "A Deep Sapphire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicz7wctkpigy3j3nsuyoxlkg7xr6mjxoity2cny5tun3hoit7dvhy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Sapphire"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "893"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#082567"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 37, 103)"
+    }
+  ]
+}

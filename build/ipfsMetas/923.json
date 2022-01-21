@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic3hj3vh2xpigyeszhydr7kkqzc2tse3fxqitsuyrqooku6de27pu",
+  "name": "OneForArt #923 - Lotus",
+  "description": "A Lotus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4tk57iqu2or6fzpmqhe2gmfntbpujaysowr5jcewwxdyhbbbopa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lotus",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 923,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#863C3C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 60, 60)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

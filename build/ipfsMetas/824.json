@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibtp3y4425jrpigwzcehz5ouczi5pyrayw33alg7lne3sxcds3srm",
+  "name": "OneForArt #824 - Scarlett",
+  "description": "A Scarlett pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibcxvt5amj6v73jbefkoozxxjaxmjbls4pqkiino2gsbg7zklzjru",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scarlett",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 824,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#950015",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(149, 0, 21)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

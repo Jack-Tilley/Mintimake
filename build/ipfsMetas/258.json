@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihhqrwkpttn5ppl5wvvukuuqkz4hait2siviws53xwqhu7k226tyu",
+  "name": "OneForArt #258 - Tundora",
+  "description": "A Tundora pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibd22ehqppgjxvdprv5b2wvzrhumdqiolkxuhs5ax7pt2cn56tan4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tundora",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 258,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A4244",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 66, 68)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

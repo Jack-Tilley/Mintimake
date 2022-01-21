@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1202 - Teal Blue",
+  "description": "A Teal Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4xc4xwusihzfi66qq66ks7gb4ywj5izgpseatt6szmhruiish6a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Teal Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1202"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#044259"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(4, 66, 89)"
+    }
+  ]
+}

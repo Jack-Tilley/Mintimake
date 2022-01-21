@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicjtzrx4cgi3w2fzzczzl5joh4qwmr7xgwq5qdxoc2ci3676mt6ai",
+  "name": "OneForArt #1056 - Milano Red",
+  "description": "A Milano Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidwfrvpmcsowk3wj7ls2h5nlskfrp4b7c7k2zq3fhmmbbnaydyagq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Milano Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1056,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B81104",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 17, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

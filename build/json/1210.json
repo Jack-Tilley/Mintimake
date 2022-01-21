@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1210 - Ceramic",
+  "description": "A Ceramic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid4hdepmaqcytz7vrhzoarh42xa5betfhdwwjq5m4fh2bqaiaijqa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ceramic"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1210"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCFFF9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 255, 249)"
+    }
+  ]
+}

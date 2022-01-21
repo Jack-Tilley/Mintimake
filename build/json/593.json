@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #593 - Mountbatten Pink",
+  "description": "A Mountbatten Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6aguqxmzdvntctnqxlzcevzixvsne4nty3w4tpj5bkhozuk7rsy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mountbatten Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "593"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#997A8D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 122, 141)"
+    }
+  ]
+}

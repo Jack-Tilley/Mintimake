@@ -1,0 +1,35 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreia7crq2m47vwxrylz6r3d2glylu5m5hg2q3hvkcypfpc5fnxd76ua",
+    "name": "OneForArt #854 - Unknown",
+    "description": "Purchase this NFT to reveal a unique color!",
+    "file_url": "https://ipfs.io/ipfs/bafkreielsgbfym5oh7assvljskbeomne47eoesnuallcczbj4n6jjhs6ka",
+    "external_url": null,
+    "animation_url": null,
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "color_id",
+        "value": 854,
+        "max_value": null,
+        "display_type": null
+      }
+    ],
+    "error": null
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0xc979c77d42ca7cbec71a9ae9d1a425a52b43475a",
+    "transaction_hash": "0x845eaef6c0c58070b16e98d1f18ad7f960c89da565c9b201bd23f5275fe4e233",
+    "transaction_external_url": "https://polygonscan.com/tx/0x845eaef6c0c58070b16e98d1f18ad7f960c89da565c9b201bd23f5275fe4e233",
+    "metadata_uri": "ipfs://bafkreia7crq2m47vwxrylz6r3d2glylu5m5hg2q3hvkcypfpc5fnxd76ua",
+    "mint_to_address": "0x0da5c8745b777C845Fb8E3a7f59c0cB654F3d843",
+    "error": null
+  }
+}

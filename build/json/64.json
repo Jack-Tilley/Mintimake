@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #64 - Hot Pink",
+  "description": "A Hot Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabiuaxjkiwbbckox4nvy2f5obi6b3yxmiyxgcvgq647dlu3g57g4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hot Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "64"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF69B4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 105, 180)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib5h565rvd4xvvsblfngrky3xc2iroqlginqbyv4tmyxnxpacvqz4",
+  "name": "OneForArt #508 - Red Ribbon",
+  "description": "A Red Ribbon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoryh6uteaxj5r72vl3pql3u6pt4erllkriz2gfqtmntl4wdnsgq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Ribbon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 508,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ED0A3F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 10, 63)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

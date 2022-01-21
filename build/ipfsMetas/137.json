@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih2db2nf5oimwgorxb5ghb4aoqukni4cn2epgw57rcxplvuowp45a",
+  "name": "OneForArt #137 - Apricot Peach",
+  "description": "A Apricot Peach pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajysopa6ctbs4v47ohrxnhiifwzwz6ojvxfgbqqb2bxc2xisyezu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Apricot Peach",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 137,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBCEB1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 206, 177)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

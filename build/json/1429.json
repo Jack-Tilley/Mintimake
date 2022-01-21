@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1429 - Rangitoto",
+  "description": "A Rangitoto pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieur5l75gsuq3w3wnw5ej4iule5t7cax6cejth4yci764dzzerus4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rangitoto"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1429"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E3222"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 50, 34)"
+    }
+  ]
+}

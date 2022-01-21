@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #458 - Carrot Orange",
+  "description": "A Carrot Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielps2d6ca25hmcyatdgbi3j3rcpauiaz66f45aw47y3pgnggnxai",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carrot Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "458"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ED9121"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 145, 33)"
+    }
+  ]
+}

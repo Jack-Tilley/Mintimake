@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #454 - Picasso",
+  "description": "A Picasso pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigyrvr324bt4gqxjxaoqcjgqfmhj7vwgmy6yvahzs3vuutcglilmy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Picasso"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "454"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF39D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 243, 157)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigjfcyxyovaxp5z6oyfmwlpiw4p5nxf5m6jz5mbonntikwpddkdqe",
+  "name": "OneForArt #915 - Sea Nymph",
+  "description": "A Sea Nymph pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic6gzpu2mp2z53lwjh76czkfltskytstzrbkv53akuvc5ssvdz6uu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sea Nymph",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 915,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#78A39C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(120, 163, 156)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #329 - Scarlet Gum",
+  "description": "A Scarlet Gum pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifmbanlj7pjezl7x3m2xxl4egzjk62k5q2iqcjg7olxmxnfjznw6y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scarlet Gum"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "329"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#431560"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(67, 21, 96)"
+    }
+  ]
+}

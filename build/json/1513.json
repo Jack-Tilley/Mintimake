@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1513 - Burning Sand",
+  "description": "A Burning Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiahboa5msdhie7uw5eba7mrm5jscoqnfessivgoo7yphyvum7n7pu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burning Sand"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1513"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D99376"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 147, 118)"
+    }
+  ]
+}

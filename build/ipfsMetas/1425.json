@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigsrg57l7og5q4ljqiweytdxivuqiwfptldsrh6qluut436bjis74",
+  "name": "OneForArt #1425 - Charade",
+  "description": "A Charade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieq34vqfzuq4hv3i5mju56vytcbu6xcz6f7nhp4jmtyqbd5tfrnma",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Charade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1425,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#292937",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 41, 55)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

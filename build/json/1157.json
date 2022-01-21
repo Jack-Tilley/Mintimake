@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1157 - Logan",
+  "description": "A Logan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2jlsg3kdodko5otjzuvcpuganxn4n6yhd563clt66mwxhz23zbq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Logan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1157"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AAA9CD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 169, 205)"
+    }
+  ]
+}

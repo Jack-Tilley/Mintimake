@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #197 - Kidnapper",
+  "description": "A Kidnapper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidvf2o2bdxpcdrnyktcxbb74apazc3vvsxq2sgrnmmphodv2kzxoy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kidnapper"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "197"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E1EAD4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 234, 212)"
+    }
+  ]
+}

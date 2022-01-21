@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibaqafmpzhmk57dprwrnv2hfjfsgrdsabxj5cer657lp74xcz5hsa",
+  "name": "OneForArt #262 - Egg White",
+  "description": "A Egg White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhfxusvrw7gjedsbvehejjsw3cynq4cxbkizbui6kz5xx37zv53q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Egg White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 262,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEFC1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 239, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

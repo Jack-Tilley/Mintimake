@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #527 - Fuego",
+  "description": "A Fuego pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbiqhq233n3cuqd52hxivjyv23hqtnfopl7utwncyl3kifaxd7h4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuego"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "527"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BEDE0D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(190, 222, 13)"
+    }
+  ]
+}

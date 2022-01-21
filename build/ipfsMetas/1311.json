@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiecnglh5s2bz2h6v6lboiti4obgjf67w23njcruox6wjea4x53lvq",
+  "name": "OneForArt #1311 - Sapphire",
+  "description": "A Sapphire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicma2njaefwrjyrrdeymwcjo4jjcf2stj4e3xcyuo7cqs4t4vgosq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sapphire",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1311,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F519E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 81, 158)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

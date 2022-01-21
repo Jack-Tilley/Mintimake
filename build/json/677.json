@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #677 - Alizarin Crimson",
+  "description": "A Alizarin Crimson pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiej6pbpvboufuj3zj6saf7xkozigg5hudov6xiyf2kngcb56yfrsy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Alizarin Crimson"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "677"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E32636"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(227, 38, 54)"
+    }
+  ]
+}

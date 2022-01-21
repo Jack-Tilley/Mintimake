@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiehnbfg7bpr3s4wma5pdwcgze7dsvrughorzpidatgtsa4smzvc2i",
+  "name": "OneForArt #389 - Laser Lemon",
+  "description": "A Laser Lemon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicstcs76ct5ztdeai2fgqosqf75jkefp6duyfi7ltshzdwh334xsu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Laser Lemon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 389,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFF66",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 255, 102)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

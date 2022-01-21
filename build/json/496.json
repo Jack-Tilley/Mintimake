@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #496 - Heavy Metal",
+  "description": "A Heavy Metal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvqmy7ss4o7eptgbr3hhgr2nnafit7x6xry4xgchblhi44ydspr4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Heavy Metal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "496"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2B3228"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(43, 50, 40)"
+    }
+  ]
+}

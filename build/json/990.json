@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #990 - Spring Rain",
+  "description": "A Spring Rain pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifvp7mwffjdylnb2gc2uixp3xn3qtifd535i6uznf65hkub6vfaim",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Rain"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "990"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACCBB1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 203, 177)"
+    }
+  ]
+}

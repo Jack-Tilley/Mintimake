@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1144 - Stromboli",
+  "description": "A Stromboli pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigkbktsi7x55anesjlds3kimxijyo5yblpijeupppykwzokqnhdsy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Stromboli"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1144"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#325D52"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 93, 82)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #157 - Sidecar",
+  "description": "A Sidecar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia7bbtxlsj34xwap2qx2oqp7ebpw54j4o2cpo22itxg5lfwjhgtvu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sidecar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "157"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3E7BB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 231, 187)"
+    }
+  ]
+}

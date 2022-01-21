@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihav4e3ck65ua24abltklgvdca4teoczr4ib3immijs3ys7i2hugy",
+  "name": "OneForArt #792 - Cement",
+  "description": "A Cement pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihrfj63mqjtwrcmpd2pzporfqtgngpkffdvfzjhy3yh4g6t4qzkba",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cement",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 792,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D7662",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 118, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiei3wof6gh5xi4tq3zhehotil36zx6pyaegjqzgfc55zw24drc5kq",
+  "name": "OneForArt #679 - Metallic Bronze",
+  "description": "A Metallic Bronze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibdb2wfk5zosnbh42q6iz5ps3rr2yq7xfe233zfolnww2alk7q6da",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Metallic Bronze",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 679,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#49371B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 55, 27)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

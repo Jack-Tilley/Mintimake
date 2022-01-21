@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #727 - Seance",
+  "description": "A Seance pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbar747ton5dr26u35bmdffprxoqqvjdppjwojme6l3233iiivdm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Seance"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "727"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#731E8F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(115, 30, 143)"
+    }
+  ]
+}

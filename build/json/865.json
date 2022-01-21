@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #865 - Brown Tumbleweed",
+  "description": "A Brown Tumbleweed pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicxw3c4gtvnofiblu7tffvzds6te65ochozewpysgmd4evjya6gza",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brown Tumbleweed"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "865"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#37290E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(55, 41, 14)"
+    }
+  ]
+}

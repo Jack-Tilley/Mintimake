@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #585 - Sugar Cane",
+  "description": "A Sugar Cane pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidvxtl3tsfn65euwfdxn2sl2awq6eggxmfr3ucsvmgkubh5qn5sj4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sugar Cane"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "585"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9FFF6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 255, 246)"
+    }
+  ]
+}

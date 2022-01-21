@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibcxrnrd2cyv6jfvt43ae4dasjl335mcutuc2lbbvfskrsn3ff5oy",
+  "name": "OneForArt #732 - Persian Green",
+  "description": "A Persian Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4jq4bnv3ib3xuuelukpuntdryoxz547f42el6cinnyju5idn46q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persian Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 732,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00A693",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 166, 147)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

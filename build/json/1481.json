@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1481 - Red Orange",
+  "description": "A Red Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjq5dttqdiq7c5aakrcrfkuv5ed2m7k23lrr5bligrcbceeonotu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1481"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF3F34"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 63, 52)"
+    }
+  ]
+}

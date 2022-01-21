@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig44gtdoskevpxf76pz262zgnofruuljq3livtlrt5a5aslxwqmf4",
+  "name": "OneForArt #1005 - Froly",
+  "description": "A Froly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihrppbhc4azwyglbzfp3ynwrwcxgfxprzkvgyaktaetjuu7ck6lxa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Froly",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1005,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F57584",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 117, 132)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

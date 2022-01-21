@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #831 - Razzle Dazzle Rose",
+  "description": "A Razzle Dazzle Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicviwx7p2rlhusqxnc56sjv3lpqyqjw4kqrrslgjckoztpkag7psi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Razzle Dazzle Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "831"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF33CC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 51, 204)"
+    }
+  ]
+}

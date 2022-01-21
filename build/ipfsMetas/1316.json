@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifraac2ugvuxunzyipk2uqxflgrjdl2u2b3gspr5ayqtx2wxsnjva",
+  "name": "OneForArt #1316 - Bombay",
+  "description": "A Bombay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreialiojowpka2ryjjumuebzdpurasntwfnzvxr3x7j7nugmjz44xra",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bombay",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1316,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AFB1B8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 177, 184)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

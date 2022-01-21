@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib5k3phi5hdlooljna6fskt7d34nba23wr6errairv5qz2pe3ztxi",
+  "name": "OneForArt #217 - Shiraz",
+  "description": "A Shiraz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifouurrlymuqmg5a427agm4cprd4tarj43tqsid77bb5dhnmzeweu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shiraz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 217,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B20931",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(178, 9, 49)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

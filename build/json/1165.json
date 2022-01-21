@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1165 - Riptide",
+  "description": "A Riptide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6vc22af4du36zsgwhgeww5ia3ojkxq6hx6fe5elknkxnsfkmxqm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Riptide"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1165"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8BE6D8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 230, 216)"
+    }
+  ]
+}

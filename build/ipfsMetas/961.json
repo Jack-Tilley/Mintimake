@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigl3q6ok3p5rgzyvm7xobwlgw6ullrb6op2jkkmapgzj5pdqomrky",
+  "name": "OneForArt #961 - Smoky",
+  "description": "A Smoky pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihyiyxab7dsixjeuplsnurfyalwbnga5md4lmcm3a76wdjeqhvnm4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Smoky",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 961,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#605B73",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(96, 91, 115)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "OneForArt #1275 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzvc5kj63xmv4i4pz57ief6wdkxby6c6aavvrafbtvmopa2hzwee",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": "1275"
+    }
+  ]
+}

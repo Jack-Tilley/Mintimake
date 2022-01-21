@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #487 - Tangaroa",
+  "description": "A Tangaroa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzbhd6iofp3cmqi2pcf6irh22l5i7uwjmqibenzoloukxgxqqfxu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tangaroa"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "487"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#03163C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(3, 22, 60)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1503 - Dingley",
+  "description": "A Dingley pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjdjueewxrdusvjohfviwgydmlmowlhz52rimvakchesnquenaeu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dingley"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1503"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D7747"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 119, 71)"
+    }
+  ]
+}

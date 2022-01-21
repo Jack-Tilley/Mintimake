@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1223 - Copperfield",
+  "description": "A Copperfield pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiamjgnrctasnoklox7gotd5pw5ec3ln564j4w4wahvixwsxntgbui",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Copperfield"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1223"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA8A67"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 138, 103)"
+    }
+  ]
+}

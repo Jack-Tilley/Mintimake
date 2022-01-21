@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #401 - Chardonnay",
+  "description": "A Chardonnay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic6dqpucfm36dqrwn77u7bnw3ff5exlduzteycjesvq2qgfwjic3i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chardonnay"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "401"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFCD8C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 205, 140)"
+    }
+  ]
+}

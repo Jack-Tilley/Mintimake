@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic47jt37ujuqb73zxm5zvmvimejqq6bogkdd7ygm3oafz56jsjfnu",
+  "name": "OneForArt #45 - Spun Pearl",
+  "description": "A Spun Pearl pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreick37dr4rpzbo4l7xbev6mxcpgsvln56gnfdq2lkjdr7dvbt7bg2i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spun Pearl",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 45,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AAABB7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 171, 183)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

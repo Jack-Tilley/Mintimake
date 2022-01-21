@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih2geni7fdsdq6vkiwth44n2xwat5ow33jmq4tjfjisdv5y7n53du",
+  "name": "OneForArt #691 - Sunglo",
+  "description": "A Sunglo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieraxlkloph5ftaz5fr2yfzqexpnqk4tu7fys5wryrxasgn4hc3iq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunglo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 691,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E16865",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 104, 101)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

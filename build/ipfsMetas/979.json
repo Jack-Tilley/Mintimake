@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig47o57zh5b56yca627ut6ldzgwi742yvfitr6khdkpswaubhyoae",
+  "name": "OneForArt #979 - East Side",
+  "description": "A East Side pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2rpbgdiays42k6slicb6yoxxebzuofqquaiqccw5tlchurivh4q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "East Side",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 979,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AC91CE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 145, 206)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

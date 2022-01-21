@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigpiqmns7ktzc3bbbzafsupa2ofbygh4yrwvcbqa5sp3oq6veu4um",
+  "name": "OneForArt #768 - Carmine",
+  "description": "A Carmine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicvmgrhcsul5lnzqfafunric3vrqm4lz5gbjnq6spiiavg7hsflyy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carmine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 768,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#960018",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 0, 24)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

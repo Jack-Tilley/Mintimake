@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibcqn2wpykiocre35j2q4i3kxtuvizaxavcgr4ddvtawojbc5nb5y",
+  "name": "OneForArt #783 - Maverick",
+  "description": "A Maverick pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7jaxxjh5gyge7xu2jr6dabheu3noeqrhjs47nefev7h4loybhwe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Maverick",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 783,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D8C2D5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(216, 194, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

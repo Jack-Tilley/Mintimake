@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifrnrvqtlmvovtjbznchhrjqs2twagqp7jr7kgfyvhnqora3bmxra",
+  "name": "OneForArt #973 - Royal Blue",
+  "description": "A Royal Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigi7p4obawq2bt7wgh2jazoxnwhrxon5yokqlwdoxblvl2rmtkzyu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Royal Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 973,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4169E1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 105, 225)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

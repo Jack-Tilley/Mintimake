@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieify3shfporumfuwjsqh73sf4e6z7uzg3jdyukaxhooprimpr6ti",
+  "name": "OneForArt #1159 - Governor Bay",
+  "description": "A Governor Bay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic4ijhe6c6t2a5fta5oiktg2354qzjnn3hun6k24wdumzeaoncq5a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Governor Bay",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1159,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F3CB3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 60, 179)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

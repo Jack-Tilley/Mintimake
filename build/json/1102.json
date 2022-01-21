@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1102 - Star Dust",
+  "description": "A Star Dust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiahiyq23oizor3nwx7k432hm7z2gaiwdmzutr64c42agxyk7wur64",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Star Dust"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1102"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9F9F9C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(159, 159, 156)"
+    }
+  ]
+}

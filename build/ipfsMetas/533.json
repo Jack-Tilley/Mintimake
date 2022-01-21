@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicwqqy5ttwlmeulj6mbj6hvmkeuk7pykpip6konzohh6iehy2ooqe",
+  "name": "OneForArt #533 - Gossamer",
+  "description": "A Gossamer pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicxjltlgqai3mjxur5fu6ansf36hwyyjckhi26ec7vthdjeqcacrq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gossamer",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 533,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#069B81",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(6, 155, 129)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

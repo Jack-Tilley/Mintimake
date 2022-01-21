@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihpr5uv3d24vhopjtixrwszw5j5a66w25oguanibvjddcbryivhzu",
+  "name": "OneForArt #730 - Mulberry",
+  "description": "A Mulberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreici7ckkqd5e4a5x7wnc5fnovdadf7j7bi2dhs4a6mw2vrm5bqq64a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mulberry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 730,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C54B8C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(197, 75, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

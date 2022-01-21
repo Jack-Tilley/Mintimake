@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreice2oranavxttrmep3nhrubxoy72umj5e7kly5vyffzblugf3fzma",
+  "name": "OneForArt #1128 - Fern Green",
+  "description": "A Fern Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieapg6zeexxel6upzaf7hu6zapbypyzldnb6kduvgjbgs5gkn47w4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fern Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1128,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4F7942",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 121, 66)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

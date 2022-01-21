@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiajra5g6yclgsrxq3psjgphr2jneblwizgqgvpkfp6xwtp25yttxu",
+  "name": "OneForArt #1557 - Seashell Peach",
+  "description": "A Seashell Peach pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrweml5uiptjikh32inhspxtlfli2vod65h6pxxrs6ycbbomjeyu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Seashell Peach",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1557,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF5EE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 245, 238)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

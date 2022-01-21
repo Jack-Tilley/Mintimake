@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidy22v553wuyaejg5rgijqkytca6joxug3f6frjmqdl2xgtsbipra",
+  "name": "OneForArt #896 - Porcelain",
+  "description": "A Porcelain pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibqhklaihbwntiwj5hvbia2btat5dzmx2b3pqhzgf4spje7j6vyny",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Porcelain",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 896,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EFF2F3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(239, 242, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

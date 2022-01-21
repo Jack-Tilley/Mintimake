@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #534 - Roman Coffee",
+  "description": "A Roman Coffee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtaqdgp6dc2q2omroh53zy2lg2e6lnibbvczsmmpyubm3ztyygk4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Roman Coffee"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "534"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#795D4C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(121, 93, 76)"
+    }
+  ]
+}

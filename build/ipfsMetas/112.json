@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicpipj4de2kgw2al37uxm5yvjifi6ljoqom3vilcnka23i2rj5fs4",
+  "name": "OneForArt #112 - Buddha Gold",
+  "description": "A Buddha Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifvqolu2nrjghmdkb5ee5fw2xv3t2ekqwziwkjpli5rjhgeblyasa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buddha Gold",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 112,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1A004",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 160, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

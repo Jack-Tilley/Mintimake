@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #33 - Mountain Mist",
+  "description": "A Mountain Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibhwbsf2vjghtbzfyrenhxhrxnjskqyzpztg5ihcqvwdz3wiv3es4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mountain Mist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "33"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#959396"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(149, 147, 150)"
+    }
+  ]
+}

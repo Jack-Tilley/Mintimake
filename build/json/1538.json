@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1538 - Pohutukawa",
+  "description": "A Pohutukawa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihi2xt7vqsihleymn672skxtbakd4y5rn36ax4wskugdfwcx73joa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1538"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8F021C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 2, 28)"
+    }
+  ]
+}

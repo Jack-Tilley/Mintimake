@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiczw4fs23md243dvcbf6zczjfgiczipnrxhbs3lbwux46voteylaq",
+  "name": "OneForArt #428 - Norway",
+  "description": "A Norway pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiht3nfs376vp2mma73phkfulcx2mu7oaq33pnhav7llwwx3beicta",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Norway",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 428,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8BD9F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 189, 159)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

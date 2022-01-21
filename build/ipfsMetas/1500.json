@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreickhmmkyarjedwvzvhgngxksfhjbiwlf7ucaygbrm7ajyrhz2krju",
+  "name": "OneForArt #1500 - Soapstone",
+  "description": "A Soapstone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbsmc26udlwqhzberg23kfvemlklryo2ylfkks53uqt2qjyrbl4y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Soapstone",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1500,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFBF9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 251, 249)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

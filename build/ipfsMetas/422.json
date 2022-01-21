@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibjid3ajj6cq4s3eec3tbwg6fwgkuh3fahhqan44wqeqrnz7dd4h4",
+  "name": "OneForArt #422 - Brink Pink",
+  "description": "A Brink Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig5k3u5cwxgjopwlmvowtubt6zismx2bzoor5qhx7fruhi3y2b6k4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brink Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 422,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FB607F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 96, 127)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

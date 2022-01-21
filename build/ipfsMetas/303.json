@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiancy5e3t55veroflaq7ve3caeiykfnizjvahr23x6vzr2f55ufbm",
+  "name": "OneForArt #303 - Sepia Skin",
+  "description": "A Sepia Skin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcrgifmpjuh42abdjaht4wu74anysgay7sajgk7g5xeogcw66by4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sepia Skin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 303,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9E5B40",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 91, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

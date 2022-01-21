@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #219 - Bahama Blue",
+  "description": "A Bahama Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid52hulkfpe5kqd4gih2qeh6xzaelzm7h7w2gzyop773soe4xvebe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bahama Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "219"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#026395"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 99, 149)"
+    }
+  ]
+}

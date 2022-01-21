@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #574 - Corduroy",
+  "description": "A Corduroy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiambfuiyojpmrbu23lpi7mfkyueo4ftq4vnu6xk5ypykqxjywun6i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Corduroy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "574"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#606E68"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(96, 110, 104)"
+    }
+  ]
+}

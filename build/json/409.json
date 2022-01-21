@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #409 - Pixie Green",
+  "description": "A Pixie Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreialv6o2oridino7pbo4kr5senjrg6bke64wtesq6sivid6ovu7xa4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pixie Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "409"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C0D8B6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(192, 216, 182)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1532 - Amber",
+  "description": "A Amber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigprks6phbm5sz46wc42eqnp6w5u7owxjwu6xwryuwqfbvn5f4ke4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1532"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFBF00"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 191, 0)"
+    }
+  ]
+}

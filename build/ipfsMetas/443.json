@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihxpbhnwyfmhtwzpdrxil3ib5eybsie7rlkadjzmi5qaahjyk43wy",
+  "name": "OneForArt #443 - Champagne",
+  "description": "A Champagne pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicspnrkdxye2lz2vfnwx2vab3uuog3bmnypcws5m2v5z7btqwb7i4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Champagne",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 443,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAECCC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 236, 204)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

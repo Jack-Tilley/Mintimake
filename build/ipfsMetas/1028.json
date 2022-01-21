@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigfikhbhfnqt7yikjzby6whpjooivirotrdhki3ijlnfrnz4bt4he",
+  "name": "OneForArt #1028 - Gin Fizz",
+  "description": "A Gin Fizz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtuxqua5f3wvhgeqka5n6j6n57f4b2su3irobzvnept3advzdvni",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gin Fizz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1028,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF9E2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 249, 226)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

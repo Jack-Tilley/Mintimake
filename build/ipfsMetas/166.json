@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigsn2v2npprv7vc5dkhd7xcojegkkphgosa246gcyern7efpvjs2m",
+  "name": "OneForArt #166 - Feijoa",
+  "description": "A Feijoa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibbdkdf2ps6uz55yyuf4xr4ml7yaxlxeprewzmrsdgdfentatjwre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Feijoa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 166,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9FDD8C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(159, 221, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

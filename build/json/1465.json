@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1465 - Opal",
+  "description": "A Opal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigal2lpdswv2a7gv5l3h4esslt3owq6nmwcxmkbmjgzynpnn6hiai",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1465"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A9C6C2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(169, 198, 194)"
+    }
+  ]
+}

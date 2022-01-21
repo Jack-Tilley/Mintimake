@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia6fijtk77oaywgilyikf2kt6dhejeodbz2bznn57tjinob7wpmwy",
+  "name": "OneForArt #581 - Blue",
+  "description": "A Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih44sazglvf2b5jdr4zdqe73lnux54ptngmr6jhdcbyiiy7tujgpe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 581,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0000FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 0, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

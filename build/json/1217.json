@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1217 - Eunry",
+  "description": "A Eunry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihq3zflsn5wn56apwj3honmpacgmqncjy3v4s4bjesibbvcakxejq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eunry"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1217"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFA39D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 163, 157)"
+    }
+  ]
+}

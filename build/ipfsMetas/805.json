@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieox3cwyftto4pfbikd5wqgfahh2opnltkrfgpb7ujma7rmjhxoau",
+  "name": "OneForArt #805 - Barossa",
+  "description": "A Barossa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnat4xk27ms7arr7owfxz45ezg7z2vfwniqz4cqlgjliv5e3ooni",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Barossa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 805,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#44012D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(68, 1, 45)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

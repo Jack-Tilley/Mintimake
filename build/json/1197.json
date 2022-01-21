@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1197 - Pale Prim",
+  "description": "A Pale Prim pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrwbo2ags7ne67zffk72ipnwnfqssqbn7qfzbnpgw34sqnvonude",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Prim"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1197"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDFEB8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 254, 184)"
+    }
+  ]
+}

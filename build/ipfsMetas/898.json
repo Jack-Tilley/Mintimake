@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreievm4ggwf6dfnak4wes6feuwpwk4pyidf5pndjxjwmbrzremr7zfy",
+  "name": "OneForArt #898 - Purple Mountain's Majesty",
+  "description": "A Purple Mountain's Majesty pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2lqy53qunwpa4nbetiicxlqpx5rwveg2hv3dq7fckjcvatlj45m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Purple Mountain's Majesty",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 898,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9678B6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 120, 182)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

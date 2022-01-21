@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihygxcfjujiitlb6af7kmaitrwoq4ab3y6wihv2axagyhk5imo6re",
+  "name": "OneForArt #397 - Atoll",
+  "description": "A Atoll pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiairpjpdhtpqptq7ir22aioeh7jgdxlekhynxhyu6b224hn6dx2le",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Atoll",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 397,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0A6F75",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(10, 111, 117)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

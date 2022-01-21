@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #540 - Brandy Rose",
+  "description": "A Brandy Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih52hix6j7cwsbdgbcu3kf47kjlumjgz22ld4kah47yggeb5rstxe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brandy Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "540"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BB8983"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(187, 137, 131)"
+    }
+  ]
+}

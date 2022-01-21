@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1337 - Eastern Blue",
+  "description": "A Eastern Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie2kpu7jircufne2rto2vsxehlwganakt4dpbriazb6zyhbggxvl4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eastern Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1337"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E9AB0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 154, 176)"
+    }
+  ]
+}

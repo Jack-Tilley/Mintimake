@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidrcbbt2fglsu7m37ajjjyhwcfaylpwsfqe7wysya3tmzq2au55vu",
+  "name": "OneForArt #999 - Mirage",
+  "description": "A Mirage pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreienzl6bj3qfzi3qi6mvpnr6ewyn5nwx5epjljabrqfyv6kduomqrm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mirage",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 999,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#161928",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(22, 25, 40)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

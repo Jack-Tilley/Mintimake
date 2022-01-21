@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #149 - Magnolia",
+  "description": "A Magnolia pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibdrbnn7wzmvndx2fig4wcgxi62foqz7mtj6byokuqwkpccndcfh4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Magnolia"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "149"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8F4FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 244, 255)"
+    }
+  ]
+}

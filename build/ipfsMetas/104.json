@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaiy26i3qflvictxmlyvq7esr43pghd6njsmfxxhoaeuu5yqfksdi",
+  "name": "OneForArt #104 - Crimson",
+  "description": "A Crimson pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7sospvgj7hcjbgzdmpuydl7lchcqe5g5u4crsid3qht7uhzeaja",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crimson",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 104,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DC143C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 20, 60)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

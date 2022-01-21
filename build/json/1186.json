@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1186 - Affair",
+  "description": "A Affair pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibk3ipxykmfifbpoprle5flsoanzjbujpxo46eybd37hf27q42edy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Affair"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1186"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#714693"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 70, 147)"
+    }
+  ]
+}

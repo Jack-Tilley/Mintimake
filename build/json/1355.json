@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1355 - Celery",
+  "description": "A Celery pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzbuspejnzc4bdchirqeizaig5jgr57bk4552jhziaimcz6ioqea",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Celery"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1355"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B8C25D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 194, 93)"
+    }
+  ]
+}

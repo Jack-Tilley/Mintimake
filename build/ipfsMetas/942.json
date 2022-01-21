@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiggzbwnerwrxkbxkuak2fjrj2wxit5egxo72ruprmga3i2gfplbiu",
+  "name": "OneForArt #942 - Punga",
+  "description": "A Punga pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaktvtwe5h7gdfcje6lunplev5sdwu2h2nniiglnu7mmiqqy6wf6i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Punga",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 942,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D3D14",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 61, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

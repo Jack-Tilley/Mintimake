@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #152 - Rose",
+  "description": "A Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidq6fh7xv3fmlf3e4gujcitx62ckhyucqhbaw4ieldfzza43ng2oe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "152"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF007F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 0, 127)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihakhmboo2lno667akbav6gzagcaflfw5q6nga3s5jrqfprjdp2tu",
+  "name": "OneForArt #63 - Blue Charcoal",
+  "description": "A Blue Charcoal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2ndfkdxkfnffemqsbaxzjxcuthi3gp7ksqugyokkwnfp6rztbla",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Charcoal",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 63,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#010D1A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 13, 26)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

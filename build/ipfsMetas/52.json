@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihhjoqth6m73iqcbvzcjk5ldi7uw5efgoxcnzaximq3snnoiyshay",
+  "name": "OneForArt #52 - Yuma",
+  "description": "A Yuma pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiddri2ktv4fzcbmki33bm5r2gubf25642l2zeqbv4eiks5xdpgr64",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yuma",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 52,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CEC291",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(206, 194, 145)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

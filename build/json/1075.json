@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1075 - Manatee",
+  "description": "A Manatee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaug7x2ba5ktdy7prippnirjoigf4sixa25fnoa6gekfn252uqj3a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Manatee"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1075"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D90A1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 144, 161)"
+    }
+  ]
+}

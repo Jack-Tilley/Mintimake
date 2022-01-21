@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcy7mobn5vepjq664mczgqwp2mdbpaeubh7rxfgq3c4sgw7o7axu",
+  "name": "OneForArt #31 - Baja White",
+  "description": "A Baja White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxrl7urwgvclwopkt7rr4n2wan37fqivt3xdrasrdymaiasjlsui",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Baja White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 31,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF8D1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 248, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

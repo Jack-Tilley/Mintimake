@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcvagkwwnasio24awo7v2spazmqc6rr6iwp2zvebpf2dtt4s3d3q",
+  "name": "OneForArt #142 - Half Colonial White",
+  "description": "A Half Colonial White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicp777xksjw76r4lnet2l2ef2vinlxxxf7lltfcm2g2vnazqqthey",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Half Colonial White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 142,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDF6D3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 246, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

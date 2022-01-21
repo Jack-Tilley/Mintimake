@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic37ursjorephl3asfxy5llckzxs2wvgg2oi55moss5xw5ygol7oa",
+  "name": "OneForArt #1312 - Burning Orange",
+  "description": "A Burning Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihevzciddhks3lba6oq7zuz7ahgrta3p6vp6z747xpoyp7o7aijly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burning Orange",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1312,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF7034",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 112, 52)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

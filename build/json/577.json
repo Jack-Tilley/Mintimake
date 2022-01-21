@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #577 - Maroon",
+  "description": "A Maroon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidbcaz7jtakvhrtjdtj5oqissm3yyuh2v5vhazaphte6qswjjhioy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Maroon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "577"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#800000"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 0, 0)"
+    }
+  ]
+}

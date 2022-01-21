@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #785 - Broom",
+  "description": "A Broom pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabjgshozjfdlavpnwkdwmf3ndxo2evneec7uvwugoi7pufabp4pi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "785"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEC13"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 236, 19)"
+    }
+  ]
+}

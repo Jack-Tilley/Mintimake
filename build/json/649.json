@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #649 - Meteor",
+  "description": "A Meteor pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihpnwmh5x5lxlwgjqqtezmpjkj3bhfxqjgvi7nvk377ack7wwqxzm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Meteor"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "649"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D07D12"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(208, 125, 18)"
+    }
+  ]
+}

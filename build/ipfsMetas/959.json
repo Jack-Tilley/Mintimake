@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaeudpeozmgrdiopsrdn6baon6z5t6smtqch3ssq7rms723u2wqde",
+  "name": "OneForArt #959 - Voodoo",
+  "description": "A Voodoo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihs3i35z6a7q4kcqfg7msoqumsaf6aisqppr2zr75bacd3twx7vne",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Voodoo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 959,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#533455",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(83, 52, 85)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibqanorch7u272pmwtex5ozh7rgcuugq7t5omqcgs7qqzhrtxj4jy",
+  "name": "OneForArt #945 - Golden Sand",
+  "description": "A Golden Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiebrn5uijdyrfi4qcf5adpns2ngqtq3drtfipghsmjonqz2wngsim",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Sand",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 945,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0DB7D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 219, 125)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

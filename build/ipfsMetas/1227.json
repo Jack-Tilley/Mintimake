@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigr6s2fitfxazy2wspvwvoijaizeqv2jmiloig4hq6xd33d47gaqm",
+  "name": "OneForArt #1227 - Muesli",
+  "description": "A Muesli pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidvy34fyhgesqxyqn5v3dxz3gm4fnw3m6wyf72tznkhksfygdk7z4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Muesli",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1227,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AA8B5B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 139, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

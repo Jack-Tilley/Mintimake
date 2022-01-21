@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #832 - Buttermilk",
+  "description": "A Buttermilk pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidpt3gz4k4cyqynwonedkto3sjhrd6p5olcopaa456b34poou6vla",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buttermilk"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "832"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF1B5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 181)"
+    }
+  ]
+}

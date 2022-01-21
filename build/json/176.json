@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #176 - La Rioja",
+  "description": "A La Rioja pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie56lsr2eehiv4jmlepdvkurubpkvxzwl6pojfpeoq5h34vc4zrja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "La Rioja"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "176"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B3C110"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(179, 193, 16)"
+    }
+  ]
+}

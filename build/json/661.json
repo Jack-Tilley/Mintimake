@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #661 - Cherokee",
+  "description": "A Cherokee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihdme2c43fg3ty6obtlurqd3hrbt4ww5fgoie2jzeck5lv5ckyefe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cherokee"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "661"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCDA98"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 218, 152)"
+    }
+  ]
+}

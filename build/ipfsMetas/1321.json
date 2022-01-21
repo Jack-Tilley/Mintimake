@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic6yq5cd6qramb7p6cfmwwsxhky4na3bga6ivlwhsm26to7ouji4y",
+  "name": "OneForArt #1321 - Treehouse",
+  "description": "A Treehouse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakqky6tyha3j223biai7ck6nf5qt35exbz7emvfgq2jnfsbiyjeu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Treehouse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1321,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3B2820",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(59, 40, 32)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

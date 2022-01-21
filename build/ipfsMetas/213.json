@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib4aruw3iep62z4v7irq5jaffcxzhjzq3mf534asvb7yabnytoy4u",
+  "name": "OneForArt #213 - Oxley",
+  "description": "A Oxley pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjay7n4alkeypnaw7kfaze2zr5rbqxo7faiqsfb5umikdlx5tlym",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oxley",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 213,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#779E86",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 158, 134)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

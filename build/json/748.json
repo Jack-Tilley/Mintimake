@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #748 - Saffron Mango",
+  "description": "A Saffron Mango pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrvu44ewj6y7xx5zdfn74eusownskqpnv5mz2hl4ydb5moplap2a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saffron Mango"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "748"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9BF58"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 191, 88)"
+    }
+  ]
+}

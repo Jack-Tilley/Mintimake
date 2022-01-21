@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid4ql2xy4v3yjfxfp6rf6y52lm2a5afjcm24byfk2lvuyv4h6cymu",
+  "name": "OneForArt #1132 - Paris White",
+  "description": "A Paris White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihjzqrh2uhavthak2cfobfbtb26fbwb6u7zpoarzrt44rjlhvncge",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paris White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1132,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CADCD4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(202, 220, 212)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

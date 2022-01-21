@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifztxouj324wqrhecso5xeqhcrlpixktjjnu7b6tlriovaqzxjqie",
+  "name": "OneForArt #922 - Maroon Flush",
+  "description": "A Maroon Flush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif37f3phpcw3wku5fbz5brfca6rv6bai3d3bres7rto76qin2auea",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Maroon Flush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 922,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C32148",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(195, 33, 72)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifnsncnjlu5fuxotzff4jkz5cizosbkix73wcea4zednshxolmlim",
+  "name": "OneForArt #278 - Powder Ash",
+  "description": "A Powder Ash pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibz6nfnj363zbm2fxaenu5amny6zh4vmkb5at3fxv7oqss6pyyjre",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Powder Ash",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 278,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BCC9C2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(188, 201, 194)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #378 - Friar Gray",
+  "description": "A Friar Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieowapcr6e5uukpbf3cfgz2u7hr2gzshifvud4yci4uwwww64qmpu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Friar Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "378"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#807E79"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 126, 121)"
+    }
+  ]
+}

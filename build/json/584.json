@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #584 - Aqua Deep",
+  "description": "A Aqua Deep pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigxoxme2seiv6t4gi4tq2oxrerj4kgr7nfecp3ijvmybwwa5amnsi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Deep"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "584"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#014B43"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 75, 67)"
+    }
+  ]
+}

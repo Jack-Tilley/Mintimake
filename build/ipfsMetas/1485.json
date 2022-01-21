@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiatevvmljnpqupmzpx6yb5rr4vc4c3yt4qfzybjvssyhtmi6zsb3a",
+  "name": "OneForArt #1485 - Russett",
+  "description": "A Russett pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtucglpge7zunoyreggx232og3gfluuutfsrtx6hn4sny3atdatu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Russett",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1485,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#755A57",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(117, 90, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

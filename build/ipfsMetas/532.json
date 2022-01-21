@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidsin5wj7mjxta6poygvfgoeslqmx6y46ssrloxz7qrlkuanv3l5y",
+  "name": "OneForArt #532 - Pampas",
+  "description": "A Pampas pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidltfrafea7bbltb3xl7ywsugoqx3zrkmrbwmwqtgujorrjqwtk7q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pampas",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 532,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4F2EE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 242, 238)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

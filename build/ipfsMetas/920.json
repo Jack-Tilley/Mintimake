@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbph3hf722pv3bund5qfj63bmwlqfkevs2qkq3usdng4bn2pt4hu",
+  "name": "OneForArt #920 - Lemon Grass",
+  "description": "A Lemon Grass pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif7bf64mhat6gsvyp22xd7ftza5itpt3apirfctq4shaqiix4vwhu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lemon Grass",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 920,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9B9E8F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(155, 158, 143)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #937 - Guardsman Red",
+  "description": "A Guardsman Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigc2c56vjubd3wthi5bk65cvzrp7g2mdakynuqdysmdnkckkubk4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Guardsman Red"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "937"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BA0101"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(186, 1, 1)"
+    }
+  ]
+}

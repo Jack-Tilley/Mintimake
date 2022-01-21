@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1080 - Violent Violet",
+  "description": "A Violent Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjdakept2xrysgohmfjexdlw55jwjlgf3xllwzbqhfriqfm5engi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violent Violet"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1080"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#290C5E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 12, 94)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1235 - Flax Smoke",
+  "description": "A Flax Smoke pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreietqndjoj54d6w6ajtnfhmh75ta2ykrc7lvakd5epwaahfuolmyle",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flax Smoke"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1235"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B8265"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 130, 101)"
+    }
+  ]
+}

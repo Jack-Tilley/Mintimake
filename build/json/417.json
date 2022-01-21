@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #417 - Butterfly Bush",
+  "description": "A Butterfly Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiht6ozbiwx4emo5af2p3eaastkt4saa5ojwpg5o7kzq22nebfd6oa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Butterfly Bush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "417"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#624E9A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(98, 78, 154)"
+    }
+  ]
+}

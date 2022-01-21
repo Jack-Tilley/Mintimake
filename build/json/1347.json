@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1347 - Chestnut Rose",
+  "description": "A Chestnut Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreico4lbmsxvzz7gc7qfpkedyqrquxxy55zuulpnyqzjmkgchhqlmju",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chestnut Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1347"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CD5C5C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(205, 92, 92)"
+    }
+  ]
+}

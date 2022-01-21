@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1386 - Bull Shot",
+  "description": "A Bull Shot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7i64mah5fd2fizd3ilgiscnxkyi4rkri5n7q2vx4xstbjwaymga",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bull Shot"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1386"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#864D1E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 77, 30)"
+    }
+  ]
+}

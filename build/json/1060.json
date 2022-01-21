@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1060 - Regent St Blue",
+  "description": "A Regent St Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibnmxs7jsm2rawjjwgeosayg2sxyi2axwh23dckqummr262zhw33e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Regent St Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1060"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AAD6E6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 214, 230)"
+    }
+  ]
+}

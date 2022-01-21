@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia6bgrrs2fpbmvmi4vf4vn4qthfhdmhvwso7zjetdzlh6b7rwurhq",
+  "name": "OneForArt #1176 - Boulder",
+  "description": "A Boulder pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicx6hgt6m5zbnlsyofreqiabnpplmkbs7gqh3ux2ci4i7nwf2qupq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Boulder",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1176,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7A7A7A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 122, 122)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

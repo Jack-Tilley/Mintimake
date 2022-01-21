@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiei3tg6s444dm4yrnkjgbuapx4s5xh2hrzvmo54ucaupimeybdrk4",
+  "name": "OneForArt #856 - Wafer",
+  "description": "A Wafer pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicabws7bdxxifwe3ozj5cn3tpylk2ouza5e2tb7hmb6jj3fmx5wqy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wafer",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 856,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DECBC6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 203, 198)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

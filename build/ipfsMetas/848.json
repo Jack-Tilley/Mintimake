@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihv5bvekxsryq36jzflpqrfyfscezcib4cukea7p5iq6xzxsm5xcu",
+  "name": "OneForArt #848 - Madang",
+  "description": "A Madang pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaovx5opoceyafwbowxy5rzxyqxq4saz6jvwldjpyw53ni6ui5fie",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Madang",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 848,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B7F0BE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 240, 190)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

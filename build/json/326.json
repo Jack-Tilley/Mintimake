@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #326 - Hawaiian Tan",
+  "description": "A Hawaiian Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7ukt32mtmvzacvjrcd4hesl5frocajp6dnmpoodwydua2c2uul4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hawaiian Tan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "326"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9D5616"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(157, 86, 22)"
+    }
+  ]
+}

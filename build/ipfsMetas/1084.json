@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia5qv46c54jguqlfwkiotb33eb633kadczjqz4q23fmw6gm57lsli",
+  "name": "OneForArt #1084 - Gossip",
+  "description": "A Gossip pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajd2ev3e2epapoagx4v6bztjne2degbxypg3c3xcj2463x73zxq4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gossip",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1084,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2F8B0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 248, 176)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

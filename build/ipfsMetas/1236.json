@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicd42jlml6iu6vuz5hwqhpctxre3avtlgyyyxq2vvrf2dyyqbb77q",
+  "name": "OneForArt #1236 - French Pass",
+  "description": "A French Pass pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicboaaa47w66rkr64jkqqhni4e7jtdqhc5zymshttyh2b7zk46y6e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "French Pass",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1236,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDEDFD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 237, 253)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibgn23zwytazxhuyizjw2hdmxkeagkqn5lydf6um2lg4ydgvba3ky",
+  "name": "OneForArt #1031 - Cupid",
+  "description": "A Cupid pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihr3otdkxbvvafvdhcw6k6vgpmiqpqhntyh2vffwn4phnrwzdtpby",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cupid",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1031,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBBEDA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 190, 218)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib34rfakwwb2yopl2i6hvqc6g4hxpoxvz7nz7a5xwxnpqq5kvwfi4",
+  "name": "OneForArt #604 - Christalle",
+  "description": "A Christalle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreienmztx7gvqqlojz6sj6dvyh6ufb4juwftkwzzstqz2gsdmj6vtwu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Christalle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 604,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#33036B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(51, 3, 107)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

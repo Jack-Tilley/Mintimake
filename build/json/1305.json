@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1305 - Janna",
+  "description": "A Janna pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrc3wnjwa7ibt27v7vhp36qcevsurusvoaagrhmkchbwqci4tndm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Janna"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1305"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4EBD3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 235, 211)"
+    }
+  ]
+}

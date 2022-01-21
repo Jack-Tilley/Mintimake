@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiapqvdz32fqibbpvm2or4auzwwk4tqczthntszvdzz3la6oqz2e2a",
+  "name": "OneForArt #638 - Picton Blue",
+  "description": "A Picton Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia44gyawbzxxedwat5qya3jhtlwvjkiylx7e7i5jsugoiykjbosfe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Picton Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 638,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#45B1E8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(69, 177, 232)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

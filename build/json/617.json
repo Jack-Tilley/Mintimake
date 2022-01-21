@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #617 - Rodeo Dust",
+  "description": "A Rodeo Dust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrrzxzeuhu5jj7hldsrnlvnjzn7gpfocucwoseaaa3fta7zl4674",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rodeo Dust"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "617"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9B29B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 178, 155)"
+    }
+  ]
+}

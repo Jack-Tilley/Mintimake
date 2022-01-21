@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicnpxliwhdvdb537fichmkvlyqkfxkpfukzwh6sx6mxdcii4wr32u",
+  "name": "OneForArt #809 - Tower Gray",
+  "description": "A Tower Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifuc7cief2jkk4mpnokad6okbszr5qzzzkzjjkv4n7caugrlrrs3i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tower Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 809,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A9BDBF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(169, 189, 191)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

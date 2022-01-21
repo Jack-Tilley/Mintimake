@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1389 - Acapulco",
+  "description": "A Acapulco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibfzhn2gw7i3ofanwwxmbcssntuztvol2ad5r7xtlemtcxtcmtlbe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Acapulco"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1389"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7CB0A1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 176, 161)"
+    }
+  ]
+}

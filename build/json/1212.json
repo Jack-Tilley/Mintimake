@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1212 - Fall Green",
+  "description": "A Fall Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhi44jxedtogfiqna4toln3p22fpqatyji563xai3zhzg7miy6mm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fall Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1212"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECEBBD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 235, 189)"
+    }
+  ]
+}

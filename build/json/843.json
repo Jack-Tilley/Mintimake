@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #843 - White",
+  "description": "A White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihipckq7aer5qaqz5omoi555ibhvbjzz5yupt7kdgoc6ztcglonjy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "843"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFFFF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 255, 255)"
+    }
+  ]
+}

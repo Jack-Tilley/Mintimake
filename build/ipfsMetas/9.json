@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighy27ak2uiih75ph2kokxoxv47yzhqrqzzysy6xcmftte672osri",
+  "name": "OneForArt #9 - Lilac",
+  "description": "A Lilac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifn4e6iux7apeuef5at5ph2ygg6ikwl722dbwpjyh6r2zen2roknm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lilac",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 9,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8A2C8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 162, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

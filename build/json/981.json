@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #981 - Flamingo",
+  "description": "A Flamingo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichyby6sl2wz7kmgb4tvktfbgt5tk4g2pijsjldnej45e6ewqevhm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flamingo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "981"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F2552A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 85, 42)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #236 - Festival",
+  "description": "A Festival pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6sxfki4zfpe6w7qqafyczrnyypclv2noz2kg2yuu3n67kqvusoi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Festival"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "236"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBE96C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 233, 108)"
+    }
+  ]
+}

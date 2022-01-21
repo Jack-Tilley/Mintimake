@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih5uqlb6x7kwolvmabxowsp4ojdrs3srcuwkxmfucn7p35rnsynzu",
+  "name": "OneForArt #623 - Gray Suit",
+  "description": "A Gray Suit pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielbejbpvumerxcoqgnivpn5sre3hikfsmyhbnmavevmi5mvfr4je",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gray Suit",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 623,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1BECD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 190, 205)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

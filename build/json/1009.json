@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1009 - Cream Can",
+  "description": "A Cream Can pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibusg2cirpyb3ozcyfe5ybxtf6n6sbdtmljy4v6kku3lzz6ympzz4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cream Can"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1009"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5C85C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 200, 92)"
+    }
+  ]
+}

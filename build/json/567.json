@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #567 - Fantasy",
+  "description": "A Fantasy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifs27ib2oznjo4jfgbng75y6c4xth75rygzin3vgg7uaqz7gnssky",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "567"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAF3F0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 243, 240)"
+    }
+  ]
+}

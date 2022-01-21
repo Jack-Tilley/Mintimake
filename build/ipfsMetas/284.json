@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibr6bqtd5a5s5ytbqf3crezaklexsqcpvyien5i5cdo6p4d3e2mbu",
+  "name": "OneForArt #284 - Gray Nickel",
+  "description": "A Gray Nickel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifomyyxgvrly4nbkbrrtuj5j7tkary54tcyw25p54nhor7viiypra",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gray Nickel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 284,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C3C3BD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(195, 195, 189)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

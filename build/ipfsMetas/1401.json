@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif7ervgkz7ewcnugmrkijiai45bdlzxxck36nw46hydyva6nz243u",
+  "name": "OneForArt #1401 - Mongoose",
+  "description": "A Mongoose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaguc4hu3s622wamrlkicfbrzay5k7wyaqesdz6wymr7xvlk6hw3m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mongoose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1401,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B5A27F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(181, 162, 127)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

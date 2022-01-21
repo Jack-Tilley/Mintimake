@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #687 - Moss Green",
+  "description": "A Moss Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreietazg73xtzuvphomoj54xfytztoybrvcuq7wb5tyhwia4w6ot5tm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moss Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "687"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ADDFAD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 223, 173)"
+    }
+  ]
+}

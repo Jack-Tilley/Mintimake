@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1311 - Sapphire",
+  "description": "A Sapphire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicma2njaefwrjyrrdeymwcjo4jjcf2stj4e3xcyuo7cqs4t4vgosq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1311"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F519E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 81, 158)"
+    }
+  ]
+}

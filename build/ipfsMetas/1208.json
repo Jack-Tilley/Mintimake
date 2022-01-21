@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiekuvrulcstttxzay7etjielxfaw2oakxnkqjugfx7zixqtcnbrme",
+  "name": "OneForArt #1208 - Hunter Green",
+  "description": "A Hunter Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvqebtesdgiofheudni4xkf42k22fro3gnywfn22r43eokssxoki",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hunter Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1208,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#161D10",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(22, 29, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

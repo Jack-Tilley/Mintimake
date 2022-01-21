@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiffgvdrmz2wuds2tn6t6xbs4rj4uitvxrvj7odf46cjzq3zacsw5y",
+  "name": "OneForArt #1258 - Yellow Metal",
+  "description": "A Yellow Metal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidg5q24nmojsj3ulwdsrxdy4mmh7g7ba5zbgxm3jyi4g5jou4od44",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow Metal",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1258,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#716338",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 99, 56)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

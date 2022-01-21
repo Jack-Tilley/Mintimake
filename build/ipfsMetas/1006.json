@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidvkcrm7p3qbsok5z567jkcl42umwjqw6jkqkbx4z67z5ohlbqlea",
+  "name": "OneForArt #1006 - Indigo",
+  "description": "A Indigo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiho3xegwcjwrjgl7mcj6wy5ukguqrzzzwlo4ww4lnpd5uhnyg57my",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Indigo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1006,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4F69C6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 105, 198)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

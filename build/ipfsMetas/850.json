@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihj6sprbxbjzpl4heej6vqkkg27nzrmthkhdrahgn56mmycq6hjlq",
+  "name": "OneForArt #850 - Tasman",
+  "description": "A Tasman pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiddvgxnjmskw7ml2ohhgueqpw35lvwtutkbejqe6fgimpszz5iuua",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tasman",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 850,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CFDCCF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(207, 220, 207)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

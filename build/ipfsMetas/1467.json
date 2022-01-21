@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcofb7vaku3qgvr5hllmnqozsggiggwlxmmmkqohmb2xzltcxmkq",
+  "name": "OneForArt #1467 - Tuft Bush",
+  "description": "A Tuft Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4pfmpr24vnu7hmp3v2nbbvdttq5dym7nznyq356u5uwiykr4j2e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tuft Bush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1467,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDDCD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 221, 205)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1350 - Amaranth",
+  "description": "A Amaranth pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicxacijjlsfuglovazvhwnxrkn4erpvdjhgajdw632fjvitv5rjuu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amaranth"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1350"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E52B50"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 43, 80)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic3nxiespd5u267h7ee6rqy3fg2r4vitj2vmltviclb5bp6dnimuu",
+  "name": "OneForArt #515 - Eden",
+  "description": "A Eden pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibhfg62g4hhbsjjd5fs54fnkswdqmpgmkoel2govf5m65j4ftept4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eden",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 515,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#105852",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(16, 88, 82)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

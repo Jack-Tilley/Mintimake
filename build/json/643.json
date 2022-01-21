@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #643 - Lynch",
+  "description": "A Lynch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7fl34efifxmbh5fmpmzxv3tepsb4x3e7xxwi2jvni53sd7lb6cu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lynch"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "643"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#697E9A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(105, 126, 154)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigo7e3fnsperqoj45xxss5n3uytipupumqnni5obxdvs6r2vdvj3a",
+  "name": "OneForArt #235 - Husk",
+  "description": "A Husk pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiex5skizps2dg2w2pry4doszurgdza3yzp7gbckqjgsf4ozjxlpba",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Husk",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 235,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B7A458",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 164, 88)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

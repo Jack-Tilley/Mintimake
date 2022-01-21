@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1281 - Ship Cove",
+  "description": "A Ship Cove pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihc4d3abkmoe46zyf6do5ozbqek42zaul3x4vpdxn6bub62sut5t4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ship Cove"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1281"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#788BBA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(120, 139, 186)"
+    }
+  ]
+}

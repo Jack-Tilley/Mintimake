@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1479 - Rust",
+  "description": "A Rust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib5dey6v76b2k2o662xeropmcsrja7dwd4ukc3kmtx6vvrf5o4o7q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1479"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B7410E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 65, 14)"
+    }
+  ]
+}

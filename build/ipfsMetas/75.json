@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieqtm7o2dzkl3k3zztf2rvwondwvrh7tu6hw77gjpn5tptuh3b3pu",
+  "name": "OneForArt #75 - Polar",
+  "description": "A Polar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnqprnnbourtulsi5ots5ue4snv4cc7zec7m7m7kuu7zjrayfxbi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Polar",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 75,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E5F9F6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(229, 249, 246)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

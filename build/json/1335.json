@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1335 - Hurricane",
+  "description": "A Hurricane pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigysykd5aifmb3dto3yvsfgv3unqbgqchgzoop62ltohzgqizdbrm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hurricane"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1335"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#877C7B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(135, 124, 123)"
+    }
+  ]
+}

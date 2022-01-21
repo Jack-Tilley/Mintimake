@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibj5filk4f4nplvhkjyebm4q4vvh4gcmgq247got6ksgzca3xgoba",
+  "name": "OneForArt #1400 - Beige",
+  "description": "A Beige pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftbesxec3ihm3ei6io44duwz2pzrwzaf62w6wfbr3oofnaz2oagy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beige",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1400,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5F5DC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 245, 220)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #485 - Mandalay",
+  "description": "A Mandalay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigphfofcqmbs63ntxsu77ipsmhofcgn2gfiwfvauefdwwfsifjz4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mandalay"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "485"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AD781B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 120, 27)"
+    }
+  ]
+}

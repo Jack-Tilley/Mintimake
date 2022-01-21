@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #500 - Regal Blue",
+  "description": "A Regal Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihre5zvkdgxfn2ofoj64tpdclizkrpgkzviij3bbcnietiubkw7ym",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Regal Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "500"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#013F6A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 63, 106)"
+    }
+  ]
+}

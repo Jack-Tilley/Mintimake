@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #546 - Sprout",
+  "description": "A Sprout pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidiu2t6szb3tqf6ujymurfdqjbd5td3s3xbpfpeyrrbciiswsufs4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sprout"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "546"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1D7B0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 215, 176)"
+    }
+  ]
+}

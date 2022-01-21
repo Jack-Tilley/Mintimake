@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid2ia56bzgajqum4nyjiybd3u4ulfwsyvhoyvxowlfv2s62iqgge4",
+  "name": "OneForArt #1249 - Pueblo",
+  "description": "A Pueblo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigskbwezhnbhkwhrj3ni227vyuovnrxgqytd4ta45jtxmejjqvln4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pueblo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1249,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7D2C14",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(125, 44, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

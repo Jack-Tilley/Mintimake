@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #94 - Pear",
+  "description": "A Pear pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibmry72iyfkkmuw63uq27oa4f5qn6gfhphjvweuxl4zkxrjvqiq6y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pear"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "94"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D1E231"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(209, 226, 49)"
+    }
+  ]
+}

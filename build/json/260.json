@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #260 - Shocking",
+  "description": "A Shocking pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidf5u6tplq7hpvazpc3tnkavpqqqc3kbrxdmx53w4ut3pgavtug4u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shocking"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "260"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E292C0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 146, 192)"
+    }
+  ]
+}

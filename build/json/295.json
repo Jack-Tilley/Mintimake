@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #295 - Spring Green",
+  "description": "A Spring Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicdkrbltzkp6xu77yj3yiawe4uchs7rzcovnnpd5yewkvpmnv4equ",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "295"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00FF7F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 255, 127)"
+    }
+  ]
+}

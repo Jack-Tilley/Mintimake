@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifqjhqpv7powytfebxp2splpfiu5xrrdg6uapvv464v7kypcbegwa",
+  "name": "OneForArt #4 - Golden Grass",
+  "description": "A Golden Grass pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6mdk25qlq4f7peitno4vgx2vqrr4hwlxod5pxswmv2uoxbbooly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Grass",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 4,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DAA520",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 165, 32)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

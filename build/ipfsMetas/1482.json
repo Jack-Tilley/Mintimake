@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicx4qmx7yvjxnjkhp2vivg6kkzec22quvejydihpll55eekjwiimy",
+  "name": "OneForArt #1482 - Slate Gray",
+  "description": "A Slate Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicabaoukb2s4rp47sfgy5pr3nq7wymfkrvfr5uzjm7dnxlyzjibfa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Slate Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1482,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#708090",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(112, 128, 144)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

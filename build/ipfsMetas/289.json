@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihmk7okaia734gmr3kgfjpkbdriqurc3cfc5krhic5hztv5ut5jb4",
+  "name": "OneForArt #289 - Swans Down",
+  "description": "A Swans Down pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidjdc3vhmns53nkesshjafl32vbxvzqw744ojekisxajjtntzdopa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Swans Down",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 289,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DCF0EA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 240, 234)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

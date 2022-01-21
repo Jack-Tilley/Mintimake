@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #712 - Sage",
+  "description": "A Sage pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigczjbqnzs7jxoinbe6xjyhba7xrt575olimplos4owotx6i7h2be",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "712"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9EA587"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 165, 135)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1566 - Bright Red",
+  "description": "A Bright Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid43dyk5z7zxohpkxwfytrsplp3r4h56c7mxkp5pejdyj3bm2jvby",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bright Red"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1566"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B10000"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 0, 0)"
+    }
+  ]
+}

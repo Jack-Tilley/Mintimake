@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicwmcjrrjhesvttfhdqbua5xj6yxbwwjm6y76su74wgfqa7hnvzuu",
+  "name": "OneForArt #1239 - Romantic",
+  "description": "A Romantic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6qy6jxllcdiqhgdvbtte2u5zhe7sa3quustwpbtgomi4s2fn5si",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Romantic",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1239,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFD2B7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 210, 183)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

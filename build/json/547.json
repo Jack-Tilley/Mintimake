@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #547 - Whiskey",
+  "description": "A Whiskey pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbwupqmoptelwy7zqvxxjndb2cm7tpedta532eh2hrwtjjgsb7yi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Whiskey"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "547"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D59A6F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(213, 154, 111)"
+    }
+  ]
+}

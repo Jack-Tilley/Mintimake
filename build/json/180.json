@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #180 - Onahau",
+  "description": "A Onahau pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid2savdqud4fpsdwnhurrxdwsk7whcqctvi2fvne23qj5f4i2kqgy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Onahau"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "180"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CDF4FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(205, 244, 255)"
+    }
+  ]
+}

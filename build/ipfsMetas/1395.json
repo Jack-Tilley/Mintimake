@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreierkn432pxiklyq2qmgiujlvo7cytswxdogmqtlf4kctkfnekkvbe",
+  "name": "OneForArt #1395 - Malachite",
+  "description": "A Malachite pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih24f5levws2ewd4oz4quh5wcvklrelscgxawatr7kkfgrfmx5dui",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Malachite",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1395,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0BDA51",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(11, 218, 81)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

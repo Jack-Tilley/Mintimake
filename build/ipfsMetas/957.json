@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigxristxulxyswzuwufafyorfrucaaoh4th3uovvj4bb45y42tfgi",
+  "name": "OneForArt #957 - Laurel",
+  "description": "A Laurel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifoc4467allfzl3kbrzckmh2qjbkfikokn5y7ucrabgkhcparte2i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Laurel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 957,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#749378",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(116, 147, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

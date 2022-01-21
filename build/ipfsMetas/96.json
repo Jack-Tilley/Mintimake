@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidzluimkagac3zwzyau6k7xacrwxrv6zk53cci6hkpgbl645xy2ei",
+  "name": "OneForArt #96 - Barley White",
+  "description": "A Barley White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwxqqwgzqs4ju5pbkbnzssfd5c3fpob2dfvh3pzrrtrdcnxiolke",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Barley White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 96,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF4CE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 244, 206)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

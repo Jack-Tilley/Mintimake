@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidryrc2ncxuodgyin4fiq5lwz2ek5xh33cevnwh5hwcz4mqcodzeu",
+  "name": "OneForArt #113 - Rhino",
+  "description": "A Rhino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiekepqqdcyi7nahpkiqfzbc677nj2n34iwitgye3nhqskrx2fuhly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rhino",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 113,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E3F62",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 63, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #18 - Te Papa Green",
+  "description": "A Te Papa Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrr4rta72y2r7umvsrxofku32qeqnijj4xjtt2qcaumelly4kyva",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Te Papa Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "18"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E433C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 67, 60)"
+    }
+  ]
+}

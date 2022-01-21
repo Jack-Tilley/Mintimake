@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #512 - Clay Creek",
+  "description": "A Clay Creek pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5owninyxsnowkmpask5xrdrfgfheznjwb3gu4vsja5poiho4jtu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clay Creek"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "512"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8A8360"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 131, 96)"
+    }
+  ]
+}

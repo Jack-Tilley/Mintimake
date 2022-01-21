@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifmas6s73j34pflc55pdd3s2ihhfu7ut4y5nwcl4byepcay3o5ovu",
+  "name": "OneForArt #663 - Vista Blue",
+  "description": "A Vista Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtn2txns72y7nnfb7fsys7s4p2ldbuexzsl3cx65uvrrf4lm4fju",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vista Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 663,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8FD6B4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 214, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

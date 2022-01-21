@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiejsoyxv5rf2ig37dc7oq4ftrv53bxnokoi7nuyl3s6ws6rzqbevi",
+  "name": "OneForArt #48 - Alabaster",
+  "description": "A Alabaster pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihckbaosmb7oxxgxgnevuqxhcl4j6wmywtmhvja2eipjgzdf373wi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Alabaster",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 48,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAFAFA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 250, 250)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

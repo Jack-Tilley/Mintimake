@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidzxaeqwc2tt3kifh3nmo3pixokr3oflcfoqrgxoiu64vlru6qy4a",
+  "name": "OneForArt #439 - Lavender Purple",
+  "description": "A Lavender Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtrahaacunbqjxyz2xenr2cdbx46kzg53m3y5yrmbwe44uvhoq7u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lavender Purple",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 439,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#967BB6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 123, 182)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

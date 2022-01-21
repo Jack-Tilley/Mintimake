@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #330 - Peru Tan",
+  "description": "A Peru Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia625l3wg42fvfadgyvxzvaxppn5tkt4xteugon7tr6rmsjf77zua",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peru Tan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "330"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F3A02"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 58, 2)"
+    }
+  ]
+}

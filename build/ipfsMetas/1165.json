@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifim5blex4nxu7z4fsafyeonae4h6q7hqvmsjtkesh6xgwnndy64q",
+  "name": "OneForArt #1165 - Riptide",
+  "description": "A Riptide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6vc22af4du36zsgwhgeww5ia3ojkxq6hx6fe5elknkxnsfkmxqm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Riptide",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1165,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8BE6D8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 230, 216)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

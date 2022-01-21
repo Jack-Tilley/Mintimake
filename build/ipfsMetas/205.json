@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie44pux3t5ljia5bnajqnztjnnvd47uvm2gbb5tknl22tze3zvklq",
+  "name": "OneForArt #205 - Dark Ebony",
+  "description": "A Dark Ebony pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreictyfvjx2aqtp3v7ugxedsddq2r2yhb3ht26erzbszepodagavu3q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Ebony",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 205,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C2005",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 32, 5)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #225 - Dolly",
+  "description": "A Dolly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreievd7ss4rdhm2ddi7t22la3o7f47pwix4vr7v6jc34xi2x6kiszte",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dolly"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "225"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9FF8B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 255, 139)"
+    }
+  ]
+}

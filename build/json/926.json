@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #926 - Thunder",
+  "description": "A Thunder pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7s55duvzgic6x3mk6qiwcqpdm3hyt6nkt6m4fcl2klzdswpv7tu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Thunder"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "926"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#33292F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(51, 41, 47)"
+    }
+  ]
+}

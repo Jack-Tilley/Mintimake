@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiehxsgb3y227j4cing65l7xufyiw7n2vo2yrl3oj7mkbp3mkfe4uy",
+  "name": "OneForArt #756 - Olivetone",
+  "description": "A Olivetone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigge3c7tkbo64dndrfsphltjnljgukdovgxpo6za5cf5spuvqc4ie",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olivetone",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 756,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#716E10",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 110, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

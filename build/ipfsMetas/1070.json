@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihu2u63crj6otyqpbz4vwklxfoqdp7b36tnfiworix65ayj3ljnnm",
+  "name": "OneForArt #1070 - Cornflower Blue",
+  "description": "A Cornflower Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihqpuarbe4njflnop6sji76axccvmizdxph3dxo4chwa5lj5ognbi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cornflower Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1070,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6495ED",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(100, 149, 237)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

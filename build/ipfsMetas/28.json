@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidaiq664z4ovwwpv37mo2xgl6nosksu2wmxvgtnydls2xak7gfdtq",
+  "name": "OneForArt #28 - Vin Rouge",
+  "description": "A Vin Rouge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibeaohjsddajozpk4medfegopa5eyynpyjndesrjkwzu24ytoagdu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vin Rouge",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 28,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#983D61",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 61, 97)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

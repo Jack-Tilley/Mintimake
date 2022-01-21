@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicnchqshfiycua7czcu3p7u6fgemprvxh2orkrsp46ny35lrq6b3e",
+  "name": "OneForArt #1317 - Carissma",
+  "description": "A Carissma pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiahjdzmzopvropz6vkl2cehvscjv3kteljentkizb67o5ko3rzbhe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carissma",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1317,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EA88A8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 136, 168)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

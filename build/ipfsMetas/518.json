@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcqd4b2xz6pgijrg34j3t4l57gwxazu6csliwmyg25ajzl7zfbcq",
+  "name": "OneForArt #518 - Bud",
+  "description": "A Bud pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkeqqwsvvw3tsoxmua55pgroney4qtylszvygqofokdbmgrlbnku",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bud",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 518,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8AE9C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 174, 156)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

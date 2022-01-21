@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigmijffwwq4by4p52tdtmoxpog6uzxlqjs5u7v2zaq7woztlox6yi",
+  "name": "OneForArt #1225 - Cape Palliser",
+  "description": "A Cape Palliser pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigs2zv5im5coaas6bluoan4ue6ri3hlht5mrakkiudt5ehklezs6u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cape Palliser",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1225,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A26645",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 102, 69)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

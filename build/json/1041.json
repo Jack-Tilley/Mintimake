@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1041 - Yukon Gold",
+  "description": "A Yukon Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic6xz5ljuqysapwrsva57c3dbpl2whhh6ottx6u47fyajlqyqosby",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yukon Gold"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1041"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B6608"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 102, 8)"
+    }
+  ]
+}

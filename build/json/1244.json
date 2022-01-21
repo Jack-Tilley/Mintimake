@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1244 - Apple Blossom",
+  "description": "A Apple Blossom pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiai3zxcfmohsiphjdzru5jucavy2bmdhs3hnuywrrfao2zrskohg4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Apple Blossom"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1244"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF4D43"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 77, 67)"
+    }
+  ]
+}

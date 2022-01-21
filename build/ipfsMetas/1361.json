@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidlnlowrvwwg4euqn5hwdynyeeeihcw5reecuolrwoxuawuezhy6q",
+  "name": "OneForArt #1361 - Orient",
+  "description": "A Orient pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibnssdtrfnppq2zputzhpkjptpu4wyqqchu4fllvyqtfsutcxer54",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orient",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1361,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#015E85",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 94, 133)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

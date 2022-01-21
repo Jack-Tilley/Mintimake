@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1255 - Corvette",
+  "description": "A Corvette pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid457coajr5urr57gf7ywe2o5iy2dcvqvns6x2ncwuikxj7zlcb7y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Corvette"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1255"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAD3A2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 211, 162)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid5csngb7mowx6nou37nokjodzfod47k4xl7ezwbazdybw7kdfdja",
+  "name": "OneForArt #573 - Catalina Blue",
+  "description": "A Catalina Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihgmn4jpk2eartvp2omtixnmjvv6b24l2d54zrx4jd6tzppb2bjse",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Catalina Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 573,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#062A78",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(6, 42, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

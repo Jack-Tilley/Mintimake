@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigg7z5y3kmp3iaceyb2ycxms4vzfp2rv4j2yrilfzzibdoq7j66ba",
+  "name": "OneForArt #476 - Gamboge",
+  "description": "A Gamboge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicjnqbmszyv25prrddogjxo32ajmtaszyg66xfj22ummjvyid7pum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gamboge",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 476,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E49B0F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 155, 15)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

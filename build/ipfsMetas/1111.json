@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifkwu23wg53ntu6z5t7kzukpqeqf7nhihsuwtlw547pkotertdvnm",
+  "name": "OneForArt #1111 - Fire Bush",
+  "description": "A Fire Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieady6zszmn2l6eag4sccgu2aor6vzsytggm54uvxy4grfek4bz3e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fire Bush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1111,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E89928",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 153, 40)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #133 - Gray Asparagus",
+  "description": "A Gray Asparagus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifk7xeivievhx4ahl7r6chjzfgmix342tz7a3pyau5zphsinz3mpq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gray Asparagus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "133"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#465945"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(70, 89, 69)"
+    }
+  ]
+}

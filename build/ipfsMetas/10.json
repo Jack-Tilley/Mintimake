@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreichw7nxczo26xaxlkem3t746wdpwrxlf3wtbcfdhfh2znslvgs2fm",
+  "name": "OneForArt #10 - Putty",
+  "description": "A Putty pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7e3rumpyvx4e5qb7alfg76fau347mz2542an7adi2elaploelo4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Putty",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 10,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E7CD8C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 205, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

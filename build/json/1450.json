@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1450 - Pipi",
+  "description": "A Pipi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiffhdbbmdakp657nk4n53d7knktffin5khcgxvrlfhayo4fbzsi3u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pipi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1450"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF4CC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 244, 204)"
+    }
+  ]
+}

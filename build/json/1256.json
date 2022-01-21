@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1256 - Lonestar",
+  "description": "A Lonestar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifqsj4dh2yaro5qqclz4jm3r7glkuxyem5zsqfwqeqjk56lamvfd4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lonestar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1256"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6D0101"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(109, 1, 1)"
+    }
+  ]
+}

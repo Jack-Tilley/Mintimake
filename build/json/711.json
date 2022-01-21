@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #711 - Burnt Orange",
+  "description": "A Burnt Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifklzviiypr46vyodms37dkprigmaykh3ihnbgxmcsi3b4vybwki4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnt Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "711"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CC5500"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(204, 85, 0)"
+    }
+  ]
+}

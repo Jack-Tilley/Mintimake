@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicku4obtgbrhqvprohxkbwjc4chq33uaoyz2w7y5vdpg7oc7pqjkm",
+  "name": "OneForArt #1050 - Cerise",
+  "description": "A Cerise pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreian5q3rvup4duz6g3gp2zbmsznirkzb6svhyi3qnmx6dbz3hdgsc4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerise",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1050,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA3287",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 50, 135)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

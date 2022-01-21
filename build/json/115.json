@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #115 - Tropical Rain Forest",
+  "description": "A Tropical Rain Forest pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5es2zbzbmud7vdw562vlj3u6ejpxlnlotrhvgtak54hs24e4cie",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tropical Rain Forest"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "115"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00755E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 117, 94)"
+    }
+  ]
+}

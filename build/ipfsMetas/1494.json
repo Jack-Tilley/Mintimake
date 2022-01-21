@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibz4go5c66azpydtbd7gn6fl3zjatgdq6odrrsnnulojiz5e5bdnu",
+  "name": "OneForArt #1494 - Frostee",
+  "description": "A Frostee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibz7yty4tooe5hfpqm3j7jt5b5n43l3gx6hhkantxuxpv6srfiulm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Frostee",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1494,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4F6E7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 246, 231)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

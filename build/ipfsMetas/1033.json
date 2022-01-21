@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibxfh2hn3xlbbzznnyhdgrnjlxlqcip5iqjd3xee3pv7cyjn5va7m",
+  "name": "OneForArt #1033 - Sulu",
+  "description": "A Sulu pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigemzq65s4vlgm52kjrcgeq2ymafoykl4zutbv7l6p42crkunpd3q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sulu",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1033,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C1F07C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 240, 124)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

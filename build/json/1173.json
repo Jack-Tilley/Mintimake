@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1173 - Genoa",
+  "description": "A Genoa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2aehiwnjdprtxlktncnfw32zrwt2ppgc3abtmrd7zgktdprcc34",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Genoa"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1173"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#15736B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(21, 115, 107)"
+    }
+  ]
+}

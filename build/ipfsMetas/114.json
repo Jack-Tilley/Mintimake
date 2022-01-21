@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie2xopc45qotymvgvmkdvjmgs3zkxyr7xcb5tl6th7uakb6oke2te",
+  "name": "OneForArt #114 - Tutu",
+  "description": "A Tutu pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiav4n3x75kbnrqkvk6xee5hf7la6xqnquv4lo34sst7vxdjok3n4e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tutu",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 114,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF1F9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 249)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

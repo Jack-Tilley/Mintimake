@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiex5fr6o5jlbbrjqv2orrlaunl3kw224es4zaobgag3jo3rppushu",
+  "name": "OneForArt #169 - Orinoco",
+  "description": "A Orinoco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabenkzooxls56iyj4t52phylblcsx2ck3strlrxzuccstimoxhum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orinoco",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 169,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3FBD4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 251, 212)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

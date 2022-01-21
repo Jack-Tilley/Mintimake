@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibatchacxnbgvvkyx3rfw3zzeo6q4zh3tjx6concysaehxyiursfu",
+  "name": "OneForArt #316 - Daisy Bush",
+  "description": "A Daisy Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7zzgcvd2lzwyrsfgosium6rb3lzm3tzfqj2vnt2xoxdywfudwse",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Daisy Bush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 316,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4F2398",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 35, 152)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

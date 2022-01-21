@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #654 - Wax Flower",
+  "description": "A Wax Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihl4743be4czzz4wewulmfpeutnzynvqmztvyiyg77re6ug6ff3vq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wax Flower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "654"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFC0A8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 192, 168)"
+    }
+  ]
+}

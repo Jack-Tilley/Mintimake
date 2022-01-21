@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #820 - Chelsea Cucumber",
+  "description": "A Chelsea Cucumber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif36z43fpl2hk6xirpafazgdd5ae77kkaiydagrluoutmdxpblpke",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chelsea Cucumber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "820"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#83AA5D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(131, 170, 93)"
+    }
+  ]
+}

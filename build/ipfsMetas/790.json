@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifk2i6hhepro5hlwkb262ubwlejokd5npj36nwttes2pzcme2sfki",
+  "name": "OneForArt #790 - Nandor",
+  "description": "A Nandor pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwgfqgkx7hywejk5xnbkrinmpjqkoqlshbplmojuambrpkklapgy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nandor",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 790,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4B5D52",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(75, 93, 82)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

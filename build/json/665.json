@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #665 - Pearl Lusta",
+  "description": "A Pearl Lusta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih4fq2dkmuwxd7hndsbivhrp3zbydb7fhwzev3pdlfsnxa2hq4gly",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pearl Lusta"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "665"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCF4DC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 244, 220)"
+    }
+  ]
+}

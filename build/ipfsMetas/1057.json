@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifavcwd63owz2v4nb5dlwoeikw5ivmcfopc4xrgrlspvtzrg45hwy",
+  "name": "OneForArt #1057 - Lily",
+  "description": "A Lily pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifz43n42fnpylocn3crarrpqvpsdxtf3vujyevbw7cb6yz6zonyrm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lily",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1057,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8AABF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 170, 191)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidnz6fobyobq33m2cjpn2papin4cqxemvga6bamjqvkk7p7yq5gci",
+  "name": "OneForArt #565 - California",
+  "description": "A California pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaqtcm4lnowyc6nu24d5luy3k2flld7byu4u6svzfhsvouv7us2ey",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "California",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 565,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FE9D04",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 157, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

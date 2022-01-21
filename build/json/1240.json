@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1240 - Aqua Spring",
+  "description": "A Aqua Spring pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifyu76qcjtdyvlzr2xspgvlk7zwkqt35r36hfaexo2fun673tvura",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Spring"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1240"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAF9F5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 249, 245)"
+    }
+  ]
+}

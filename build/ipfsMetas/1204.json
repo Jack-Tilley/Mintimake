@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihh2at7mkgpntjpqsz5fjrhzwnfwmzobgjnunvsof4oq4gnup3ani",
+  "name": "OneForArt #1204 - Woodland",
+  "description": "A Woodland pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigf7sgginm2asa7cghjno674nwp5x2dlk5o27bz35xonwpv4dp5ma",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Woodland",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1204,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D5328",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 83, 40)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

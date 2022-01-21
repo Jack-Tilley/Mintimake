@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1284 - White Pointer",
+  "description": "A White Pointer pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihscsgbpsgf4z4rw467a2qvom2iqf7gbkwgxn7pgcbbe5s4kxr2z4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "White Pointer"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1284"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF8FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 248, 255)"
+    }
+  ]
+}

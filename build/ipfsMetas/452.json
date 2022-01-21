@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiclrbahhfjub2r6jnmydmjmw7zh2fprgd2d7myslwaefph4mle4gq",
+  "name": "OneForArt #452 - Moccaccino",
+  "description": "A Moccaccino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrwnfd73lsg7pjay6gsdjmc222yjfp3lvbzmxu3vjha57pyxmntq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moccaccino",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 452,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E1D14",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 29, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

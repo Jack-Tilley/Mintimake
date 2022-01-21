@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigadwyt65jnojh3o4gshbej7hx6l4t66rrxur4asnzb57qiqo4ada",
+  "name": "OneForArt #795 - Horizon",
+  "description": "A Horizon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicvgvzehon43jmkobibi4ywuorzscis62gyvm5ktj6dfpoptdmhya",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Horizon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 795,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5A87A0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(90, 135, 160)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

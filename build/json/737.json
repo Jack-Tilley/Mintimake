@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #737 - Granite Green",
+  "description": "A Granite Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifm7bbv5kuo6peaiozdcsjwgp3maoracpi5rtktl2uf6mtsx5xpje",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Granite Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "737"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D8974"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 137, 116)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #682 - Persian Pink",
+  "description": "A Persian Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7p62tkymwkrlbgpwqk2z7qm667c46c5344ze6glovehspisflnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persian Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "682"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F77FBE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 127, 190)"
+    }
+  ]
+}

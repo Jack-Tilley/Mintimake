@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #32 - Trendy Pink",
+  "description": "A Trendy Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigiymv7qbgq566m2e6jk5p7qbha2vltfejmmef6e2osir2ztpp2zu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Trendy Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "32"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8C6495"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(140, 100, 149)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1152 - Soya Bean",
+  "description": "A Soya Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig6pxorv5yzuuv2uwe4pw2ndj2x7plkmueerxpeab3nl4up3xuzmm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Soya Bean"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1152"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6A6051"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(106, 96, 81)"
+    }
+  ]
+}

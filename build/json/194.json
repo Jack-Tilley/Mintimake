@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #194 - New York Pink",
+  "description": "A New York Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigflzo6sxyxwb4aenomtxsad5s7yfbckcqxkrsw2v4iilkxwzjbgu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "New York Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "194"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D7837F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(215, 131, 127)"
+    }
+  ]
+}

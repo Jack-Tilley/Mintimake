@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifknhkau4ibwwxxsijyxvf5ivycq2zewglweqt473t554n5utnz3e",
+  "name": "OneForArt #311 - Violet Eggplant",
+  "description": "A Violet Eggplant pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgbcwplzzpz7am4ou7d3dnn7pkzgtcxq6ufdkmxqd6rvj52mwcty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violet Eggplant",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 311,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#991199",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 17, 153)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

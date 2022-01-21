@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifrkakahpcs75hrhyw4vxbdlion3hlj34bwhzfz3i3cmq6owl4lim",
+  "name": "OneForArt #822 - Dell",
+  "description": "A Dell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifqvktmvez53ai55i5k4oal2tkcky7wju2gyezcdciba3cgvjxsdi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dell",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 822,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#396413",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(57, 100, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

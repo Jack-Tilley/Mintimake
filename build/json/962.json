@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #962 - Mai Tai",
+  "description": "A Mai Tai pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiec4lnqzsdvqih27oionxgzikjyl6goistdml46wxkw5aggsbhig4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mai Tai"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "962"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B06608"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 102, 8)"
+    }
+  ]
+}

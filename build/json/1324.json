@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1324 - Lisbon Brown",
+  "description": "A Lisbon Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifj5h5rzujaty6txku6e7s65e6mncsphwqy3hm7pwpyf7fw4ggyey",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lisbon Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1324"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#423921"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(66, 57, 33)"
+    }
+  ]
+}

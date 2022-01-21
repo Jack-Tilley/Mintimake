@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigrp4mtz4upnv3ynbdodqk7fqkyhwhew63cizf63n4boqomqoueau",
+  "name": "OneForArt #680 - Spring Wood",
+  "description": "A Spring Wood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacomamrrlevykd3wry6tuycur6jskikcytilvdbuqsy7ujpjsfha",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Wood",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 680,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8F6F1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 246, 241)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

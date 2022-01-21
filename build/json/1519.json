@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1519 - Earls Green",
+  "description": "A Earls Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiairkw5pcgov4iyk3pbpidyoo5vs7rusmfrhas2mkzs3jbxhfp3by",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Earls Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1519"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9B93B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 185, 59)"
+    }
+  ]
+}

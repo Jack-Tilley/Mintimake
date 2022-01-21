@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiabc6kgdz4dndgll6gzrieb6oewntedixzktydlv5oy5ebmosn3sa",
+  "name": "OneForArt #579 - International Orange",
+  "description": "A International Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigh5of6ty5da5wnglenipy75da6kluzmikzmuao36eh7dqu5zx6ea",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "International Orange",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 579,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF4F00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 79, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

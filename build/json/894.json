@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #894 - Venus",
+  "description": "A Venus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjnpfk4rbhw2nyqdvu3v5l5ptdnb62pceg56javcqd5tol233d6a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Venus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "894"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#928590"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(146, 133, 144)"
+    }
+  ]
+}

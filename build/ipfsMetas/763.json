@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidtl5kjzivhoo2z6e5zuym5ge57lr2q744j3hvoc3vddqzyggucee",
+  "name": "OneForArt #763 - Gum Leaf",
+  "description": "A Gum Leaf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickwifju4hppm6ryv4fkqr2hmee555f43zhvtxmoj3boc5m7ccvnm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gum Leaf",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 763,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B6D3BF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(182, 211, 191)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

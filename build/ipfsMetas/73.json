@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigd7pxnqr6zzrwyifmqquzcenlxhtnt2bdr5cevemxikp5xxxkd5q",
+  "name": "OneForArt #73 - Chiffon",
+  "description": "A Chiffon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibhwpxny2oiizpspphxurlbbvnetsvnptpvzaqap5jtebksag4w4u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chiffon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 73,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1FFC8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 255, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

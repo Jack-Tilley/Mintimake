@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #3 - Stiletto",
+  "description": "",
+  "file_url": "https://ipfs.io/ipfs/bafkreidgvpw65qvcgm24jxy4txims7wgeop4eudl6oohwoufh3kkb52opm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Stiletto"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "3"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9C3336"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(156, 51, 54)"
+    }
+  ]
+}

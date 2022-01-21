@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #367 - Red Beech",
+  "description": "A Red Beech pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibqf647ntto4nso7w25emxeksaeesotmrmplom5zsb7fhm4rpqdhi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Beech"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "367"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B3801"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 56, 1)"
+    }
+  ]
+}

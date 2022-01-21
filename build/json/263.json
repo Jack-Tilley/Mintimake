@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #263 - Bali Hai",
+  "description": "A Bali Hai pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiazrade5wje27hoiedawi6upak3f4sr7rlmuvrxoedeljbjdolyqm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bali Hai"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "263"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#859FAF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(133, 159, 175)"
+    }
+  ]
+}

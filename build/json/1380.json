@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1380 - Chardon",
+  "description": "A Chardon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihd7io7bao2g4lbff2kn5b4muf2cjpirgyyniwt4hnauj5s7jtxa4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chardon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1380"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF3F1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 243, 241)"
+    }
+  ]
+}

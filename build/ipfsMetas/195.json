@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidjw5ju25d5vzarunko7yla2qgv2relleuoatm52lrb5gewcni3le",
+  "name": "OneForArt #195 - Brown Derby",
+  "description": "A Brown Derby pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoeb5ti74fvlazgswopczh4z6puswk63taq5fcg6fcld4uudydpe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brown Derby",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 195,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#492615",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 38, 21)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

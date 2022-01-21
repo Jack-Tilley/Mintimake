@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #419 - My Pink",
+  "description": "A My Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaznp5vrq2wo6kryy2du3r2mi7k26k2yy7rr5grc5op7ldqy5y3im",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "My Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "419"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D69188"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(214, 145, 136)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiem5fmpjdtnvtvwrgl3tzr2a5y6gzgwj6y7xucviqhoebbqmdgjtu",
+  "name": "OneForArt #1271 - Spring Leaves",
+  "description": "A Spring Leaves pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecrhxzwl6nx3m3ujmwil544n4db4ssinyziianmz53qsmsi4hiky",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spring Leaves",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1271,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#578363",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(87, 131, 99)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

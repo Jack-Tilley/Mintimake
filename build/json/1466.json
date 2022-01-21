@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1466 - Red Violet",
+  "description": "A Red Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibpqy2o76parlzv6icyekzezu7w42w36itrtrd5jopu34fys5b4xq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red Violet"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1466"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C71585"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 21, 133)"
+    }
+  ]
+}

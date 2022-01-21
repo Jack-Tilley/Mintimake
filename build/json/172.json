@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #172 - Fiord",
+  "description": "A Fiord pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreialylokusnthucdmgnvbmrgadug5swcd6ruf6vsedh26q6qvxs73e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fiord"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "172"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#405169"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 81, 105)"
+    }
+  ]
+}

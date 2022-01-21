@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigo2rnmchsz2inc7sy4n7p5oi2ttjlifugq7ij6c6yi4iq3pihtxe",
+  "name": "OneForArt #751 - Tradewind",
+  "description": "A Tradewind pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib5zidyxonpdpesefgwq75l5kijgt66mjo6fxxnvahjg6cjamlyhm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tradewind",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 751,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5FB3AC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(95, 179, 172)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

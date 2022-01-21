@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #348 - Melrose",
+  "description": "A Melrose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihmwkm2o44jiodwryo36g56ai5ipgm2xff4dm2q4jkv6257jssk3a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melrose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "348"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7C1FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 193, 255)"
+    }
+  ]
+}

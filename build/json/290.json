@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #290 - Medium Purple",
+  "description": "A Medium Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiemfl7yrivlj6ddzwdnjqwnpbbbuq4ymf5hdfrgtx237q2ykbddhm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Medium Purple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "290"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9370DB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(147, 112, 219)"
+    }
+  ]
+}

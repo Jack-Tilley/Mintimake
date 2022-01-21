@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicd42kvqzcs3l4rxuzlnm6nauukyqsndhqabj3tvf3zkmkz5clhhq",
+  "name": "OneForArt #516 - Jacaranda",
+  "description": "A Jacaranda pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidyacipcw77tfaauyhslbv4bw2dyeykg6emrnf4ye4vfutun6ssga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jacaranda",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 516,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E0329",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 3, 41)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

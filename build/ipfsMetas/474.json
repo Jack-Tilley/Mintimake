@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifpmqa4lxiniucskgoeuwzwj24mm7uq5txmlxg6vgjzhf3u5svwzi",
+  "name": "OneForArt #474 - Puce",
+  "description": "A Puce pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihltqkvdfn7lthf3kpnhzstvnxq2sgjdvmrkbypxbde3qwkiccaei",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Puce",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 474,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CC8899",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(204, 136, 153)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

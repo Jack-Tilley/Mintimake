@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #283 - Bitter",
+  "description": "A Bitter pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidsusry672lng2kvktxpfbgk5emssw4ehjsgvhyeo2ln7kwatenuu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bitter"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "283"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#868974"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 137, 116)"
+    }
+  ]
+}

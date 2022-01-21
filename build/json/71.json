@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #71 - Botticelli",
+  "description": "A Botticelli pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaes6qfqymi4glzl4w5blf2ggwfngfvifjenkypp4l63uvak2fuym",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Botticelli"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "71"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7DDE5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 221, 229)"
+    }
+  ]
+}

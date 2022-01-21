@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiblritrepl2dlrlzet6vucehozwsbcvdrjvcqj6zinkccz3gfbo5a",
+  "name": "OneForArt #860 - Ottoman",
+  "description": "A Ottoman pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6t36z23rembxqva4dlk4crfrqpm3urc2yp3gugi6dlu3lp7547u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ottoman",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 860,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E9F8ED",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 248, 237)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

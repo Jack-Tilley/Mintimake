@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibuvg6elkq74rdvpbcn7ub457jqjoczchxjo7wxx6clsdzymksqxi",
+  "name": "OneForArt #160 - Midnight Blue",
+  "description": "A Midnight Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigvybdda4qdp7wibttipkvva5wgq523ygn47qnyw6ksl35psxrso4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Midnight Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 160,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#003366",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 51, 102)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

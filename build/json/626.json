@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #626 - Holly",
+  "description": "A Holly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbuwb4tmaxf3d54jqgvw2tcke647wssjgh6jpm3btjshbbmh5efu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Holly"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "626"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#011D13"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 29, 19)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1296 - Sapling",
+  "description": "A Sapling pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihpi3lfisatetxvzijns2xggaree4lozoihcbrltptarto6qh5hxa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sapling"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1296"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DED4A4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 212, 164)"
+    }
+  ]
+}

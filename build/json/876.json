@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #876 - Sherwood Green",
+  "description": "A Sherwood Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigsay6xzljgxtppcgdbd3zvaffudiepjf4mtog2rga3ykxjvtysii",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sherwood Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "876"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#02402C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 64, 44)"
+    }
+  ]
+}

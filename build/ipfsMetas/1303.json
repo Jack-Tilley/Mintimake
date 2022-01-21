@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie7pcj3xharddpjwx36li7yc4zsmy6upaq3eijzwqls67ilorksf4",
+  "name": "OneForArt #1303 - Livid Brown",
+  "description": "A Livid Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvhl2jqx45n5ytsljsv5zhegbv43d2xhviohlj53jne264cx7ece",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Livid Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1303,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D282E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 40, 46)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

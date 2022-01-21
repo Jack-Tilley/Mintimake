@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifd5wmguxgwo2uz5wqwdd4fnypvt4prhqo72hekbmuhtcajcbqmge",
+  "name": "OneForArt #837 - Oregon",
+  "description": "A Oregon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidmoi75ronhxi57elus5jqsoyahomcb6z3ysjmumdya532ghpfl6y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oregon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 837,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9B4703",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(155, 71, 3)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

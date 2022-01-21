@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicgx4ox3msrzgh7ww3aoav4sqx5p57p6o7mlxyhnrf6xba7khydyy",
+  "name": "OneForArt #529 - Fountain Blue",
+  "description": "A Fountain Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibpawcptvnelamdk3r5pxj2cboya2pq2lstyvp6p5adwmlfg6ngoy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fountain Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 529,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#56B4BE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(86, 180, 190)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

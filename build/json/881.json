@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #881 - Dallas",
+  "description": "A Dallas pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3hh57y6kyg4adfq52nam4k6huvhyjntpqsucc2qzabsau4q73ye",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dallas"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "881"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E4B26"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 75, 38)"
+    }
+  ]
+}

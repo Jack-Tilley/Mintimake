@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1551 - Wild Blue Yonder",
+  "description": "A Wild Blue Yonder pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibitiprzqhe52jkzpojyixfxzdqjoskxdg6csis4r37tcpnvqslta",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wild Blue Yonder"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1551"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7A89B8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 137, 184)"
+    }
+  ]
+}

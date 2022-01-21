@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #943 - Flirt",
+  "description": "A Flirt pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia4atw7akun5y4cjadqwjrmsjdsiz6d5rcjwcwpq7gjcqmyj3pvwq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flirt"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "943"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A2006D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 0, 109)"
+    }
+  ]
+}

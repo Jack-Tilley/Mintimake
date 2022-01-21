@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifo46wpsciwqcthpwsirokekptblkham3t4sust6phdckxn23zlz4",
+  "name": "OneForArt #558 - Iceberg",
+  "description": "A Iceberg pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicr6afnwr3pc22uef3pwi2un53zkwk7srv7n3r7y7usj5fsusx4bm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Iceberg",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 558,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DAF4F0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 244, 240)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

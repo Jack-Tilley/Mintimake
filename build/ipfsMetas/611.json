@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiek6j5l4tpvd2hjsdyhpcz2wllitydr6gla6oewnsjyqjrhfr4dzm",
+  "name": "OneForArt #611 - Camouflage",
+  "description": "A Camouflage pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia57robx7efhthac644gq6is3f3wrkcvqgsk4mcavyve32kmd7biq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Camouflage",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 611,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C3910",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 57, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

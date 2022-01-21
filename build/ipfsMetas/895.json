@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibzkudr7mjqjius47kb7qz5cqtbptba6b7egwtb33icufzovu6drm",
+  "name": "OneForArt #895 - Mango Tango",
+  "description": "A Mango Tango pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaorrts53bmluahucgjpc572646mazw7ooz4lzmqmy6szroffe6di",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mango Tango",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 895,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E77200",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 114, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

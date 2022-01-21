@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifv4yb4ohqh57a4nvie2j2lfpx7rhhgczizyz5yj5mdldqf6uvgi4",
+  "name": "OneForArt #746 - Selective Yellow",
+  "description": "A Selective Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecd25hc76mihxq6m2zhvf4aisxdfjldsxdagjci6c6askuzfsvta",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Selective Yellow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 746,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFBA00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 186, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

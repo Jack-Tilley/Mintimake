@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #11 - Smalt",
+  "description": "A Smalt pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidedkbptztzfzgkkccj3yeg25sjk62xzpndfikpmvjhocc5bopec4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Smalt"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "11"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#003399"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 51, 153)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihap372xfslfrgbkmbba65k45wb7tmb36pyg2x5jjm2n6m5r7fxa4",
+  "name": "OneForArt #603 - Costa Del Sol",
+  "description": "A Costa Del Sol pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidxsjldjratyu5yrl3qkz5yvos2xumcksmf6wi47fmxizwfxmmqvm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Costa Del Sol",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 603,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#615D30",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(97, 93, 48)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

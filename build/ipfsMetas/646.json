@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie2mrpclf24sildhvr6xqzkj3n7kcldhlxvc2joamtzpmn42fzgwu",
+  "name": "OneForArt #646 - Mule Fawn",
+  "description": "A Mule Fawn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtt6irpxx6fubnj66l6bk3ilf6xghxeifpvaquflsipgxllpyyvi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mule Fawn",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 646,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8C472F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(140, 71, 47)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

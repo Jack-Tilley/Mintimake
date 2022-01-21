@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidwyfjvki5ee2ernx24evcaffgmojc4awcskud37fpeax2me2bg7q",
+  "name": "OneForArt #1259 - Lavender Gray",
+  "description": "A Lavender Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibatjokgkjjsg3252jyy3wjevij5kzbrbys5yy3a6cmvjmbcwqxsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lavender Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1259,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDBBD7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 187, 215)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

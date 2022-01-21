@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicyuw6zwqbvi2x65fohwpv3fpmemvju73d63bd7xew6k2xuujrkbu",
+  "name": "OneForArt #346 - Cafe Royale",
+  "description": "A Cafe Royale pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicimxcdoz3is6ebclukayvjfpipdbnjpyw27j7k53wtp3xvfgkfkq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cafe Royale",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 346,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6F440C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(111, 68, 12)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

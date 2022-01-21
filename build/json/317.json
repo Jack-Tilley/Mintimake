@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #317 - Carnaby Tan",
+  "description": "A Carnaby Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiazjm44itt44vcjs6puud5htyymfbhxqnvzmdxreymhbzn2txn5qi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carnaby Tan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "317"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5C2E01"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(92, 46, 1)"
+    }
+  ]
+}

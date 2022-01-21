@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #127 - Aluminium",
+  "description": "A Aluminium pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjwarwmdzlamjc32pb5awy66afqijrusvdjtwq2bfiymwvektwfe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aluminium"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "127"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A9ACB6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(169, 172, 182)"
+    }
+  ]
+}

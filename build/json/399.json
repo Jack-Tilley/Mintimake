@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #399 - Snuff",
+  "description": "A Snuff pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif32ckkozmoobtprrdylkfqiplefpdtibugzbio4udtzpr47puiiu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Snuff"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "399"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E2D8ED"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 216, 237)"
+    }
+  ]
+}

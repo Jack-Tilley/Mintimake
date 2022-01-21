@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiacjgj5hitnpjqymecxnbpmooyrq6rkrwpangsox5ux5g3i6molla",
+  "name": "OneForArt #102 - Shalimar",
+  "description": "A Shalimar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib653agcfevtk6rqtbzrmawk563wt4t52nb5i3i7taf7eg5sbzfom",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shalimar",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 102,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBFFBA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 255, 186)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

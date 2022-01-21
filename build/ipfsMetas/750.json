@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieodlushyvi5ivmpbqfr46dlx3w7a5c2kisvoukvhelm7ngirlme4",
+  "name": "OneForArt #750 - Gumbo",
+  "description": "A Gumbo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecdfz6esfb3en2qnlxzih7uy62whx25zxq27t3kdsfwtvnp7gn5q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gumbo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 750,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7CA1A6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 161, 166)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

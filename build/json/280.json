@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #280 - Olive Haze",
+  "description": "A Olive Haze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifgqdhyleso25bewmjkkyzpwi3ldafxetrxhod4zz7oc4yvdaiqwe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olive Haze"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "280"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B8470"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 132, 112)"
+    }
+  ]
+}

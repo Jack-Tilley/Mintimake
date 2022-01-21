@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigkoqybys7hgsfbrnjm66fy32n73wbykls5uzjhhlmhbysnthhcsi",
+  "name": "OneForArt #1231 - Steel Gray",
+  "description": "A Steel Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreievpsqyovhim2ebjkwiriyhm7morekf75tnybvw5kia5by3mr5nhi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Steel Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1231,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#262335",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(38, 35, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

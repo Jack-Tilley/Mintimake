@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #969 - Burnt Umber",
+  "description": "A Burnt Umber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif4o6zmfdvedf2qreqg7fjqyccp5voyapxfkaiesphgm2rl3sax6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnt Umber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "969"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8A3324"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 51, 36)"
+    }
+  ]
+}

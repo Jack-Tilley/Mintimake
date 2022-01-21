@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #765 - Monte Carlo",
+  "description": "A Monte Carlo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiflacfwmykh5i7on4h53gpnmfwh6vjswyne2ghwomaipzcw3qszru",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Monte Carlo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "765"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#83D0C6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(131, 208, 198)"
+    }
+  ]
+}

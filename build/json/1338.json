@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1338 - Fiery Orange",
+  "description": "A Fiery Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidvhtzpxciblzclpxwk7py4zfyhslrndu5nosovyq5lggyyk3qdjy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fiery Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1338"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B35213"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(179, 82, 19)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighlt3lnrpkpfs5a7sov2hwll6u53fl646t3gv7hibdbqgehe4oiy",
+  "name": "OneForArt #1529 - Dark Tan",
+  "description": "A Dark Tan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih76fn4njlnv4mikvvh3m5gdqcgcgo5kb4d6zmyb5n2i7cmv4xkki",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Tan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1529,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#661010",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 16, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

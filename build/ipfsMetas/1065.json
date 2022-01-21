@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidl36jlnurtuo7adn2xiqqk5mjbuqmbwbzcqbkgjebsx47k6av7mq",
+  "name": "OneForArt #1065 - Driftwood",
+  "description": "A Driftwood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvkack2auuq4exnurrjmzdfcy32ptpxb46yqjw6nrmwhh32oxiuu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Driftwood",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1065,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF8751",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 135, 81)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

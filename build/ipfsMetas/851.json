@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigv25hri64gk4loy2aubjprg6ykxpop6fsc65q7jphom3wj6gawgm",
+  "name": "OneForArt #851 - Tapa",
+  "description": "A Tapa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifplmdv5ehxoaxo64fdli4s2iq5l2o2qfo7wzr3sorqdfa2rtbg4a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tapa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 851,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B7874",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 120, 116)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

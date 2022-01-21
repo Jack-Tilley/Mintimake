@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih5b32nqa2j7fth3tktschmmm3poowrlj66zmz6c4tv4tzvren37m",
+  "name": "OneForArt #1429 - Rangitoto",
+  "description": "A Rangitoto pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieur5l75gsuq3w3wnw5ej4iule5t7cax6cejth4yci764dzzerus4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rangitoto",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1429,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E3222",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 50, 34)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiefhbznda2ovdz3ycnxrc5gnwpa73buqjugtzdp3hldeqwf2puapm",
+  "name": "OneForArt #1101 - Bilbao",
+  "description": "A Bilbao pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2yvfiquc37dihng3uvrja2ssxeuiq3jcqqwlpbi2iiwnbioh5fy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bilbao",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1101,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#327C14",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 124, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

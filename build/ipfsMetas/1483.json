@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieol2dm63kwt2uz5jajncgnu2iih7zb5jmnf4floco2gpdsrmhnpe",
+  "name": "OneForArt #1483 - Saffron",
+  "description": "A Saffron pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrnc2b27kjjzkih72geyfwxtv4yvo76hpb4wxzoz3stl62kfrowi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saffron",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1483,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4C430",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 196, 48)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

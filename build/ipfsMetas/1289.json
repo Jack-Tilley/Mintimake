@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic47rfydk6otcaujy4xap4qurbmgntlvjd6y5ucy4jgcqzsszqmbq",
+  "name": "OneForArt #1289 - Copper",
+  "description": "A Copper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreide2jxoyl6mhe2jgvlex47jvlpt27jls53rb72p7z37ylwgtt36ie",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Copper",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1289,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B87333",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 115, 51)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

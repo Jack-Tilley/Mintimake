@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibffcshigsv23c6wdpnaunz5bjp3ay4giobvxh7lpbg7z3q7542fm",
+  "name": "OneForArt #260 - Shocking",
+  "description": "A Shocking pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidf5u6tplq7hpvazpc3tnkavpqqqc3kbrxdmx53w4ut3pgavtug4u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shocking",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 260,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E292C0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 146, 192)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

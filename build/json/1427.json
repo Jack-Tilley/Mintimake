@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1427 - Cioccolato",
+  "description": "A Cioccolato pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigolrkuvgrzj2fmxueylji7evwco5z5klr4grua2bhf2kogzcasju",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cioccolato"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1427"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#55280C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(85, 40, 12)"
+    }
+  ]
+}

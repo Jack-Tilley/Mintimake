@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #218 - Careys Pink",
+  "description": "A Careys Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieybk7p6tmx3i5x6xavauf7g5jttvxmohmiu2rploip677g37bnzm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Careys Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "218"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D29EAA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 158, 170)"
+    }
+  ]
+}

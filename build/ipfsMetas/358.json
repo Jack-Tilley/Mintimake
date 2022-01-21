@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiamh34oip63lsdyrvdo2gicz3kmqmrcorercsj3mawd7llf77cn34",
+  "name": "OneForArt #358 - Mabel",
+  "description": "A Mabel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidqkafm4actxehokyd6yhenwzm763eltegoxrctbkbscdwqido2ne",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mabel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 358,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D9F7FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 247, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

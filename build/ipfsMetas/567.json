@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidvpxy37c6bentzicdgvm3cepdv3zngs6yz3kaoxazyrnvynllzdq",
+  "name": "OneForArt #567 - Fantasy",
+  "description": "A Fantasy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifs27ib2oznjo4jfgbng75y6c4xth75rygzin3vgg7uaqz7gnssky",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fantasy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 567,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAF3F0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 243, 240)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

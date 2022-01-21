@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaje7pwabfgogdgf3wee5hvk6qqdq76n2dzry532kzu2ipolfbbiu",
+  "name": "OneForArt #674 - Macaroni and Cheese",
+  "description": "A Macaroni and Cheese pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaex6b67waandrpxpcxh4zcu2pb37bzvefrakcbijm64vamc2iuda",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Macaroni and Cheese",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 674,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB97B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 185, 123)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

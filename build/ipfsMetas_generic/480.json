@@ -1,0 +1,23 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidf5zy3okjrprbeox5puv2ob44vyetlzwxkohdbq4fs5bxaqjpp2y",
+  "name": "OneForArt #480 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxidtufgzfgvaiklp3nt3e3hugrupjzu7f2ss3xln7fnp4gzr4vq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": 480,
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

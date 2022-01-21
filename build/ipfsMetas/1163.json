@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif2642ml5hgzcvdekhjqx4gld5kflmnmi3bevf3cpaqydawaudeke",
+  "name": "OneForArt #1163 - Sisal",
+  "description": "A Sisal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihccaegxjde4cv2mz6zhsd77v7lfzc2pp4aqgf4yo3gokp35rgrf4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sisal",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1163,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D3CBBA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(211, 203, 186)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

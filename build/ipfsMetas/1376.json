@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaeny7ghyvcoqkgghtl7ae5b4i2tgd3a3bgjbxp6rtsenqu22zfd4",
+  "name": "OneForArt #1376 - Beaver",
+  "description": "A Beaver pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicw5fgd4useqnkuosxo64tk7oywyc23bzggiair4zefquyi6pcgeu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beaver",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1376,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#926F5B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(146, 111, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

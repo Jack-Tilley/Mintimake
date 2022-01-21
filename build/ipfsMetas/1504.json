@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiapbvjpda6gyblfqpwnp3hldehng3rt2wq4vna3zhamabsxu4z7ey",
+  "name": "OneForArt #1504 - Green",
+  "description": "A Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidevp4t7ngbnnbfrkto75lgbjvzpmatug44btehp7gowfggozdib4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1504,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00FF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 255, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

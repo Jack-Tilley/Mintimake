@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiclozreh42x7eojzapmczaxbyv4e4xa6p25a7cmathsqb5f2q2e74",
+  "name": "OneForArt #1501 - Blue Zodiac",
+  "description": "A Blue Zodiac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvcgzq4nejvoi4mmfa7b3m6mhq3tfbn3znyvgn4hvhlocey2kbmu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Zodiac",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1501,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#13264D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(19, 38, 77)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

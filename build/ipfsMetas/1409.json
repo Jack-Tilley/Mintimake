@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreievgoevkv4bdnrlowziphlntt67sq47uynv5u7nrp5xeu6ecnwt5m",
+  "name": "OneForArt #1409 - Sand Dune",
+  "description": "A Sand Dune pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihnz64hoe5p4dsz5kfkiaklworqxuevb2shaxvxtyg4x5jyoe2daa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sand Dune",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1409,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#826F65",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(130, 111, 101)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

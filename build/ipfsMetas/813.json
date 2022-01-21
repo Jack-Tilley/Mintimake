@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibkl4fcbmmblqng7rxi3rmbpkzbsg5vv6xhanxntbrawvn7q42j6q",
+  "name": "OneForArt #813 - Watercourse",
+  "description": "A Watercourse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2o4xoyqoyeb6si3w3baepbotk2u43vfd43fckxbwmee7w3xxx3u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Watercourse",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 813,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#056F57",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(5, 111, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

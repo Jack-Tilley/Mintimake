@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #989 - Mantis",
+  "description": "A Mantis pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtl3ou3mfw4p556ubytqbqwb4rhjdfyg5736ccayxt6tc2rjsoka",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mantis"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "989"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#74C365"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(116, 195, 101)"
+    }
+  ]
+}

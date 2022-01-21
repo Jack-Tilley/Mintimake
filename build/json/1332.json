@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1332 - French Lilac",
+  "description": "A French Lilac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiedslcgyvmdcs7fms26v7uzympecxpwm4sglzdecbjjej4se5psgy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "French Lilac"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1332"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECC7EE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 199, 238)"
+    }
+  ]
+}

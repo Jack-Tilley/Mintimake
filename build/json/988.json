@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #988 - Blue Stone",
+  "description": "A Blue Stone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgheilo4yvml3x3qtoaniotyedd4n3keo2ed3qgfkfbxz6dpbda4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Stone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "988"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#016162"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 97, 98)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1283 - Cape Cod",
+  "description": "A Cape Cod pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihyy2vpna63zwujkvfmcgkfjogwfr4wd65qo7h45zuowl4b5xky74",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cape Cod"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1283"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C4443"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 68, 67)"
+    }
+  ]
+}

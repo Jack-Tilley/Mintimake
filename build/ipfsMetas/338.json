@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihv3yu7k3huapf54exxfpqnvktkqdejgync25x7nw36v4ceu4567a",
+  "name": "OneForArt #338 - Hawkes Blue",
+  "description": "A Hawkes Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibyo7t6xqjpw237n6lzi5t33ql67hnmndkyrpxfvqyo2pq3x4bz34",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hawkes Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 338,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4E2FC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 226, 252)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

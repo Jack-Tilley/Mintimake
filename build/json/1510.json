@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1510 - Harvest Gold",
+  "description": "A Harvest Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicvrhfdve46rjkgkgmybsgismzj62edgywt7ewmfd2f765c6t5l6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Harvest Gold"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1510"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E0B974"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(224, 185, 116)"
+    }
+  ]
+}

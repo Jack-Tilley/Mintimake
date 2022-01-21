@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #710 - Charm",
+  "description": "A Charm pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifoqfxo25ddo4i3crjqibnxovgkg6nigcpo4egw2uj67chk3lgqj4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Charm"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "710"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D47494"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 116, 148)"
+    }
+  ]
+}

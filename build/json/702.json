@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #702 - Granny Apple",
+  "description": "A Granny Apple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihkypaxgyu7bm6usqglug3iijxxgvqxqqfs7bjvdbv3vju35xt7em",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Granny Apple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "702"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D5F6E3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(213, 246, 227)"
+    }
+  ]
+}

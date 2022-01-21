@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #950 - Eminence",
+  "description": "A Eminence pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7hw7udysxdjxshz67n7piv523gexnq5y3azr5sly6ox7mqcz5mi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eminence"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "950"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6C3082"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(108, 48, 130)"
+    }
+  ]
+}

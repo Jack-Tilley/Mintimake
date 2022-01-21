@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie6nhvq4vrc6tsobbivxwbyi6ml37b3zmc7ilplgrh4l4nchg33pq",
+  "name": "OneForArt #81 - Karry",
+  "description": "A Karry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifougw6cqqtcyywwrkhj57c6kmmi54rmpuyuzikbir6ko2z5465fq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Karry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 81,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEAD4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 234, 212)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

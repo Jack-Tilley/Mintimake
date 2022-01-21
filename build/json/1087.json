@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1087 - Scooter",
+  "description": "A Scooter pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5t4yj47n3fpb4c5jx2htqspuw67nv4vfrhm2nf34dl4atnctxim",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scooter"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1087"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2EBFD4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 191, 212)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #733 - Deep Sea",
+  "description": "A Deep Sea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibx6nvi2djiwnthqmfp7gtl37y6aynizryqnbb45dd2oxbqyz2m3i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Sea"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "733"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#01826B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 130, 107)"
+    }
+  ]
+}

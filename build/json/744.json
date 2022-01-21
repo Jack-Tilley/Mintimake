@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #744 - Ronchi",
+  "description": "A Ronchi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrpcjyw5e6bghntlw5cmfztc43dzadx2upykmzqhrfjuwje2axjq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ronchi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "744"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECC54E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 197, 78)"
+    }
+  ]
+}

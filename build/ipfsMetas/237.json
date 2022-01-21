@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifjs74ebl7245zsdxyfowbvzxdfthqdyxuxbaohi4sixoc6rdnhom",
+  "name": "OneForArt #237 - Almond Frost",
+  "description": "A Almond Frost pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzcnksmm2j74rtpszwpq4t3rcyuoxprp37j67g4rwbpo6bwho3te",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Almond Frost",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 237,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#907B71",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(144, 123, 113)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

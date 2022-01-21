@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid5l7756pqxkeaqsjnnd5bnf3gcj5dbdm6jpwmwk4wlsaieoyjhwu",
+  "name": "OneForArt #1420 - Solitude",
+  "description": "A Solitude pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigmicd6lg3xpxq3baazedgxyymcu4mspbl7diq2bpewihfbu25na4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Solitude",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1420,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAF6FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 246, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #105 - Cactus",
+  "description": "A Cactus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5tsljpggt2aegpnjruwoxorq4m7ze7pqg3lrb6dhbpvczktspnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "105"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#587156"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(88, 113, 86)"
+    }
+  ]
+}

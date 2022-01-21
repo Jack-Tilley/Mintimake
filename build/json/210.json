@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #210 - Puerto Rico",
+  "description": "A Puerto Rico pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigxmi744bn7wdrhy2ps7vn2s7ms7evk75gcvdrihghvxcy5efkaau",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Puerto Rico"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "210"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3FC1AA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 193, 170)"
+    }
+  ]
+}

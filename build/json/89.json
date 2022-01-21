@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #89 - Serenade",
+  "description": "A Serenade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicd4dxznddlz3z3y4ua4wx47w7gyuv7fxdv3v4ksjoftpskwllgkm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Serenade"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "89"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF4E8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 244, 232)"
+    }
+  ]
+}

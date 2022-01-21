@@ -1,0 +1,16 @@
+{
+  "name": "OneForArt #297 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreid66igmnrznlyjxvobjsb755uazqyoc7dellvap2rgtbg3uzlztf4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": "297"
+    }
+  ]
+}

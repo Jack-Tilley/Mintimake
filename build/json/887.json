@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #887 - English Holly",
+  "description": "A English Holly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqk2cojrf3gx6gleoonqs74pe45tf2gtdb4rldpptdmjk3amfwiu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "English Holly"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "887"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#022D15"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 45, 21)"
+    }
+  ]
+}

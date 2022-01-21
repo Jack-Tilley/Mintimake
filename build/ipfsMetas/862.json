@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiem4t2axyzfw4e6vd2p7krgnd3vksotkssq3ibpheewx4haisynpu",
+  "name": "OneForArt #862 - Regent Gray",
+  "description": "A Regent Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfx3rol3ivht33u4dbec7mzbitxzkcptuckhabq245jlfmlubkwi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Regent Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 862,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#86949F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 148, 159)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicz74focfkk33sx4ce2x2yob6w5p7g5xidnjtog6u2ctkdbsg5xuq",
+  "name": "OneForArt #947 - Havelock Blue",
+  "description": "A Havelock Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigitsolfn4dscjjgo7hlaji5pkqqc5ajgh6374ceimm6symdkb7oe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Havelock Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 947,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5590D9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(85, 144, 217)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1133 - Forget Me Not",
+  "description": "A Forget Me Not pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7qv24ufomxaaitfk24kdwsud34bchzinyb7z3glbtnkj5q7hgee",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Forget Me Not"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1133"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF1EE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 241, 238)"
+    }
+  ]
+}

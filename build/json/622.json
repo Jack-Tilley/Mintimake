@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #622 - Your Pink",
+  "description": "A Your Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhlu53a24xdchz2q7s6ffaso7pm5dz2oiinwvztmg7pzo3xundnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Your Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "622"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFC3C0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 195, 192)"
+    }
+  ]
+}

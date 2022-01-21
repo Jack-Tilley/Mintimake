@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcavs6jf6kac5f6rqxgikcgylvk7xp73xy4i4lwugxivffcdulnu",
+  "name": "OneForArt #833 - Ripe Lemon",
+  "description": "A Ripe Lemon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqyn27hckeq6efitcnllvtom6ubymino3uycbxm5fkrj6pcll2hm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ripe Lemon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 833,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4D81C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 216, 28)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

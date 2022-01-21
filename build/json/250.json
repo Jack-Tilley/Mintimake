@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #250 - Purple Pizzazz",
+  "description": "A Purple Pizzazz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiazx5ade6wbws4f47xtpiswoxijtpxzsrz5c7ir32g5jnmsxtj4cu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Purple Pizzazz"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "250"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF00CC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 0, 204)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia4qbbwa5ntukftl3tn3ea7efvxwgnzqqdf3diirsnpmlz476kuq4",
+  "name": "OneForArt #799 - Old Copper",
+  "description": "A Old Copper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif652n3lmz4ol3lr7trr77ieu35apmqa6grddt6cw7hdhkw26uwpa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Copper",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 799,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#724A2F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(114, 74, 47)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

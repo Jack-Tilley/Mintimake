@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifa2jkkb74opyjco4blabj3v7s7bl2ezulbckahf3zu2a5heurv6m",
+  "name": "OneForArt #1066 - Orchid",
+  "description": "A Orchid pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicahqvaimsj3wg7j5epywcy65q2ngardbe6urh7woa7eo3urlclje",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orchid",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1066,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA70D6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 112, 214)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

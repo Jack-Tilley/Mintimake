@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiapa5tbgbshnemhk5bqrmmqqzkl6j3g5fc7zd32bwbyi4ezvc2fk4",
+  "name": "OneForArt #724 - Thatch Green",
+  "description": "A Thatch Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifeem2gi5k5erzid4ydd7s4wayucj5yfzzjyje3rdyuoucr45tnfy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Thatch Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 724,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#403D19",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 61, 25)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

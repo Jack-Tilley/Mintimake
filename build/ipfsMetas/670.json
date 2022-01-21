@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigzzgnucinebup3syxts3qr5stx6s6wihauonqphpxy27xym6s75m",
+  "name": "OneForArt #670 - Gunsmoke",
+  "description": "A Gunsmoke pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibgq5coofvysyodewauewpjxn2uq3luahwpiohunxzynn5s2lufja",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gunsmoke",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 670,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#828685",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(130, 134, 133)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

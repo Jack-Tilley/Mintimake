@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #592 - Shady Lady",
+  "description": "A Shady Lady pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif3xeecu3msfhpincw2uzxqfbvjxagsctsx56w6qyhlwjra37csde",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shady Lady"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "592"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AAA5A9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 165, 169)"
+    }
+  ]
+}

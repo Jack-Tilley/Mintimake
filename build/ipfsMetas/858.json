@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibsnslytz7xrwxvmlp5azppigogl5faq3kevhlpmpmqwkgaxpkiyq",
+  "name": "OneForArt #858 - Allports",
+  "description": "A Allports pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifunqycl2nydbuemn4xxwxogervywpkit56m6ceppjm254j5jrgc4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Allports",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 858,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0076A3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 118, 163)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieckak54uhtaszgapvbifcl7erfcqdp36ftew52e2yc3txwkrioh4",
+  "name": "OneForArt #1178 - Padua",
+  "description": "A Padua pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicuk2sadovltft47qd4t2u7ma2hqz6qjqluipl7eqxqx2m47zmqoe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Padua",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1178,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ADE6C4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 230, 196)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie3sqhk63xwztejhvy6tolgap66tbmkgxef7x5pab3exshapinefe",
+  "name": "OneForArt #21 - Paco",
+  "description": "A Paco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaonhkfbgjhltjqo6xmfkkv4ju2lon2ivrjyzeauf27kt7tpfedmm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paco",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 21,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#411F10",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 31, 16)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

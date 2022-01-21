@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia5z5ftreiujkxzk3s2uweoxipu6fwigxagi4q4tu25dvp5v44ha4",
+  "name": "OneForArt #259 - Asphalt",
+  "description": "A Asphalt pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicfl3m2nkw45ztgeyskhqqaduxy4xbfnuj5qh7f7yhfobiyebp6dy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Asphalt",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 259,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#130A06",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(19, 10, 6)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

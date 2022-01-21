@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie2qnkgmypsnrbuwsg7ltv7qqwzyd2rwqnjhyn3n4czbkybx24ihm",
+  "name": "OneForArt #981 - Flamingo",
+  "description": "A Flamingo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichyby6sl2wz7kmgb4tvktfbgt5tk4g2pijsjldnej45e6ewqevhm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flamingo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 981,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F2552A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 85, 42)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

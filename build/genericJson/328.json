@@ -1,0 +1,16 @@
+{
+  "name": "OneForArt #328 - Unknown",
+  "description": "Purchase this NFT to reveal a unique color!",
+  "file_url": "https://ipfs.io/ipfs/bafkreia4ql77nhpnuembe3y326ryzzuptrbgjv2upmuhkbl5amwh2vmrpu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "color_id",
+      "value": "328"
+    }
+  ]
+}

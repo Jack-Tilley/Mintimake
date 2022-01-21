@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #721 - Wistful",
+  "description": "A Wistful pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihatbbs7lo7wavh67gc3cimhyijbmkssv6wqcvm4xgwuf5o5w3hzm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wistful"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "721"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A4A6D3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(164, 166, 211)"
+    }
+  ]
+}

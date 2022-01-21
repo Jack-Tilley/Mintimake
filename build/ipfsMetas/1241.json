@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig6eiflvc7txi2bo3akwatpp7ahvtg2xnqneb5d2co3xyyzbxauxq",
+  "name": "OneForArt #1241 - Cardinal",
+  "description": "A Cardinal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichjdg4tjrnircz6iyloj34jugmo3oc4lz7ocixru3cuopur4eiq4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cardinal",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1241,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C41E3A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(196, 30, 58)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

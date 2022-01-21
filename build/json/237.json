@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #237 - Almond Frost",
+  "description": "A Almond Frost pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzcnksmm2j74rtpszwpq4t3rcyuoxprp37j67g4rwbpo6bwho3te",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Almond Frost"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "237"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#907B71"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(144, 123, 113)"
+    }
+  ]
+}

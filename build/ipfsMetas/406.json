@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihqrptjtvja6lihhzte5f45xg74tqbqhcvgnjdtngxr7yccyz2zt4",
+  "name": "OneForArt #406 - Congress Blue",
+  "description": "A Congress Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielar7og6lzqdmp4ze2ncbo763bqcj4n2zbe3mjkai6gh7p7m35ze",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Congress Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 406,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#02478E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 71, 142)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

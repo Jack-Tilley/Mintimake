@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifcf4ahdy3f37e655hghvhqlyux6mgdbadmb7kp3qckn37agxpkjq",
+  "name": "OneForArt #1214 - Bean  ",
+  "description": "A Bean   pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiapw2snh7da5taotxqh2ka7x2sg23t22a5wktp7qt4tcuti2dqtfe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bean  ",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1214,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3D0C02",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(61, 12, 2)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

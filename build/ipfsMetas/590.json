@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiafkmqu7ibus2swk7ev4s6qoljkqwldtmko4nv5vufmif2hii7oni",
+  "name": "OneForArt #590 - Mauve",
+  "description": "A Mauve pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjpal2qxg74ofk3j5ltvkduiwroc2os7auu7ldf6fi5s6sr45ztm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mauve",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 590,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E0B0FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(224, 176, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

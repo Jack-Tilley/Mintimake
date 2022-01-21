@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1072 - Melanie",
+  "description": "A Melanie pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibthocfxdumb3zrx2ycsujya4i4q6k5oihckxolkxr262jq5gkifa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melanie"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1072"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4C2D5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 194, 213)"
+    }
+  ]
+}

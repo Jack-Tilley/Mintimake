@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1453 - Rice Flower",
+  "description": "A Rice Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic23ryxt6pdecilwd4fahvl766sdkgmiktsmcewwmu2eesalf4stm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rice Flower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1453"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEFFE2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 255, 226)"
+    }
+  ]
+}

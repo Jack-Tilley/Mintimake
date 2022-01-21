@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4hxhrqw3fvx2xm5nge7upair6kyn4knoailalpv6d5auhfpx6xm",
+  "name": "OneForArt #15 - Go Ben",
+  "description": "A Go Ben pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsm5fd7h2xvrm6j3fntuybfqvaayv5wny4bnh7rhy4otiokna6ou",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Go Ben",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 15,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#726D4E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(114, 109, 78)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

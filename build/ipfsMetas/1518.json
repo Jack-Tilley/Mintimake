@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiahhr5bzprfvxq75tilrla42yuyghwz6yzt4hvd5chfx3dm3lsapm",
+  "name": "OneForArt #1518 - Mountain Meadow",
+  "description": "A Mountain Meadow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigzyfd4c6sn7mxub2zjwxiejb6pj7zz5bnast2diuwykzedf7ti2m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mountain Meadow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1518,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1AB385",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(26, 179, 133)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

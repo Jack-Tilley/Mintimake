@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaalpva45bansmamtbu6mlxy3tvdhnjcihjc3sfre4safzr4pdpn4",
+  "name": "OneForArt #1010 - Blue Gem",
+  "description": "A Blue Gem pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicoa5ctt4ieedyccbv3ifr234gbz5iuhbwtaou7rcxtq3qpdjmmge",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Gem",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1010,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2C0E8C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(44, 14, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #145 - Crown of Thorns",
+  "description": "A Crown of Thorns pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib4o6trkekgy5s3s3imtbbulml32sqvh6ntcc36al2teuhi7ajs74",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crown of Thorns"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "145"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#771F1F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 31, 31)"
+    }
+  ]
+}

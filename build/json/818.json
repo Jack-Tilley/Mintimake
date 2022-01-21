@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #818 - Fire",
+  "description": "A Fire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigy62x5qqp7as7wworbgpeqzauymenqmrvmxv6gldllc6m4n4ajja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "818"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AA4203"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 66, 3)"
+    }
+  ]
+}

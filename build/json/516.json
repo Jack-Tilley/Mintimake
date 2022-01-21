@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #516 - Jacaranda",
+  "description": "A Jacaranda pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidyacipcw77tfaauyhslbv4bw2dyeykg6emrnf4ye4vfutun6ssga",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jacaranda"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "516"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E0329"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 3, 41)"
+    }
+  ]
+}

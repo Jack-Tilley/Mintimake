@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #908 - Las Palmas",
+  "description": "A Las Palmas pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrjldzklhkfqsjcfabqgg6uaeya22qarrohmhv6tpirncyeyd44y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Las Palmas"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "908"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C6E610"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(198, 230, 16)"
+    }
+  ]
+}

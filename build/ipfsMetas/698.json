@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidsyiefp2zauywafkimns5ul2s5eryyclnawvbbgs7tjajawsnwrq",
+  "name": "OneForArt #698 - Mandy",
+  "description": "A Mandy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibajip7pajcunbde6f4vhkoei6hpkmapcwhhlmsbpnd27qyvmonfe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mandy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 698,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E25465",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 84, 101)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

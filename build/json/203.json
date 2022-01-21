@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #203 - Gold",
+  "description": "A Gold pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig64x7qz2uotx7z44vq2qchpcyxoqxo6svr3s2e7wscerij5fatkq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "203"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFD700"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 215, 0)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #325 - Pistachio",
+  "description": "A Pistachio pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreignrkdrwbb7wm22mc4rc742im7o52ulm4b5snkor3alxumovltgwq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pistachio"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "325"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9DC209"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(157, 194, 9)"
+    }
+  ]
+}

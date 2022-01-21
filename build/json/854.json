@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #854 - Cream Brulee",
+  "description": "A Cream Brulee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiavexvis2qe7txumkvizyxdrrvjbeadlseq63sjhvd57xg2lgszzu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cream Brulee"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "854"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE5A0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 229, 160)"
+    }
+  ]
+}

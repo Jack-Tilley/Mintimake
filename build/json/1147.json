@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1147 - Sea Mist",
+  "description": "A Sea Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibu3tz6sku7sqne5lcmtygbsi4vwsf6burojqxk3zamsn6aqlmjha",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sea Mist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1147"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C5DBCA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(197, 219, 202)"
+    }
+  ]
+}

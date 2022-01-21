@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #514 - Pig Pink",
+  "description": "A Pig Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihcr4vfwoilj3sfdayhioy6tlbsgnjcowfij7ehyvhg5rppbpkwge",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pig Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "514"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDD7E4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 215, 228)"
+    }
+  ]
+}

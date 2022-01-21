@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1029 - Blue Bayoux",
+  "description": "A Blue Bayoux pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiddq3orjap7vd2tulb73dpdak5s6jd5vyp5rbqegkwzpzysxclp7a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Bayoux"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1029"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#496679"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 102, 121)"
+    }
+  ]
+}

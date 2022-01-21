@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #788 - Raven",
+  "description": "A Raven pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifij7gcowsc5x66alwc7ikzo5sapwqfbi7u26s7k7k2ae6lqp64n4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Raven"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "788"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#727B89"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(114, 123, 137)"
+    }
+  ]
+}

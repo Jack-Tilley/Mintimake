@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #340 - Marzipan",
+  "description": "A Marzipan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibddp3oqfaoo4xiu4gvfo36pygfrgebrc27usu54s2i7w5d6keuqi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Marzipan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "340"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8DB9D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 219, 157)"
+    }
+  ]
+}

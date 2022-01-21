@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1422 - Tumbleweed",
+  "description": "A Tumbleweed pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwu3ulydyf4gp5uaoqlnfv544rk56ra6jn4c7whnq5fhumlr6hmq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tumbleweed"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1422"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DEA681"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 166, 129)"
+    }
+  ]
+}

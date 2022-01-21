@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidq4ppuxrxgkrqmnucfefmodiid3xeiw64mntx34tkrl5o3newpfy",
+  "name": "OneForArt #1480 - Lavender Rose",
+  "description": "A Lavender Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihp2qnwz3z7mkxvnzo4xermylo2muo4i4o6hfi74f2uwkikmpnzli",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lavender Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1480,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBA0E3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 160, 227)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

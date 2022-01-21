@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifk3jc4c3ulwizsifoq7sauj4qv7emil7k7xlzvrv7me3uzqncvyy",
+  "name": "OneForArt #972 - Bronze Olive",
+  "description": "A Bronze Olive pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiegisytx6tc7sn7ginqkbidgi7brdlzqps5qmot3sk2nhmmhdadqy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bronze Olive",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 972,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4E420C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 66, 12)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

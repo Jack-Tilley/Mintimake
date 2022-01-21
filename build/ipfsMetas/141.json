@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiautyfs5lt4j4joyeoqllvxdnbnvnuybij4pmmngzshdcpl2s4gcy",
+  "name": "OneForArt #141 - Orchid White",
+  "description": "A Orchid White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnb6nqlexsj4uy2vvfauinvrginlqcpcjbcbljlnfucw2ncnrmqm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orchid White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 141,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDF3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

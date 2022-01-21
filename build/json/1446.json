@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1446 - Chateau Green",
+  "description": "A Chateau Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaxpwjphuz54vmt74326zalyszazo55zpgurjw64xguczn4f644jm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chateau Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1446"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#40A860"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 168, 96)"
+    }
+  ]
+}

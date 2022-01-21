@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #65 - Jelly Bean",
+  "description": "A Jelly Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoznjgy7v2ltzur5njtk2fn7qcv4ejar5srnkldqpmk5gnjzq74u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jelly Bean"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "65"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#297B9A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 123, 154)"
+    }
+  ]
+}

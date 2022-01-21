@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigslhoca2szzsmssk5kep35r77eomarr7s5ejlat2u6krdvfafyhe",
+  "name": "OneForArt #247 - Sunshade",
+  "description": "A Sunshade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibiweuwin3xgq763dbky6t3z77lgeh76qrwtuoaw4q5n2mfkxzidu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunshade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 247,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF9E2C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 158, 44)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

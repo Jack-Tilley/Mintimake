@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #208 - Outrageous Orange",
+  "description": "A Outrageous Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigevwfvgktnxx7dqn3chgfyul2e4fsr7mp77hnwlye6xgbgask26m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Outrageous Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "208"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF6037"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 96, 55)"
+    }
+  ]
+}

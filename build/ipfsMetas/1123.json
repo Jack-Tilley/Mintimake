@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiasfps5mg2yhgvuxxy72pfqut4chsipsh4pzutzx6nopnvgr7rkxu",
+  "name": "OneForArt #1123 - Natural Gray",
+  "description": "A Natural Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib5tw2z5mle7kijxxbp2olsvsjnnqcqvq6nebsupouegvemjjhvea",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Natural Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1123,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B8680",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 134, 128)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

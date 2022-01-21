@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #844 - Beryl Green",
+  "description": "A Beryl Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiekiuf2efm74kfta4sennutzkm3qd5fkp6pnmcqvt6dv2e2xpfqdy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beryl Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "844"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DEE5C0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 229, 192)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieo7kro5fhv2elneryspc6d7wxlshe2y2sm6yqvuszrntfn5t2wiu",
+  "name": "OneForArt #1190 - Judge Gray",
+  "description": "A Judge Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreievs6jfw4uxv42qodvv33752gvs32avogsgcexbq7cqeuifbbpfee",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Judge Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1190,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#544333",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(84, 67, 51)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

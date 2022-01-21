@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcnlxqxjyefk4s73etu6reotua5abebrzghxcjdhui6fvtwc6lba",
+  "name": "OneForArt #1375 - Polo Blue",
+  "description": "A Polo Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifsgkj3devc7vh7fs7baacgbiea2s4goikx6c7qf227hlznvozlvy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Polo Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1375,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8DA8CC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 168, 204)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1179 - Classic Rose",
+  "description": "A Classic Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsq76eyt7q64zczsklclxouasyl3mdq3nt7gfucykd4g6jfntv6q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Classic Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1179"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBCCE7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 204, 231)"
+    }
+  ]
+}

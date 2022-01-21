@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #736 - Dark Fern",
+  "description": "A Dark Fern pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiavg6hufps27g6encr6ryw3oeoidtgvog4nwhbfzcmts56zqvbfnq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Fern"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "736"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0A480D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(10, 72, 13)"
+    }
+  ]
+}

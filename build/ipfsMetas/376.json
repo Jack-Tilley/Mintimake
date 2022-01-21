@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif4yvevysl7ya2ic5rx7qpxpxy2vf6bkcvfxf2uyzu27z3xgkwmjq",
+  "name": "OneForArt #376 - Diesel",
+  "description": "A Diesel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibq2weurckkv4b2a52p2hg3wsqs56yegeht4wfumazvqnydk7gb2a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Diesel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 376,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#130000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(19, 0, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

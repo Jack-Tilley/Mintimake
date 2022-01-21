@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #139 - Jagger",
+  "description": "A Jagger pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigd6pnetywavb546kngjxvtl6qjhj4bbaw3lqedho77z7z5g5kgjq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jagger"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "139"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#350E57"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(53, 14, 87)"
+    }
+  ]
+}

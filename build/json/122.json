@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #122 - Fuchsia Pink",
+  "description": "A Fuchsia Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzvkqx52uiifermhsss44254wx6qoxtvocdciicd3aflzemktkpm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuchsia Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "122"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C154C1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(193, 84, 193)"
+    }
+  ]
+}

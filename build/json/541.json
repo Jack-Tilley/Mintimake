@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #541 - Bazaar",
+  "description": "A Bazaar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiayasrhyhygbxgfqd5yrld4szhfzx7lenwu3j4nrpp5s6b7bq2rva",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bazaar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "541"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#98777B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 119, 123)"
+    }
+  ]
+}

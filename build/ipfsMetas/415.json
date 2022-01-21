@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4iunkbfzk5sa6rvjhped3nkjtlf7xbgc42gk7sbj7zonmcxpx4y",
+  "name": "OneForArt #415 - Ecstasy",
+  "description": "A Ecstasy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2bcshf3w6d4y6tabrcrqhmp43z2zpfjqof6o2ps2x2ui6exhiqe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ecstasy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 415,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FA7814",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 120, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

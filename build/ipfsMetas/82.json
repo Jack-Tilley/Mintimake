@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieaabeqxmezoofbx5vcj7z2hyerxcwliu6lsl4nkmdbcnljt6rj7m",
+  "name": "OneForArt #82 - Sandy Beach",
+  "description": "A Sandy Beach pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6nu6ij2yob7zvhjjsm5cnl6fopjv2jfb4ckjw7o3wrwrptwi3ly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sandy Beach",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 82,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEAC8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 234, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

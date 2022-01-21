@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighu5l2dzs5wc5ibxbfcggkzt67dhmizyxpob3v4tnhtxidwx5dri",
+  "name": "OneForArt #1437 - Caper",
+  "description": "A Caper pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaox6x7dwbcoslk6p4x26slbtqpluw22ymscpvt2anuk72bd6ok7i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Caper",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1437,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DCEDB4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 237, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

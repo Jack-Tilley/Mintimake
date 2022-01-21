@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib7or5okjhrz42mqatc3lstmn2fsbjhhmtxt3wnzjcnm7haemjle4",
+  "name": "OneForArt #347 - Coral Red",
+  "description": "A Coral Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicqokx5xoibnao5v2iwzgpd5dnhmn6vp6bkkk7e4duhmzseo5wf2i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Coral Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 347,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF4040",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 64, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

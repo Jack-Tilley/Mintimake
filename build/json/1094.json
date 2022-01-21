@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1094 - Crusta",
+  "description": "A Crusta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreift32rff4sru5prz3c6hohvnnvmisy5k4hag7xh44nmcpwd2tlhlm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crusta"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1094"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FD7B33"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 123, 51)"
+    }
+  ]
+}

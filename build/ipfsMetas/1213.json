@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidu4zdno3rf5zsrsvt34rgehltapavww7kezzs6xp2bl5jfkqkh34",
+  "name": "OneForArt #1213 - Beauty Bush",
+  "description": "A Beauty Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic47ivomoscaxhkr5bceclckw522w5waqzzywln2tre3y2oz2r3my",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Beauty Bush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1213,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEC1BE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 193, 190)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

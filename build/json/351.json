@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #351 - Vesuvius",
+  "description": "A Vesuvius pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7mlgtigmvffkkdcvpadh4yu4zic6ia66srqw7l7yh6jruyososq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vesuvius"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "351"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B14A0B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 74, 11)"
+    }
+  ]
+}

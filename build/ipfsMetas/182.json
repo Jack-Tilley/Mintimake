@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieyjflpsjrlxamhywaita7ymtx7j5yulk5zsg3xvo3tiijhl5y2u4",
+  "name": "OneForArt #182 - Fringy Flower",
+  "description": "A Fringy Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiex47tohpwz7drnvk4zihlbnlilibbc6e4m77v2wbrksc2d6547he",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fringy Flower",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 182,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B1E2C1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 226, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

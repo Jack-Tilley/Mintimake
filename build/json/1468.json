@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1468 - Moon Mist",
+  "description": "A Moon Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrckvt3xvycqorv75lljd4tjuakqnuzbnqkm3s2a4srssnojqdgm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moon Mist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1468"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DCDDCC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 221, 204)"
+    }
+  ]
+}

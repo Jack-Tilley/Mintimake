@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #715 - Fern Frond",
+  "description": "A Fern Frond pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicnytatng6zpjcpy4cqlplj5dit6cknz6lzo6coteemva3xa75kza",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fern Frond"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "715"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#657220"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 114, 32)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifxhzqjbemwnduynhwyjgsg4vvxt2p24g2m273xpivcmjqvjttnvm",
+  "name": "OneForArt #978 - Deep Forest Green",
+  "description": "A Deep Forest Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigdbujwmlqfillgci5ui5jcw23eyponw7idm7scxox34erq5jvo2y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Forest Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 978,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#182D09",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(24, 45, 9)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

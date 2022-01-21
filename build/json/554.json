@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #554 - Pearl Bush",
+  "description": "A Pearl Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2qu5o23ljjtc2372t7tdiicttmtk4ys2qy5ugw3jhpvl2gjq754",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pearl Bush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "554"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E8E0D5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 224, 213)"
+    }
+  ]
+}

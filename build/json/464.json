@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #464 - Tyrian Purple",
+  "description": "A Tyrian Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib55bsxb5oxlf5xz5iw6neoxlv5zqcfezyrn3pnq5kpck56ay4pnm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tyrian Purple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "464"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#66023C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 2, 60)"
+    }
+  ]
+}

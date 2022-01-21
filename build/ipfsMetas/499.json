@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreialcyjommz45evycjxeabwqo2ub3uiojuuy75cfc6igghuisjwbaq",
+  "name": "OneForArt #499 - Flush Mahogany",
+  "description": "A Flush Mahogany pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2sbzpxsil4b7ol7y6xwqee4zixvctiiyoandtoguqtnliec2eum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flush Mahogany",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 499,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CA3435",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(202, 52, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

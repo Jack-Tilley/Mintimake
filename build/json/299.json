@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #299 - Seagull",
+  "description": "A Seagull pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiesediadg7t52poq5y5lg57podlrqx2nya53kvod7vj7u3dfm4kqi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Seagull"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "299"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#80CCEA"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 204, 234)"
+    }
+  ]
+}

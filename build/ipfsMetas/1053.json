@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiflqsryja2ryer7ajqvo2xt5cpy6gisqiojfawgqdtedccwauqllu",
+  "name": "OneForArt #1053 - Spicy Pink",
+  "description": "A Spicy Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifyqezh5y3vv3wixqp7kvedxzhvmvekvgtihrvz773l46yayxypxu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spicy Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1053,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#816E71",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(129, 110, 113)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

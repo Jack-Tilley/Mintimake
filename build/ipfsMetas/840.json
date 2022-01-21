@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifs6fekxlsotcsublndk43n6xdgcfgm3yjqpqapwpf3b2kmnb5gly",
+  "name": "OneForArt #840 - Storm Gray",
+  "description": "A Storm Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicgbwxhfkxrdajmkp3thnjkafrq3shlwkob252cz23wtbsba7ennu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Storm Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 840,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#717486",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 116, 134)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

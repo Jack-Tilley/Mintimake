@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #555 - Shark",
+  "description": "A Shark pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibmwv7pgzg7npf2tc2kmtrbfavb7z2w35ftwxf2addwbav3qiofje",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shark"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "555"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#25272C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 39, 44)"
+    }
+  ]
+}

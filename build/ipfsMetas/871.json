@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibfqxavqiuv2skjjff74gu57at3n3sc3f6ci66xio37aadghynypy",
+  "name": "OneForArt #871 - Gable Green",
+  "description": "A Gable Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiguulueg6cvw5zom3q43yt5gk3dutoqd3iziwq6sr3soekkihsbvi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gable Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 871,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#163531",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(22, 53, 49)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

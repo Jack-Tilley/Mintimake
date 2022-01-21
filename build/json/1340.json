@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1340 - Green Yellow",
+  "description": "A Green Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih2nh6f46kavicsua7jftthacjiacluab3m4nkmu3p7r34fgl22xq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Yellow"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1340"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ADFF2F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(173, 255, 47)"
+    }
+  ]
+}

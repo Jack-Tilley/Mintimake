@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #900 - Shingle Fawn",
+  "description": "A Shingle Fawn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigshkf5andqyg3stc4uv4yesqfotnxr5g3asmh7dzbosuckuyigpe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shingle Fawn"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "900"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6B4E31"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(107, 78, 49)"
+    }
+  ]
+}

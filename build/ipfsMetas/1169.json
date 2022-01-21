@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaukmmkscrxnp7r5gkl4zon4txg4qrvdv5blwuh3fq43jpsty6lse",
+  "name": "OneForArt #1169 - Everglade",
+  "description": "A Everglade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigi6myleox3gqi4dqr4nsvxkou4dfzgapwpczjtdavq4g7gg3mbb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Everglade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1169,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1C402E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(28, 64, 46)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

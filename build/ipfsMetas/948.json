@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicixq7g5ad22w75jo6hqt4rrzebfzzwakthtu7yrt6h7v7et3bbtm",
+  "name": "OneForArt #948 - Malta",
+  "description": "A Malta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidagbtflxvq7572nz5j2c2lfuorc3vnokcopss5yit24iym757kbm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Malta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 948,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDB2A1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 178, 161)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

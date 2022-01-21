@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie23cp2k4zqqpbfzaxnhx7iqwexna4bdby2fy2lbekvtkvc454pv4",
+  "name": "OneForArt #1463 - Dark Blue",
+  "description": "A Dark Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibleyyoog7ymnr4ybrpyyiigybs7utctzgmur3uu2xuzbdypkei74",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dark Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1463,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0000C8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 0, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1373 - Tide",
+  "description": "A Tide pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia2efs3z7mwg2u2n7xwomnsdivqsytv3fcppicrewwczhqbn2u3bm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tide"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1373"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFB8B0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 184, 176)"
+    }
+  ]
+}

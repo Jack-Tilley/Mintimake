@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #970 - Surf",
+  "description": "A Surf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicuvoahpa7abl7xfsp4z2nc7xz6ah2mcd246p6anss76umgjf5qfy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Surf"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "970"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BBD7C1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(187, 215, 193)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreianksmio5m5qqnreds7embbrdghijqlsevhursqol7vq27h2le3ve",
+  "name": "OneForArt #100 - Bridesmaid",
+  "description": "A Bridesmaid pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihrtxuokjenlmofzwly3zqj2say5tahwziehsuwxsjt5fwbbo353m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bridesmaid",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 100,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF0EC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 240, 236)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

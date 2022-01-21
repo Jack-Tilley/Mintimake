@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1309 - Copper Canyon",
+  "description": "A Copper Canyon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigewswmkz3taaidzz6kcdi7xqpxamx7sadiake4twuag3mh2k6kmm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Copper Canyon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1309"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7E3A15"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(126, 58, 21)"
+    }
+  ]
+}

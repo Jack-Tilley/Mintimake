@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #136 - Blue Whale",
+  "description": "A Blue Whale pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwo5sibbcysh2d52vcbg2lzejjuf2oyafypznss425e3zx4nlwfu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Whale"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "136"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#042E4C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(4, 46, 76)"
+    }
+  ]
+}

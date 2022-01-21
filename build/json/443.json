@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #443 - Champagne",
+  "description": "A Champagne pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicspnrkdxye2lz2vfnwx2vab3uuog3bmnypcws5m2v5z7btqwb7i4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Champagne"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "443"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAECCC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 236, 204)"
+    }
+  ]
+}

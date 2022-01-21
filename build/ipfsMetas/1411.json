@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifgj7aiyx4rbuennwaqspbs3g7fuv7lqmj2xkbqe4t2gek4jd7aka",
+  "name": "OneForArt #1411 - Ultramarine",
+  "description": "A Ultramarine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic3knfitsdbqu4nvheogubm4dtogxky35lufmkcth5tgvvemr26pi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ultramarine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1411,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#120A8F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(18, 10, 143)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

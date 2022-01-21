@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #798 - Spray",
+  "description": "A Spray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigg3hg2kxktvxhnilyo2r4oluiqj7n4o6z4u5j4tputtdxpb2zi4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "798"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#79DEEC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(121, 222, 236)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiecb4tmywzspms5nrlflebngsuffxnhoij7qadsrgwwamhwas2mme",
+  "name": "OneForArt #121 - Mischka",
+  "description": "A Mischka pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieflmdsz5frlffsj5cydfjcizymfzvm5dk6gq5a6yropmwc5c5cym",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mischka",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 121,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D1D2DD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(209, 210, 221)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #521 - Sycamore",
+  "description": "A Sycamore pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicv6hmgyibmmt4wp24vpcnavsicllso3vvk57gd2pa3zwmlggi5cq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sycamore"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "521"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#908D39"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(144, 141, 57)"
+    }
+  ]
+}

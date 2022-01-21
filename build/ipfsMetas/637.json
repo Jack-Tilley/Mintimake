@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieagoqvitud74736mll7yb4fp5p5vjrmoixahicvuxcp4pgkxqfpa",
+  "name": "OneForArt #637 - Double Colonial White",
+  "description": "A Double Colonial White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibz6vdd3fy5nzz2ahb2g7a74zo7d7oh3yr3exdk2rgdthz5ylpopu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Double Colonial White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 637,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEE3AD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 227, 173)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

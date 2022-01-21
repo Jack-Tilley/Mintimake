@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibcnlqixsubps6n6byrp4msb4kyiaukaj2jnprxxkum7bk7kh4sse",
+  "name": "OneForArt #1307 - International Klein Blue",
+  "description": "A International Klein Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicc7fvqt3ccuhuvtzqikhkl43lt5llo5x5swzn6kk7ndbljv63n3y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "International Klein Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1307,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#002FA7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 47, 167)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

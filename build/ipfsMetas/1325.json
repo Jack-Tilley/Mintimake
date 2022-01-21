@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiavvqqolu7lv5nglrbv52uemkb5r3as7qmqq4j2bohiymwel5gzm4",
+  "name": "OneForArt #1325 - Almond",
+  "description": "A Almond pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajvumvng3e6r5ige5lp2qe6cbvy6qdsjwkns5at2qqqvjxsjpsi4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Almond",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1325,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EED9C4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 217, 196)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

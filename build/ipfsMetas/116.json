@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiftyxlldtsykdtub4hr3u3nxwsmqtxgzxje6zleteqrl22xfqu5gy",
+  "name": "OneForArt #116 - Deluge",
+  "description": "A Deluge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicjnvjw4425ckjy5djyg3zt552afnzwdgp45wzqneehy6kbemp2y4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deluge",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 116,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7563A8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(117, 99, 168)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifkb5avf7hynlr7btubgmjy73qf7ozf7x77tbc5s6ndmeko243wiu",
+  "name": "OneForArt #236 - Festival",
+  "description": "A Festival pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6sxfki4zfpe6w7qqafyczrnyypclv2noz2kg2yuu3n67kqvusoi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Festival",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 236,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBE96C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 233, 108)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

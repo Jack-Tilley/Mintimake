@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1415 - Sunflower",
+  "description": "A Sunflower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibrnv3vbccsb6x67dbcsmh67xlmumz7f6xb2734sdhqqifimldvi4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunflower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1415"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4D422"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 212, 34)"
+    }
+  ]
+}

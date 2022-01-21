@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib5p2vmeyott3qlpquy6dk7oshpzn5jbn2kvy2wwzeaokrxnzonqi",
+  "name": "OneForArt #684 - Mahogany",
+  "description": "A Mahogany pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifly2u7dhnopjyngrnjxdimix3wkdnljremgit4rqsiuwdyfbqqii",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mahogany",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 684,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4E0606",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 6, 6)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

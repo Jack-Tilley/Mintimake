@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibm25yayzgue5sluugwuxpssh6g5njamwblkmdaqqetnxhenr5bjy",
+  "name": "OneForArt #152 - Rose",
+  "description": "A Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidq6fh7xv3fmlf3e4gujcitx62ckhyucqhbaw4ieldfzza43ng2oe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 152,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF007F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 0, 127)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

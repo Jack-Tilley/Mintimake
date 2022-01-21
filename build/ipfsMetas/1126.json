@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid57huthkvpf6ayak5uclmrbslzrmwzpppj73jzecrzo7tgqtypnu",
+  "name": "OneForArt #1126 - Red",
+  "description": "A Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifr76oi5i5hqc5nbgzunrbd2lioi2avsjuhtmmoqqozfa3wvfdgia",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1126,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF0000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 0, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

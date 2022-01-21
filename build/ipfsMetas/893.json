@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibwgwcsslz6p35xemln4fx24gfcpgczwxg3opj6hfgnsoyf5q4zgy",
+  "name": "OneForArt #893 - Deep Sapphire",
+  "description": "A Deep Sapphire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicz7wctkpigy3j3nsuyoxlkg7xr6mjxoity2cny5tun3hoit7dvhy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Sapphire",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 893,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#082567",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(8, 37, 103)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

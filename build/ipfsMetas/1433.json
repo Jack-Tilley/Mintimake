@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiewds3wwqay6dzge6uxfn3q5i7dft7nay6h24mfipwqyywzkgwsd4",
+  "name": "OneForArt #1433 - Yellow",
+  "description": "A Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihywayu3b34rb22mtdjwpwvzjfomvdbwl4cpy6npwgi3xx2eufv5m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Yellow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1433,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 255, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

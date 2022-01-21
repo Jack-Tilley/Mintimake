@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1025 - Bright Gray",
+  "description": "A Bright Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibbvtiqg5iz2wlth6w2z667hgudri7sgxviwkohcemk6wiembddke",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bright Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1025"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C4151"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 65, 81)"
+    }
+  ]
+}

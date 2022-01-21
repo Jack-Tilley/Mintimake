@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #472 - Citrus",
+  "description": "A Citrus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihcqc5473jepnhm7xzyyqbtuggqri2c3w5sf3ydf2qlcdtu5uqfxm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Citrus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "472"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A1C50A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(161, 197, 10)"
+    }
+  ]
+}

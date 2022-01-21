@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1266 - Razzmatazz",
+  "description": "A Razzmatazz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih5267wci3onww6ftv6emf75se6mh4kgtrvslhwu7wzzfu6sxpx6y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Razzmatazz"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1266"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E30B5C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(227, 11, 92)"
+    }
+  ]
+}

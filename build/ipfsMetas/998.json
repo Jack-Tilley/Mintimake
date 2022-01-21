@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibgwqzvvyguapda4hcfud7ig7x6i7hlkfjejoztdu6dktjoqxrnt4",
+  "name": "OneForArt #998 - Kimberly",
+  "description": "A Kimberly pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifoqmlfnos52bnxvtv3q7ebb24q33ftekjhfo3s4lb4uyr7kowghi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kimberly",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 998,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#736C9F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(115, 108, 159)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

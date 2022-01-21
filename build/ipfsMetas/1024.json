@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifqg4jhkpiioshuinsnedevo3kckkm3qex56fbv7csk2dfrh5caqa",
+  "name": "OneForArt #1024 - Persian Plum",
+  "description": "A Persian Plum pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7y3zgx44p5jqsoackt3nxtrki366k52maakhi663puv5jpuaivu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persian Plum",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1024,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#701C1C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(112, 28, 28)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibmgwxhdpsuxjnv7mercwvf7bb2fux4dt47yemx3ibz3mewa3l674",
+  "name": "OneForArt #845 - Chinook",
+  "description": "A Chinook pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbesf6bqomk4mg3n7gpflebjq3sbhmceuzrtupdhsuexfgbezzkm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chinook",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 845,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8E3BD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 227, 189)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

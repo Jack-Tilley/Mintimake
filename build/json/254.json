@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #254 - Caribbean Green",
+  "description": "A Caribbean Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzfr2nnjxni3kuq4f2tjvhh7gym5xbxgt5m4jyo6yu3ddbddkqfa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Caribbean Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "254"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00CC99"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 204, 153)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #446 - Trendy Green",
+  "description": "A Trendy Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig6spt66boadgghmcna7ufiznibskauxynwmqyxt7vt66bypspnxu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Trendy Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "446"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C881A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 136, 26)"
+    }
+  ]
+}

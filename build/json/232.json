@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #232 - Tamarillo",
+  "description": "A Tamarillo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidfe5umsgdhu62aicjsffsc4n5meybvozrrz2q3sd7lqw26iwduia",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tamarillo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "232"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#991613"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 22, 19)"
+    }
+  ]
+}

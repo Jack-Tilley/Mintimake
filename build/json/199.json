@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #199 - Golden Dream",
+  "description": "A Golden Dream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7wflgizaq2wcie5jnkbumlaxm47ztabqkirpdxxsn24rh2bvhwy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Dream"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "199"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0D52D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 213, 45)"
+    }
+  ]
+}

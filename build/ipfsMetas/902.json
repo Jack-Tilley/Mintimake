@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicaejf5lfbrkz5od3ea6uzxmbd4x7yvslxfbdxcw73ey4rzrk2ekm",
+  "name": "OneForArt #902 - Zircon",
+  "description": "A Zircon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigs2xh6hpz4xfeaxzcna3gmecizf2jx5bax6uobpuqxw3mqtqhzzy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zircon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 902,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F4F8FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(244, 248, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

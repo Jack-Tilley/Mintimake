@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #385 - Baby Blue",
+  "description": "A Baby Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigdmgdqqf42sz665m24izwhjmqbeopmkh4ps2o77te7hvuyrkl3be",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Baby Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "385"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E0FFFF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(224, 255, 255)"
+    }
+  ]
+}

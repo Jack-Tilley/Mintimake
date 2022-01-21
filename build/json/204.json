@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #204 - Chilean Fire",
+  "description": "A Chilean Fire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidsl6w7dbbcazw3knzkjci5rpbs3hfset7i67yb4yp5zmlcwmxexe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chilean Fire"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "204"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F77703"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 119, 3)"
+    }
+  ]
+}

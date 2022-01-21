@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1145 - Cinderella",
+  "description": "A Cinderella pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigqltayfiq75bcc6jymmvpzpvphwtfjzuuge3aihd3hdc5oelkray",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cinderella"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1145"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDE1DC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 225, 220)"
+    }
+  ]
+}

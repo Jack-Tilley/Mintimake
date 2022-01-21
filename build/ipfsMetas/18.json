@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieg4sqfuomjd7z45b354cv6hithruzf4ltq3uwmzrf6av5lwsbxym",
+  "name": "OneForArt #18 - Te Papa Green",
+  "description": "A Te Papa Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrr4rta72y2r7umvsrxofku32qeqnijj4xjtt2qcaumelly4kyva",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Te Papa Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 18,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E433C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 67, 60)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

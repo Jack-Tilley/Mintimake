@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1103 - Kelp",
+  "description": "A Kelp pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreietvrurw2amgnx3tr5qercypszxnsdjr3mwxjttcitfawa36dlgwi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kelp"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1103"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#454936"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(69, 73, 54)"
+    }
+  ]
+}

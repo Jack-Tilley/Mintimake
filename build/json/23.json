@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #23 - Light Wisteria",
+  "description": "A Light Wisteria pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3qohsflveut2ipxeuvfsdizplgm2qi6alelnt6gbea4z4wou7p4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Light Wisteria"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "23"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C9A0DC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(201, 160, 220)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib3wgoeff6y4pca2yizss4bu45dlohjia434ci7jpjftfmcavjjuy",
+  "name": "OneForArt #1360 - Straw",
+  "description": "A Straw pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib235onuzsiq5erlu2hyrjgi53r2kthc4vhmsiq6tjhloaaiawasq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Straw",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1360,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4BF8D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 191, 141)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

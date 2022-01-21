@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreichjehm35zsnf4skcxul4hqmgdykt75zzpp3jgtimgbihdznnpzx4",
+  "name": "OneForArt #891 - Paradiso",
+  "description": "A Paradiso pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibae3ezzhdw4dmvu4x6q7ckkhfreyysjxaajw5gk7pisdreglqupm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paradiso",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 891,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#317D82",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 125, 130)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

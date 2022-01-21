@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1050 - Cerise",
+  "description": "A Cerise pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreian5q3rvup4duz6g3gp2zbmsznirkzb6svhyi3qnmx6dbz3hdgsc4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerise"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1050"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DA3287"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(218, 50, 135)"
+    }
+  ]
+}

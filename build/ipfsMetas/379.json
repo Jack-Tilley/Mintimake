@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiamjpzp4wji6vhcyn3l3xz3dfjscmsvypmnngfqog3dujnboobyte",
+  "name": "OneForArt #379 - Shakespeare",
+  "description": "A Shakespeare pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6v3pidjwb2d7mcqaw2pwxz4pf5ztripzogfqn5e3lijy6qazus4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shakespeare",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 379,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4EABD1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 171, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

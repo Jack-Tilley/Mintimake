@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie4occh5ygn4mtsyxvuxkxug4vbco3bz5tbigcf23p7ohyxljabym",
+  "name": "OneForArt #1367 - Taupe",
+  "description": "A Taupe pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifybwjbhpdvlccg64nzh4yweajthqqtosilq2ccjsz5qrrw2xv52y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Taupe",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1367,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#483C32",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(72, 60, 50)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

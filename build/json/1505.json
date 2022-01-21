@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1505 - Peach Yellow",
+  "description": "A Peach Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftrijklx5gjsslaggeqpx7ybw2b5lwkxcmd77sy2ry7re7jd7mkm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peach Yellow"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1505"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FADFAD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 223, 173)"
+    }
+  ]
+}

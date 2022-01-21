@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiegpqk5yl6simlw6x7et5yyblxoddvweskreskjyrcm3rqqod5klu",
+  "name": "OneForArt #880 - Khaki",
+  "description": "A Khaki pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaguya2ztrks7yfzbxqnug4ktbupvtgsk4dlhw7yofsphwxjmodqi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Khaki",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 880,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0E68C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 230, 140)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

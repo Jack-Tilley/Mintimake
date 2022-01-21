@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1228 - Eternity",
+  "description": "A Eternity pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihgerz76bnu24u4jd6v64cdevrit6qxhr2z4dc34rb37qthw7qtam",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eternity"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1228"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#211A0E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(33, 26, 14)"
+    }
+  ]
+}

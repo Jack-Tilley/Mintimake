@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiddhx2is6ucn3givqzn3tifnqevi6goxtvnvm5uj3mjlwpbanf3nq",
+  "name": "OneForArt #631 - Cotton Candy",
+  "description": "A Cotton Candy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtyyqaacqlyvshpjsknmlmljoqsgwio7v4a3436353cofjk7cnbm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cotton Candy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 631,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB7D5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 183, 213)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

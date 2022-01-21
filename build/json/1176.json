@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1176 - Boulder",
+  "description": "A Boulder pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicx6hgt6m5zbnlsyofreqiabnpplmkbs7gqh3ux2ci4i7nwf2qupq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Boulder"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1176"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7A7A7A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(122, 122, 122)"
+    }
+  ]
+}

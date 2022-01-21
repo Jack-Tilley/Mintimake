@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #730 - Mulberry",
+  "description": "A Mulberry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreici7ckkqd5e4a5x7wnc5fnovdadf7j7bi2dhs4a6mw2vrm5bqq64a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "730"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C54B8C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(197, 75, 140)"
+    }
+  ]
+}

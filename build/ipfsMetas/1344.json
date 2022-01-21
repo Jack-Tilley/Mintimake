@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiczf7k64dcm7zldq4o6eyjmysmpgcwqe74wwvmtt2ugwn6fh63fzu",
+  "name": "OneForArt #1344 - Manz",
+  "description": "A Manz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia3bxt3cgahanooxb3uq6wjnuwrhcbtdmuqr2g3beknoycx5fdi5m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Manz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1344,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEEF78",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 239, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibg4egicmg66f7effczxpdyslwjzyk5zfs4rsdhxwvw5ub7gyajqi",
+  "name": "OneForArt #841 - Albescent White",
+  "description": "A Albescent White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielpgfgxd7hxrl3eq35dlfonnylqy7oyo2utzyrq4fv7gjp4ty3re",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Albescent White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 841,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5E9D3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 233, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #484 - Ebb",
+  "description": "A Ebb pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigtl7hdnowij6bvbwjcmbfvock2l5mgboqxypru6cjkua7irip474",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ebb"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "484"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E9E3E3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 227, 227)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #938 - Gold Sand",
+  "description": "A Gold Sand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiegquviyrcrwfw3x5hq2gfqkgoibedct6mzp2jln3iefyr52c3jde",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gold Sand"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "938"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6BE8A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 190, 138)"
+    }
+  ]
+}

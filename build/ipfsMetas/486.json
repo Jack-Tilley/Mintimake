@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia5fvtpanq27ev5plhf2ukmztewc3xvcr2vrtrrdl4p6jqaxq4bju",
+  "name": "OneForArt #486 - Carousel Pink",
+  "description": "A Carousel Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiayalaqb232a4keinyb2a7fmefsjhf7lzb6xuwjd44na5g2snzrey",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Carousel Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 486,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9E0ED",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 224, 237)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

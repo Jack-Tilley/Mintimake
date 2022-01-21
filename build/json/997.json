@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #997 - Nevada",
+  "description": "A Nevada pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifm2krdvcrayq7aqepypivlnyoloc63rn55nagojajenftwmlj4w4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Nevada"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "997"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#646E75"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(100, 110, 117)"
+    }
+  ]
+}

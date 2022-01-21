@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif2cvd6shyf7qsbvek5nbt2eztc3h2y5s3qj4jdtwsqwodd7lvvim",
+  "name": "OneForArt #251 - Surfie Green",
+  "description": "A Surfie Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihjd4zpggouhxvvl2gh5hjd74nwralm5wcjghs6zgwyfycblgeu7m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Surfie Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 251,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0C7A79",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(12, 122, 121)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

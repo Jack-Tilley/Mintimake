@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiantcjspljqfmlaqc33ewv5ylbvaoavyhcxmsebybaextgfvd5kge",
+  "name": "OneForArt #291 - Siam",
+  "description": "A Siam pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibev2jnqhcfvzhfxhoaqutymilcvm6bwfxj27k7cwxci2cavvlbfm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Siam",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 291,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#646A54",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(100, 106, 84)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

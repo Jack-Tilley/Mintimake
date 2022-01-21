@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiho5aenfdwwaivbuxwhosyhjandi75znzdnpmnimv5qdaqkbmxfda",
+  "name": "OneForArt #695 - Bronco",
+  "description": "A Bronco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5mnxqiy5avkgqciphfitfca4uhsqruegm2xaw37m6zn2t2lh34y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bronco",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 695,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ABA196",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 161, 150)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

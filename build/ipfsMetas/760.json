@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiberb63pkhadefjb5tnytu6whnovev2y3wlr42kjllil5yu4zcvli",
+  "name": "OneForArt #760 - Totem Pole",
+  "description": "A Totem Pole pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidhhtyqqn2tnzkcvyhwgqck4vqxbqamuyiqy25i6hrncawwb4ywxi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Totem Pole",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 760,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#991B07",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 27, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

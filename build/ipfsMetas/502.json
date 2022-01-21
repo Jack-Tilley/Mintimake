@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic3vv7ugqqnjwxhfjb2bu73iz5ncgmtk3jjy46t4b63c3o4v3hjaq",
+  "name": "OneForArt #502 - Teak",
+  "description": "A Teak pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic5f76bd5nxfhhrtpezrleesdecrf4zwkzjafy6upuc4uyzf5xqnu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Teak",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 502,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B19461",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 148, 97)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

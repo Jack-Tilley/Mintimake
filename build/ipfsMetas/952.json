@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieqfz7tjul4ycz2nr2z5yscy4uzp2ynjin3ltc75ljudcgksbp7se",
+  "name": "OneForArt #952 - Olive",
+  "description": "A Olive pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiboijup4worfliusdy4gb3okxxaehaaxbrbq4w3th2lrdexfxp5fm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Olive",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 952,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#808000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 128, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

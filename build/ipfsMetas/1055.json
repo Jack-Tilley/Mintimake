@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibnsftpk5pdgc5nomxjfjaqsqygxdohy5ymelvq5m2v3fzu6yyqba",
+  "name": "OneForArt #1055 - Blue Bell",
+  "description": "A Blue Bell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib4f2b66khndgcwja42pouua2xnwaqii27sxllw3u4potiyautcie",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Bell",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1055,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9999CC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 153, 204)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

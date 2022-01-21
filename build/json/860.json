@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #860 - Ottoman",
+  "description": "A Ottoman pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6t36z23rembxqva4dlk4crfrqpm3urc2yp3gugi6dlu3lp7547u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ottoman"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "860"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E9F8ED"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(233, 248, 237)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihyx5ldqjc77tb2kvlqh4vfekopxxd6tsbwe35fxklkq5x7uzpymy",
+  "name": "OneForArt #1397 - Crail",
+  "description": "A Crail pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia3ysp2fvxgkfr5vrfow7j5zfemtjfvqpsqqdecpxxp4hlxhbunia",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crail",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1397,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B95140",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(185, 81, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiafggeoxxhv3k3angwgiwv5vio5f22iiv327nrphjkgbkx5mzcogm",
+  "name": "OneForArt #596 - Hemlock",
+  "description": "A Hemlock pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih63qa7x7fyijlahyhpz2ptjgbfm7qu4o6rk5nnbf3f5d7cipc24e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hemlock",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 596,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5E5D3B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(94, 93, 59)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

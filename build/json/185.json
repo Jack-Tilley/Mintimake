@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #185 - Australian Mint",
+  "description": "A Australian Mint pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidcepvsyycld2agftui5pjex4afgs7uplqccowdkwppabvbntn5nm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Australian Mint"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "185"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5FFBE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 255, 190)"
+    }
+  ]
+}

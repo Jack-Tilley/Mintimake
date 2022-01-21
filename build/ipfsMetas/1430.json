@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicogkc5khrm3o4aglwehcuv34aldb5ru6h5vd5ccvoleug3nxj5ta",
+  "name": "OneForArt #1430 - Panache",
+  "description": "A Panache pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbnrghu44ixpprbm3a7ewagq7iwzkzzwe76qyrfrwilixxld526i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Panache",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1430,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAF6EE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 246, 238)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

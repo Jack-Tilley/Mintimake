@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiexddd23aes5fie5jmgxu5tlzpxzhzrabkidgd2jysd2q6a7jcsgm",
+  "name": "OneForArt #67 - Sandrift",
+  "description": "A Sandrift pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihopewyb5jxdmnh34zg3j5oxgyi6fervnyxzsctci373xyqbf7vdy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sandrift",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 67,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AB917A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 145, 122)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

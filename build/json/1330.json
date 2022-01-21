@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1330 - Silver Tree",
+  "description": "A Silver Tree pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiauuzxme65g3r3ykcffra72qjg3van223ff7y4l7ip62so36n6rwe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Silver Tree"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1330"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#66B58F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 181, 143)"
+    }
+  ]
+}

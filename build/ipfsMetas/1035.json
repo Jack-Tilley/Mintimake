@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiakntmikrdofwkvamgwxxoahkdxrbawz2wzxfdpwbeummwyazki4y",
+  "name": "OneForArt #1035 - Chilean Heath",
+  "description": "A Chilean Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjvyyx26q3jb5xcav6l32qaikfydyzkpkh7jz5y7sollcm3nkbx4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chilean Heath",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1035,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDE6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 230)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

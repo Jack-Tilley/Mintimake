@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #456 - Edward",
+  "description": "A Edward pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwkssx6s3pbyr4lw5dtdw3s6htvx46vpgkz2n7bp3o6pko6wclkq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Edward"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "456"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A2AEAB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 174, 171)"
+    }
+  ]
+}

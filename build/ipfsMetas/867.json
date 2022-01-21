@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicd5bfkmnehz75ydkf7tge7fusulkxomuwandz4mhfcc4lhi3mhui",
+  "name": "OneForArt #867 - Rose Bud",
+  "description": "A Rose Bud pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig3lfjrw763o4qqaxv7y4bggiym7igqcrlpanp75mko64yq4tkuxi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose Bud",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 867,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FBB2A3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(251, 178, 163)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

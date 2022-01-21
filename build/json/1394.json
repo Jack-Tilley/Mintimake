@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1394 - Deep Teal",
+  "description": "A Deep Teal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidkp3r74me3oyvtiimn6trwo32rwfhjjohumvnjdf6oshvgde6u5a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Teal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1394"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#003532"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 53, 50)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #855 - Cab Sav",
+  "description": "A Cab Sav pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2gyt4f45luh2cdscnyk2fgfzzt5prbcrw5ojmlcow6oya63x6wa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cab Sav"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "855"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4D0A18"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(77, 10, 24)"
+    }
+  ]
+}

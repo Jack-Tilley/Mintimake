@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #714 - Jungle Green",
+  "description": "A Jungle Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigvptdj4qhvj7okrmpsjpjngh2nzcvgwzbc65gefvhn36vwoqtclu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jungle Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "714"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#29AB87"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 171, 135)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcjn37abzx3njp4lm544cokmpwync3spgvrqywylhrkpa22bakui",
+  "name": "OneForArt #5 - Koromiko",
+  "description": "A Koromiko pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacgb3c5sd4rum6d5haknqryhssbu3qgips4peqbvswucblzhrsni",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Koromiko",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 5,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFBD5F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 189, 95)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

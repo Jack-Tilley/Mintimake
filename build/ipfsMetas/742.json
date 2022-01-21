@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia3sxipi2syvuy6aynofcpumyjjnugmp433ts4yjo32hfaso55edi",
+  "name": "OneForArt #742 - Key Lime Pie",
+  "description": "A Key Lime Pie pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicd7z7g2gqy34375o5lt2bmni5mstxgquvrrmpizobxxxnxwav2q4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Key Lime Pie",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 742,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFC921",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 201, 33)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

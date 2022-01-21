@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1365 - Patina",
+  "description": "A Patina pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigryu3bxsmhmyoxc7h2qrj53q3huuf2fzjzkbofbgo357ttavhooq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Patina"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1365"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#639A8F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(99, 154, 143)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #490 - Aqua Squeeze",
+  "description": "A Aqua Squeeze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6haklvlkaoohasdeivczkeyk7kcju7si6yoieu2ghf4jjrlnnnm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Squeeze"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "490"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E8F5F2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(232, 245, 242)"
+    }
+  ]
+}

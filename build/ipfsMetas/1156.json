@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic6vqigjr64c6nmlc65bsz37qi3xd5yuyxvs26eh2pwusqkxtkepq",
+  "name": "OneForArt #1156 - Old Lavender",
+  "description": "A Old Lavender pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifqx7tiyhyd5stag5ouumwesryrg53uoqackh6flxlagez6vwas6a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Lavender",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1156,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#796878",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(121, 104, 120)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

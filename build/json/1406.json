@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1406 - Watusi",
+  "description": "A Watusi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwi2htxdsc5o6loenfc7oal5j2jttm4njydy2x3rn3fimiecbyei",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Watusi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1406"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDDCF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 221, 207)"
+    }
+  ]
+}

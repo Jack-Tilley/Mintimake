@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1540 - Envy",
+  "description": "A Envy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieo4jwbv5ihgdylh4lowxruxchgynji4ztzedah6ozb4vqdb4g6vu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Envy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1540"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8BA690"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 166, 144)"
+    }
+  ]
+}

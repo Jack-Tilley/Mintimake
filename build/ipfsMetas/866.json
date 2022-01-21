@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieghgxpdjvmon6y75dsafdxvco4es4rikwhju3skqib2ldkwx6fky",
+  "name": "OneForArt #866 - Dew",
+  "description": "A Dew pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibaivne5scd6qzentpwfczvollehp3kswlq3j6frldj56y3zvdwru",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dew",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 866,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAFFFE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 255, 254)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

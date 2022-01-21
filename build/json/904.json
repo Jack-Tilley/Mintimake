@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #904 - Manhattan",
+  "description": "A Manhattan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicqzxnwsk2ehryi2v4xmjs3yaorqeilwom4b6jfoejvy2uok7os7e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Manhattan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "904"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5C999"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 201, 153)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1421 - Masala",
+  "description": "A Masala pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzsbl6t5qhbbv5l2njyj4hettezdyudwvqm47vhsr2cpvk4dghuu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Masala"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1421"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#403B38"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(64, 59, 56)"
+    }
+  ]
+}

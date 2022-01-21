@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiebsqfr65ez5njv656c2swdn6hfxzcvw3nffesihel23d6pstq7te",
+  "name": "OneForArt #873 - Hippie Green",
+  "description": "A Hippie Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibuhiv2iyjmpjczmtjkjrrzfzimshwfitg2iznqofsftiq7cjhkyy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hippie Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 873,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#53824B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(83, 130, 75)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

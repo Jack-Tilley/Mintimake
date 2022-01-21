@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidwzule7jzs5d3c5xv7x3tnas7hkyjasg7da6rjkxtx6s6zxowh6u",
+  "name": "OneForArt #492 - Caramel",
+  "description": "A Caramel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxb422bmmzwyd2qralkbw3o5ygtza2fnedgxiywhd2mykc2427oa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Caramel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 492,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDDAF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 221, 175)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

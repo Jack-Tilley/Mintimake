@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibymxmtcnhoyuvrkff6airgxwkn7dss4u7on5nv3ux5vvp6wpqggi",
+  "name": "OneForArt #969 - Burnt Umber",
+  "description": "A Burnt Umber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif4o6zmfdvedf2qreqg7fjqyccp5voyapxfkaiesphgm2rl3sax6u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Burnt Umber",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 969,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8A3324",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(138, 51, 36)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

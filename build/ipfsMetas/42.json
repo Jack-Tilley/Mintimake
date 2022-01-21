@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifidlxkqziil6ciala7eh74eb6l2facgq6a6ka24t5gplakxzyvxm",
+  "name": "OneForArt #42 - Flax",
+  "description": "A Flax pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifr6eauwgktzneb2ha6yhxsvq2xk52yat6vkrozy3xd4ww2alp47m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flax",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 42,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEDC82",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 220, 130)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

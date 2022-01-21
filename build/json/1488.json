@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1488 - Ironside Gray",
+  "description": "A Ironside Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigsm2pajygy7zfwg4rg6mqvj74x6ajw7fbrpff7wai6lnntgykll4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ironside Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1488"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#676662"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(103, 102, 98)"
+    }
+  ]
+}

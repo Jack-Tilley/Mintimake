@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia64oslbq6hfouknhmdkv37bm4vmp2gbizxgprqv6uehwkfq2rc44",
+  "name": "OneForArt #1166 - Saltpan",
+  "description": "A Saltpan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6rombkwjowhg3c2k673hyvplc4areykz3plrizmgtkhso23ybaa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saltpan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1166,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1F7F2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 247, 242)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

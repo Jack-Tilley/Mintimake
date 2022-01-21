@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #959 - Voodoo",
+  "description": "A Voodoo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihs3i35z6a7q4kcqfg7msoqumsaf6aisqppr2zr75bacd3twx7vne",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Voodoo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "959"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#533455"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(83, 52, 85)"
+    }
+  ]
+}

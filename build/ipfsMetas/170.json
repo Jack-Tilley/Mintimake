@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreienj63liuu4ns625p72sorzjr575aec6m7aqfrlozbadzylymalau",
+  "name": "OneForArt #170 - Hot Cinnamon",
+  "description": "A Hot Cinnamon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifugu62soafouvflushktrx2a2jueqiqtpkcrhynvtxnyq5oqy5ee",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hot Cinnamon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 170,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2691E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 105, 30)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

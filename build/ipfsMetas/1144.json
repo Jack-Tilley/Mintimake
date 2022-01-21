@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigc6gqrhotx3pge46oivm4xz7a3lae5gp36kfw4zjo4mdxlkn6pdy",
+  "name": "OneForArt #1144 - Stromboli",
+  "description": "A Stromboli pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigkbktsi7x55anesjlds3kimxijyo5yblpijeupppykwzokqnhdsy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Stromboli",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1144,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#325D52",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 93, 82)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

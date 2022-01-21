@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighoytzqerptee7v7pq27kwlodgwge6gmrgz3w3mdezlvl2lmzppq",
+  "name": "OneForArt #110 - Turbo",
+  "description": "A Turbo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieikv5uj2esomeo66c7zsofzp2boqvhjcdupsxxchsyhgesx3lz6i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Turbo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 110,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FAE600",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(250, 230, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

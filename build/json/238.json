@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #238 - Shocking Pink",
+  "description": "A Shocking Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefely6e23gjem6ef54ifwsdnc4mw6fs72jz4fvvkeg4fxfobxhuq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Shocking Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "238"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FC0FC0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 15, 192)"
+    }
+  ]
+}

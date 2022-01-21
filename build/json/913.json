@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #913 - Glacier",
+  "description": "A Glacier pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicpf35l4r2473jelsbctpnma237durgbudmhmawkohxjul76hazr4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "913"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#80B3C4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 179, 196)"
+    }
+  ]
+}

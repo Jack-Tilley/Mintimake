@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiefas4w4w4thvswgeu5pncs4cv3tg4grqlgu2vn2zf6fgn4src3mm",
+  "name": "OneForArt #1194 - Pippin",
+  "description": "A Pippin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih3eufc4m6w4nieobkajlxgo5td5ipdjw5f7276uu6ehlnljm7t2y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pippin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1194,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE1DF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 225, 223)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #192 - Light Apricot",
+  "description": "A Light Apricot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicr57eczz76vfmkt7ovm2h3mlvs3tecuk4djgfall4e7u27v7yofa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Light Apricot"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "192"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDD5B1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 213, 177)"
+    }
+  ]
+}

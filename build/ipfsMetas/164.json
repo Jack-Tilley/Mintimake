@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreich3xi7fe2hikenolijq2tgqfjgu4p56gdzxtpaod64atmjibn6ga",
+  "name": "OneForArt #164 - Rose Fog",
+  "description": "A Rose Fog pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaem4n32mpboutbc4dwx3bli3ko5sg4wqmfigpezm6rm2uwqinliu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rose Fog",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 164,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E7BCB4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(231, 188, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

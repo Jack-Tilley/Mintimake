@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1555 - Concord",
+  "description": "A Concord pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicudb3syql4cain32s2fcaxclrtmoksjtfv457i7vio4gojkfczjm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Concord"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1555"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C7B7A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 123, 122)"
+    }
+  ]
+}

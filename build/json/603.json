@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #603 - Costa Del Sol",
+  "description": "A Costa Del Sol pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidxsjldjratyu5yrl3qkz5yvos2xumcksmf6wi47fmxizwfxmmqvm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Costa Del Sol"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "603"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#615D30"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(97, 93, 48)"
+    }
+  ]
+}

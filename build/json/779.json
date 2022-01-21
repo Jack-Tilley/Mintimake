@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #779 - Teal",
+  "description": "A Teal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicard2sgapfhsneeknylw4s3cgtfxkgmpdrrpjjbrj53djiellz4y",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "779"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#008080"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 128, 128)"
+    }
+  ]
+}

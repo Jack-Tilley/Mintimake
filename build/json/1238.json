@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1238 - Java",
+  "description": "A Java pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidecjorlfin7hise75cqgnyw4m7i5is3nzcury362r42kmzyu67r4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Java"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1238"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1FC2C2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(31, 194, 194)"
+    }
+  ]
+}

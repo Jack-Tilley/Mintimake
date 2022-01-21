@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #549 - Kingfisher Daisy",
+  "description": "A Kingfisher Daisy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiatddamo3b4l4iazchgapdbhnugysxjsvnesabq2kpthwvhusugqq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kingfisher Daisy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "549"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3E0480"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(62, 4, 128)"
+    }
+  ]
+}

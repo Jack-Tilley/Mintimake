@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #961 - Smoky",
+  "description": "A Smoky pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihyiyxab7dsixjeuplsnurfyalwbnga5md4lmcm3a76wdjeqhvnm4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Smoky"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "961"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#605B73"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(96, 91, 115)"
+    }
+  ]
+}

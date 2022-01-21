@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigzxnx6zv3vmwcoo6hk35qmnnf433sdnp2ymxnuwujfupq6n2lske",
+  "name": "OneForArt #569 - Monarch",
+  "description": "A Monarch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiay2g4oack4pdgxkigorpiikeqolwrraafldkvzoykyoydeavdzga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Monarch",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 569,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8B0723",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 7, 35)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

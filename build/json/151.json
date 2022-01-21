@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #151 - English Walnut",
+  "description": "A English Walnut pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaxqyuapbyvzybocbuiwpkgzy3maqj4rp473llf4sfv7ihe37di4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "English Walnut"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "151"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3E2B23"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(62, 43, 35)"
+    }
+  ]
+}

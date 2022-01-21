@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihau5lcatqrot33u2ykexke2keeekbueaairco6xuqnm6qchtueou",
+  "name": "OneForArt #173 - Solitaire",
+  "description": "A Solitaire pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigs2xldjnd5rmn6r7plh7b7ngkv3fuyxlgfd3hcmcg26ne6iel5ny",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Solitaire",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 173,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF8E2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 248, 226)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

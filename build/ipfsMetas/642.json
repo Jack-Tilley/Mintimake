@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigaxoeqafxnot4owb2hc3ggh6bz2z4morrkcz43qa44q4vk73ua4a",
+  "name": "OneForArt #642 - Chestnut",
+  "description": "A Chestnut pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibvsl45w7fon6lexrdq2n2rwzovysh537cvwsc2j75jpck7t2ayyq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chestnut",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 642,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B94E48",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(185, 78, 72)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

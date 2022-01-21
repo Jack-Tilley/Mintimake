@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1199 - Sandwisp",
+  "description": "A Sandwisp pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiemjcz556gmqvhf5ee4pfgmqwrj26vrcazjxr32r7za7juz66f6na",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sandwisp"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1199"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5E7A2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 231, 162)"
+    }
+  ]
+}

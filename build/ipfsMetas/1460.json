@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifyweiaipy42ig5uo2yjlwss5dhrgga43bmb2glgzrnv2fgns4mqe",
+  "name": "OneForArt #1460 - Vivid Tangerine",
+  "description": "A Vivid Tangerine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigmyip5o4yu4l5rso2zkx3mghlfrggs4zuaexiyqzvzl6p3yzfsbi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vivid Tangerine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1460,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF9980",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 153, 128)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

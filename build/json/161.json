@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #161 - Fog",
+  "description": "A Fog pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifpk5nmrwqkqgzmkcn22d6las5tom62nd4yms5cslm74rpr36bsme",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fog"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "161"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D7D0FF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(215, 208, 255)"
+    }
+  ]
+}

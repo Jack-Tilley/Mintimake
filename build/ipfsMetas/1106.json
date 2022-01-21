@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidslnjgmnrxp4dpgsdorco3iv2bonvyoyiqeesedhx2tx3iu2pgq4",
+  "name": "OneForArt #1106 - Cape Honey",
+  "description": "A Cape Honey pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtidkarmuihhodg4jezkswgiuohydz6hlwpokjanuul6ibtpdpxq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cape Honey",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1106,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEE5AC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 229, 172)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiagwk3rtgfjmfpbwtmp5urfenrlttazhvau3j35kfbiulfy2zx2jy",
+  "name": "OneForArt #838 - Milk Punch",
+  "description": "A Milk Punch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih4urqhayvtu5vtf6atqkgabusegrlinvrgfzwwimotifpzvs4yrq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Milk Punch",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 838,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF6D4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 246, 212)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

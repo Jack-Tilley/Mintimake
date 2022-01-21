@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1458 - Squirrel",
+  "description": "A Squirrel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihqghgm4xpksd5nzdyxodfy2zluc2mhkr7dmjlpa25z4fx4u5fq6m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Squirrel"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1458"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8F8176"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(143, 129, 118)"
+    }
+  ]
+}

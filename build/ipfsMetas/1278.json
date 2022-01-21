@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihnhpevor43na4u5wjsiebzwxqp7yjf6ze4lgcjcjv5ucz5d5wkru",
+  "name": "OneForArt #1278 - Plum",
+  "description": "A Plum pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreierv64citv6dhpjd2rnsniz5mv26alzsrgkrbgmavznv2u4q4dhae",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Plum",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1278,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#843179",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(132, 49, 121)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

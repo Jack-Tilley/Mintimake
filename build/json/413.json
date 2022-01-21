@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #413 - Parsley",
+  "description": "A Parsley pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickri2whifgqpi5kuh4nftb3ylcla5ami7tbmn5vgjhthw2xsk3ie",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Parsley"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "413"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#134F19"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(19, 79, 25)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaidxs6epgpsacoyheexqbnpyjskyqhtwnccgj433x3dcrlr2go2i",
+  "name": "OneForArt #1206 - Solid Pink",
+  "description": "A Solid Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoxpdltkllgoxswz4fhulzqd3zs4eslqequynd2jgyn2aieshzz4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Solid Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1206,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#893843",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(137, 56, 67)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

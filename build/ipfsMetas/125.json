@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie7taoynz45nepa5xetb73kmo4mbpai5a4nuo24vjxf4c5mt5nuni",
+  "name": "OneForArt #125 - Pink Flare",
+  "description": "A Pink Flare pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifilforh52nh2qp7z2ej5yqijkbexk4dxjtcvyia6olbtb2aogg5q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink Flare",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 125,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E1C0C8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(225, 192, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

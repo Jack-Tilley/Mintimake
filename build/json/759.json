@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #759 - Cannon Black",
+  "description": "A Cannon Black pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaer74llvlstt7ruvbropfb4kswnwlumrahzdlqrvvaqchi5si3mq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cannon Black"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "759"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#251706"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(37, 23, 6)"
+    }
+  ]
+}

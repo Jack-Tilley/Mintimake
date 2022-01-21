@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibts4lesh334l6mcxvtdkmjvth3ht6qh5vnvvdrs5xi7ztasxdz3i",
+  "name": "OneForArt #1063 - Tahuna Sands",
+  "description": "A Tahuna Sands pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiha5mrg7nbxgzmr4acz2v6dryaicl3ot6n2t7l6bplyopnvphmc6y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tahuna Sands",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1063,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEF0C8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 240, 200)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1122 - Mobster",
+  "description": "A Mobster pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiad3xfaj6v6vlhsnqsd5lk6w3qpk6zhgvjq453nekcrrbn3qdnplq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mobster"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1122"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F7589"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 117, 137)"
+    }
+  ]
+}

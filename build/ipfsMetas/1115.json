@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic6xq73wncyxtjms2mvcmne3worfdu2vsqyz3elzn3lwghlnbovii",
+  "name": "OneForArt #1115 - White Ice",
+  "description": "A White Ice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibxc3tj5vyad3peaclut3rl6nyjluc3d2auatfvht6hsp33qg5tze",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "White Ice",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1115,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DDF9F1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(221, 249, 241)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

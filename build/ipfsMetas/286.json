@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifsi62ox36j7ydg4kxu6dsjzquiv6ykt56idho6nunzvvsgvzq7dy",
+  "name": "OneForArt #286 - Deep Cerulean",
+  "description": "A Deep Cerulean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicq55oiivhehxihdierpprkkusynd5a4ax2tvfigkyv6knphbt5qy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Cerulean",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 286,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#007BA7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 123, 167)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

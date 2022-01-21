@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib6oooilaenmlrkqkorzej7gkx3j3hpr6m2656tev5kfnmym7ukn4",
+  "name": "OneForArt #95 - Grenadier",
+  "description": "A Grenadier pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoaxp56adjgpxoafjngs2ux7wx6qbuhouflsvfyjntewn4wikjn4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Grenadier",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 95,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D54600",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(213, 70, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

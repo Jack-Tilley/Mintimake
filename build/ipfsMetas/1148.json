@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifkrtigr34wcgjwg5kvi7lqpw3pxq6s4yhk2j6nplkhs2br6kjr24",
+  "name": "OneForArt #1148 - Double Pearl Lusta",
+  "description": "A Double Pearl Lusta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiddpliowl3rgaxjq7wrhs6pxpw6dlajlr25brui2tfcli3umvmaku",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Double Pearl Lusta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1148,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCF4D0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 244, 208)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

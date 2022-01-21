@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbvxd5iulc3yaqrkutvq4u632b37if3hxcedjpbajwvtp6uc4m7u",
+  "name": "OneForArt #652 - Terracotta",
+  "description": "A Terracotta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifz5w2juydsrrpa6vhbwe65tum3cimcdmgptuab7dkoj4tpmlgt6y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Terracotta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 652,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E2725B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(226, 114, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

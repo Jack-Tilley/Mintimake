@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigb3klog5manqc45tufkyody2pqldbhteibhzeocakc2mmlx2327y",
+  "name": "OneForArt #1283 - Cape Cod",
+  "description": "A Cape Cod pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihyy2vpna63zwujkvfmcgkfjogwfr4wd65qo7h45zuowl4b5xky74",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cape Cod",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1283,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C4443",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 68, 67)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

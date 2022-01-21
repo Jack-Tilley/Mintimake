@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #224 - Wisp Pink",
+  "description": "A Wisp Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiah4bx7yodb2toe6gzxrkbrvhw5rsh6lqpy4dhiynugtg2t3hbxua",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wisp Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "224"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF4F8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 244, 248)"
+    }
+  ]
+}

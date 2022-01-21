@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiawnkcsejose7ne6pbbmrfvenmgonqs7zd2g56j52sz2clybj75dy",
+  "name": "OneForArt #1345 - Amulet",
+  "description": "A Amulet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzex4mg3zvadzassb4zdh3ctwmhjmo5gbppziunmjrc7sq6kbkdu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amulet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1345,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B9F80",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 159, 128)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

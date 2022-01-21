@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #823 - Porsche",
+  "description": "A Porsche pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia4ww5jgh3sxend7yugehivefgtni24qdnjmi3nv5u22vya4zxkja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Porsche"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "823"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAAE69"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 174, 105)"
+    }
+  ]
+}

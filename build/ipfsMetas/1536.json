@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiechvwgekby2jousv2ayzcpodwl3ajvvwxpbov7bhho625cde2eau",
+  "name": "OneForArt #1536 - Napa",
+  "description": "A Napa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiah2lkhoqczpuabuomoerqt6oj5q2onnqsgqvfzjgoe7plqkwyjsi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Napa",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1536,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACA494",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 164, 148)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

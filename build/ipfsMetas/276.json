@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreierbuvswrdc4jvyzsnfh4n4mk6ncmkrodttfiblgujozhoa74foda",
+  "name": "OneForArt #276 - Au Chico",
+  "description": "A Au Chico pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiguyaj3kqhauq3jxkgof7qlcyiubzsgalrdjily4gkq2jff3us25q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Au Chico",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 276,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#97605D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(151, 96, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

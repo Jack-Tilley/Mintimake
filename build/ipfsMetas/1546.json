@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigfgvradakz64t4wfmtonffovo6hnjc5vgnbxge327krhey63vjqu",
+  "name": "OneForArt #1546 - Highland",
+  "description": "A Highland pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidljiex6pfzrciepgljbzbb6ttvauwamxmhp7halp3uxohgwegli4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Highland",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1546,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6F8E63",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(111, 142, 99)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

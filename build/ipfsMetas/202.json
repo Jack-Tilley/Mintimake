@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigw745x2zffvugoejdfbqspvj7hqvbkzsbxjbolqpfemcm6q5zvvu",
+  "name": "OneForArt #202 - Rouge",
+  "description": "A Rouge pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6x74woxesfkhpdxhetlpx4n55gz66yamxvoelhedwftqwnychxm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rouge",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 202,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A23B6C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(162, 59, 108)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

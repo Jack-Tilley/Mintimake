@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigrqllohzaq6uw5m4tebqrd4yedm4667mtsffsak5unoq2rpajyou",
+  "name": "OneForArt #145 - Crown of Thorns",
+  "description": "A Crown of Thorns pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib4o6trkekgy5s3s3imtbbulml32sqvh6ntcc36al2teuhi7ajs74",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crown of Thorns",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 145,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#771F1F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 31, 31)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

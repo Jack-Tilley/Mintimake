@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicg5kzwk6iy4ivnta4qa6z4pgkxozos4zv62hyfel4due5oe4q4ve",
+  "name": "OneForArt #209 - Vida Loca",
+  "description": "A Vida Loca pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih35qhwccgjcf2zmervfznwternelzsuccumxfs55k7rnubpa5xd4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vida Loca",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 209,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#549019",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(84, 144, 25)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

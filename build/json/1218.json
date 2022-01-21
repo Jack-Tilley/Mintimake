@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1218 - Spicy Mix",
+  "description": "A Spicy Mix pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie25icp4so6aurad7ar6kspo3d3l7inzmf4lrr3o2fyhcarubwf74",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Spicy Mix"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1218"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#885342"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(136, 83, 66)"
+    }
+  ]
+}

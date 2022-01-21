@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigqplmbteobjlk7r665tpqmgbofsq4pft4cwfxlfpbdvyzgsl2fvm",
+  "name": "OneForArt #1491 - Deep Cove",
+  "description": "A Deep Cove pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibooj3b2kgvk2qwfzxybytxubfqj6mtcvmblrurs3cnriwsu7xo5u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Cove",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1491,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#051040",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(5, 16, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

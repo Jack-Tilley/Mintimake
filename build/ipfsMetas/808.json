@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigogidrbhgoe43idviaguajldetoi4sqczgsx5uyfa3rdwbd5lcru",
+  "name": "OneForArt #808 - Moody Blue",
+  "description": "A Moody Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia75kn5gjldo3esks54kopqkpah7ps3sa7i6vdusskwzzfijjaiwm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Moody Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 808,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7F76D3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(127, 118, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

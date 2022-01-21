@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1112 - Cinnamon",
+  "description": "A Cinnamon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoyvadvvak44pcijak2wd6weg2mdj63ommgnbcb7ljzcsbw3qn2m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cinnamon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1112"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B3F00"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 63, 0)"
+    }
+  ]
+}

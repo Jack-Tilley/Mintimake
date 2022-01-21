@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #43 - Outer Space",
+  "description": "A Outer Space pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhyocxje2sfktnyuuc7u3m5m6zkkfz43zzpxwhmgj6hyxa2sojfe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Outer Space"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "43"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2D383A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(45, 56, 58)"
+    }
+  ]
+}

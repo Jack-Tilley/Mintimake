@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigv5w4lhsfeheftksneudzsac2ffzo4nfq4gvizg3wnisn5s5zgem",
+  "name": "OneForArt #1517 - Scarlet",
+  "description": "A Scarlet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreico4qbd6bg4tmtda5jotdqsk7rpa2c2psqyozfp4qzedwhtgp7sdu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scarlet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1517,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF2400",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 36, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #431 - Desert",
+  "description": "A Desert pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifn22mbolgd7mhi3i7syx54al5nl5e3nntgeyupjs4iiz7nng47jq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "431"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AE6020"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(174, 96, 32)"
+    }
+  ]
+}

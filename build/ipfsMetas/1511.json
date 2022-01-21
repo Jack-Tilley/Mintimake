@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibih3oks3olnq5kwdpxqisyr3nluwhxuc4lal3zwq4afehdozur4a",
+  "name": "OneForArt #1511 - Pine Tree",
+  "description": "A Pine Tree pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiegpvigeslhpuwi57elkp3bz7bysspqvi7im2r4kg4uolq5esxm54",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pine Tree",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1511,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#171F04",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(23, 31, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

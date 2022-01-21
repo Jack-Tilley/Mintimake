@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreignjdsfuyhpfikibsey7avcn7qtlejuo6tlnnu6rioqu6qv2szdva",
+  "name": "OneForArt #966 - Mako",
+  "description": "A Mako pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieepbjhwxwgcxer3e2j5ovwwvuquborvesvqg4imtptnay7skwhfq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mako",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 966,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#444954",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(68, 73, 84)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

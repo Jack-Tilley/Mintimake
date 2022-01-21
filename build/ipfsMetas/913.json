@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicp6v6n7qvndv6kb6tt66i723rcevmvhssqbtirlvsvr6w6j5nnfy",
+  "name": "OneForArt #913 - Glacier",
+  "description": "A Glacier pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicpf35l4r2473jelsbctpnma237durgbudmhmawkohxjul76hazr4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Glacier",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 913,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#80B3C4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 179, 196)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaghbtrojsrbfassml4jv7l5gblcni22xiau6y7fydljagt6ftoku",
+  "name": "OneForArt #41 - Dawn Pink",
+  "description": "A Dawn Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigws2zdcslzuc4o46l6np2lheuf3kq56fxpx5ln62xpu4vkpo6tfq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dawn Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 41,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F3E9E5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(243, 233, 229)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

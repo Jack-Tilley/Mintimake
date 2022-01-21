@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifnyn2j6gzo5npcxg7fy2gzfq4mf6xbcmfrekjh7l2jrjfab2l5u4",
+  "name": "OneForArt #1302 - Woodrush",
+  "description": "A Woodrush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih5zdbnqdefyjqj5ulo4nylwijumfeefqk2ejbfowe5siuyend6da",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Woodrush",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1302,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#302A0F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(48, 42, 15)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

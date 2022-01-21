@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigzl5zfqiwcii6w3upzi5g43jnya2sqsdbpklf2xe27e6bahln2ta",
+  "name": "OneForArt #584 - Aqua Deep",
+  "description": "A Aqua Deep pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigxoxme2seiv6t4gi4tq2oxrerj4kgr7nfecp3ijvmybwwa5amnsi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Deep",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 584,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#014B43",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 75, 67)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

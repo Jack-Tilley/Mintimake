@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib7uxnymucblurvb6toljeduzb44dlbyc63uidttmvt426ixv2hfy",
+  "name": "OneForArt #184 - Tulip Tree",
+  "description": "A Tulip Tree pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjinzalxfbyqxax5vykmpu5sscajm3hmebaf5qk4eoftbwonlxwe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tulip Tree",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 184,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAB33B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 179, 59)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

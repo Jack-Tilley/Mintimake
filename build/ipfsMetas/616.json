@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihhap36ithgff5luqiomtrcslt55ryyxjhp4fspvp7wduwrdj4dde",
+  "name": "OneForArt #616 - Green Spring",
+  "description": "A Green Spring pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiglojcbav7fyjjcd5b2az6xjyelgs4urouoeetzu6grsvmmcdz3tu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Spring",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 616,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B8C1B1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 193, 177)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

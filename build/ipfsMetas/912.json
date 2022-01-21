@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreianxiwycmp7fr575gn3izjgdx3bl3dekfez33d5y4g3gd7u3va5g4",
+  "name": "OneForArt #912 - Heathered Gray",
+  "description": "A Heathered Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidof54steqqbltfmrvrjfjz5nkcorfz23yy466lk63wvdvc7ymtga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Heathered Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 912,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B6B095",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(182, 176, 149)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

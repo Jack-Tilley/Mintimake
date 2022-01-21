@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicfezlizmulhnke43wc65zotlah7e4tog5xrjgf45oxktrttw43gq",
+  "name": "OneForArt #1300 - Harlequin",
+  "description": "A Harlequin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie6q6f2wt2spa5cluafy46334uvmlp3mg2m5pv3ncfmscuehsxtba",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Harlequin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1300,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3FFF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 255, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #432 - Crater Brown",
+  "description": "A Crater Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzw2dt5um72drk3dgjebatxidkim3elv54x55yqjw6hcvperybda",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crater Brown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "432"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#462425"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(70, 36, 37)"
+    }
+  ]
+}

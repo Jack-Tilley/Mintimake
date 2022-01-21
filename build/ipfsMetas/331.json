@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieb7fb7ne3q5upbrldugikcnnsmun4dlvid2ozj5gseioamj26kf4",
+  "name": "OneForArt #331 - Pelorous",
+  "description": "A Pelorous pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5shdtcriyzpaqd4jijzjwbruluyopdsfi7xeee4hyp2ffnmzyzq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pelorous",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 331,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3EABBF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(62, 171, 191)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

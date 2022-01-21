@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiggxxwoqows2qzv3kt7z47alaywhjos6ekylmn4zkgi4bg6wwis74",
+  "name": "OneForArt #1502 - Snow Flurry",
+  "description": "A Snow Flurry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia34g2mnrsxqlx6m2kpq6bgrd75o6mtlzdxvdbxslml2a2qpfadei",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Snow Flurry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1502,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4FFD1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 255, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

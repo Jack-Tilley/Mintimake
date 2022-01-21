@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidw2zckvw457emr2b56x3j73zdn3h4fxzylgbifnodni3r56syep4",
+  "name": "OneForArt #1136 - Empress",
+  "description": "A Empress pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidnetykavtkwpgnx3f7yf44qoyng6snify553udfrwhqoqipt6sm4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Empress",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1136,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#817377",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(129, 115, 119)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #394 - Tidal",
+  "description": "A Tidal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifdsihap5wh733alm3h7uz2i4n62enuap33eurpjsr36w4jwvl2ou",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tidal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "394"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1FFAD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 255, 173)"
+    }
+  ]
+}

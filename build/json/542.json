@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #542 - Mandys Pink",
+  "description": "A Mandys Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiafdtpleukhfwdza3jqx2k3hqd6utbjrcm6qceb24qo2yvtngdu44",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mandys Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "542"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F2C3B2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 195, 178)"
+    }
+  ]
+}

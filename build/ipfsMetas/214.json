@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidr5ohgbgtgdb6tyha3gcbhmmrgtkt46ozqv2mo7tiwziccywfzwa",
+  "name": "OneForArt #214 - Cruise",
+  "description": "A Cruise pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiasl5qfm6wpian37tzk6ocwxwafdswlh25nrf4txgzed3kdgsya5y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cruise",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 214,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B5ECDF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(181, 236, 223)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

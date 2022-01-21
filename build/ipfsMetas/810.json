@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie6fti5377nxws2k4og44zzfk3jdo3pzg3leuwmaj725tp3cjbxqy",
+  "name": "OneForArt #810 - Pompadour",
+  "description": "A Pompadour pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsvtml5o6r7hzwhnmsth6zksi7g66jmyle5o5t7z4ut2nd44224m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pompadour",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 810,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#660045",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(102, 0, 69)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

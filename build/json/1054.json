@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1054 - Chathams Blue",
+  "description": "A Chathams Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreideakkcgt3jk3w6mc7pr3ycmhw4ea52xplpx7zlf2bawzq6xvi36m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chathams Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1054"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#175579"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(23, 85, 121)"
+    }
+  ]
+}

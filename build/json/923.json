@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #923 - Lotus",
+  "description": "A Lotus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4tk57iqu2or6fzpmqhe2gmfntbpujaysowr5jcewwxdyhbbbopa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lotus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "923"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#863C3C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(134, 60, 60)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihg5is3oya3igkib56nitrcd6x3rdffhho3zdbwj7phkucywea3zy",
+  "name": "OneForArt #183 - Tequila",
+  "description": "A Tequila pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieemwjz66m6sdks55ko22shbkhuisptwihozdbe62nhgxhbbhbxb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tequila",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 183,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE6C7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 230, 199)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

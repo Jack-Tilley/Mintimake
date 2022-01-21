@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifgwv3unl6e4lbckkdls2qe3ioima7gyyuxpwln4lu34ocqetkati",
+  "name": "OneForArt #168 - Cream",
+  "description": "A Cream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreietxjdx2dwsis3cyhytdhcfobsqca5azxmi3ggu7zaw5i4acr7qtu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cream",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 168,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDD0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 208)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

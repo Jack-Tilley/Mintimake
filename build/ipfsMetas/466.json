@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigbxhc2njyfbzp4xhrhly7fmkmxtgicq3p6whzsokkuwmbp3bwk7i",
+  "name": "OneForArt #466 - Fuel Yellow",
+  "description": "A Fuel Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib43gomyd5u3k5oozcfmafktviacztkv5gk6sgvhjkpn72zok2tsu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuel Yellow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 466,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECA927",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 169, 39)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

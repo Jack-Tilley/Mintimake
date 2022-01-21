@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiadsj2owrsukiqpqudzs5ytipo6lt3flqnwvvt2zd6evi63sncim4",
+  "name": "OneForArt #1207 - Wood Bark",
+  "description": "A Wood Bark pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiftbon6ezmqvnug3iq7radnsqoqg2b5fjvt53udf5kfbwqr3lhig4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wood Bark",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1207,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#261105",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(38, 17, 5)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

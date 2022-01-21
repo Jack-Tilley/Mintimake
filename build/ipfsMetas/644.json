@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiatctjks7g7hn2okf4yzriqbrzrnqnfw3ofb5ugfvi6esorzy5rrq",
+  "name": "OneForArt #644 - Mindaro",
+  "description": "A Mindaro pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreideznvvjwltn63iqj6a3on3fwbuc2ucknrvbrkmvawrx6awwfww4y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mindaro",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 644,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E3F988",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(227, 249, 136)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreianqmfsq4ss2lbdhvbh2yte6diwjc3nbl2unip3frcknd7m5jpdze",
+  "name": "OneForArt #878 - Brown Bramble",
+  "description": "A Brown Bramble pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib5jyibspapk7ofriej2llwwbeasmr5t3ma4vsvf6dlhsxvp5zbt4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brown Bramble",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 878,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#592804",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(89, 40, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

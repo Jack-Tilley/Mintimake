@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifurnqbc7bicegwuf24p3w37cyo7ww2msbpeh6ynzemtq5ydvftmi",
+  "name": "OneForArt #265 - Black Squeeze",
+  "description": "A Black Squeeze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5n4ssruyig24nhls77iy3fa6ehs6vrvfshuaw2gb2c6v7ln2y6i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Squeeze",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 265,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F2FAFA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 250, 250)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

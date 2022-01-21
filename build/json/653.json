@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #653 - Frangipani",
+  "description": "A Frangipani pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifiaqyb4z5lpxnbc3ghx57mpxtzk56r43dihgnsnwlf5xgbhm7l3m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Frangipani"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "653"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDEB3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 222, 179)"
+    }
+  ]
+}

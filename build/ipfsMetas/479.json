@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicqha7kuip42vedx7w6hmhkubypa2epbdp3zvwhj3vshrp5g4uqie",
+  "name": "OneForArt #479 - Pumpkin Skin",
+  "description": "A Pumpkin Skin pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibl34hcjyi7tgtyxw7ubiosezqtxuqtil7t6ebqbwtxipboahbkny",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pumpkin Skin",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 479,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B1610B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(177, 97, 11)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

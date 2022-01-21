@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibmykeyc32zhqheah3cxsvhmqorgf6jv3df53c5ve6wa3hu2dtqjq",
+  "name": "OneForArt #761 - Hairy Heath",
+  "description": "A Hairy Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicmchxnto3qx7jkdowjiw7g4tsumbzxjv6vesaduebokrb2cr3pma",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hairy Heath",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 761,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6B2A14",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(107, 42, 20)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

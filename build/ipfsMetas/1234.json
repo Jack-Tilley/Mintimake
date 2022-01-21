@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidnswflp2kucn3q7lu3swy2jxraowkcuiiihoguswzbaobvkc2oky",
+  "name": "OneForArt #1234 - Delta",
+  "description": "A Delta pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzdounr7b2ll6e57hyzsfvghgjwcvcrcxzdoxbi5awo5rjt5omye",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Delta",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1234,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A4A49D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(164, 164, 157)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

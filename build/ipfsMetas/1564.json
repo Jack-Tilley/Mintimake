@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicjpjchhxb4ywbb652ffmobcg5k7ksas2xogmnw2duxesq3vdwmzm",
+  "name": "OneForArt #1564 - Pastel Pink",
+  "description": "A Pastel Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifuukraenwafgsdiv2cjn7u2qla5tfgcfkhvnzawj5a4u2mleuz4e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pastel Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1564,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFD1DC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 209, 220)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #741 - Persian Rose",
+  "description": "A Persian Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifrd6juq3ujo6uhihbiuie6byoksyaq5ygcz4nwr66hz6vfqy6xoy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persian Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "741"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FE28A2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 40, 162)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihqlucgmzy2p6pckwjjyxywnsul6x56lja3gdpo74lhjaudarkzei",
+  "name": "OneForArt #1434 - Gallery",
+  "description": "A Gallery pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiha4s553pak7zirkj24qrakvyxdahcvjj7asd6n64aypfl6gldcmi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gallery",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1434,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EFEFEF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(239, 239, 239)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

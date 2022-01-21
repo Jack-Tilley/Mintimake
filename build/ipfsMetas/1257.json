@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiectczzmvkzwckpdxr3qob4olpe4lpyaomate6zh7t2ctzpd5qtvu",
+  "name": "OneForArt #1257 - Del Rio",
+  "description": "A Del Rio pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigoer6msi5dt6hkwlmg6cuoj6ruaajrgkp3fu2qce7m7nn5shggbm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Del Rio",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1257,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B09A95",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 154, 149)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

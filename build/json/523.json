@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #523 - Fruit Salad",
+  "description": "A Fruit Salad pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigqrjmpozykxe25f3yepe5qrgk2ski2proj7467mekriosgvakd24",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fruit Salad"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "523"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4F9D5D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(79, 157, 93)"
+    }
+  ]
+}

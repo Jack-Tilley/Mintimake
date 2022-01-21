@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibr5gkfd5u5ymbadg3zh7xif3k6zwt5fjk5xetwpb7pfht4et4mzm",
+  "name": "OneForArt #1372 - Chetwode Blue",
+  "description": "A Chetwode Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreichhw3ri7okzgpujqlwa42plbvezslysss5azrcyfem3ga7s5c6y4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chetwode Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1372,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8581D9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(133, 129, 217)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif56q6ywir426vdszun5mjcyyxryo5sigb2k3hphmdkft6mwnzjiy",
+  "name": "OneForArt #1157 - Logan",
+  "description": "A Logan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig2jlsg3kdodko5otjzuvcpuganxn4n6yhd563clt66mwxhz23zbq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Logan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1157,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AAA9CD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(170, 169, 205)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

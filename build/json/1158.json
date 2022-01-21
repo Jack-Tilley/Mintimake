@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1158 - Limeade",
+  "description": "A Limeade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5c7wmu3anur2eoxblx5njgefc6sgl2s7iow6aovo2wveqn3xgsa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Limeade"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1158"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6F9D02"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(111, 157, 2)"
+    }
+  ]
+}

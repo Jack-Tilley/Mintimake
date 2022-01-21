@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifzuxvw6xkqfrqdausv6igk5mulgxvbkcuikcoflgvovnmpzrw53u",
+  "name": "OneForArt #1364 - Twine",
+  "description": "A Twine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagr3y2z2l4hnkomioms7ogg755zyc73trwv7mqbaxdqifpkbljla",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Twine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1364,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C2955D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(194, 149, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

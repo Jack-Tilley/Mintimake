@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1000 - Lemon Chiffon",
+  "description": "A Lemon Chiffon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieqpofgyzzu2mpupefvvugpv5lddlwddtvlih4ef4k7un6kycbqaa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lemon Chiffon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1000"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFACD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 250, 205)"
+    }
+  ]
+}

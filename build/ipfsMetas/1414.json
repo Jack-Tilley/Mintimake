@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidcqixhfr6aeepcd7cr56dq6nrb3c7cyuiciv2erqeghhy7bvh3oe",
+  "name": "OneForArt #1414 - Waikawa Gray",
+  "description": "A Waikawa Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiczjxpeghwwcviwfrcrdttpnvbgqgdbvzl6guyghrfbvct6vsj3qe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Waikawa Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1414,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5A6E9C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(90, 110, 156)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

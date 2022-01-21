@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1224 - Lucky",
+  "description": "A Lucky pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicwxsuerjfy7cxahcardl477fzhp6vb4jl52go5udwurycp6rnf6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lucky"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1224"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF9F1C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 159, 28)"
+    }
+  ]
+}

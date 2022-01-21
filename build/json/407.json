@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #407 - Westar",
+  "description": "A Westar pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaq5fivx53uu6kvwc6u4dcgfax3wy54qn6lsad6rvh46jk6k7fgk4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Westar"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "407"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DCD9D2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(220, 217, 210)"
+    }
+  ]
+}

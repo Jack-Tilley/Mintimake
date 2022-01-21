@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1172 - Peach Cream",
+  "description": "A Peach Cream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4t5cj3kjrrccyutt2qemi6xad2wqpkxqqzte2vwfp5b7a5cudi4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peach Cream"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1172"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF0DB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 240, 219)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1109 - Bottle Green",
+  "description": "A Bottle Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifinbtg7cc664646spir7zmdurxw6wlqvhurb6scvvzmru5msgk6u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bottle Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1109"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#093624"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(9, 54, 36)"
+    }
+  ]
+}

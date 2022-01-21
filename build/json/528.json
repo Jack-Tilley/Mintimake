@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #528 - Cherrywood",
+  "description": "A Cherrywood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidr6ky4i25opwbxyqd5ajw36vgdqxwp5dgknoawm2fei3pfferajm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cherrywood"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "528"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#651A14"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(101, 26, 20)"
+    }
+  ]
+}

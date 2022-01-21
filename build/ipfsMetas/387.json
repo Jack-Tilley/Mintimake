@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiawryrcuytl44cgvd4gk4wn53bcmjdgnxddh47hltudjcg5r24hfm",
+  "name": "OneForArt #387 - Neon Carrot",
+  "description": "A Neon Carrot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifp5bdr2viay6ydnjpceiiigrxtp5unykr5x2of6a6zyoay7fhuhq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Neon Carrot",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 387,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF9933",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 153, 51)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

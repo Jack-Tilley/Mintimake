@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1048 - Glade Green",
+  "description": "A Glade Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihugbywga3cdgnydkgcg3izngbgepx4pz2n4a7d4cwcoutia4fd6i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Glade Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1048"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#61845F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(97, 132, 95)"
+    }
+  ]
+}

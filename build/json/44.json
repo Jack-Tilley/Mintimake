@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #44 - Blue Dianne",
+  "description": "A Blue Dianne pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieado6z4olayb6ktxe66pry2gp5a5dbj2jjv3kvnyo5uzvdxwb2l4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Dianne"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "44"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#204852"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(32, 72, 82)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibdpamgddhjxeukpj7zkbrp2ulfodheaxiluva3uriy6uipmazywy",
+  "name": "OneForArt #557 - Well Read",
+  "description": "A Well Read pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigr6og7gpy27natc32putkjeogkx3vmazw3m5nfodn7n45tzmgvxu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Well Read",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 557,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B43332",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(180, 51, 50)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

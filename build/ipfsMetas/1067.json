@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic6jheyn3u3cplemwykwm6uchhiy6v4dlwqh3znuxl7hudxxu6mb4",
+  "name": "OneForArt #1067 - Tranquil",
+  "description": "A Tranquil pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakk7sewgr2s27rbinztfgtujramhmyaaezdpoq3ffsipetxenxfu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tranquil",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1067,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6FFFF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 255, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

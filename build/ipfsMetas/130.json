@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicum4m2636xsur43afaac3qu4wlphxgmgymmcktisfgyqavczdcm4",
+  "name": "OneForArt #130 - Provincial Pink",
+  "description": "A Provincial Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibz2n3fgcsvluusfgcffdvyn4tawdeetgwkt7qohsfyrm7w6xrbty",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Provincial Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 130,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF5F1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 245, 241)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

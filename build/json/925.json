@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #925 - Sorbus",
+  "description": "A Sorbus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibzd6v62gercfrcursxzofd6vwxajpksjsspzf4zvfdabirb72l5u",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sorbus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "925"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FD7C07"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 124, 7)"
+    }
+  ]
+}

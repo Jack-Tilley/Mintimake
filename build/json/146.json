@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #146 - Mineral Green",
+  "description": "A Mineral Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigtzilkd5h35irimqu6a5gwwwkjymmvwmrd447c5nhz6qtztgcybi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mineral Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "146"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3F5D53"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 93, 83)"
+    }
+  ]
+}

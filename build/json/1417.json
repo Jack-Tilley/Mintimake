@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1417 - Neptune",
+  "description": "A Neptune pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihkppounwvhdi3qknllxsqbjinzky6kdkxtyfxr5erce6mhvlhqna",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Neptune"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1417"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7CB7BB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 183, 187)"
+    }
+  ]
+}

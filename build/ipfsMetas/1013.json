@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih7savnukusjpkmpk4bhc6k4auzfna7vd4ixaigzle2aqpgsd7k6e",
+  "name": "OneForArt #1013 - Lucky Point",
+  "description": "A Lucky Point pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihjezx4ussfkjorlff24g7pvxdscryvjh2wohj6hynppj5bplhvxy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lucky Point",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1013,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1A1A68",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(26, 26, 104)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

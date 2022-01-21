@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibtkoxtrhg6jzgyzo5wjhogcws5khhzmgegeu5w47sc55faipo4xa",
+  "name": "OneForArt #266 - Pale Slate",
+  "description": "A Pale Slate pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibfunp6mjjnhuz4veortkzasyydbctlzvadtiqiygocp3hru4jwae",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pale Slate",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 266,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C3BFC1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(195, 191, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

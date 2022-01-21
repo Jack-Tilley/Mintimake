@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiah3mc5d52awrhe366ihwz4i47zrgsgjsqja645mtqxfigirwxd7e",
+  "name": "OneForArt #1451 - Travertine",
+  "description": "A Travertine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreianyq7xr3ccqmtzttv5wm7mmmwk2anqxrbtgx2cn5waywifsg7awi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Travertine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1451,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDE8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 232)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

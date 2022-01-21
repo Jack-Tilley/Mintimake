@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidaamngg2pf4w7pictmhwfglrmjl5n2fdpvbycte5qol3lurkn5qq",
+  "name": "OneForArt #1118 - Endeavour",
+  "description": "A Endeavour pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiglkds6za7u62wk7gdocik44rcnc57ugflfmmabqoqqnphuwwtdwq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Endeavour",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1118,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0056A7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 86, 167)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

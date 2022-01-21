@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1315 - Drover",
+  "description": "A Drover pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibl3q6bjfw2ad4kix33t4lmfl6oqu2vsjxbvc6ptvl3ecfom5fnfi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Drover"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1315"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FDF7AD"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 247, 173)"
+    }
+  ]
+}

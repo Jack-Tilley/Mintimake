@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #655 - Seashell",
+  "description": "A Seashell pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreian2hfwrapdodqrylaxhfdyuhfoi4c5fjf3lpesaee3uixkfl7xre",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Seashell"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "655"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1F1F1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 241, 241)"
+    }
+  ]
+}

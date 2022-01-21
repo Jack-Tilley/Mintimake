@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1166 - Saltpan",
+  "description": "A Saltpan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib6rombkwjowhg3c2k673hyvplc4areykz3plrizmgtkhso23ybaa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saltpan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1166"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F1F7F2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 247, 242)"
+    }
+  ]
+}

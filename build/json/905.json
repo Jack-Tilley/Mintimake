@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #905 - Silver",
+  "description": "A Silver pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidet3ppsirfzkbywvjzp4uxg6ab32zn2lrfnpcetidwfs74655wua",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "905"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C0C0C0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(192, 192, 192)"
+    }
+  ]
+}

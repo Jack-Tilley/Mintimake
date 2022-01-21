@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihmsq6mj7vp7veptpm2avq6holwaeyqftdjkssfefmd26qodkodwm",
+  "name": "OneForArt #1436 - Madison",
+  "description": "A Madison pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigviovem5nhdzr54f5choy4iu3ofsjgnvsoc4xwfwgp746bjdg4bu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Madison",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1436,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#09255D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(9, 37, 93)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

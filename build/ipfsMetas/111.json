@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreida7frabhsphjenpspqpuz4zqwdzw5puiasrz4jzjqw7misuxyf6e",
+  "name": "OneForArt #111 - Paris Daisy",
+  "description": "A Paris Daisy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifykojxysj7gayilsx2haudmsdlrif76b3oavvl6g3fv7u4wxd5fi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paris Daisy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 111,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFF46E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 244, 110)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

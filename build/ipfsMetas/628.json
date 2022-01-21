@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidyx4qgyxxtuku4tls44stqzazj6f4sjz5xfduwrumb54kfrm7xvu",
+  "name": "OneForArt #628 - Gulf Stream",
+  "description": "A Gulf Stream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic3qev6p4gnkycdynrqj45erbkyqhv3cendauj6z2ykvkf5mbu2bq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gulf Stream",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 628,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#80B3AE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(128, 179, 174)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

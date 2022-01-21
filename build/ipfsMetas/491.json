@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiharntdsy5vexhspcwzydiayeifbehbsu7mdt35ie5nwunchzaabm",
+  "name": "OneForArt #491 - Citron",
+  "description": "A Citron pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacu6xodmpesxmnlkvrqtvky4c63zvu4c5xpvumquxrbqhrnxvpy4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Citron",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 491,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9EA91F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(158, 169, 31)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #804 - Pastel Green",
+  "description": "A Pastel Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic2kmy7eukk4eon4rspfiibvpvozekiiygcvozocclofbiw475dcq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pastel Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "804"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#77DD77"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(119, 221, 119)"
+    }
+  ]
+}

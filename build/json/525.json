@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #525 - Green Smoke",
+  "description": "A Green Smoke pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiccs35tbaa2rznnmzlmnsen4d5ashikqhm27bvqmznfbqyadw7yxe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Smoke"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "525"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A4AF6E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(164, 175, 110)"
+    }
+  ]
+}

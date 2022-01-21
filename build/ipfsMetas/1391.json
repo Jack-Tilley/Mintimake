@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidbkmzqd5paqfxw3qbkxb4s3vvvandk7h3557s6svkczkhr5mqc4e",
+  "name": "OneForArt #1391 - Torch Red",
+  "description": "A Torch Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicv32dhck6w6iu4lkseuwbarr4cchxfoj4b6ggobut5wmdcapgqhe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Torch Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1391,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FD0E35",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(253, 14, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

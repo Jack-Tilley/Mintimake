@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1146 - Mist Gray",
+  "description": "A Mist Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxlbfnbvahaniv5fnxqpltx6njvftz2a43dxtvmv5gos5dvwntee",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mist Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1146"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C4C4BC"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(196, 196, 188)"
+    }
+  ]
+}

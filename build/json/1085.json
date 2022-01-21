@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1085 - Pickled Bean",
+  "description": "A Pickled Bean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieuww3uxxz2rlyvi4577abjgqvcuwq7gtxkh6mlxvfzmmshjyiiai",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pickled Bean"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1085"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6E4826"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(110, 72, 38)"
+    }
+  ]
+}

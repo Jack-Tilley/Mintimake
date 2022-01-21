@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1276 - Cherub",
+  "description": "A Cherub pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6b3xgo6lsq34fjjo5vx3to2s2up4nkwujkpc5afr6zltvpp2mwq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cherub"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1276"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8D9E9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 217, 233)"
+    }
+  ]
+}

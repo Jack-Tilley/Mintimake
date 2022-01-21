@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia3jlzx2cgbau2jwxkhg4gzzni44rjhob5yyk2x5xsmyivjapc6nq",
+  "name": "OneForArt #693 - Mariner",
+  "description": "A Mariner pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaaz67cspacvzhhgn7jjgm3yhoftxsl3r2au7cdakojejxpnt6gp4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mariner",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 693,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#286ACD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(40, 106, 205)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

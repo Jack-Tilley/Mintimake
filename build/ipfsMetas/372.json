@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidv2vfhqrmwl6sogfu3kr45cwul5h6nov5bqoosunajzwbybchj4q",
+  "name": "OneForArt #372 - Cararra",
+  "description": "A Cararra pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic65sp3gyag7a2enike2yz4kcthdcqo33ybsuxgzlebpbhwv24mmu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cararra",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 372,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEEEE8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 238, 232)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

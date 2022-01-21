@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigigyeuik2odqz347ojlk3evh7q2clty5ipdr5jqqf6hwmpamm7qm",
+  "name": "OneForArt #1402 - Barley Corn",
+  "description": "A Barley Corn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiayh26e47uypnjbtm36bsxpmxtsrr6ozkdsrrq4ikmwppoibsi5sa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Barley Corn",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1402,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A68B5B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 139, 91)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

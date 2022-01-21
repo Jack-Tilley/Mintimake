@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia7kjdae3ra3usibeipuxd4h5r3hoyswffr264omjyx36q5xqeqmu",
+  "name": "OneForArt #375 - Powder Blue",
+  "description": "A Powder Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidv63rtihj42yp2qbfr2ix3fak2q74shmha4bykc4sv3eudt5ywb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Powder Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 375,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B0E0E6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(176, 224, 230)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

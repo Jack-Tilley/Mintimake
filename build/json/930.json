@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #930 - Pink",
+  "description": "A Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig256cuw64w7zrh7mlku7s3bszteqkonstcisihkwh4k54zry6uie",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "930"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFC0CB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 192, 203)"
+    }
+  ]
+}

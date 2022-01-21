@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1473 - Clinker",
+  "description": "A Clinker pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid67wb6jwazw6vtasip6ppmqdlntus7sfnovr5dwkv5knsjd4rzli",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Clinker"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1473"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#371D09"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(55, 29, 9)"
+    }
+  ]
+}

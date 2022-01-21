@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicimolqdmc7lefpomhnfvmjdkmgsjmoobtmstlslfkqqlnzoqx2le",
+  "name": "OneForArt #190 - Blue Diamond",
+  "description": "A Blue Diamond pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaebk4waxlpcm42q5p7madsssgahokehk5qpjsrqsdj4kbuter4sa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Blue Diamond",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 190,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#380474",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(56, 4, 116)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

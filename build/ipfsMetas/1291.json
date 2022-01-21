@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiddjrl5gjbt6hizcolzxszsvoo5uecf4ejikl426ne6x5t4jv5e7i",
+  "name": "OneForArt #1291 - Sea Pink",
+  "description": "A Sea Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieotpgcwq43323nclkgu5obcfiovokjun3vkpnwhux5rgefizfe3i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sea Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1291,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ED989E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(237, 152, 158)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

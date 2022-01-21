@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib52shwg4cp6ewuyrj2fg3jgfgzdz4iweuhhotdpmsuwbjle5jc5m",
+  "name": "OneForArt #556 - Mexican Red",
+  "description": "A Mexican Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif3lbjjfqvplciwce7w7unslnprgypoem22l23lxzbl4c2mrhl4lq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mexican Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 556,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A72525",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(167, 37, 37)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

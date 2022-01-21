@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicet6fbfdznulzgzhzz27ltcjgzizeex2k3binjttano6jqvptkaa",
+  "name": "OneForArt #675 - Boston Blue",
+  "description": "A Boston Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidyq6vwxtphtdi4f27fbd73arrqslfc6lxxkrcrll5r5y7xf6op4u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Boston Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 675,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3B91B4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(59, 145, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

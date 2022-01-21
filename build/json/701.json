@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #701 - Horses Neck",
+  "description": "A Horses Neck pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidt6d2krfsderdsltc4jrpaxta2iu5m32bwu7btoeljs4buxmfebq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Horses Neck"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "701"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#604913"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(96, 73, 19)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1 - Twilight Blue",
+  "description": "A Twilight Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbhhliri5xxabnpmvxfdbhxqligiq7pah5cgrupuejpslmy477qm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Twilight Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEFDFF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 253, 255)"
+    }
+  ]
+}

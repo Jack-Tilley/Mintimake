@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihajxn5qf5ghyqzrkmit2j3rojrsd5qtoylynbvof4f7cd5e37q5q",
+  "name": "OneForArt #457 - Remy",
+  "description": "A Remy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtholyizn3qno23dcx55wptraphohrxrsnzhpntjcen2teh76z6y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Remy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 457,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEEBF3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 235, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

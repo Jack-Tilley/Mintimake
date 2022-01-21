@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1260 - Sunglow",
+  "description": "A Sunglow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiejqrblyhsizquisdk3op4r2okjehnvhwzgigalgjwf74lkjcslce",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunglow"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1260"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFCC33"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 204, 51)"
+    }
+  ]
+}

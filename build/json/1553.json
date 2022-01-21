@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1553 - Limed Oak",
+  "description": "A Limed Oak pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie5uatc7k4bjnvjxlg2lqft43pqr25jpur25qu2xvlorg5muk7zm4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Limed Oak"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1553"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AC8A56"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 138, 86)"
+    }
+  ]
+}

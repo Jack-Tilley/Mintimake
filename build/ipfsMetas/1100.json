@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifcedksunuy5wak6ieflq53db3ic5txh2e2vqli6avpgwkuvoexqq",
+  "name": "OneForArt #1100 - Gun Powder",
+  "description": "A Gun Powder pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabuuq6wikvejgao6h3udvoboruapkohctjwtqrekc42qe2u4fba4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gun Powder",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1100,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#414257",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 66, 87)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

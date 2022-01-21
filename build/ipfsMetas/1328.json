@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaxba27ojcvyz7xrxcn73mpkxx3avyialijoj3jb3mp6b3zq6usd4",
+  "name": "OneForArt #1328 - Ziggurat",
+  "description": "A Ziggurat pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibcxt6ic6ke5qd7rc42pqj3cdu6qptbpzhd27momkxmarcnjrfa4m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ziggurat",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1328,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFDBE2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 219, 226)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

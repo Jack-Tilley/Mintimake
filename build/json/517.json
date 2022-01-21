@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #517 - Sahara",
+  "description": "A Sahara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaydc4bsvwcuc43netazpr3jxa7c2r5znvozl2psqwjnxroqy3ixq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sahara"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "517"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B7A214"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 162, 20)"
+    }
+  ]
+}

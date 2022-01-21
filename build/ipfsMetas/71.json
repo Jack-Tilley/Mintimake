@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieireebptvzjhdgtgbmiga7vsnmev5iboneitywu6uhsfydc2mhfa",
+  "name": "OneForArt #71 - Botticelli",
+  "description": "A Botticelli pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaes6qfqymi4glzl4w5blf2ggwfngfvifjenkypp4l63uvak2fuym",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Botticelli",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 71,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7DDE5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 221, 229)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

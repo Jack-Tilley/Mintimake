@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #229 - Just Right",
+  "description": "A Just Right pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih7szjqxedaowpovhz4lysqstkfqlsolv4eanr2j7yktrvtpuuv7a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Just Right"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "229"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECCDB9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 205, 185)"
+    }
+  ]
+}

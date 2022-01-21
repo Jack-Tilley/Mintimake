@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihxmyqvoylj6b7rqyxnojmyx2552zag5ahns4doasb2yzksz6yica",
+  "name": "OneForArt #733 - Deep Sea",
+  "description": "A Deep Sea pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibx6nvi2djiwnthqmfp7gtl37y6aynizryqnbb45dd2oxbqyz2m3i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deep Sea",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 733,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#01826B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(1, 130, 107)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

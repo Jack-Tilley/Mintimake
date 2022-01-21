@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiczb2zm72gzrzkgaw7onvggfpybuwsbbnz4qypueoadx2nhw4ddce",
+  "name": "OneForArt #1342 - Gold Drop",
+  "description": "A Gold Drop pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacynjledbxxv5oorqhfpzsczyso4ezr7g5kzhun6j5ybgs5rlj2i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gold Drop",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1342,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F18200",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 130, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

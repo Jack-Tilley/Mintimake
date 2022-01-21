@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #195 - Brown Derby",
+  "description": "A Brown Derby pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoeb5ti74fvlazgswopczh4z6puswk63taq5fcg6fcld4uudydpe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Brown Derby"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "195"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#492615"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(73, 38, 21)"
+    }
+  ]
+}

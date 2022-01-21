@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #580 - Cyprus",
+  "description": "A Cyprus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiddx24z2g2hoky5y2jckfvejbqu6pzbjdoxymun76s7w7tknnm3se",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cyprus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "580"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#003E40"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 62, 64)"
+    }
+  ]
+}

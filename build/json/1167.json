@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1167 - Peach",
+  "description": "A Peach pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigpivb2r64c5fj7epn3f2yn6v5ku5wltvhftbaxqzfxqx443mdqu4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1167"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFE5B4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 229, 180)"
+    }
+  ]
+}

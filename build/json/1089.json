@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1089 - Rob Roy",
+  "description": "A Rob Roy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicp4nnlb5wewd5l2zwkhokokm3gvbzdjwm3wblbnmziy5gjjf4gs4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rob Roy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1089"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAC674"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 198, 116)"
+    }
+  ]
+}

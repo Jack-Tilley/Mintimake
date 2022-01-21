@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibstlc5rgs6xnlrgcm2l7mlty374ziadluabuw74qdxjjue7d5x5y",
+  "name": "OneForArt #1180 - Half Dutch White",
+  "description": "A Half Dutch White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigmgjyqovnlhtpvvm7vwov6wnphjri3c3ujhfvqldgivwjzkvxoyq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Half Dutch White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1180,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF7DE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 247, 222)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

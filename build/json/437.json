@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #437 - Matisse",
+  "description": "A Matisse pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibjimlcu2a2gwteb2cuoxkzz4cby327rih4x6gx5igiiijbljesty",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Matisse"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "437"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B659D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 101, 157)"
+    }
+  ]
+}

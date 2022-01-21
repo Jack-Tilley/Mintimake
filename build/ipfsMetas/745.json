@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibersfshlw6gtahnq7t2e7pol4gz676q4luzgoii7s44kl6uqa7ka",
+  "name": "OneForArt #745 - Antique Bronze",
+  "description": "A Antique Bronze pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifpcu6vmjfavurcaj5id3u5vixcpbwb7rvqjxos7ubjxo5ztve6pe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Antique Bronze",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 745,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#704A07",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(112, 74, 7)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

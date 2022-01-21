@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidous3wzmko75lnxpgsprhcl55mzuwea7z6lvti42emjf57smboni",
+  "name": "OneForArt #785 - Broom",
+  "description": "A Broom pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiabjgshozjfdlavpnwkdwmf3ndxo2evneec7uvwugoi7pufabp4pi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Broom",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 785,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEC13",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 236, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

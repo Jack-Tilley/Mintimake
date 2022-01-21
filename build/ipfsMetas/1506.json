@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigmg54q6dm3abxoztpwnmjlzg5hbrxobtqfdvzyvvlvwrbpd55hi4",
+  "name": "OneForArt #1506 - Givry",
+  "description": "A Givry pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidfcc3f226b5lm7vyxr7fvpqc5i6zjobgmykhicghmq5233xmeidu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Givry",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1506,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8E4BF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 228, 191)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #720 - Sundown",
+  "description": "A Sundown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidqksn7rxex67fds5niew5z5oasmqjmi2no2ub2ejh5dwhgpxrike",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sundown"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "720"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFB1B3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 177, 179)"
+    }
+  ]
+}

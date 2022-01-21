@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifa3ri2zclrozv32xxwu3btsfqtn6wy4vfxcrmckmm4y5mqdaaw6q",
+  "name": "OneForArt #1285 - Edgewater",
+  "description": "A Edgewater pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiadx3vdmmwl7astd2zwa6vcxd7odmvvdfnhyw66njia72saq5i64a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Edgewater",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1285,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8E3D7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 227, 215)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

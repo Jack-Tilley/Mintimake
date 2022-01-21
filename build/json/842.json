@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #842 - Iron",
+  "description": "A Iron pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibokmxq3fvo5h32na4t4t3qk4suug5yzcezpjiqmwdobsqfa2uqda",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Iron"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "842"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4D7D9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 215, 217)"
+    }
+  ]
+}

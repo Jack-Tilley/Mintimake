@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigejxvvj4cy45vbkqqcugkusrnext7snwmagqpwuwfzs7ys3utyki",
+  "name": "OneForArt #1130 - Valentino",
+  "description": "A Valentino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicbdvx277r44ysztrwr7l4p62djdijspso3izy6ifsdiebpc72ope",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Valentino",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1130,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#350E42",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(53, 14, 66)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

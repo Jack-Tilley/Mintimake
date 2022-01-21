@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidi2d2i4b2iqeskbjbfdj5ghs3rnmkmwvpocupmxjzumfbvug2msi",
+  "name": "OneForArt #1322 - Black Rose",
+  "description": "A Black Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigbyotkyqlflcxymtultqajeujoghmctyjdifwd6uv6oi4w6l7mau",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1322,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#67032D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(103, 3, 45)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidzttopoujpjsln6g63x5q7u537caqvsgdod73ezyasqdnatwc6wu",
+  "name": "OneForArt #766 - Topaz",
+  "description": "A Topaz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidjbbtfgxmeardcweomaimior6qn36hkdremillzzgsypanmlvkri",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Topaz",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 766,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C778A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 119, 138)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

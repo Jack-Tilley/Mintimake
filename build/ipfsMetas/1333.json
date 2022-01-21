@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiabwxgwlbsop3drmeqx7dmyhmbteacw6cg6au5zhlimwclxorlcrq",
+  "name": "OneForArt #1333 - Medium Carmine",
+  "description": "A Medium Carmine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibgvip7fgtuz6pllxglswjab2mt2rhi5txh2mwmyme6gbw7eeksca",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Medium Carmine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1333,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#AF4035",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(175, 64, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1047 - Pacific Blue",
+  "description": "A Pacific Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielrkowuxvotogeispvxbtaufemt7ez7wj266xywboytmozlvqqna",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pacific Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1047"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#009DC4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 157, 196)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1476 - Ivory",
+  "description": "A Ivory pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidh2sofjt3wbzlbe7kjuzxteu5ekfrvszyw6cacire6zae6o6n5wi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1476"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFFF0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 255, 240)"
+    }
+  ]
+}

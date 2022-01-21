@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiehfbi7qih5jhbt7xggos4uodw7fyujauz5ksh7ffd6ahxsadspbm",
+  "name": "OneForArt #1336 - Grape",
+  "description": "A Grape pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia5zos3zke7o6z2joqvw6l2rgmmrwbggysrpdoapajtycfu3kql3e",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Grape",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1336,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#381A51",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(56, 26, 81)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

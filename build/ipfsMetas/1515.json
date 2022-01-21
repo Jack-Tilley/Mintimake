@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid73plbjivdxhsge2w7hcpa327tafxutd4cksmj4s2e3g25rmwp34",
+  "name": "OneForArt #1515 - Vis Vis",
+  "description": "A Vis Vis pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxvc2xurbidpsw5vtnxy4tiiuv4bpo74n3jolhdeltbfoomep73i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vis Vis",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1515,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEFA1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 239, 161)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

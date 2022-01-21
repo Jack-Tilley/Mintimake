@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicjisjqvzgeofcclipnz3nhnvpjwclm2t3ppludw6gn34s3prplh4",
+  "name": "OneForArt #743 - Suva Gray",
+  "description": "A Suva Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigckdyaawa6ndmcineoz5bbfn5bu6rminhjmixdojqny7oejca6jm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Suva Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 743,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#888387",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(136, 131, 135)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

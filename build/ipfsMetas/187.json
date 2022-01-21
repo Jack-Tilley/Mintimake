@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigaj7ewugb6kekchzmmsva5wjfib7slezx4t4vrv5z4d5s4da32ay",
+  "name": "OneForArt #187 - Deco",
+  "description": "A Deco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieibdazcisoddpxtulmnponk4vw53pccjhbssk6w4c2dumagemag4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Deco",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 187,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D2DA97",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(210, 218, 151)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

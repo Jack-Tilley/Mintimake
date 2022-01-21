@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibrp7u2fyicrwvto2diyefi2reku5yygdnjw4b3dci2lnxdioukuq",
+  "name": "OneForArt #667 - Wild Rice",
+  "description": "A Wild Rice pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigk6x4fkdcxq4xjly7f6mdhubwg5ujjxappfnk5xsz5dtvspjoaoy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wild Rice",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 667,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECE090",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 224, 144)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

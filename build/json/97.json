@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #97 - Anzac",
+  "description": "A Anzac pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiffabbje3yg6xpmovdlfj54mlouhcqf2ojfwtf2l44bf6msmf2pyu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Anzac"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "97"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E0B646"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(224, 182, 70)"
+    }
+  ]
+}

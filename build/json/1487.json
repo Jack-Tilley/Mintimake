@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1487 - Sepia Black",
+  "description": "A Sepia Black pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihdtu2oiu7pux62lmpe753ethe2yrntsdfcdcs5fck675znzv7utu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sepia Black"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1487"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2B0202"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(43, 2, 2)"
+    }
+  ]
+}

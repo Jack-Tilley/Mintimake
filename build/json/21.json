@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #21 - Paco",
+  "description": "A Paco pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaonhkfbgjhltjqo6xmfkkv4ju2lon2ivrjyzeauf27kt7tpfedmm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paco"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "21"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#411F10"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(65, 31, 16)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #91 - Rolling Stone",
+  "description": "A Rolling Stone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigqvv375cpfhq74jo6imb5oj72qabxjvphky4vktlw2tjo2yvuvkm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Rolling Stone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "91"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#747D83"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(116, 125, 131)"
+    }
+  ]
+}

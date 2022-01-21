@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreia5dlbqo7wenxi7brxjghnzn5d4pt4ce5aj6cibfgatc3o2lcdieq",
+  "name": "OneForArt #450 - Saddle Brown",
+  "description": "A Saddle Brown pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihkym5ac2oko5wxlm7ka22sentbs62hu2lxjcheizye2c5uzcqv7u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saddle Brown",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 450,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#583401",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(88, 52, 1)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

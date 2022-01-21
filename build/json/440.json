@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #440 - Dandelion",
+  "description": "A Dandelion pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaty2llu5vufwuhomfst3krjyq5den55gxiic35xkzuwi3vaotxui",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dandelion"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "440"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FED85D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 216, 93)"
+    }
+  ]
+}

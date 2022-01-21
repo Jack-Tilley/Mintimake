@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicfhabnfssenlbbi6ve5he445n6cthtcru3oyj4b7v5xmq4l5rn3y",
+  "name": "OneForArt #180 - Onahau",
+  "description": "A Onahau pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid2savdqud4fpsdwnhurrxdwsk7whcqctvi2fvne23qj5f4i2kqgy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Onahau",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 180,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CDF4FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(205, 244, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

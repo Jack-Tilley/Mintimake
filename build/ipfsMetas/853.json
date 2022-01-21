@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidn2rf2n5zgiqmhvkocrhgb77pvjkjfzu7jz4fqx7celdtizfwvau",
+  "name": "OneForArt #853 - Cornflower",
+  "description": "A Cornflower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihhi4cgqlcug5xspqjeeil4rdhclqjrj6xfjreszx4ljofziubhaa",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cornflower",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 853,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#93CCEA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(147, 204, 234)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

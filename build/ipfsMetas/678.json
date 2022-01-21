@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif2ubg7ngnpr3wzgeewspc3tzkd7sykeltzrytua4jtdevd7ihbzm",
+  "name": "OneForArt #678 - Navajo White",
+  "description": "A Navajo White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiajboi3s2mxlrco5csoox2tpxdsjxkexaxiv5jfkg525v3tipxsly",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Navajo White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 678,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFDEAD",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 222, 173)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

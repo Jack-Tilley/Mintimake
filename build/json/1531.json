@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1531 - Summer Green",
+  "description": "A Summer Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibuee4warpbrg6wlwpz3dzdivfjpunfb2xyxlcgareqmp7fmhjqpm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Summer Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1531"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#96BBAB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 187, 171)"
+    }
+  ]
+}

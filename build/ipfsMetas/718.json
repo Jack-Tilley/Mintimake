@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibwsb7cl7tkn5wgz3lfvinl65bl74ydvupjesfbrpu7qioiakl2ly",
+  "name": "OneForArt #718 - Mid Gray",
+  "description": "A Mid Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiau5xkwuncno6andkc3x7axi6iipijohzl5jh2covm2t4rwsvbdiq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mid Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 718,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5F5F6E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(95, 95, 110)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

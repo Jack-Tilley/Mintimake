@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifylsugrycfz4dl6exisrmytwsds22nrj2mgd4otgwal7bp3bnt5a",
+  "name": "OneForArt #279 - Toledo",
+  "description": "A Toledo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif7k5q6qqqnjg3b35qq253ucivlicuavchsflftlxh4jhrmjr26fy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Toledo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 279,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3A0020",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(58, 0, 32)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

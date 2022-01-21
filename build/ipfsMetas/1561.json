@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiddrc6g6md7j33gxtxd4vb6dc2yptitjudlpi74aqqlx5utuab7ki",
+  "name": "OneForArt #1561 - Abbey",
+  "description": "A Abbey pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakwvcmywtnrvpptki3b65gi47d3c6mhmepsnzw22m6jti4amhuby",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Abbey",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1561,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4C4F56",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(76, 79, 86)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

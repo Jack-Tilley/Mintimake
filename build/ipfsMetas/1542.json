@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihqd6wyxfngw3c2mvui7e47wpepllhjxjecliyaswq2zy2qgrrsei",
+  "name": "OneForArt #1542 - Medium Red Violet",
+  "description": "A Medium Red Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickmxvlucasnwk5lidtf5ryq4jgrmv4u5nkbrpfz55kmow36cunoe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Medium Red Violet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1542,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BB3385",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(187, 51, 133)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

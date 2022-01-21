@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih5xdjchohp5xlkxeddg7uxwvccw4l7jcj5rfc2f4kpjuuc5ocv5e",
+  "name": "OneForArt #78 - Salmon",
+  "description": "A Salmon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakw2f2mpbrjgyh746wojgpyqfcgayxahl2st4k2puttmt6iqm2ee",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Salmon",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 78,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF8C69",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 140, 105)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

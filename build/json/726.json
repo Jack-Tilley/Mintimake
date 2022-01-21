@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #726 - Lilac Bush",
+  "description": "A Lilac Bush pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihylsbcu6h6zobow4ku6ocfkiji2jrk2tnbgway7a6soxioyu6gqa",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lilac Bush"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "726"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#9874D3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(152, 116, 211)"
+    }
+  ]
+}

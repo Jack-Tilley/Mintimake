@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihf4aw4bc2tbbtvjp2xsjhlzkosci7ovagn2h4myxaibio3o32kz4",
+  "name": "OneForArt #501 - Dairy Cream",
+  "description": "A Dairy Cream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiggngb4qc2vxslh5lpz7id5la7vl5iblojtr7gbyvphyddfwqka5a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dairy Cream",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 501,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9E4BC",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 228, 188)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

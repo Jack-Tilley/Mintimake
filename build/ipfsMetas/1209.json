@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidevfc5jkmacyhiwjbsy7ylqgvje4jtfyboj5b44dxhlji5jqpusi",
+  "name": "OneForArt #1209 - Mondo",
+  "description": "A Mondo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsk4bwyddzzx5nawivuodh7pzawgoxmncsuv7husvh6osrxtoiyy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mondo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1209,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4A3C30",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(74, 60, 48)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

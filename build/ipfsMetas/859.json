@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaioljs5zriq2bjuhxvgyp47vixd5idj4lg4dqpgwrgasaohw6e4u",
+  "name": "OneForArt #859 - Violet",
+  "description": "A Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7qjpuazleok6dtzi6qw3fk3fb5gja3gfhbfi3o4yk2wpecsx6ay",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 859,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#240A40",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(36, 10, 64)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

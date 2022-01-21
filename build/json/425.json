@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #425 - Muddy Waters",
+  "description": "A Muddy Waters pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidahtit2ltyakzid4ktsif27rvn77mhibaynyk4r3xipbqbjta2jy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Muddy Waters"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "425"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B78E5C"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(183, 142, 92)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1345 - Amulet",
+  "description": "A Amulet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihzex4mg3zvadzassb4zdh3ctwmhjmo5gbppziunmjrc7sq6kbkdu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amulet"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1345"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7B9F80"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(123, 159, 128)"
+    }
+  ]
+}

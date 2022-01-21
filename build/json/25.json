@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #25 - Portica",
+  "description": "A Portica pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifmolk7svyvw3p3rvnr6u75bkekrbldjmnmhtc6rk3wo7oozt6qfu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Portica"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "25"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F9E663"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(249, 230, 99)"
+    }
+  ]
+}

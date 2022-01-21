@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #634 - French Rose",
+  "description": "A French Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6avy2zubrucm3pzeio5ir2akv76ui3hkek24gmx3m33ktrrdtgi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "French Rose"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "634"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F64A8A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(246, 74, 138)"
+    }
+  ]
+}

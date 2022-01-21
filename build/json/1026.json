@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1026 - Azure",
+  "description": "A Azure pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicfxk6uklkxnnjevmfvlhkvyyvftiw7w2ky5ni3eklqgppvm3bljq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1026"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#315BA1"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(49, 91, 161)"
+    }
+  ]
+}

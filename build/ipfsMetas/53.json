@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreictwv5mullkj5vogkidga5uw7xle65q4tjtjwkf5aaxwr6vmt3nc4",
+  "name": "OneForArt #53 - Fern",
+  "description": "A Fern pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreideqlhhfjrxmjgwvtdq5yovwgz5gjpqgfwnh57dkvmaabpgkpoi5y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fern",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 53,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#63B76C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(99, 183, 108)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

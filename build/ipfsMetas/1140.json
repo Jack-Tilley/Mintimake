@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih4e6bki5dbwzkmvatmj3wji7siah3x64wmyedl4fs436ss3hxide",
+  "name": "OneForArt #1140 - Chartreuse Yellow",
+  "description": "A Chartreuse Yellow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaqfm6cw6ilzxzbcitpf5eegczbv27knyytjzrvjh5tpeegt2x4ie",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chartreuse Yellow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1140,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DFFF00",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(223, 255, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

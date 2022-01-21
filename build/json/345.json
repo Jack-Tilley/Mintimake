@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #345 - Kashmir Blue",
+  "description": "A Kashmir Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiew5y4pizxbcfbefktecw66fdxsk7abdugddinelgt7os7ujdomqm",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Kashmir Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "345"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#507096"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(80, 112, 150)"
+    }
+  ]
+}

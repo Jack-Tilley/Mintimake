@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidkt5tjdxsigjrbdl6ppzwdflftk2v5wynpk7ie2tzy2ihrpkjvca",
+  "name": "OneForArt #1490 - Tiara",
+  "description": "A Tiara pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreideaw6ksxmdn7v72k452w2aoyo5nzr3fzrf73awkhwybibaecifbe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tiara",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1490,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C3D1D1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(195, 209, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

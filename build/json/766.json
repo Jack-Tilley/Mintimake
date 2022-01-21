@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #766 - Topaz",
+  "description": "A Topaz pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidjbbtfgxmeardcweomaimior6qn36hkdremillzzgsypanmlvkri",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Topaz"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "766"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C778A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 119, 138)"
+    }
+  ]
+}

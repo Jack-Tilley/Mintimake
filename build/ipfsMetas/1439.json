@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreift4o5ozds5ngwhwbg3wprgbg2t6i26fs7bkkn4weqhpxs3vqwyk4",
+  "name": "OneForArt #1439 - Copper Rose",
+  "description": "A Copper Rose pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiahytmneww3zj2efkpoch2qabe2paeqtrom3ipdxjvqk3jiblggym",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Copper Rose",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1439,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#996666",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(153, 102, 102)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

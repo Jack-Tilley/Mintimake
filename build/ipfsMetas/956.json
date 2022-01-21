@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihcs66zoez57mn6rjutxjwr5vavmfwsf6ygezlipejv2nl2zgrjby",
+  "name": "OneForArt #956 - Hit Pink",
+  "description": "A Hit Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaw3f2d644gi4hobmjvekssaobxzvamuhdeyqf5w2fi2zldlhvcju",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hit Pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 956,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFAB81",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 171, 129)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

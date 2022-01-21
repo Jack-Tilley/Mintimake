@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1498 - Tickle Me Pink",
+  "description": "A Tickle Me Pink pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7776tpvupp5uknpujqvhysd37r2yfc33mhrlpm34nvx43fi2tqi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tickle Me Pink"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1498"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FC80A5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 128, 165)"
+    }
+  ]
+}

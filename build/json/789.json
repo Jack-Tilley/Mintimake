@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #789 - Violet Red",
+  "description": "A Violet Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihvpvx2h2llauxijymynnqktqd5fnsv2u7uqunxcxkfi4ui4yruhq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Violet Red"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "789"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7468A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 70, 138)"
+    }
+  ]
+}

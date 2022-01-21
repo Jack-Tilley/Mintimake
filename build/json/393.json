@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #393 - Breaker Bay",
+  "description": "A Breaker Bay pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih3ul72l75icdt2de7dyy2rggt5aohvoq3b7orh3wg4n2gtgehvta",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Breaker Bay"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "393"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5DA19F"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 161, 159)"
+    }
+  ]
+}

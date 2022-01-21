@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #391 - Flint",
+  "description": "A Flint pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiebiubml7lyvghubextpdgr5n6xalq5zdo2dmsr76epcmdofiajwy",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Flint"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "391"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6F6A61"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(111, 106, 97)"
+    }
+  ]
+}

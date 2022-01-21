@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1542 - Medium Red Violet",
+  "description": "A Medium Red Violet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreickmxvlucasnwk5lidtf5ryq4jgrmv4u5nkbrpfz55kmow36cunoe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Medium Red Violet"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1542"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BB3385"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(187, 51, 133)"
+    }
+  ]
+}

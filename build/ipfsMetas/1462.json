@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreictubpufarc6cchspzmtaqic4s7tlwpqlqu4qyjsa33h2cniwrd4a",
+  "name": "OneForArt #1462 - Woodsmoke",
+  "description": "A Woodsmoke pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiekrdqmo3jhs2vn7mvdak45gu7kxmow4mtxuyx2tvozmtrdqlfwtq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Woodsmoke",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1462,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0C0D0F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(12, 13, 15)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

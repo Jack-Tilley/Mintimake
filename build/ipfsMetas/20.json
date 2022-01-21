@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibfujrxsdkmd5uulseqvinbwlgt4vmuiq6uaaqizsxfckqdsm6uku",
+  "name": "OneForArt #20 - Black Russian",
+  "description": "A Black Russian pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwsr34o5xif6jzvmlpjwiy6swfxd5m6apul6cjmwge7cvosdp3im",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Black Russian",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 20,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0A001C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(10, 0, 28)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

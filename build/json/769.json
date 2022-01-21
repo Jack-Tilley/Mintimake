@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #769 - Snow Drift",
+  "description": "A Snow Drift pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifilr3w32l5kmlifbd4gglbgkoslk7uybctlivn2ficpfwpgwbuhu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Snow Drift"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "769"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F7FAF7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(247, 250, 247)"
+    }
+  ]
+}

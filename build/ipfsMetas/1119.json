@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieywqkgsxkmtyyqgwubuyv5h43mfe3fjahgjwkp4y6orbdfl3qxfa",
+  "name": "OneForArt #1119 - Mallard",
+  "description": "A Mallard pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiclgi4ulle6rb36sxftarajjmelvyyyowsm3itpqfr4bjxlt26lwy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mallard",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1119,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#233418",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(35, 52, 24)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

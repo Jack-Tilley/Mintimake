@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #587 - Pine Cone",
+  "description": "A Pine Cone pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihndgyv76ok2jx45d573622g53h455myc32zwymvjrupbg6kzf76e",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pine Cone"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "587"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6D5E54"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(109, 94, 84)"
+    }
+  ]
+}

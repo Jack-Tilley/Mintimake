@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #911 - Melanzane",
+  "description": "A Melanzane pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibu2rgw5pcetthvnqpluhho3pnjg7gll2rh5vz6i75iawdzqn2m7i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Melanzane"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "911"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#300529"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(48, 5, 41)"
+    }
+  ]
+}

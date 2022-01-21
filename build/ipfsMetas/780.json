@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieoijm3kfhhaw3mevydwm5rdry4kj3gwt4m4dlnwqdku3zmjp6qam",
+  "name": "OneForArt #780 - Cameo",
+  "description": "A Cameo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif33nftq5yqmfny4sh7ymnn3xuw4ou34vsyahdjjgguccnwvqt3rq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cameo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 780,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D9B99B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 185, 155)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

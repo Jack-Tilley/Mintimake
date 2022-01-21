@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #595 - Cerulean Blue",
+  "description": "A Cerulean Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigb2fdgx44r4ig6pla3kjqt4svxtrl4wmamsniaiirnapctidt3zi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerulean Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "595"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2A52BE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(42, 82, 190)"
+    }
+  ]
+}

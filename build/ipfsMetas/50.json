@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiekwympo2ts2ue23bwvgh2jepiii76gchyri63to3e2jve4sz35uu",
+  "name": "OneForArt #50 - Astral",
+  "description": "A Astral pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif5slzvpenu3cuoryo4fpq5rxnm4nbq3ezxbi6jhlnipam3akwcb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Astral",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 50,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#327DA0",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(50, 125, 160)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

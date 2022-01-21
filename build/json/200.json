@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #200 - Portafino",
+  "description": "A Portafino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreied7pgn2nc2ymp6els6unrqsvgn6c5pa6dvw5nduqjwfwkcnv4g64",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Portafino"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "200"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFFB4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 255, 180)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #686 - Satin Linen",
+  "description": "A Satin Linen pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidw5otcb3xyde53y6wodb3a4n6mhtuqv7q2ogfwuu5dbc452okvg4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Satin Linen"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "686"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6E4D4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 228, 212)"
+    }
+  ]
+}

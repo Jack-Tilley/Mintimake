@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #829 - San Juan",
+  "description": "A San Juan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4gf7mmirrrhjkahnnb7qma7ykiofg5te7dz5l2g56hhmwk2cv5a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "San Juan"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "829"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#304B6A"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(48, 75, 106)"
+    }
+  ]
+}

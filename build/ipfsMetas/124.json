@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihmqeag6yy4sta7sei767zqs2vf6pi3ejeebkfmoxggfxpx5krime",
+  "name": "OneForArt #124 - Saddle",
+  "description": "A Saddle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiheztex5ulk7kbtp7shpkzrqy4445bqtk3emw76q4k6heze5b35te",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Saddle",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 124,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4C3024",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(76, 48, 36)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

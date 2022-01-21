@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiaklwhrg4khqbz7vxoenocxkvstdbc4bnonelugvvusl2npj25qnu",
+  "name": "OneForArt #436 - Golden Tainoi",
+  "description": "A Golden Tainoi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiemxlyc5kbnytjwxzhvzdwc272qamwkqmedq6msgxy4ahzrizs6x4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Golden Tainoi",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 436,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFCC5C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 204, 92)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

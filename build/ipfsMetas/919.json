@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigwib4vndzplls4qmgfwronnfklmmdeexwbfdyx436edgzlnsbqia",
+  "name": "OneForArt #919 - Cloudy",
+  "description": "A Cloudy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihxhi3e2zokf4u2yi5elu7k53zbmtjf7u2wnnxogdxr7s3yf2dyai",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cloudy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 919,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ACA59F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(172, 165, 159)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib6snl5oduyoyyulcbrt7wptoguqi3gxotahwnqtubmd6av3nv6ae",
+  "name": "OneForArt #61 - Venetian Red",
+  "description": "A Venetian Red pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiffc3s3xsskozu55o6tuopll6thgg74oyyyimglbkkosctwtfj6ga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Venetian Red",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 61,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#72010F",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(114, 1, 15)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

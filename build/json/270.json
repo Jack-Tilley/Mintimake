@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #270 - Chino",
+  "description": "A Chino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecl6ngd6m7aywhwj4p6ctvhx726tyrqsxjadhdmj3sbpj6ingnum",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chino"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "270"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CEC7A7"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(206, 199, 167)"
+    }
+  ]
+}

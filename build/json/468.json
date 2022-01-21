@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #468 - Quicksand",
+  "description": "A Quicksand pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibsy5pgtpdjyseahp75mbxvyqtam2x2opoccxb7yj3sru22whbztu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Quicksand"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "468"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BD978E"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 151, 142)"
+    }
+  ]
+}

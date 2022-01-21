@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #639 - Matterhorn",
+  "description": "A Matterhorn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiezqlevdg7f5zkmo5ldievlm4db23twxxbse472pjd55ponn5z76i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Matterhorn"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "639"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4E3B41"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(78, 59, 65)"
+    }
+  ]
+}

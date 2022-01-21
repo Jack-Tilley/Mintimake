@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighv75nqzghamlcrab2unuo5ip5tmy34e4sru6z2piltgt7l4xava",
+  "name": "OneForArt #1363 - Aquamarine Blue",
+  "description": "A Aquamarine Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigap532ov5gm5fvdygn5ehvaox5nvmueaiec33gifqe5hx7z2y7qy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aquamarine Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1363,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#71D9E2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(113, 217, 226)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigiz4xe3p7wkuefsbj2odt7bscq4nuazhkzygotpltbpblcddxjsa",
+  "name": "OneForArt #1008 - Ebony",
+  "description": "A Ebony pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidj3jpcmclthsumvyjufhrfqui57ippv6rnfenlkvak5vvl3mys2i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ebony",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1008,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0C0B1D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(12, 11, 29)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

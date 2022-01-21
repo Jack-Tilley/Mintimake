@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicx22jc3hvsw3fz5j6qpc2ntnusloalhdotkkxp2tyhq3xod7idq4",
+  "name": "OneForArt #1141 - Salt Box",
+  "description": "A Salt Box pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiexui2zjwmnee7ehwkdo7hbboh7sarv4veh2srinazhsrwbsxgfia",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Salt Box",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1141,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#685E6E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(104, 94, 110)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

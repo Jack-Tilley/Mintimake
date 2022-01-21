@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidzynepjk5jqrqn47remivkwu76wmcdj2ur6vcwfntg7zibzqdhpy",
+  "name": "OneForArt #1388 - Fuscous Gray",
+  "description": "A Fuscous Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidv5gfvgl6gcz25tlw3bfdrc2742b5gwpljkpfzxga6whsg2qh5wy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Fuscous Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1388,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#54534D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(84, 83, 77)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

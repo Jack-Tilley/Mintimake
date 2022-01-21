@@ -1,0 +1,142 @@
+[
+  {
+    "name": "OneForArt #1 - Twilight Blue",
+    "description": "",
+    "file_url": "https://ipfs.io/ipfs/bafkreifbhhliri5xxabnpmvxfdbhxqligiq7pah5cgrupuejpslmy477qm",
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Twilight Blue"
+      },
+      {
+        "trait_type": "color_id",
+        "value": "1"
+      },
+      {
+        "trait_type": "hex",
+        "value": "#EEFDFF"
+      },
+      {
+        "trait_type": "rgb",
+        "value": "(238, 253, 255)"
+      }
+    ]
+  },
+  {
+    "name": "OneForArt #2 - Night Shadz",
+    "description": "",
+    "file_url": "https://ipfs.io/ipfs/bafkreibittuhj75g7mwbjhtwiy72j436qq6mdfdzf2ydle5fo2rf3xkuva",
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Night Shadz"
+      },
+      {
+        "trait_type": "color_id",
+        "value": "2"
+      },
+      {
+        "trait_type": "hex",
+        "value": "#AA375A"
+      },
+      {
+        "trait_type": "rgb",
+        "value": "(170, 55, 90)"
+      }
+    ]
+  },
+  {
+    "name": "OneForArt #3 - Stiletto",
+    "description": "",
+    "file_url": "https://ipfs.io/ipfs/bafkreidgvpw65qvcgm24jxy4txims7wgeop4eudl6oohwoufh3kkb52opm",
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Stiletto"
+      },
+      {
+        "trait_type": "color_id",
+        "value": "3"
+      },
+      {
+        "trait_type": "hex",
+        "value": "#9C3336"
+      },
+      {
+        "trait_type": "rgb",
+        "value": "(156, 51, 54)"
+      }
+    ]
+  },
+  {
+    "name": "OneForArt #4 - Golden Grass",
+    "description": "",
+    "file_url": "https://ipfs.io/ipfs/bafkreif6mdk25qlq4f7peitno4vgx2vqrr4hwlxod5pxswmv2uoxbbooly",
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Golden Grass"
+      },
+      {
+        "trait_type": "color_id",
+        "value": "4"
+      },
+      {
+        "trait_type": "hex",
+        "value": "#DAA520"
+      },
+      {
+        "trait_type": "rgb",
+        "value": "(218, 165, 32)"
+      }
+    ]
+  },
+  {
+    "name": "OneForArt #5 - Koromiko",
+    "description": "",
+    "file_url": "https://ipfs.io/ipfs/bafkreiacgb3c5sd4rum6d5haknqryhssbu3qgips4peqbvswucblzhrsni",
+    "custom_fields": {
+      "edition": 1,
+      "date": 1642619894221,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Koromiko"
+      },
+      {
+        "trait_type": "color_id",
+        "value": "5"
+      },
+      {
+        "trait_type": "hex",
+        "value": "#FFBD5F"
+      },
+      {
+        "trait_type": "rgb",
+        "value": "(255, 189, 95)"
+      }
+    ]
+  }
+]

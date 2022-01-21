@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidqj7vwkigkxlbymjsv5bj4daqdpoyhfzknoggmmdof66m6ugk3ey",
+  "name": "OneForArt #863 - Dawn",
+  "description": "A Dawn pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7eogindqh7arvn42q7qrkkqn2qppzkiamqhqiqbfyys47sbwrlq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dawn",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 863,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A6A29A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(166, 162, 154)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

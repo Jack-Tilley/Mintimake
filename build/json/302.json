@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #302 - Winter Hazel",
+  "description": "A Winter Hazel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifdimdsh2dkoddx6ze6tubatcymxnagmojefvl2yacgvcrcsgb3k4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Winter Hazel"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "302"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D5D195"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(213, 209, 149)"
+    }
+  ]
+}

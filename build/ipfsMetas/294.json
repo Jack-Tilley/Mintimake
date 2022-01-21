@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiehv3cobkgwp36ywfizcvcpkxmkgggafxdh3ds5vreng2eeqnlv7u",
+  "name": "OneForArt #294 - Jade",
+  "description": "A Jade pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif6o7ousi6tbtzjaghwunt27kbljhxtovdc5wkmht2ttujc24grnm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jade",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 294,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00A86B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 168, 107)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

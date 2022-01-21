@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigbjfjeaj6j3dqu5ngk47mwtecpzkaxswsyceu2ngu7fzvkjit2g4",
+  "name": "OneForArt #1549 - Dune",
+  "description": "A Dune pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigtnlg4zrqz32bd233iswdqvoovcnzofozbkmeipapkpugbdiowru",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Dune",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1549,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#383533",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(56, 53, 51)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

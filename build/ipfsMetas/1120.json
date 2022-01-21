@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihbvt4xwz2ing6b76u2qxnlhd2qc5kd3hoq7nh7tdo3zjs55axuu4",
+  "name": "OneForArt #1120 - Gold Tips",
+  "description": "A Gold Tips pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreictxer5fnvvcxdddxdemweyg3m62sw6eusjh6hgciyxmyimqwtmjm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gold Tips",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1120,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DEBA13",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(222, 186, 19)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

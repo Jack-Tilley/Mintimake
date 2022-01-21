@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib7p434lamzx4szwb5xm732stp6m77rlwnoanxhg4bghaahvzez34",
+  "name": "OneForArt #1461 - Old Brick",
+  "description": "A Old Brick pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreierl2mw57wfuwcuzhaeg2ut6al2ygl664olky4acvhgwiwzrnedgu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Old Brick",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1461,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#901E1E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(144, 30, 30)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

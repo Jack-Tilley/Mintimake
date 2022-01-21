@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1537 - Opium",
+  "description": "A Opium pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiagou7wmlpavf4zvdpwxybrevjra3fhy3oxdxyzepezbtw4xy6e2q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Opium"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1537"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8E6F70"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 111, 112)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1014 - Soft Peach",
+  "description": "A Soft Peach pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiavntju5kf6r6fssfbjrqui4ndwek2vgyg4qksbnthexizaqsicgq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Soft Peach"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1014"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F5EDEF"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(245, 237, 239)"
+    }
+  ]
+}

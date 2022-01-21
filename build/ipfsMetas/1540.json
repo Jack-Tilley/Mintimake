@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigwlakssrveai4cv3u6ufhjbrw7wazn2btsfxhs6422oevxwhzv4i",
+  "name": "OneForArt #1540 - Envy",
+  "description": "A Envy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieo4jwbv5ihgdylh4lowxruxchgynji4ztzedah6ozb4vqdb4g6vu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Envy",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1540,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8BA690",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(139, 166, 144)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

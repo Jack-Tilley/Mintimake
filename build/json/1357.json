@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1357 - Wewak",
+  "description": "A Wewak pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihlj7lfnorlxcpq42zkdd43uixxbr233jqx5kj2ki7d6yno5bxlse",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wewak"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1357"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F19BAB"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(241, 155, 171)"
+    }
+  ]
+}

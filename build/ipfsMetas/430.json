@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieapsrooa5ck2lexw2bdkzwqs2yazvv4wvaqo5j6zxtmp6j236mey",
+  "name": "OneForArt #430 - Mulberry Wood",
+  "description": "A Mulberry Wood pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih6waqftytyftsfa5kvv3rp7akjuwrecapr7kovgigi3vwebuaovi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mulberry Wood",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 430,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5C0536",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(92, 5, 54)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

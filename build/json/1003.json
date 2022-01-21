@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1003 - Crocodile",
+  "description": "A Crocodile pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig4j5vfuvklbwu3o6iimmmxd2qauefxfwne7qqxldevmpqlplnp4i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1003"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#736D58"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(115, 109, 88)"
+    }
+  ]
+}

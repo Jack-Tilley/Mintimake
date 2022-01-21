@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #917 - Casal",
+  "description": "A Casal pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicyufslu57ghqrfdovynwqu2qwayjn7jptqem2ssrvqdftnnlgpny",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Casal"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "917"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2F6168"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(47, 97, 104)"
+    }
+  ]
+}

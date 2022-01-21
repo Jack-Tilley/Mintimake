@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifj34r2fs6e7cymhd32ahv3eewna5ujbrnydpnd3d2ghch36tatfq",
+  "name": "OneForArt #1240 - Aqua Spring",
+  "description": "A Aqua Spring pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifyu76qcjtdyvlzr2xspgvlk7zwkqt35r36hfaexo2fun673tvura",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Spring",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1240,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EAF9F5",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(234, 249, 245)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

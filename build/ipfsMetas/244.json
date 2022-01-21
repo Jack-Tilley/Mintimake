@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreie43mqjwpspe4ryanc7u2sxkiqmhdphgnuxe27gn4mngnaxx57vpq",
+  "name": "OneForArt #244 - Gimblet",
+  "description": "A Gimblet pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaynjxq67dso5js4uilnn3cyybwezw4edn733gkkevphf3aucknve",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gimblet",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 244,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B8B56A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(184, 181, 106)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

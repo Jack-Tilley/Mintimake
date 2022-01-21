@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiajboyevadeccgk5hidpvfkx7x32o7xk4o5plbwrez744yvd3sgwy",
+  "name": "OneForArt #690 - Tana",
+  "description": "A Tana pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieeuc4mtwfpuki5jsidxlkbejblr2l5akjjciuvraxwyixrvemxga",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tana",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 690,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D9DCC1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(217, 220, 193)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

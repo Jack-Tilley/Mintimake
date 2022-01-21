@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1149 - Cold Purple",
+  "description": "A Cold Purple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreighmtxefcy77eben5fchdunplw6qwvytdrv7v64gyxg3wrc6be6qi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cold Purple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1149"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ABA0D9"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(171, 160, 217)"
+    }
+  ]
+}

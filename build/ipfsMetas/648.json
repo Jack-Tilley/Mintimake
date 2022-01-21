@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibwh46gfzliantudy4smretbs37vrwkamflibympj3y3xeqq742bm",
+  "name": "OneForArt #648 - Paprika",
+  "description": "A Paprika pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjh527x57bophx6gmbtzlnqyx2j3wax42ctlq6vo5vtoohiyvrsm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Paprika",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 648,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8D0226",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(141, 2, 38)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

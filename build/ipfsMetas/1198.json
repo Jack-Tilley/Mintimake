@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieyvz3dfeiivglhixi5afdihvabgqlnlrhprispnb3jroleo3uz7m",
+  "name": "OneForArt #1198 - Domino",
+  "description": "A Domino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigl34dr5bbaqzn4ntrvcz45opcezurjprnokqxvsfiuz26bxu2cfq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Domino",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1198,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#8E775E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(142, 119, 94)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

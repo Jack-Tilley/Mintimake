@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #713 - Bleach White",
+  "description": "A Bleach White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigtfbivksk5ld5wjxld2blmkfeislzytgtffwfrpjngjqpqef5cfi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bleach White"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "713"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FEF3D8"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 243, 216)"
+    }
+  ]
+}

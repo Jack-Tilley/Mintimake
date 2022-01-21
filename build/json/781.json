@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #781 - Jumbo",
+  "description": "A Jumbo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigxdjxv4wbo66qmrxanubipqzqth7xs7tkqrzs3vxyirvhacjl4mq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jumbo"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "781"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C7B82"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 123, 130)"
+    }
+  ]
+}

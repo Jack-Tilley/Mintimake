@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #321 - Salem",
+  "description": "A Salem pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiexphhjikieh76ckuq75vrpsx2na6joek5lu46u6ugrlpdsonpc6a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Salem"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "321"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#097F4B"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(9, 127, 75)"
+    }
+  ]
+}

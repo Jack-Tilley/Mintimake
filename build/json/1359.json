@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1359 - Gulf Blue",
+  "description": "A Gulf Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigcokxfnytz5voiciswmfraadxeqimworkldxiid7wdfffqo44qnu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Gulf Blue"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1359"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#051657"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(5, 22, 87)"
+    }
+  ]
+}

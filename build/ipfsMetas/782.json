@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreif3a37lo2fyjvugiqr7s74u2fhq4jcwtwggzh22vzxnegkot5wxky",
+  "name": "OneForArt #782 - Bizarre",
+  "description": "A Bizarre pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaut3omwtc5eqg763b4xr3m2ieu243svm3k4653ehqa7gheb5kvle",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bizarre",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 782,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EEDEDA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 222, 218)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

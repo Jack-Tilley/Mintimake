@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiguuzxqs2eputwf65cuesqmsobamsywmiad4x6unffvfzhe6s7p6y",
+  "name": "OneForArt #944 - Scarpa Flow",
+  "description": "A Scarpa Flow pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiacwiqnyl4nfiwwxackj7vnyzozbvqvcy2sm4egzpals5p5i4tdoe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Scarpa Flow",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 944,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#585562",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(88, 85, 98)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

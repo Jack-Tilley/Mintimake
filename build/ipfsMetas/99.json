@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibkath6hlccmq2pffqx7tj6ozj7i2b2kebm2r5figaxdivs6vnyne",
+  "name": "OneForArt #99 - Bandicoot",
+  "description": "A Bandicoot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifcux2iwb5n7kgchtni44mshiwbxpftk2j5rsz63b6tszjj6lrfs4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bandicoot",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 99,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#858470",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(133, 132, 112)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

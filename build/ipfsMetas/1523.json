@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihtccerp7eiojvitth2tcfodr544dswbgrzqzgusui7choamz5tze",
+  "name": "OneForArt #1523 - Verdigris",
+  "description": "A Verdigris pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreige4ayel7eszlqje66jcwlaevcv3dambuvwqnqh3yxzphtir3dowy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Verdigris",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1523,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5D5E37",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(93, 94, 55)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

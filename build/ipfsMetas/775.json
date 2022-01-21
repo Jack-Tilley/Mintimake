@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicix2q4v3pjtvbcvewnacjjjzsdb2y2z6yqv76rotqwoklrlwwezm",
+  "name": "OneForArt #775 - Aqua Forest",
+  "description": "A Aqua Forest pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifjzlnaxpacr7vehqa52tnu35grtr5pxkwf436wok7oasimzwopum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aqua Forest",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 775,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#5FA777",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(95, 167, 119)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidmc7qbdl6vxibwoz3wsyenfnx7yjrsr772vxuuv3vebbk5cfib2e",
+  "name": "OneForArt #461 - Bay Leaf",
+  "description": "A Bay Leaf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaikulmywrf5szdupeh4rbeauizizke4jtlwgclwhv262xqxnxsfi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bay Leaf",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 461,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7DA98D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(125, 169, 141)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

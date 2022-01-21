@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreid3lduqdf6s3vcoa7vzl7n62dy7ogcdvpisszqh346cx5zbtx42ca",
+  "name": "OneForArt #719 - Buff",
+  "description": "A Buff pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigof747rmc27m4ujrglqbkmuas5xnl3ed5gl5xpqw4cftzjhuuuza",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Buff",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 719,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0DC82",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 220, 130)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

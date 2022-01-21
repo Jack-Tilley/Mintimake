@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreic6avf3ka2aij3kij3gxsiaieye6llviw6wc3cdevg6vdemjh2ilm",
+  "name": "OneForArt #643 - Lynch",
+  "description": "A Lynch pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid7fl34efifxmbh5fmpmzxv3tepsb4x3e7xxwi2jvni53sd7lb6cu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lynch",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 643,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#697E9A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(105, 126, 154)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

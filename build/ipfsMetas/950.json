@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreighsmegcelgb22kjbkapahlmlvemcla5zpyck5hkwsmga6ptwwehi",
+  "name": "OneForArt #950 - Eminence",
+  "description": "A Eminence pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig7hw7udysxdjxshz67n7piv523gexnq5y3azr5sly6ox7mqcz5mi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eminence",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 950,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#6C3082",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(108, 48, 130)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

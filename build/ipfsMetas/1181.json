@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiew6fmnic26ad2cpo7zqv7ijmz3a2mf7ngdrzgqs5fysnmlvfx63e",
+  "name": "OneForArt #1181 - Bianca",
+  "description": "A Bianca pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifz655wlq4ex6uuksndd3lhnovxh4vwlc5dqax4kuyf3a2zirwnqq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bianca",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1181,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FCFBF3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 251, 243)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

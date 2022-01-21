@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1021 - Japanese Maple",
+  "description": "A Japanese Maple pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkgilf6p3i22ondzia2awgz3qczbghy6xwbvsl77q24c4uadmy3q",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Japanese Maple"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1021"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#780109"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(120, 1, 9)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihvd7yyyohhgrkn4d6wa6r23iclxdddt4zul33qoc5hnrfimmu5bm",
+  "name": "OneForArt #1454 - Pesto",
+  "description": "A Pesto pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbmnxdvsvs3druvmxlik6fnuyxxu7wfhhhnosaul5t6lwp7yenm4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pesto",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1454,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7C7631",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(124, 118, 49)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

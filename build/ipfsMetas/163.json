@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiddb6j5mvpqjwu7xytp64ztdgqotffvdenmtfl3x6awnujvatnxtm",
+  "name": "OneForArt #163 - Ochre",
+  "description": "A Ochre pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidfm2wzg3hn5rt4eeej2h3yoxqelf5lzezqxsvev2trws72ftvqji",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Ochre",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 163,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CC7722",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(204, 119, 34)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

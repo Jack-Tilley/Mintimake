@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicqf7rao75youcsdfgmnph64nil2f72ntyv4srgtqvpgee5kmvjca",
+  "name": "OneForArt #1038 - Tangerine",
+  "description": "A Tangerine pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihicar5bxim2nfz74ieeuhymfckrhr5q25jj6mlkm4hrw7zgswloq",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tangerine",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1038,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F28500",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 133, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

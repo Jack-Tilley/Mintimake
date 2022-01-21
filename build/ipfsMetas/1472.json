@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihpty5syzmydbiqt6upxwaffwncz2uw2zkhfma6qmjhh447jndxva",
+  "name": "OneForArt #1472 - Jazzberry Jam",
+  "description": "A Jazzberry Jam pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4nxfbho4gknxab66p4kjgvzgv7snuxx2ujgv4jc6nvfbrvdhcv4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jazzberry Jam",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1472,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A50B5E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(165, 11, 94)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

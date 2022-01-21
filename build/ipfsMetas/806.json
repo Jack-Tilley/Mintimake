@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih64eekzxsqqvdazjmc5j7xliijmjsdgbxhssrrqsctpj6g2j3agu",
+  "name": "OneForArt #806 - Cosmos",
+  "description": "A Cosmos pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifzsdkakndenqffm5lxiyqah3cfuwu5zoznq2ftzj3j6ho24bb6ca",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cosmos",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 806,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFD8D9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 216, 217)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

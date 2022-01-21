@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiejcmk2ntnnaj2rzzrisob5p7xdgsxx2hauyy6hela5gnm7qgeig4",
+  "name": "OneForArt #757 - Copper Rust",
+  "description": "A Copper Rust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreieass3zn76bsj5r7mrcbsrgcr42e6zqvslo5in2vxpdawupgmsx5u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Copper Rust",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 757,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#944747",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(148, 71, 71)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

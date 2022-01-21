@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiameize3gaodidz3klsp35azx3ycjqlg6n4rlh6p2jamr3edcqypu",
+  "name": "OneForArt #1267 - Camelot",
+  "description": "A Camelot pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidhytfzk3rakgpjpm5c3vwtmeap2knp7l72sqgzbv2pvuwp5k5ia4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Camelot",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1267,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#893456",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(137, 52, 86)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

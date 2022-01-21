@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiayq5i6cefxtbxzc33odwz7go4a62uvmykziwjdqdxmp2ytkjbtlu",
+  "name": "OneForArt #212 - Pigment Indigo",
+  "description": "A Pigment Indigo pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifa4gwnh2p67xvw5qmf6q5t77yi5zlbhrkrfktbgyqbhqbe5zzwky",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Pigment Indigo",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 212,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4B0082",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(75, 0, 130)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

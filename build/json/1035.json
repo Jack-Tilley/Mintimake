@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1035 - Chilean Heath",
+  "description": "A Chilean Heath pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigjvyyx26q3jb5xcav6l32qaikfydyzkpkh7jz5y7sollcm3nkbx4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chilean Heath"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1035"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFFDE6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 253, 230)"
+    }
+  ]
+}

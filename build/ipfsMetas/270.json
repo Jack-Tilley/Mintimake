@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihkmpa2upgi7uq3beuxrkix5fy4rz7kw2dvzquz5zbdzpgcyuvq5y",
+  "name": "OneForArt #270 - Chino",
+  "description": "A Chino pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiecl6ngd6m7aywhwj4p6ctvhx726tyrqsxjadhdmj3sbpj6ingnum",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chino",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 270,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CEC7A7",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(206, 199, 167)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

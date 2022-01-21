@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibihk5lxuaqmksrlcxoqck64caahyu5lwro7unkgur47bdf2ltjam",
+  "name": "OneForArt #819 - Chalky",
+  "description": "A Chalky pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibd5eydycylatigyz53abksc3tufrofzpj4gg2mcz5a2vvifjpt3y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Chalky",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 819,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#EED794",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(238, 215, 148)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

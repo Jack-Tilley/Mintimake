@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #77 - Seaweed",
+  "description": "A Seaweed pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidmha4s4kmuavmyc5gd3rwp7zrubku4urksx4cg4dt6fxzq4vwkhe",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Seaweed"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "77"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B2F11"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 47, 17)"
+    }
+  ]
+}

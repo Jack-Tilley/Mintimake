@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #888 - Concrete",
+  "description": "A Concrete pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifgvhug57fwyr65ke4tkmqgy5iztkkqhph2zjgpewtdvpwltltlc4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "888"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F2F2F2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(242, 242, 242)"
+    }
+  ]
+}

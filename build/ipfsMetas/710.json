@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig2x4d6rbmpqbzx5hnf64jj6zbp7hjnpuhcf2t2a37wrcw54cl5iq",
+  "name": "OneForArt #710 - Charm",
+  "description": "A Charm pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifoqfxo25ddo4i3crjqibnxovgkg6nigcpo4egw2uj67chk3lgqj4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Charm",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 710,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D47494",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 116, 148)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

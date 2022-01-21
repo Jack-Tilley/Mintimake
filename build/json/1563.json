@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1563 - Windsor",
+  "description": "A Windsor pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigmvypbcfpjfw4mzmlhapoygtx6dv6iadqqveg2nx2gqkeqqm3ski",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Windsor"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1563"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3C0878"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(60, 8, 120)"
+    }
+  ]
+}

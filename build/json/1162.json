@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1162 - Oracle",
+  "description": "A Oracle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreic7z4rgumlsmzgnvbbc4bm75xcj37xfqelbeoctar4nicathj5pae",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1162"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#377475"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(55, 116, 117)"
+    }
+  ]
+}

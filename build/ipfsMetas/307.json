@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigmsqvr2cksasxau7raojjj6jwbe747f6drnn7rvln6bbtu25g7pa",
+  "name": "OneForArt #307 - Vanilla",
+  "description": "A Vanilla pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiawr7rqqv3yw7ajg654pqbfjud6lzkhjjvsquwx5esgoedyhql2gu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vanilla",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 307,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D1BEA8",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(209, 190, 168)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

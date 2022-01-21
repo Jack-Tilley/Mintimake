@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1370 - Eagle",
+  "description": "A Eagle pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreib3rysdi2myt3v37mblrvgdeigwf5lt6xkdrawjugwzs2bvfjxtga",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Eagle"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1370"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B6BAA4"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(182, 186, 164)"
+    }
+  ]
+}

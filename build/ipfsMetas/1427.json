@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreih7dcpzay5ntux7hwv7ihg2mjvu2ivvndykiuxyhhfekldpcycd2u",
+  "name": "OneForArt #1427 - Cioccolato",
+  "description": "A Cioccolato pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigolrkuvgrzj2fmxueylji7evwco5z5klr4grua2bhf2kogzcasju",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cioccolato",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1427,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#55280C",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(85, 40, 12)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

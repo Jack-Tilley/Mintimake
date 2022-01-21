@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #383 - Water Leaf",
+  "description": "A Water Leaf pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie7cmcfbzxo22wp7myb2aivdjp36s5l5kfbaelgfzzws6rqyfm2pu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Water Leaf"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "383"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A1E9DE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(161, 233, 222)"
+    }
+  ]
+}

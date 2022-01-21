@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #796 - Lime",
+  "description": "A Lime pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiehte6iqxbexfs6wkjdqphzrlnveambcvzk2rrjd6jxofzzixih2m",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "796"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BFFF00"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(191, 255, 0)"
+    }
+  ]
+}

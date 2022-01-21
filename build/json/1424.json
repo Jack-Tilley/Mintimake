@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1424 - French Gray",
+  "description": "A French Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3gcqgeg5ngb3gx3zxksqnvy4u2vk5gi7qwz7zlpmyuerhn4rtme",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "French Gray"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1424"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#BDBDC6"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(189, 189, 198)"
+    }
+  ]
+}

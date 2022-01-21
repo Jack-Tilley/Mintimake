@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicurox7ifsfts77nk72hlh5ceic7i4kiec2m5xqjjvlmg7c3gmr6u",
+  "name": "OneForArt #388 - Magenta / Fuchsia",
+  "description": "A Magenta / Fuchsia pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidaca7mqslwgmmsrepbbngouustuw4y2k6bzlij4or34ch6vprw7i",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Magenta / Fuchsia",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 388,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FF00FF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 0, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

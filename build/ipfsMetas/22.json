@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihjudipxjyci3fbkmajd762fojmliw2nmansach4awnetlndx2nua",
+  "name": "OneForArt #22 - Haiti",
+  "description": "A Haiti pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidl2rugb7cn4jmacq6qpapeaj2db3tq3uqfqu7bujfjm4ta5k4h6u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Haiti",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 22,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1B1035",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(27, 16, 53)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

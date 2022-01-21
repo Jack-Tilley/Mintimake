@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiauoi4q6ghnxo6qlztkshpqw72svbsfswm43wv7lkkj6biogf7ady",
+  "name": "OneForArt #633 - Steel Blue",
+  "description": "A Steel Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifbzucyjt2en7yf4mbhf5qmt2h4cwael5cu3vxhhev44n4y3cvrh4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Steel Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 633,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#4682B4",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(70, 130, 180)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

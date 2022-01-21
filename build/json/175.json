@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #175 - Sunset Orange",
+  "description": "A Sunset Orange pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihfqdk6w42d5pcujjs3nzsfpnwued3kvfyvv4mz5xfb75drshl6ny",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sunset Orange"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "175"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FE4C40"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(254, 76, 64)"
+    }
+  ]
+}

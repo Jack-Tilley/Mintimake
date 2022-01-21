@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #506 - Papaya Whip",
+  "description": "A Papaya Whip pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif2in7aeemrojace3xogbknfqdd4xzik4czftpqcyugovgdzikxvq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Papaya Whip"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "506"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFEFD5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 239, 213)"
+    }
+  ]
+}

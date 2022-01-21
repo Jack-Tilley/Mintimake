@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #93 - Swiss Coffee",
+  "description": "A Swiss Coffee pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreif3hkzsoqdyucyzpzsdszcvdwikdmogeveey2ljrqnf3glxec3gja",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Swiss Coffee"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "93"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#DDD6D5"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(221, 214, 213)"
+    }
+  ]
+}

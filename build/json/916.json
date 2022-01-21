@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #916 - Coral Reef",
+  "description": "A Coral Reef pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefkg4yxvw33wth7veeatt34ktqoufn4zr3didfxfxvlqi6wk3fry",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Coral Reef"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "916"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C7BCA2"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(199, 188, 162)"
+    }
+  ]
+}

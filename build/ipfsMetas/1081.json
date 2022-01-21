@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiekfolbmpgbpryh7w33kvgedieltw2mpuuw4tsi2sjqns7j2ar4b4",
+  "name": "OneForArt #1081 - Cold Turkey",
+  "description": "A Cold Turkey pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig25rm7ep767npqkrfn6j74k242zr3dyhkjk6jmil24kree2smtqu",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cold Turkey",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1081,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CEBABA",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(206, 186, 186)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

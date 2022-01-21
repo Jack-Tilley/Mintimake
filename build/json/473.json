@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #473 - Celtic",
+  "description": "A Celtic pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih74u2btgyczvy72dey5pansgfkwvdikb5mseukaiphfrfaqf676i",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Celtic"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "473"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#163222"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(22, 50, 34)"
+    }
+  ]
+}

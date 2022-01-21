@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1183 - Jet Stream",
+  "description": "A Jet Stream pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihbduqyqnnf4ac4pi6lwv5k3blfrll3ik3scorexdly37evzibas4",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Jet Stream"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1183"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#B5D2CE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(181, 210, 206)"
+    }
+  ]
+}

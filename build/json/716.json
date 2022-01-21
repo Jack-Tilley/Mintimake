@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #716 - Tiber",
+  "description": "A Tiber pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiffgldflpvjesepmq7sy3nfv3rpdufkpvih6k5qwfamcp4fadfgni",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tiber"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "716"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#063537"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(6, 53, 55)"
+    }
+  ]
+}

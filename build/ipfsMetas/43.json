@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifvjvvct44awbsx4ti76go57vk5vz3qngcbzhf4y2gw2dtyvwfriq",
+  "name": "OneForArt #43 - Outer Space",
+  "description": "A Outer Space pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifhyocxje2sfktnyuuc7u3m5m6zkkfz43zzpxwhmgj6hyxa2sojfe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Outer Space",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 43,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2D383A",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(45, 56, 58)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

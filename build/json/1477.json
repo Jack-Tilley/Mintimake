@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1477 - Bitter Lemon",
+  "description": "A Bitter Lemon pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreie4bkgwugyhlhppomw5bn4i4ugymmx5r7yq5g44frxlef25kblhia",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bitter Lemon"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1477"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CAE00D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(202, 224, 13)"
+    }
+  ]
+}

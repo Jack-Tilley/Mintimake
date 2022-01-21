@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #606 - Tarawera",
+  "description": "A Tarawera pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid245m7eyeuxosvlrpkgl36rfsx6p4sio6g4enkp6bpue7aj6krsi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tarawera"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "606"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#073A50"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(7, 58, 80)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicv4sadoceiupbc3gcvq3i4mxbeedyzptvn2b7kndnlzfs55ytv2u",
+  "name": "OneForArt #404 - Quill Gray",
+  "description": "A Quill Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifgmuusi3zhols2pfh5qzztrx3ogutcei57j5hu2zukxwfwoateji",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Quill Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 404,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D6D6D1",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(214, 214, 209)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

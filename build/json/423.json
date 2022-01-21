@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #423 - Green Mist",
+  "description": "A Green Mist pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihtzftcnuhwlwsiiz3hx2e7pbv7jl4o7wtp7mbuk2q6wqnedqeazi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Green Mist"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "423"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CBD3B0"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(203, 211, 176)"
+    }
+  ]
+}

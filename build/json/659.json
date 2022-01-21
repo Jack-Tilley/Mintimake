@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #659 - Zeus",
+  "description": "A Zeus pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifppeopqa7yoyipd4oreq6kq5kdtux64tyhhuneifldddobhsvcaq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "659"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#292319"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(41, 35, 25)"
+    }
+  ]
+}

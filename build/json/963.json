@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #963 - Tree Poppy",
+  "description": "A Tree Poppy pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreievofzhpeekjvmglrmaty5ufkmldrx7wgviopbjndefjejabucfpi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tree Poppy"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "963"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FC9C1D"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(252, 156, 29)"
+    }
+  ]
+}

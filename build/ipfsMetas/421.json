@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigxi4ymngzgfereasbauk4cn5z5fwsjcounosok3d4ppeeb4vpq3m",
+  "name": "OneForArt #421 - Madras",
+  "description": "A Madras pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicobad7amsdryv4bktbujdlkv22x7yts2fqijhi26pfc5sq5mfcwm",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Madras",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 421,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#3F3002",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(63, 48, 2)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

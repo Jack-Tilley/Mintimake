@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #503 - Wasabi",
+  "description": "A Wasabi pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicrzrxf6sh2t5s7gquv5inpau6palqpr2kvfsl5gbpr6yhadbazsu",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Wasabi"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "503"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#788A25"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(120, 138, 37)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidh4fe7bo7bdqcyk6sjb43ozbcx75jr7pj6q5l7unvmb2uv4cqls4",
+  "name": "OneForArt #564 - Periwinkle Gray",
+  "description": "A Periwinkle Gray pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihsqm3w4tw55bmsyzbw27gypfh2az6whiwdpskzgw226jtytxevb4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Periwinkle Gray",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 564,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C3CDE6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(195, 205, 230)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

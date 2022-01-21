@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidblqgcgm3fffkxsoar6gdlc4lhzx2e4yo4npfujpmi5mpgzina6m",
+  "name": "OneForArt #1353 - Cerulean",
+  "description": "A Cerulean pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibbjryz4qquc67g3rkvvmyb3qnrk62pmearjh54wm62bgpt5hdt4q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cerulean",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1353,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#02A4D3",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(2, 164, 211)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

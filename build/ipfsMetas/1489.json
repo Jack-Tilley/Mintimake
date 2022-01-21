@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifpyq47t4pvj4atdyrjkcrrshbjcpbss6yrbmy24h27jxw3u77tbq",
+  "name": "OneForArt #1489 - Orange Peel",
+  "description": "A Orange Peel pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigui6t47ncce6ovx5kdsmmeqamjwndyqr3zhlnvugdzndgxjvuu7a",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Orange Peel",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1489,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#FFA000",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(255, 160, 0)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

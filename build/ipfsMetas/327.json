@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiho3mkllkr5f6o5hilw64vxovx3r7g6gikbxiznghfrt5iqx6uoue",
+  "name": "OneForArt #327 - Persian Blue",
+  "description": "A Persian Blue pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid6vxxhmbc2m7tf7zgw2olxyoxg3icwqq5g4fbmesiq5roeh4ec6m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Persian Blue",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 327,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1C39BB",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(28, 57, 187)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

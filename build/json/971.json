@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #971 - Twilight",
+  "description": "A Twilight pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreifxufhcryithhenddr4ec5qpn44vurgwz7kv7eomaev6mdlgplpei",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "971"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E4CFDE"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(228, 207, 222)"
+    }
+  ]
+}

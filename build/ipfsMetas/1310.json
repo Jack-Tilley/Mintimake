@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreig6m4rhbwf2uhsgfi4c2ok2ahc77pwkohrd63lnsst6kxj4vtn2sq",
+  "name": "OneForArt #1310 - Oil",
+  "description": "A Oil pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreia3mgkeo2bd7wiaj6kx23mvhqcbfxtnmwaadk6y2zxnftrocl67ci",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Oil",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1310,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#281E15",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(40, 30, 21)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

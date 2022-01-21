@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreidpn46uirwx6thr2ebuzdomdrymlg2s3ncx43j3h5hxkgjfbjixqq",
+  "name": "OneForArt #1484 - Hint of Green",
+  "description": "A Hint of Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreicjvsa37kqrt5t22bcuwr6i4uqnt3ppcho3ui7ic3nigb5d6o3loe",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Hint of Green",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1484,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#E6FFE9",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(230, 255, 233)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

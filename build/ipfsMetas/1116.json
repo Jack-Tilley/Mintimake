@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreienda6fzpm3et3limww2grx3foqyerek7754zeeehdsaowqgpaozu",
+  "name": "OneForArt #1116 - Creole",
+  "description": "A Creole pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiesatroa6hha4pdyztv6brxscsulrp5ttnkklsu6z2hybzxouwkiy",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Creole",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1116,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#1E0F04",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(30, 15, 4)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1408 - Laser",
+  "description": "A Laser pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigrzxtxdrdneouw2uarj632xiljljokwdwz73ebwua7pvdpxdblce",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1408"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C8B568"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(200, 181, 104)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #1545 - Mimosa",
+  "description": "A Mimosa pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreienbghzrs4mpum43domo5t5chjsbecvf6m3bzsw5zmmrjzozul4hi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Mimosa"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "1545"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F8FDD3"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(248, 253, 211)"
+    }
+  ]
+}

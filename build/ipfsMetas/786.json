@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiczrv4sf6skusrrhvbtddmhrvy7uhcgvt7h4w3d3p3odbe5ly2xgq",
+  "name": "OneForArt #786 - Locust",
+  "description": "A Locust pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihkr7vcj54dz43jxbcwv7fnli4u5hvt3g5wm3bqla77dioeb6lh2q",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Locust",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 786,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#A8AF8E",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(168, 175, 142)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

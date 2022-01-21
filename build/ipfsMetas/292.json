@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibdqqcif7gdebpafs2fzvbnsqjkc2m7t5kdacza3mjpjby3j2qeii",
+  "name": "OneForArt #292 - Aths Special",
+  "description": "A Aths Special pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreih56kax5qlgplbzkdatkpzowcpsgpfmpnfawsrxea2nm2l7uimtu4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Aths Special",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 292,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#ECEBCE",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(236, 235, 206)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

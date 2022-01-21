@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibol4r4ipotjm35tzqkvty4aw7xnn7qxbqppxlq3t5m7l7r53reqe",
+  "name": "OneForArt #816 - Cyan / Aqua",
+  "description": "A Cyan / Aqua pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigwkz3yd63sphhshvoxavpegbnk4jzqxbab3aomtyyuy6eweedy3u",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Cyan / Aqua",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 816,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#00FFFF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(0, 255, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

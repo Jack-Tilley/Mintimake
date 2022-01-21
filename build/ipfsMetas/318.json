@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreib7exhmoaxnj7sdesjzmlofhnjrf7pk4m4p2o5rglvht4wy4hdk24",
+  "name": "OneForArt #318 - Titan White",
+  "description": "A Titan White pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreigj3yb5m4vekphjimkgzoomg4jk4263j7axeu2y3y5hp3at5bykai",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Titan White",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 318,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#F0EEFF",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(240, 238, 255)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

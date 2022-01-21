@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreibwuy253qx46bshw5b3er57ucswleeanqhmddusnsiwmauabmcyqi",
+  "name": "OneForArt #513 - Vulcan",
+  "description": "A Vulcan pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiaq7o3hicwyq5mana6py7afafrd6qdxrl75k3ojs5ue3mrxomuj7m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Vulcan",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 513,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#10121D",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(16, 18, 29)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

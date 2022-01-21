@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiasarzkkkeznnse7ovm3hrvvavbsqmbxopecmtphbxolstcnzv4mq",
+  "name": "OneForArt #1293 - Tussock",
+  "description": "A Tussock pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreiefeduxi2gp4jop6y7pqmf2svev6kp6kow2sgs4gpxya4xxicl3t4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Tussock",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1293,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#C5994B",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(197, 153, 75)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

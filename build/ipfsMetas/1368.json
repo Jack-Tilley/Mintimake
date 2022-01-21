@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifeyqnsr42thzrsrj47o2lrtevbfmx25lgi7uq63gwzz3ckuydehm",
+  "name": "OneForArt #1368 - Bunker",
+  "description": "A Bunker pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreibkj737j2duamterokz57khlqxpffp2taunjztjmlw7tnqrcacec4",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bunker",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1368,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#0D1117",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(13, 17, 23)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

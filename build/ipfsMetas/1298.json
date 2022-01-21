@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiao4bijrvhs37rzuccuq4dwiqlcqm3jchuqxk62wecxhsgwhdqczm",
+  "name": "OneForArt #1298 - Bermuda",
+  "description": "A Bermuda pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihccdgx6ymk6pvigcuhye3r3wjxn45l3c6cunuz4tcneundtkih3m",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bermuda",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 1298,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#7DD8C6",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(125, 216, 198)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

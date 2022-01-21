@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #128 - Bird Flower",
+  "description": "A Bird Flower pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihkwkbcdj6ph7ecwq5k5vln5xv4ggv6qs4tylzdeq2yq5kf7hjhfi",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Bird Flower"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "128"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4CD16"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 205, 22)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreifguhzwbzprvhryh4ujowhny2m3fqimh6cgllb2g35bbdgejcxkxm",
+  "name": "OneForArt #566 - Geyser",
+  "description": "A Geyser pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreihnxpinay7464ot5d64f3hsi35mfktnrtsanxyqo4w6zcltkfauoi",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Geyser",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 566,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#D4DFE2",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(212, 223, 226)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #849 - Leather",
+  "description": "A Leather pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreig6wwvshaeynca7et2uj4twa6jxhudqsn37eoztdlgnlkftijxwjq",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Leather"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "849"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#967059"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(150, 112, 89)"
+    }
+  ]
+}

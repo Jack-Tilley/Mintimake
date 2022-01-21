@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicl6ujs5at3n3wvygttopms7kazgnfn4veppx7gmoesgwo3fwizfy",
+  "name": "OneForArt #543 - Turmeric",
+  "description": "A Turmeric pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreid3ydej3rowpgmu67pbjshzmbtg6se3qjiyglm42ygmcshruwa56y",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Turmeric",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 543,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#CABB48",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(202, 187, 72)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}

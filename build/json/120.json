@@ -1,0 +1,28 @@
+{
+  "name": "OneForArt #120 - Sea Green",
+  "description": "A Sea Green pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreielecmaiajtcscxoahgznqb6y66olqswjeayjoinfz2bppvh7oh2a",
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Sea Green"
+    },
+    {
+      "trait_type": "color_id",
+      "value": "120"
+    },
+    {
+      "trait_type": "hex",
+      "value": "#2E8B57"
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(46, 139, 87)"
+    }
+  ]
+}

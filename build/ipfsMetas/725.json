@@ -1,0 +1,41 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreihqjqi2gshybh3ems7upa2rf3pju456iizpsr3j7cfakbbekjun2y",
+  "name": "OneForArt #725 - West Coast",
+  "description": "A West Coast pixel.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidoi3rqsnionuyutgvb2rmxq2hhekwe2qbahymrrtmdboyxezw574",
+  "external_url": null,
+  "animation_url": null,
+  "custom_fields": {
+    "edition": 1,
+    "date": 1642619894221,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "West Coast",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "color_id",
+      "value": 725,
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "hex",
+      "value": "#625119",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "rgb",
+      "value": "(98, 81, 25)",
+      "max_value": null,
+      "display_type": null
+    }
+  ],
+  "error": null
+}
